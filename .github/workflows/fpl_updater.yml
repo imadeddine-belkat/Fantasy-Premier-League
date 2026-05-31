@@ -27,9 +27,9 @@ jobs:
 
       - name: Run FPL Scrapers
         run: |
-          python teams_scraper.py
-          python players_scraper.py
-          python teams_gw_stats_scraper.py
+          python scrape_teams.py
+          python scrape_players.py
+        working-directory: fpl_scraper
 
       - name: Commit and Push Changes
         run: |
