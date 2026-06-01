@@ -20,6 +20,7 @@
   - [2. FPL — Per-Team Gameweeks & Fixtures](#2-fpl--per-team-gameweeks--fixtures)
   - [3. FPL — Cross-Entity Index](#3-fpl--cross-entity-index)
   - [4. Historical PL Archive](#4-historical-pl-archive)
+  - [5. Index & Lookup Maps](#5-index--lookup-maps)
 - [Data Design Philosophy](#data-design-philosophy)
 - [Update Cadence](#update-cadence)
 - [Getting Started](#getting-started)
@@ -37,7 +38,7 @@ This repository serves two complementary purposes, each with its own scraper and
 | Component | Source | Scraper | Coverage |
 | :--- | :--- | :--- | :--- |
 | **Active FPL Scraper** | Official FPL API (`bootstrap-static`, `fixtures`, `element-summary`) | `fpl_scraper/` | 2025-26 |
-| **Historical PL Archive** | Premier League PulseLive API | `pl_scraper/` | 2008-09 → present |
+| **Historical PL Archive** | Premier League PulseLive API | local tooling (not committed) | 2008-09 → present |
 
 The FPL pipeline is fully automated via GitHub Actions. The historical PL archive is generated locally and committed as CSV — see [Update Cadence](#update-cadence) for why. All output is analysis-ready CSV that drops straight into Pandas, R, Tableau, or Power BI.
 
@@ -73,12 +74,18 @@ Premier-League-Stats/
 │       ├── players_stats/{season}_players_stats.csv   # per-player season aggregates
 │       └── squad/{season}_squad.csv                   # squad list + bios
 │   ├── _badges/{team_code}.svg            # club crest assets
-│   ├── _index/_index.json                 # team code → canonical name map
+│   ├── _index/                            # id → name lookup maps
+│   │   ├── _teams_index.json              # team code → canonical club name
+│   │   └── _players_index.json            # player id → player name
 │   └── _merged/                           # combined views (generated)
-│       └── teams/
-│           ├── teams/{Team}_events_stats.csv      # one file per club, all seasons
-│           ├── seasons/{season}_events_stats.csv   # one file per season, all clubs
-│           └── all_events_stats.csv                # everything, one file
+│       ├── teams/
+│       │   ├── teams/{Team}_events_stats.csv      # one file per club, all seasons
+│       │   ├── seasons/{season}_events_stats.csv   # one file per season, all clubs
+│       │   └── all_events_stats.csv                # everything, one file
+│       └── players/
+│           ├── players/{Team}_players_stats.csv     # one file per club, all seasons
+│           ├── seasons/{season}_players_stats.csv    # one file per season, all clubs
+│           └── all_players_stats.csv                 # everything, one file
 │
 ├── .github/workflows/
 │   └── fpl_updater.yml                    # Weekly FPL scrape + auto-commit
@@ -86,7 +93,12 @@ Premier-League-Stats/
 └── README.md
 ```
 
-> **Note:** The scraping logic for the historical `pl_stats/` archive (the `pl/` package and its PulseLive client) is run locally and is not committed — only the resulting CSVs are. `pl_scraper/merge_events.py` imports `from pl import config`, so it expects that package to be present locally.
+> **Note:** The tooling that builds the historical `pl_stats/` archive (the `pl/`
+> package and its PulseLive client, plus local scripts such as `scrape_team_stats.py`,
+> `scrape_player_stats.py`, `scrape_squads.py`, `badges_scraper.py`, `merge_players.py`,
+> and `build_index.py`) is run **locally and is not committed** — only the resulting
+> CSVs, badge SVGs, and index files are pushed. These scripts hit the Premier League's
+> internal PulseLive API, which is unsafe to run from public CI.
 
 ---
 
@@ -125,7 +137,22 @@ Club-by-club PulseLive data for 40+ current and historic top-flight clubs — in
 | `events_stats/{season}_events_stats.csv` | Per-match team event data (~70 columns: xG, passing, duels, set pieces, defensive actions) |
 | `players_stats/{season}_players_stats.csv` | Per-player season aggregates (~110 columns) |
 | `squad/{season}_squad.csv` | Squad list with bios: position, nationality, DOB, height/weight, loan status |
-| `_merged/teams/all_events_stats.csv` | All clubs × all seasons of event stats, one file (built by `merge_events.py`) |
+| `_merged/teams/all_events_stats.csv` | All clubs × all seasons of team event stats, one file |
+| `_merged/players/all_players_stats.csv` | All clubs × all seasons of player aggregates, one file |
+
+Each `_merged/` group also ships per-club and per-season splits (`teams/teams/`, `teams/seasons/`, `players/players/`, `players/seasons/`) for narrower loads.
+
+### 5. Index & Lookup Maps
+Small JSON dictionaries under `pl_stats/_index/` for resolving numeric ids to names.
+
+| File | Maps | Built from |
+| :--- | :--- | :--- |
+| `_teams_index.json` | team code → canonical club name (e.g. `"6": "Tottenham_Hotspur"`) | live PulseLive `teams` payload |
+| `_players_index.json` | player id → player name (e.g. `"118748": "Mohamed Salah"`) | the committed `players_stats/` CSVs |
+
+The player map is derived from on-disk CSVs rather than the API, so it covers every
+player in the archive — including historic ones no longer in any live squad — and
+needs zero network calls to rebuild. Keys are sorted numerically for clean diffs.
 
 ---
 
