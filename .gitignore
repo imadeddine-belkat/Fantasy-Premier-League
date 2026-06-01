@@ -1,9 +1,3 @@
-# Python Virtual Environments
-.venv/
-venv/
-env/
-ENV/
-
 # IDE and Editor folders
 .idea/
 .vscode/
@@ -14,17 +8,13 @@ __pycache__/
 *.py[cod]
 *$py.class
 
-# OS generated files
-.DS_Store
-Thumbs.db
-
-# Environment variables (if you ever use API keys later)
-.env
-
 scrape_team_stats.py
 scrape_squads.py
 scrape_player_stats.py
-pl
+badges_scraper.py
+merge_players.py
+build_index.py
 
 cache
+pl
 fpl_cache
