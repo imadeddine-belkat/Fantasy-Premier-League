@@ -1,11 +1,12 @@
 # ⚽ Premier League Stats
 
-> A unified data repository combining live **Fantasy Premier League (FPL)** statistics for the 2025-26 season with a **historical Premier League archive** spanning from 2008-09 to the present.
+> A unified data repository combining live **Fantasy Premier League (FPL)** statistics for the 2025-26 season with a **historical Premier League archive** spanning 2008-09 to the present.
 
-[![Data Source](https://img.shields.io/badge/source-Official%20FPL%20API-37003C)](https://fantasy.premierleague.com/api/)
+[![FPL API](https://img.shields.io/badge/FPL-Official%20API-37003C)](https://fantasy.premierleague.com/api/)
+[![PL Data](https://img.shields.io/badge/Historical-PulseLive%20API-360D3A)](https://www.premierleague.com/)
 [![Automation](https://img.shields.io/badge/automation-GitHub%20Actions-2088FF?logo=githubactions&logoColor=white)](.github/workflows/)
-[![Python](https://img.shields.io/badge/python-3.10+-3776AB?logo=python&logoColor=white)](https://www.python.org/)
-[![Format](https://img.shields.io/badge/format-CSV%20%7C%20JSON-150458?logo=pandas&logoColor=white)](#)
+[![Python](https://img.shields.io/badge/python-3.12-3776AB?logo=python&logoColor=white)](https://www.python.org/)
+[![Format](https://img.shields.io/badge/format-CSV-150458?logo=pandas&logoColor=white)](#)
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
 
 ---
@@ -15,10 +16,11 @@
 - [Overview](#overview)
 - [Repository Structure](#repository-structure)
 - [Dataset Reference](#dataset-reference)
-  - [Historical PL Stats](#1-historical-pl-stats-pl_stats)
-  - [Gameweek FPL Data](#2-gameweek-fpl-data)
-  - [Individual Player Stats](#3-individual-player-stats)
-  - [FPL Metadata](#4-fpl-metadata)
+  - [1. FPL — Per-Player Gameweeks](#1-fpl--per-player-gameweeks)
+  - [2. FPL — Per-Team Gameweeks & Fixtures](#2-fpl--per-team-gameweeks--fixtures)
+  - [3. FPL — Cross-Entity Index](#3-fpl--cross-entity-index)
+  - [4. Historical PL Archive](#4-historical-pl-archive)
+- [Data Design Philosophy](#data-design-philosophy)
 - [Update Cadence](#update-cadence)
 - [Getting Started](#getting-started)
 - [Use Cases](#use-cases)
@@ -30,14 +32,14 @@
 
 ## Overview
 
-This repository serves two complementary purposes:
+This repository serves two complementary purposes, each with its own scraper and data tree.
 
-| Component | Description | Coverage |
-| :--- | :--- | :--- |
-| **Active FPL Scraper** | A self-updating database of player and team statistics for the current FPL season, sourced from the official FPL API via custom Python scrapers. | 2025-26 |
-| **Historical PL Archive** | A club-by-club archive of Premier League event statistics for 40+ current and historic clubs. | 2008-09 → present |
+| Component | Source | Scraper | Coverage |
+| :--- | :--- | :--- | :--- |
+| **Active FPL Scraper** | Official FPL API (`bootstrap-static`, `fixtures`, `element-summary`) | `fpl_scraper/` | 2025-26 |
+| **Historical PL Archive** | Premier League PulseLive API | `pl_scraper/` | 2008-09 → present |
 
-All data is exported as clean, analysis-ready **CSV** (with raw **JSON** retained for metadata), making it trivial to ingest into Pandas, R, Tableau, or Power BI.
+The FPL pipeline is fully automated via GitHub Actions. The historical PL archive is generated locally and committed as CSV — see [Update Cadence](#update-cadence) for why. All output is analysis-ready CSV that drops straight into Pandas, R, Tableau, or Power BI.
 
 ---
 
@@ -45,141 +47,163 @@ All data is exported as clean, analysis-ready **CSV** (with raw **JSON** retaine
 
 ```
 Premier-League-Stats/
-├── pl_stats/                          # Historical PL data, by club
-│   └── {Team_Name}/
-│       ├── events/
-│       │   └── {Season}_events_stats.csv
-│       ├── squad/
-│       │   └── {Season}_squad.csv
-│       └── players_stats/
-│           └── {Season}_players_stats.csv
-├── fpl_stats/
-│   ├── players/                       # Per-player season tracking
-│   │   └── {Player_Name}_{Player_Code}/
-│   │       └── gameweeks/
-│   │           └── {Season}_gw_stats.csv
-│   ├── teams/                         # Per-team season tracking
-│   │   └── {Team_Name}/
-│   │       ├── gameweeks/
-│   │       │   └── {Season}_gw_stats.csv
-│   │       └── fixtures/
-│   │           └── {Season}_fixtures.csv
-│   ├── _index/                        # Cross-entity aggregate tables
-│   │   ├── players/
-│   │   │   └── {Season}_all_players_gw.csv
-│   │   └── teams/
-│   │       └── {Season}_all_teams_gw.csv
-│   └── metadata/{Season}/             # ID mappings & raw API dumps
-│       ├── fixtures.json
-│       ├── players_id_list.csv
-│       ├── teams_id_list.csv
-│       └── raw_bootstrap_metadata.json
-├── fpl_cache/                         # Disk cache of element-summary calls
-│   └── {Season}/
-│       └── player_{id}.json
+├── fpl_scraper/                          # FPL pipeline (automated)
+│   ├── fpl/                              # Reusable package
+│   │   ├── config.py                     # Paths, season resolution, column policy
+│   │   ├── http.py                       # Session + retry/backoff
+│   │   ├── client.py                     # FPL API client (bootstrap, fixtures, summaries)
+│   │   └── io.py                         # Row shaping + CSV writing
+│   ├── scrape_players.py                 # Per-player + per-team gameweek CSVs
+│   ├── scrape_teams.py                   # Team-level + fixtures CSVs
+│   └── fpl_stats/                        # ← FPL output lives here
+│       ├── players/
+│       │   └── {First_Last}_{element_code}/
+│       │       └── {season}_gw_stats.csv
+│       ├── teams/
+│       │   └── {Team}_{code}/
+│       │       ├── players/{season}_all_players_gw.csv
+│       │       └── fixtures/{season}_fixtures.csv
+│       └── _index/
+│           ├── players/{season}_all_players_gw.csv   # every player row, flattened
+│           └── fixtures/{season}_all_fixtures.csv
+│
+├── pl_stats/                             # Historical PL archive, by club
+│   └── {Team}_{code}/
+│       ├── events_stats/{season}_events_stats.csv     # per-match team event stats
+│       ├── players_stats/{season}_players_stats.csv   # per-player season aggregates
+│       └── squad/{season}_squad.csv                   # squad list + bios
+│   ├── _badges/{team_code}.svg            # club crest assets
+│   ├── _index/_index.json                 # team code → canonical name map
+│   └── _merged/                           # combined views (generated)
+│       └── teams/
+│           ├── teams/{Team}_events_stats.csv      # one file per club, all seasons
+│           ├── seasons/{season}_events_stats.csv   # one file per season, all clubs
+│           └── all_events_stats.csv                # everything, one file
+│
 ├── .github/workflows/
-│   └── fpl_updater.yml                # Scheduled scrape automation
-├── players_scraper.py
-├── teams_scraper.py
-└── requirements.txt
+│   └── fpl_updater.yml                    # Weekly FPL scrape + auto-commit
+├── requirements.txt
+└── README.md
 ```
+
+> **Note:** The scraping logic for the historical `pl_stats/` archive (the `pl/` package and its PulseLive client) is run locally and is not committed — only the resulting CSVs are. `pl_scraper/merge_events.py` imports `from pl import config`, so it expects that package to be present locally.
 
 ---
 
 ## Dataset Reference
 
-### 1. Historical PL Stats (`pl_stats/`)
-Nearly two decades of match and event data for 40+ clubs — including historic top-flight stints from sides such as Blackpool, Bolton Wanderers, and Portsmouth.
+### 1. FPL — Per-Player Gameweeks
+One CSV per player, tracking every gameweek of the current season.
+
 | Field | Value |
 | :--- | :--- |
-| **Path** | `pl_stats/{Team_Name}/events/{Season}_events_stats.csv` |
-| **Granularity** | Team-specific event data, per season |
-| **Range** | 2008-09 onwards (each club's PL participation only) |
+| **Path** | `fpl_scraper/fpl_stats/players/{First_Last}_{element_code}/{season}_gw_stats.csv` |
+| **Granularity** | One row per player per gameweek appearance |
+| **Join key** | `fixture_code` — links to the matching row in any `fixtures` CSV |
 
-### 2. Gameweek FPL Data
-Round-by-round performance snapshots for the current season.
+**Columns:** `element`, `player_code`, `first_name`, `second_name`, `fixture_code`, then every FPL stat field as-is: `total_points`, `minutes`, `goals_scored`, `assists`, `clean_sheets`, `goals_conceded`, `bonus`, `bps`, `influence`, `creativity`, `threat`, `ict_index`, the defensive block (`clearances_blocks_interceptions`, `recoveries`, `tackles`, `defensive_contribution`), the expected block (`expected_goals`, `expected_assists`, `expected_goal_involvements`, `expected_goals_conceded`), and price/ownership (`value`, `selected`, `transfers_in`, `transfers_out`, `transfers_balance`). A `modified` flag marks rows the API may revise post-deadline.
+
+### 2. FPL — Per-Team Gameweeks & Fixtures
 | File | Contents |
 | :--- | :--- |
-| `fpl_stats/players/{Player_Name}_{Player_Code}/gameweeks/{Season}_gw_stats.csv` | Points, minutes, goals, assists, and underlying metrics per player, per gameweek |
-| `fpl_stats/teams/{Team_Name}/gameweeks/{Season}_gw_stats.csv` | Team-level performance metrics per gameweek |
-| `fpl_stats/_index/players/{Season}_all_players_gw.csv` | All players' gameweek rows, flattened into one table |
-| `fpl_stats/_index/teams/{Season}_all_teams_gw.csv` | All teams' gameweek rows, flattened into one table |
+| `teams/{Team}_{code}/players/{season}_all_players_gw.csv` | Every gameweek row for that club's players, same schema as above |
+| `teams/{Team}_{code}/fixtures/{season}_fixtures.csv` | Raw fixture rows: `code`, `event`, `kickoff_time`, `team_h`/`team_a`, scores, `team_h_difficulty`/`team_a_difficulty` (FDR), status flags |
 
-### 3. Individual Player Stats
-Track a single player across the season without filtering global gameweek files.
-| Field | Value |
-| :--- | :--- |
-| **Path** | `fpl_stats/players/{Player_Name}_{ID}/gameweeks/2025-26_gw_stats.csv` |
-| **Contents** | Round-by-round statistics for one player |
+### 3. FPL — Cross-Entity Index
+Flattened global tables for whole-league analysis without walking the per-team tree.
 
-### 4. FPL Metadata
-Structural data mapping FPL API IDs to real football entities.
-| File | Purpose |
+| File | Contents |
 | :--- | :--- |
-| `fixtures.json` | Full PL schedule and Fixture Difficulty Ratings |
-| `players_id_list.csv` | Master player-name → FPL ID dictionary |
-| `teams_id_list.csv` | Master club-name → FPL ID dictionary |
-| `raw_bootstrap_metadata.json` | Unprocessed `bootstrap-static` API dump |
+| `_index/players/{season}_all_players_gw.csv` | All players' gameweek rows in one table |
+| `_index/fixtures/{season}_all_fixtures.csv` | The full fixture list / FDR table |
+
+### 4. Historical PL Archive (`pl_stats/`)
+Club-by-club PulseLive data for 40+ current and historic top-flight clubs — including past spells from Blackpool, Bolton, Portsmouth, and others. Each club directory only contains seasons in which it actually played in the Premier League.
+
+| File | Contents |
+| :--- | :--- |
+| `events_stats/{season}_events_stats.csv` | Per-match team event data (~70 columns: xG, passing, duels, set pieces, defensive actions) |
+| `players_stats/{season}_players_stats.csv` | Per-player season aggregates (~110 columns) |
+| `squad/{season}_squad.csv` | Squad list with bios: position, nationality, DOB, height/weight, loan status |
+| `_merged/teams/all_events_stats.csv` | All clubs × all seasons of event stats, one file (built by `merge_events.py`) |
+
+---
+
+## Data Design Philosophy
+
+The FPL scraper follows a strict **raw-data-only** policy:
+
+- **No derived fields.** Every column is an untouched FPL API value. Compute xPts, form, or rolling averages downstream — the repo never bakes them in.
+- **`fixture_code` is the sole join key.** Player history rows carry only `fixture_code`; all match context (opponent, venue, scores, kickoff) lives once in the fixtures CSV. This avoids duplicating mutable fixture data across thousands of player rows.
+- **Stable column order.** Identity + join key lead each row; remaining stats follow in FPL API order so diffs stay clean across weekly scrapes.
 
 ---
 
 ## Update Cadence
 | Dataset | Method | Frequency |
 | :--- | :--- | :--- |
-| **FPL Data** | Automated (`fpl_updater.yml`) | Regularly via GitHub Actions |
-| **Historical PL Stats** | Manual push | End of each PL round |
+| **FPL data** | Automated — `.github/workflows/fpl_updater.yml` runs `scrape_teams.py` then `scrape_players.py`, commits the diff | Weekly (Tuesdays 12:00 UTC) + manual dispatch |
+| **Historical PL archive** | Run locally, commit resulting CSVs | After each round |
+
+The PulseLive endpoints powering `pl_stats/` are the Premier League's internal API. Running them from public CI risks rate-limiting and IP blocks, so that scrape stays local and only its CSV output is pushed.
 
 ---
 
 ## Getting Started
 
 ```bash
-# 1. Clone
 git clone https://github.com/imadeddine-belkat/Premier-League-Stats.git
 cd Premier-League-Stats
-
-# 2. Install dependencies
 pip install -r requirements.txt
 
-# 3. Run the scrapers
-python players_scraper.py
-python teams_scraper.py
+# Run the FPL scrapers (writes into fpl_scraper/fpl_stats/)
+cd fpl_scraper
+python scrape_teams.py
+python scrape_players.py
 ```
 
-**Quick load in Pandas:**
+**Quick load in Pandas** (read the committed CSVs directly from GitHub):
 
 ```python
 import pandas as pd
 
-gw1 = pd.read_csv("https://raw.githubusercontent.com/imadeddine-belkat/Premier-League-Stats/main/fpl_stats/gameweeks/2025-26/gw_1_players.csv")
-top = gw1.sort_values("total_points", ascending=False).head(10)
-print(top[["web_name", "team", "total_points", "minutes"]])
+BASE = "https://raw.githubusercontent.com/imadeddine-belkat/Premier-League-Stats/main"
+
+# All players, all gameweeks this season
+players = pd.read_csv(f"{BASE}/fpl_scraper/fpl_stats/_index/players/2025-26_all_players_gw.csv")
+
+top = (players.groupby(["first_name", "second_name"])["total_points"]
+       .sum().sort_values(ascending=False).head(10))
+print(top)
 ```
+
+> Re-running the player scraper hits ~840 `element-summary` endpoints with a small politeness delay, so a full sync takes a few minutes.
 
 ---
 
 ## Use Cases
 
-- **FPL Managers** — Backtest transfer strategies and train Expected Points (xPts) models.
-- **Football Analysts** — Study long-term PL trends, club tactical evolution, and historical event data back to 2008.
-- **Data Visualization** — Drop CSVs straight into Pandas, R, Tableau, or Power BI for interactive dashboards.
+- **FPL managers** — backtest transfers and train expected-points (xPts) models on raw weekly data.
+- **Football analysts** — study long-term tactical and event-level trends back to 2008 via the PulseLive archive.
+- **Data viz / ML** — drop the `_index` and `_merged` CSVs straight into Pandas, R, Tableau, or Power BI.
 
 ---
 
 ## Data Caveats
 
-- Historical `pl_stats` only includes seasons in which a given club actually competed in the Premier League.
-- FPL underlying metrics (xG, xA, ICT) reflect official FPL API values and may be revised post-match by the provider.
-- When training ML models, beware **lookahead bias** in any expected-points or form field that the API may update after a gameweek deadline — shift such features by one gameweek or exclude them.
+- `pl_stats/` only includes seasons in which a given club actually competed in the Premier League.
+- FPL underlying metrics (xG, xA, ICT) are the provider's own values and **may be revised post-match** — rows the API can still change are flagged via the `modified` column.
+- **Lookahead bias:** any form/expected field the API updates after a deadline can leak future information. Shift such features by one gameweek or exclude them when training.
+- The PulseLive `events_stats` schema can drift across seasons; merge tooling takes the column union, so older seasons may show empty cells for metrics introduced later.
 
 ---
 
 ## Contributing
 
-Contributions, corrections, and historical-data backfills are welcome. Please open an issue describing the change before submitting a PR.
+Contributions, corrections, and historical backfills are welcome. Please open an issue describing the change before submitting a PR.
 
 ## License
 
 Distributed under the MIT License. See [`LICENSE`](LICENSE) for details.
 
-> **Disclaimer:** This is an unofficial dataset and is not affiliated with or endorsed by the Premier League or Fantasy Premier League. All data is sourced from publicly available APIs for educational and analytical use.
+> **Disclaimer:** Unofficial dataset, not affiliated with or endorsed by the Premier League or Fantasy Premier League. Data is sourced from publicly accessible APIs for educational and analytical use.
