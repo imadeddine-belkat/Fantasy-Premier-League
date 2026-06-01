@@ -1,0 +1,5048 @@
+{
+  "15157": {
+    "2025-26": {
+      "element": 170,
+      "name": "James Milner"
+    }
+  },
+  "17761": {
+    "2025-26": {
+      "element": 291,
+      "name": "James Tarkowski"
+    }
+  },
+  "19236": {
+    "2025-26": {
+      "element": 753,
+      "name": "John Ruddy"
+    }
+  },
+  "21205": {
+    "2025-26": {
+      "element": 434,
+      "name": "Tom Heaton"
+    }
+  },
+  "37096": {
+    "2025-26": {
+      "element": 738,
+      "name": "Lukasz Fabianski"
+    }
+  },
+  "40383": {
+    "2025-26": {
+      "element": 782,
+      "name": "Fraser Forster"
+    }
+  },
+  "44699": {
+    "2025-26": {
+      "element": 218,
+      "name": "Ashley Barnes"
+    }
+  },
+  "49262": {
+    "2025-26": {
+      "element": 138,
+      "name": "Jason Steele"
+    }
+  },
+  "50175": {
+    "2025-26": {
+      "element": 178,
+      "name": "Danny Welbeck"
+    }
+  },
+  "51943": {
+    "2025-26": {
+      "element": 185,
+      "name": "Václav Hladký"
+    }
+  },
+  "54469": {
+    "2025-26": {
+      "element": 73,
+      "name": "Adam Smith"
+    }
+  },
+  "56979": {
+    "2025-26": {
+      "element": 124,
+      "name": "Jordan Henderson"
+    }
+  },
+  "57328": {
+    "2025-26": {
+      "element": 263,
+      "name": "Nathaniel Clyne"
+    }
+  },
+  "58621": {
+    "2025-26": {
+      "element": 187,
+      "name": "Kyle Walker"
+    }
+  },
+  "59735": {
+    "2025-26": {
+      "element": 341,
+      "name": "Karl Darlow"
+    }
+  },
+  "59859": {
+    "2025-26": {
+      "element": 420,
+      "name": "İlkay Gündoğan"
+    }
+  },
+  "59949": {
+    "2025-26": {
+      "element": 294,
+      "name": "Séamus Coleman"
+    }
+  },
+  "60307": {
+    "2025-26": {
+      "element": 783,
+      "name": "Pascal Groß"
+    }
+  },
+  "60689": {
+    "2025-26": {
+      "element": 525,
+      "name": "Chris Wood"
+    }
+  },
+  "61256": {
+    "2025-26": {
+      "element": 457,
+      "name": "Carlos Henrique Casimiro"
+    }
+  },
+  "67089": {
+    "2025-26": {
+      "element": 470,
+      "name": "Martin Dúbravka"
+    }
+  },
+  "69752": {
+    "2025-26": {
+      "element": 66,
+      "name": "Norberto Murara Neto"
+    }
+  },
+  "72147": {
+    "2025-26": {
+      "element": 33,
+      "name": "Marco Bizot"
+    }
+  },
+  "74854": {
+    "2025-26": {
+      "element": 529,
+      "name": "Simon Moore"
+    }
+  },
+  "75115": {
+    "2025-26": {
+      "element": 671,
+      "name": "Callum Wilson"
+    }
+  },
+  "76357": {
+    "2025-26": {
+      "element": 331,
+      "name": "Tom Cairney"
+    }
+  },
+  "77794": {
+    "2025-26": {
+      "element": 478,
+      "name": "Kieran Trippier"
+    }
+  },
+  "78916": {
+    "2025-26": {
+      "element": 476,
+      "name": "Dan Burn"
+    }
+  },
+  "79602": {
+    "2025-26": {
+      "element": 629,
+      "name": "Daniel Bentley"
+    }
+  },
+  "80201": {
+    "2025-26": {
+      "element": 314,
+      "name": "Bernd Leno"
+    }
+  },
+  "80801": {
+    "2025-26": {
+      "element": 302,
+      "name": "Idrissa Gana Gueye"
+    }
+  },
+  "81441": {
+    "2025-26": {
+      "element": 471,
+      "name": "Mark Gillespie"
+    }
+  },
+  "82143": {
+    "2025-26": {
+      "element": 601,
+      "name": "Wes Foderingham"
+    }
+  },
+  "83299": {
+    "2025-26": {
+      "element": 146,
+      "name": "Lewis Dunk"
+    }
+  },
+  "84182": {
+    "2025-26": {
+      "element": 600,
+      "name": "Alphonse Areola"
+    }
+  },
+  "84450": {
+    "2025-26": {
+      "element": 668,
+      "name": "Granit Xhaka"
+    }
+  },
+  "85633": {
+    "2025-26": {
+      "element": 502,
+      "name": "Matz Sels"
+    }
+  },
+  "85971": {
+    "2025-26": {
+      "element": 579,
+      "name": "Son Heung-min"
+    }
+  },
+  "86873": {
+    "2025-26": {
+      "element": 664,
+      "name": "Benjamin Lecomte"
+    }
+  },
+  "87835": {
+    "2025-26": {
+      "element": 632,
+      "name": "Matt Doherty"
+    }
+  },
+  "88248": {
+    "2025-26": {
+      "element": 400,
+      "name": "Stefan Ortega Moreno"
+    }
+  },
+  "88894": {
+    "2025-26": {
+      "element": 55,
+      "name": "Ross Barkley"
+    }
+  },
+  "90585": {
+    "2025-26": {
+      "element": 514,
+      "name": "Willy Boly"
+    }
+  },
+  "91651": {
+    "2025-26": {
+      "element": 422,
+      "name": "Mateo Kovačić"
+    }
+  },
+  "91889": {
+    "2025-26": {
+      "element": 625,
+      "name": "Niclas Füllkrug"
+    }
+  },
+  "95658": {
+    "2025-26": {
+      "element": 442,
+      "name": "Harry Maguire"
+    }
+  },
+  "97032": {
+    "2025-26": {
+      "element": 373,
+      "name": "Virgil van Dijk"
+    }
+  },
+  "97299": {
+    "2025-26": {
+      "element": 409,
+      "name": "John Stones"
+    }
+  },
+  "97846": {
+    "2025-26": {
+      "element": 340,
+      "name": "Alex Cairns"
+    }
+  },
+  "98747": {
+    "2025-26": {
+      "element": 469,
+      "name": "Nick Pope"
+    }
+  },
+  "98980": {
+    "2025-26": {
+      "element": 32,
+      "name": "Emiliano Martínez Romero"
+    }
+  },
+  "101148": {
+    "2025-26": {
+      "element": 480,
+      "name": "Jamaal Lascelles"
+    }
+  },
+  "101178": {
+    "2025-26": {
+      "element": 614,
+      "name": "James Ward-Prowse"
+    }
+  },
+  "101188": {
+    "2025-26": {
+      "element": 37,
+      "name": "Lucas Digne"
+    }
+  },
+  "101982": {
+    "2025-26": {
+      "element": 627,
+      "name": "Sam Johnstone"
+    }
+  },
+  "102057": {
+    "2025-26": {
+      "element": 337,
+      "name": "Raúl Jiménez Rodríguez"
+    }
+  },
+  "105717": {
+    "2025-26": {
+      "element": 678,
+      "name": "Arthur Masuaku"
+    }
+  },
+  "106468": {
+    "2025-26": {
+      "element": 43,
+      "name": "Álex Moreno Lopera"
+    }
+  },
+  "106611": {
+    "2025-26": {
+      "element": 295,
+      "name": "Michael Keane"
+    }
+  },
+  "106617": {
+    "2025-26": {
+      "element": 363,
+      "name": "Patrick Bamford"
+    }
+  },
+  "106760": {
+    "2025-26": {
+      "element": 443,
+      "name": "Luke Shaw"
+    }
+  },
+  "107265": {
+    "2025-26": {
+      "element": 675,
+      "name": "Angus Gunn"
+    }
+  },
+  "108413": {
+    "2025-26": {
+      "element": 270,
+      "name": "Will Hughes"
+    }
+  },
+  "109345": {
+    "2025-26": {
+      "element": 159,
+      "name": "Solly March"
+    }
+  },
+  "109533": {
+    "2025-26": {
+      "element": 604,
+      "name": "Emerson Palmieri dos Santos"
+    }
+  },
+  "109646": {
+    "2025-26": {
+      "element": 232,
+      "name": "Tosin Adarabioyo"
+    }
+  },
+  "109745": {
+    "2025-26": {
+      "element": 2,
+      "name": "Kepa Arrizabalaga Revuelta"
+    }
+  },
+  "110504": {
+    "2025-26": {
+      "element": 735,
+      "name": "Bertrand Traoré"
+    }
+  },
+  "110735": {
+    "2025-26": {
+      "element": 153,
+      "name": "Adam Webster"
+    }
+  },
+  "111234": {
+    "2025-26": {
+      "element": 287,
+      "name": "Jordan Pickford"
+    }
+  },
+  "111317": {
+    "2025-26": {
+      "element": 86,
+      "name": "David Brooks"
+    }
+  },
+  "111452": {
+    "2025-26": {
+      "element": 472,
+      "name": "Odysseas Vlachodimos"
+    }
+  },
+  "111478": {
+    "2025-26": {
+      "element": 152,
+      "name": "Joël Veltman"
+    }
+  },
+  "111773": {
+    "2025-26": {
+      "element": 479,
+      "name": "Emil Krafth"
+    }
+  },
+  "113564": {
+    "2025-26": {
+      "element": 346,
+      "name": "Sam Byram"
+    }
+  },
+  "114243": {
+    "2025-26": {
+      "element": 489,
+      "name": "Jacob Murphy"
+    }
+  },
+  "114283": {
+    "2025-26": {
+      "element": 419,
+      "name": "Jack Grealish"
+    }
+  },
+  "115556": {
+    "2025-26": {
+      "element": 571,
+      "name": "Ben Davies"
+    }
+  },
+  "116216": {
+    "2025-26": {
+      "element": 20,
+      "name": "Leandro Trossard"
+    }
+  },
+  "116535": {
+    "2025-26": {
+      "element": 366,
+      "name": "Alisson Becker"
+    }
+  },
+  "118748": {
+    "2025-26": {
+      "element": 381,
+      "name": "Mohamed Salah"
+    }
+  },
+  "119471": {
+    "2025-26": {
+      "element": 474,
+      "name": "Fabian Schär"
+    }
+  },
+  "121160": {
+    "2025-26": {
+      "element": 399,
+      "name": "Ederson Santana de Moraes"
+    }
+  },
+  "121709": {
+    "2025-26": {
+      "element": 254,
+      "name": "Walter Benítez"
+    }
+  },
+  "122074": {
+    "2025-26": {
+      "element": 401,
+      "name": "Marcus Bettinelli"
+    }
+  },
+  "122798": {
+    "2025-26": {
+      "element": 372,
+      "name": "Andrew Robertson"
+    }
+  },
+  "122806": {
+    "2025-26": {
+      "element": 54,
+      "name": "John McGinn"
+    }
+  },
+  "124165": {
+    "2025-26": {
+      "element": 545,
+      "name": "Patrick Roberts"
+    }
+  },
+  "126184": {
+    "2025-26": {
+      "element": 405,
+      "name": "Nathan Aké"
+    }
+  },
+  "128295": {
+    "2025-26": {
+      "element": 24,
+      "name": "Christian Nørgaard"
+    }
+  },
+  "135720": {
+    "2025-26": {
+      "element": 570,
+      "name": "Kevin Danso"
+    }
+  },
+  "138001": {
+    "2025-26": {
+      "element": 630,
+      "name": "Tom King"
+    }
+  },
+  "141746": {
+    "2025-26": {
+      "element": 449,
+      "name": "Bruno Borges Fernandes"
+    }
+  },
+  "149065": {
+    "2025-26": {
+      "element": 628,
+      "name": "José Malheiro de Sá"
+    }
+  },
+  "149484": {
+    "2025-26": {
+      "element": 40,
+      "name": "Tyrone Mings"
+    }
+  },
+  "149519": {
+    "2025-26": {
+      "element": 617,
+      "name": "Maxwel Cornet"
+    }
+  },
+  "151589": {
+    "2025-26": {
+      "element": 61,
+      "name": "Leander Dendoncker"
+    }
+  },
+  "152551": {
+    "2025-26": {
+      "element": 272,
+      "name": "Jefferson Lerma Solís"
+    }
+  },
+  "153127": {
+    "2025-26": {
+      "element": 495,
+      "name": "Isaac Hayden"
+    }
+  },
+  "153133": {
+    "2025-26": {
+      "element": 324,
+      "name": "Alex Iwobi"
+    }
+  },
+  "153366": {
+    "2025-26": {
+      "element": 336,
+      "name": "Harrison Reed"
+    }
+  },
+  "153682": {
+    "2025-26": {
+      "element": 329,
+      "name": "Harry Wilson"
+    }
+  },
+  "154296": {
+    "2025-26": {
+      "element": 673,
+      "name": "João Maria Lobo Alves Palhares Costa Palhinha Gonçalves"
+    }
+  },
+  "154561": {
+    "2025-26": {
+      "element": 1,
+      "name": "David Raya Martín"
+    }
+  },
+  "154566": {
+    "2025-26": {
+      "element": 596,
+      "name": "Dominic Solanke-Mitchell"
+    }
+  },
+  "155405": {
+    "2025-26": {
+      "element": 429,
+      "name": "Kalvin Phillips"
+    }
+  },
+  "155408": {
+    "2025-26": {
+      "element": 88,
+      "name": "Lewis Cook"
+    }
+  },
+  "155503": {
+    "2025-26": {
+      "element": 369,
+      "name": "Freddie Woodman"
+    }
+  },
+  "155511": {
+    "2025-26": {
+      "element": 817,
+      "name": "Adam Armstrong"
+    }
+  },
+  "156074": {
+    "2025-26": {
+      "element": 264,
+      "name": "Rob Holding"
+    }
+  },
+  "156689": {
+    "2025-26": {
+      "element": 327,
+      "name": "Andreas Hoelgebaum Pereira"
+    }
+  },
+  "158499": {
+    "2025-26": {
+      "element": 87,
+      "name": "Ryan Christie"
+    }
+  },
+  "158534": {
+    "2025-26": {
+      "element": 659,
+      "name": "Kyle Walker-Peters"
+    }
+  },
+  "158983": {
+    "2025-26": {
+      "element": 392,
+      "name": "Endo Wataru"
+    }
+  },
+  "159506": {
+    "2025-26": {
+      "element": 507,
+      "name": "Ola Aina"
+    }
+  },
+  "159533": {
+    "2025-26": {
+      "element": 326,
+      "name": "Adama Traoré Diarra"
+    }
+  },
+  "165809": {
+    "2025-26": {
+      "element": 416,
+      "name": "Bernardo Mota Veiga de Carvalho e Silva"
+    }
+  },
+  "166477": {
+    "2025-26": {
+      "element": 319,
+      "name": "Timothy Castagne"
+    }
+  },
+  "166989": {
+    "2025-26": {
+      "element": 48,
+      "name": "Youri Tielemans"
+    }
+  },
+  "167074": {
+    "2025-26": {
+      "element": 322,
+      "name": "Kenny Tete"
+    }
+  },
+  "167512": {
+    "2025-26": {
+      "element": 539,
+      "name": "Luke O'Nien"
+    }
+  },
+  "167887": {
+    "2025-26": {
+      "element": 209,
+      "name": "Josh Laurent"
+    }
+  },
+  "168636": {
+    "2025-26": {
+      "element": 98,
+      "name": "Enes Ünal"
+    }
+  },
+  "168991": {
+    "2025-26": {
+      "element": 89,
+      "name": "Philip Billing"
+    }
+  },
+  "169359": {
+    "2025-26": {
+      "element": 484,
+      "name": "Matt Targett"
+    }
+  },
+  "169528": {
+    "2025-26": {
+      "element": 316,
+      "name": "Antonee Robinson"
+    }
+  },
+  "169593": {
+    "2025-26": {
+      "element": 255,
+      "name": "Remi Matthews"
+    }
+  },
+  "171287": {
+    "2025-26": {
+      "element": 376,
+      "name": "Joe Gomez"
+    }
+  },
+  "171314": {
+    "2025-26": {
+      "element": 408,
+      "name": "Rúben dos Santos Gato Alves Dias"
+    }
+  },
+  "171422": {
+    "2025-26": {
+      "element": 555,
+      "name": "Alan Browne"
+    }
+  },
+  "172567": {
+    "2025-26": {
+      "element": 205,
+      "name": "Josh Cullen"
+    }
+  },
+  "172649": {
+    "2025-26": {
+      "element": 253,
+      "name": "Dean Henderson"
+    }
+  },
+  "172780": {
+    "2025-26": {
+      "element": 581,
+      "name": "James Maddison"
+    }
+  },
+  "173879": {
+    "2025-26": {
+      "element": 808,
+      "name": "Tammy Abraham"
+    }
+  },
+  "174592": {
+    "2025-26": {
+      "element": 206,
+      "name": "Marcus Edwards"
+    }
+  },
+  "174594": {
+    "2025-26": {
+      "element": 365,
+      "name": "Lukas Nmecha"
+    }
+  },
+  "174874": {
+    "2025-26": {
+      "element": 317,
+      "name": "Joachim Andersen"
+    }
+  },
+  "176297": {
+    "2025-26": {
+      "element": 451,
+      "name": "Marcus Rashford"
+    }
+  },
+  "177815": {
+    "2025-26": {
+      "element": 691,
+      "name": "Dominic Calvert-Lewin"
+    }
+  },
+  "178186": {
+    "2025-26": {
+      "element": 624,
+      "name": "Jarrod Bowen"
+    }
+  },
+  "178301": {
+    "2025-26": {
+      "element": 64,
+      "name": "Ollie Watkins"
+    }
+  },
+  "179268": {
+    "2025-26": {
+      "element": 224,
+      "name": "Marc Cucurella Saseta"
+    }
+  },
+  "179458": {
+    "2025-26": {
+      "element": 202,
+      "name": "Jacob Bruun Larsen"
+    }
+  },
+  "180135": {
+    "2025-26": {
+      "element": 493,
+      "name": "Sean Longstaff"
+    }
+  },
+  "180736": {
+    "2025-26": {
+      "element": 226,
+      "name": "Trevoh Chalobah"
+    }
+  },
+  "180804": {
+    "2025-26": {
+      "element": 198,
+      "name": "Axel Tuanzebe"
+    }
+  },
+  "180974": {
+    "2025-26": {
+      "element": 490,
+      "name": "Joelinton Cássio Apolinário de Lira"
+    }
+  },
+  "181284": {
+    "2025-26": {
+      "element": 647,
+      "name": "Gonçalo Manuel Ganchinho Guedes"
+    }
+  },
+  "183656": {
+    "2025-26": {
+      "element": 748,
+      "name": "Josh Dasilva"
+    }
+  },
+  "183751": {
+    "2025-26": {
+      "element": 201,
+      "name": "Manuel Benson Hedilazio"
+    }
+  },
+  "184029": {
+    "2025-26": {
+      "element": 17,
+      "name": "Martin Ødegaard"
+    }
+  },
+  "184254": {
+    "2025-26": {
+      "element": 565,
+      "name": "Guglielmo Vicario"
+    }
+  },
+  "184341": {
+    "2025-26": {
+      "element": 455,
+      "name": "Mason Mount"
+    }
+  },
+  "184349": {
+    "2025-26": {
+      "element": 328,
+      "name": "Ryan Sessegnon"
+    }
+  },
+  "184667": {
+    "2025-26": {
+      "element": 719,
+      "name": "Victor Lindelöf"
+    }
+  },
+  "184754": {
+    "2025-26": {
+      "element": 642,
+      "name": "Hwang Hee-chan"
+    }
+  },
+  "191866": {
+    "2025-26": {
+      "element": 108,
+      "name": "Kristoffer Ajer"
+    }
+  },
+  "192290": {
+    "2025-26": {
+      "element": 186,
+      "name": "Connor Roberts"
+    }
+  },
+  "194010": {
+    "2025-26": {
+      "element": 109,
+      "name": "Rico Henry"
+    }
+  },
+  "195384": {
+    "2025-26": {
+      "element": 22,
+      "name": "Mikel Merino Zazón"
+    }
+  },
+  "195546": {
+    "2025-26": {
+      "element": 50,
+      "name": "Emiliano Buendía Stati"
+    }
+  },
+  "197024": {
+    "2025-26": {
+      "element": 618,
+      "name": "Guido Rodríguez"
+    }
+  },
+  "198869": {
+    "2025-26": {
+      "element": 11,
+      "name": "Benjamin White"
+    }
+  },
+  "199598": {
+    "2025-26": {
+      "element": 354,
+      "name": "Ethan Ampadu"
+    }
+  },
+  "199670": {
+    "2025-26": {
+      "element": 285,
+      "name": "Odsonne Édouard"
+    }
+  },
+  "199796": {
+    "2025-26": {
+      "element": 36,
+      "name": "Matty Cash"
+    }
+  },
+  "199798": {
+    "2025-26": {
+      "element": 38,
+      "name": "Ezri Konsa Ngoyo"
+    }
+  },
+  "200089": {
+    "2025-26": {
+      "element": 494,
+      "name": "Joe Willock"
+    }
+  },
+  "200617": {
+    "2025-26": {
+      "element": 353,
+      "name": "Daniel James"
+    }
+  },
+  "200641": {
+    "2025-26": {
+      "element": 27,
+      "name": "Reiss Nelson"
+    }
+  },
+  "200720": {
+    "2025-26": {
+      "element": 101,
+      "name": "Caoimhín Kelleher"
+    }
+  },
+  "200785": {
+    "2025-26": {
+      "element": 85,
+      "name": "Tyler Adams"
+    }
+  },
+  "200834": {
+    "2025-26": {
+      "element": 694,
+      "name": "Nordi Mukiele"
+    }
+  },
+  "201595": {
+    "2025-26": {
+      "element": 665,
+      "name": "Lucas Estella Perri"
+    }
+  },
+  "201658": {
+    "2025-26": {
+      "element": 84,
+      "name": "Marcus Tavernier"
+    }
+  },
+  "201666": {
+    "2025-26": {
+      "element": 487,
+      "name": "Harvey Barnes"
+    }
+  },
+  "201895": {
+    "2025-26": {
+      "element": 683,
+      "name": "Omar Alderete"
+    }
+  },
+  "202641": {
+    "2025-26": {
+      "element": 432,
+      "name": "André Onana"
+    }
+  },
+  "202993": {
+    "2025-26": {
+      "element": 585,
+      "name": "Rodrigo Bentancur"
+    }
+  },
+  "204120": {
+    "2025-26": {
+      "element": 143,
+      "name": "Olivier Boscagli"
+    }
+  },
+  "204214": {
+    "2025-26": {
+      "element": 147,
+      "name": "Pervis Estupiñán Tenorio"
+    }
+  },
+  "204480": {
+    "2025-26": {
+      "element": 21,
+      "name": "Declan Rice"
+    }
+  },
+  "204580": {
+    "2025-26": {
+      "element": 125,
+      "name": "Vitaly Janelt"
+    }
+  },
+  "204646": {
+    "2025-26": {
+      "element": 53,
+      "name": "Donyell Malen"
+    }
+  },
+  "204716": {
+    "2025-26": {
+      "element": 374,
+      "name": "Ibrahima Konaté"
+    }
+  },
+  "204822": {
+    "2025-26": {
+      "element": 512,
+      "name": "Omar Richards"
+    }
+  },
+  "204936": {
+    "2025-26": {
+      "element": 736,
+      "name": "Gianluigi Donnarumma"
+    }
+  },
+  "204968": {
+    "2025-26": {
+      "element": 522,
+      "name": "Ryan Yates"
+    }
+  },
+  "205533": {
+    "2025-26": {
+      "element": 284,
+      "name": "Eddie Nketiah"
+    }
+  },
+  "205651": {
+    "2025-26": {
+      "element": 31,
+      "name": "Gabriel Fernando de Jesus"
+    }
+  },
+  "206325": {
+    "2025-26": {
+      "element": 12,
+      "name": "Oleksandr Zinchenko"
+    }
+  },
+  "206915": {
+    "2025-26": {
+      "element": 388,
+      "name": "Curtis Jones"
+    }
+  },
+  "207189": {
+    "2025-26": {
+      "element": 330,
+      "name": "Sander Berge"
+    }
+  },
+  "207283": {
+    "2025-26": {
+      "element": 126,
+      "name": "Mathias Jensen"
+    }
+  },
+  "208706": {
+    "2025-26": {
+      "element": 488,
+      "name": "Bruno Guimarães Rodriguez Moura"
+    }
+  },
+  "208912": {
+    "2025-26": {
+      "element": 199,
+      "name": "Joe Worrall"
+    }
+  },
+  "209036": {
+    "2025-26": {
+      "element": 260,
+      "name": "Marc Guéhi"
+    }
+  },
+  "209041": {
+    "2025-26": {
+      "element": 816,
+      "name": "Angel Gomes"
+    }
+  },
+  "209046": {
+    "2025-26": {
+      "element": 516,
+      "name": "Callum Hudson-Odoi"
+    }
+  },
+  "209243": {
+    "2025-26": {
+      "element": 456,
+      "name": "Jadon Sancho"
+    }
+  },
+  "209244": {
+    "2025-26": {
+      "element": 414,
+      "name": "Phil Foden"
+    }
+  },
+  "209288": {
+    "2025-26": {
+      "element": 140,
+      "name": "Tom McGill"
+    }
+  },
+  "209289": {
+    "2025-26": {
+      "element": 325,
+      "name": "Emile Smith Rowe"
+    }
+  },
+  "209365": {
+    "2025-26": {
+      "element": 436,
+      "name": "Matthijs de Ligt"
+    }
+  },
+  "209400": {
+    "2025-26": {
+      "element": 271,
+      "name": "Daichi Kamada"
+    }
+  },
+  "210156": {
+    "2025-26": {
+      "element": 527,
+      "name": "Taiwo Awoniyi"
+    }
+  },
+  "210462": {
+    "2025-26": {
+      "element": 521,
+      "name": "Ibrahim Sangaré"
+    }
+  },
+  "210494": {
+    "2025-26": {
+      "element": 607,
+      "name": "Nayef Aguerd"
+    }
+  },
+  "211975": {
+    "2025-26": {
+      "element": 404,
+      "name": "Manuel Akanji"
+    }
+  },
+  "212314": {
+    "2025-26": {
+      "element": 332,
+      "name": "Saša Lukić"
+    }
+  },
+  "212319": {
+    "2025-26": {
+      "element": 597,
+      "name": "Richarlison de Andrade"
+    }
+  },
+  "213198": {
+    "2025-26": {
+      "element": 240,
+      "name": "Christopher Nkunku"
+    }
+  },
+  "213999": {
+    "2025-26": {
+      "element": 616,
+      "name": "Edson Álvarez Velázquez"
+    }
+  },
+  "214048": {
+    "2025-26": {
+      "element": 605,
+      "name": "Maximilian Kilman"
+    }
+  },
+  "214225": {
+    "2025-26": {
+      "element": 348,
+      "name": "Joe Rodon"
+    }
+  },
+  "214285": {
+    "2025-26": {
+      "element": 377,
+      "name": "Konstantinos Tsimikas"
+    }
+  },
+  "214572": {
+    "2025-26": {
+      "element": 566,
+      "name": "Brandon Austin"
+    }
+  },
+  "214590": {
+    "2025-26": {
+      "element": 610,
+      "name": "Aaron Wan-Bissaka"
+    }
+  },
+  "215059": {
+    "2025-26": {
+      "element": 220,
+      "name": "Robert Lynch Sánchez"
+    }
+  },
+  "215136": {
+    "2025-26": {
+      "element": 508,
+      "name": "Neco Williams"
+    }
+  },
+  "215379": {
+    "2025-26": {
+      "element": 517,
+      "name": "Elliot Anderson"
+    }
+  },
+  "215413": {
+    "2025-26": {
+      "element": 242,
+      "name": "Kiernan Dewsbury-Hall"
+    }
+  },
+  "215439": {
+    "2025-26": {
+      "element": 613,
+      "name": "Tomáš Souček"
+    }
+  },
+  "215460": {
+    "2025-26": {
+      "element": 550,
+      "name": "Ian Poveda-Ocampo"
+    }
+  },
+  "215711": {
+    "2025-26": {
+      "element": 49,
+      "name": "Leon Bailey"
+    }
+  },
+  "216051": {
+    "2025-26": {
+      "element": 440,
+      "name": "Diogo Dalot Teixeira"
+    }
+  },
+  "216055": {
+    "2025-26": {
+      "element": 722,
+      "name": "Florentino Ibrain Morris Luís"
+    }
+  },
+  "216094": {
+    "2025-26": {
+      "element": 370,
+      "name": "Jeremie Frimpong"
+    }
+  },
+  "216646": {
+    "2025-26": {
+      "element": 135,
+      "name": "Yoane Wissa"
+    }
+  },
+  "218328": {
+    "2025-26": {
+      "element": 727,
+      "name": "Samuel Chukwueze"
+    }
+  },
+  "218364": {
+    "2025-26": {
+      "element": 259,
+      "name": "Borna Sosa"
+    }
+  },
+  "219168": {
+    "2025-26": {
+      "element": 499,
+      "name": "Alexander Isak"
+    }
+  },
+  "219249": {
+    "2025-26": {
+      "element": 164,
+      "name": "Matt O'Riley"
+    }
+  },
+  "219847": {
+    "2025-26": {
+      "element": 30,
+      "name": "Kai Havertz"
+    }
+  },
+  "219924": {
+    "2025-26": {
+      "element": 320,
+      "name": "Issa Diop"
+    }
+  },
+  "219937": {
+    "2025-26": {
+      "element": 379,
+      "name": "Rhys Williams"
+    }
+  },
+  "220237": {
+    "2025-26": {
+      "element": 475,
+      "name": "Sven Botman"
+    }
+  },
+  "220362": {
+    "2025-26": {
+      "element": 815,
+      "name": "Axel Disasi"
+    }
+  },
+  "220566": {
+    "2025-26": {
+      "element": 421,
+      "name": "Rodrigo 'Rodri' Hernandez Cascante"
+    }
+  },
+  "220598": {
+    "2025-26": {
+      "element": 219,
+      "name": "Michael Obafemi"
+    }
+  },
+  "220627": {
+    "2025-26": {
+      "element": 706,
+      "name": "James Justin"
+    }
+  },
+  "220684": {
+    "2025-26": {
+      "element": 533,
+      "name": "Aji Alese"
+    }
+  },
+  "220695": {
+    "2025-26": {
+      "element": 132,
+      "name": "Paris Maghoma"
+    }
+  },
+  "221389": {
+    "2025-26": {
+      "element": 715,
+      "name": "John Victor Maciel Furtado"
+    }
+  },
+  "221399": {
+    "2025-26": {
+      "element": 352,
+      "name": "Jack Harrison"
+    }
+  },
+  "221466": {
+    "2025-26": {
+      "element": 72,
+      "name": "Marcos Senesi Barón"
+    }
+  },
+  "221632": {
+    "2025-26": {
+      "element": 569,
+      "name": "Cristian Romero"
+    }
+  },
+  "221820": {
+    "2025-26": {
+      "element": 437,
+      "name": "Lisandro Martínez"
+    }
+  },
+  "222531": {
+    "2025-26": {
+      "element": 515,
+      "name": "Morgan Gibbs-White"
+    }
+  },
+  "222683": {
+    "2025-26": {
+      "element": 81,
+      "name": "Justin Kluivert"
+    }
+  },
+  "222690": {
+    "2025-26": {
+      "element": 448,
+      "name": "Tyrell Malacia"
+    }
+  },
+  "222694": {
+    "2025-26": {
+      "element": 343,
+      "name": "Pascal Struijk"
+    }
+  },
+  "223094": {
+    "2025-26": {
+      "element": 430,
+      "name": "Erling Haaland"
+    }
+  },
+  "223336": {
+    "2025-26": {
+      "element": 549,
+      "name": "Dan Neil"
+    }
+  },
+  "223340": {
+    "2025-26": {
+      "element": 16,
+      "name": "Bukayo Saka"
+    }
+  },
+  "223434": {
+    "2025-26": {
+      "element": 149,
+      "name": "Igor Julio dos Santos de Paulo"
+    }
+  },
+  "223541": {
+    "2025-26": {
+      "element": 385,
+      "name": "Federico Chiesa"
+    }
+  },
+  "223827": {
+    "2025-26": {
+      "element": 531,
+      "name": "Daniel Ballard"
+    }
+  },
+  "223911": {
+    "2025-26": {
+      "element": 79,
+      "name": "Chris Mepham"
+    }
+  },
+  "224024": {
+    "2025-26": {
+      "element": 612,
+      "name": "Lucas Tolentino Coelho de Lima"
+    }
+  },
+  "224068": {
+    "2025-26": {
+      "element": 504,
+      "name": "Matt Turner"
+    }
+  },
+  "224117": {
+    "2025-26": {
+      "element": 666,
+      "name": "Viktor Gyökeres"
+    }
+  },
+  "224967": {
+    "2025-26": {
+      "element": 292,
+      "name": "Vitalii Mykolenko"
+    }
+  },
+  "224995": {
+    "2025-26": {
+      "element": 91,
+      "name": "Luis Sinisterra Lucumí"
+    }
+  },
+  "225321": {
+    "2025-26": {
+      "element": 674,
+      "name": "Aaron Ramsdale"
+    }
+  },
+  "225796": {
+    "2025-26": {
+      "element": 225,
+      "name": "Reece James"
+    }
+  },
+  "226182": {
+    "2025-26": {
+      "element": 342,
+      "name": "Jayden Bogle"
+    }
+  },
+  "226597": {
+    "2025-26": {
+      "element": 5,
+      "name": "Gabriel dos Santos Magalhães"
+    }
+  },
+  "226944": {
+    "2025-26": {
+      "element": 58,
+      "name": "Boubacar Kamara"
+    }
+  },
+  "226956": {
+    "2025-26": {
+      "element": 112,
+      "name": "Mads Roerslev Rasmussen"
+    }
+  },
+  "227127": {
+    "2025-26": {
+      "element": 587,
+      "name": "Yves Bissouma"
+    }
+  },
+  "227444": {
+    "2025-26": {
+      "element": 505,
+      "name": "Nikola Milenković"
+    }
+  },
+  "229384": {
+    "2025-26": {
+      "element": 621,
+      "name": "Andy Irving"
+    }
+  },
+  "229600": {
+    "2025-26": {
+      "element": 288,
+      "name": "Mark Travers"
+    }
+  },
+  "230001": {
+    "2025-26": {
+      "element": 438,
+      "name": "Noussair Mazraoui"
+    }
+  },
+  "230046": {
+    "2025-26": {
+      "element": 699,
+      "name": "Douglas Luiz Soares de Paulo"
+    }
+  },
+  "230376": {
+    "2025-26": {
+      "element": 663,
+      "name": "Jhon Arias"
+    }
+  },
+  "231057": {
+    "2025-26": {
+      "element": 644,
+      "name": "Jean-Ricner Bellegarde"
+    }
+  },
+  "231065": {
+    "2025-26": {
+      "element": 111,
+      "name": "Ethan Pinnock"
+    }
+  },
+  "231416": {
+    "2025-26": {
+      "element": 148,
+      "name": "Ferdi Kadıoğlu"
+    }
+  },
+  "231480": {
+    "2025-26": {
+      "element": 636,
+      "name": "Santiago Ignacio Bueno"
+    }
+  },
+  "231747": {
+    "2025-26": {
+      "element": 283,
+      "name": "Jean-Philippe Mateta"
+    }
+  },
+  "232112": {
+    "2025-26": {
+      "element": 459,
+      "name": "Manuel Ugarte Ribeiro"
+    }
+  },
+  "232185": {
+    "2025-26": {
+      "element": 267,
+      "name": "Ismaïla Sarr"
+    }
+  },
+  "232356": {
+    "2025-26": {
+      "element": 774,
+      "name": "Jenson Jones"
+    }
+  },
+  "232413": {
+    "2025-26": {
+      "element": 266,
+      "name": "Eberechi Eze"
+    }
+  },
+  "232571": {
+    "2025-26": {
+      "element": 528,
+      "name": "Anthony Patterson"
+    }
+  },
+  "232653": {
+    "2025-26": {
+      "element": 52,
+      "name": "Jacob Ramsey"
+    }
+  },
+  "232787": {
+    "2025-26": {
+      "element": 796,
+      "name": "Conor Gallagher"
+    }
+  },
+  "232792": {
+    "2025-26": {
+      "element": 150,
+      "name": "Tariq Lamptey"
+    }
+  },
+  "232820": {
+    "2025-26": {
+      "element": 534,
+      "name": "Joe Anderson"
+    }
+  },
+  "232826": {
+    "2025-26": {
+      "element": 485,
+      "name": "Anthony Gordon"
+    }
+  },
+  "232859": {
+    "2025-26": {
+      "element": 573,
+      "name": "Djed Spence"
+    }
+  },
+  "232892": {
+    "2025-26": {
+      "element": 318,
+      "name": "Calvin Bassey"
+    }
+  },
+  "232928": {
+    "2025-26": {
+      "element": 303,
+      "name": "James Garner"
+    }
+  },
+  "233963": {
+    "2025-26": {
+      "element": 606,
+      "name": "Konstantinos Mavropanos"
+    }
+  },
+  "235448": {
+    "2025-26": {
+      "element": 102,
+      "name": "Ellery Balcombe"
+    }
+  },
+  "235674": {
+    "2025-26": {
+      "element": 589,
+      "name": "Manor Solomon"
+    }
+  },
+  "235826": {
+    "2025-26": {
+      "element": 362,
+      "name": "Joël Piroe"
+    }
+  },
+  "240299": {
+    "2025-26": {
+      "element": 653,
+      "name": "Joe Hodge"
+    }
+  },
+  "240514": {
+    "2025-26": {
+      "element": 142,
+      "name": "Kjell Scherpen"
+    }
+  },
+  "241231": {
+    "2025-26": {
+      "element": 194,
+      "name": "Jordan Beyer"
+    }
+  },
+  "242880": {
+    "2025-26": {
+      "element": 229,
+      "name": "Benoît Badiashile Mukinayi"
+    }
+  },
+  "242882": {
+    "2025-26": {
+      "element": 685,
+      "name": "Bafodé Diakité"
+    }
+  },
+  "242898": {
+    "2025-26": {
+      "element": 580,
+      "name": "Brennan Johnson"
+    }
+  },
+  "243016": {
+    "2025-26": {
+      "element": 386,
+      "name": "Alexis Mac Allister"
+    }
+  },
+  "243298": {
+    "2025-26": {
+      "element": 384,
+      "name": "Cody Gakpo"
+    }
+  },
+  "243345": {
+    "2025-26": {
+      "element": 520,
+      "name": "Lewis O'Brien"
+    }
+  },
+  "243526": {
+    "2025-26": {
+      "element": 347,
+      "name": "Gabriel Gudmundsson"
+    }
+  },
+  "243571": {
+    "2025-26": {
+      "element": 296,
+      "name": "Nathan Patterson"
+    }
+  },
+  "244042": {
+    "2025-26": {
+      "element": 338,
+      "name": "Rodrigo Muniz Carvalho"
+    }
+  },
+  "244723": {
+    "2025-26": {
+      "element": 258,
+      "name": "Tyrick Mitchell"
+    }
+  },
+  "244731": {
+    "2025-26": {
+      "element": 383,
+      "name": "Luis Díaz Marulanda"
+    }
+  },
+  "244850": {
+    "2025-26": {
+      "element": 47,
+      "name": "Morgan Rogers"
+    }
+  },
+  "244851": {
+    "2025-26": {
+      "element": 235,
+      "name": "Cole Palmer"
+    }
+  },
+  "244858": {
+    "2025-26": {
+      "element": 123,
+      "name": "Fábio Freitas Gouveia Carvalho"
+    }
+  },
+  "244954": {
+    "2025-26": {
+      "element": 41,
+      "name": "Pau Torres"
+    }
+  },
+  "246301": {
+    "2025-26": {
+      "element": 321,
+      "name": "Jorge Cuenca Barreno"
+    }
+  },
+  "247245": {
+    "2025-26": {
+      "element": 188,
+      "name": "Hannes Delcroix"
+    }
+  },
+  "247348": {
+    "2025-26": {
+      "element": 256,
+      "name": "Daniel Muñoz Mejía"
+    }
+  },
+  "247412": {
+    "2025-26": {
+      "element": 654,
+      "name": "Jørgen Strand Larsen"
+    }
+  },
+  "247632": {
+    "2025-26": {
+      "element": 236,
+      "name": "Pedro Lomba Neto"
+    }
+  },
+  "247670": {
+    "2025-26": {
+      "element": 791,
+      "name": "Valentín Castellanos"
+    }
+  },
+  "247693": {
+    "2025-26": {
+      "element": 726,
+      "name": "Randal Kolo Muani"
+    }
+  },
+  "247955": {
+    "2025-26": {
+      "element": 724,
+      "name": "Lutsharel Geertruida"
+    }
+  },
+  "248056": {
+    "2025-26": {
+      "element": 358,
+      "name": "Tanaka Ao"
+    }
+  },
+  "248857": {
+    "2025-26": {
+      "element": 18,
+      "name": "Noni Madueke"
+    }
+  },
+  "248875": {
+    "2025-26": {
+      "element": 418,
+      "name": "Jérémy Doku"
+    }
+  },
+  "248937": {
+    "2025-26": {
+      "element": 355,
+      "name": "Sam Greenwood"
+    }
+  },
+  "249231": {
+    "2025-26": {
+      "element": 107,
+      "name": "Keane Lewis-Potter"
+    }
+  },
+  "250199": {
+    "2025-26": {
+      "element": 519,
+      "name": "Nicolás Domínguez"
+    }
+  },
+  "250735": {
+    "2025-26": {
+      "element": 204,
+      "name": "Darko Churlinov"
+    }
+  },
+  "424044": {
+    "2025-26": {
+      "element": 93,
+      "name": "Hamed Traorè"
+    }
+  },
+  "424876": {
+    "2025-26": {
+      "element": 387,
+      "name": "Dominik Szoboszlai"
+    }
+  },
+  "427623": {
+    "2025-26": {
+      "element": 261,
+      "name": "Chris Richards"
+    }
+  },
+  "427637": {
+    "2025-26": {
+      "element": 350,
+      "name": "Brenden Aaronson"
+    }
+  },
+  "428580": {
+    "2025-26": {
+      "element": 128,
+      "name": "Frank Onyeka"
+    }
+  },
+  "428971": {
+    "2025-26": {
+      "element": 315,
+      "name": "Steven Benda"
+    }
+  },
+  "429414": {
+    "2025-26": {
+      "element": 656,
+      "name": "Saša Kalajdžić"
+    }
+  },
+  "430871": {
+    "2025-26": {
+      "element": 450,
+      "name": "Matheus Santos Carneiro da Cunha"
+    }
+  },
+  "431248": {
+    "2025-26": {
+      "element": 709,
+      "name": "Ladislav Krejcí"
+    }
+  },
+  "431639": {
+    "2025-26": {
+      "element": 215,
+      "name": "Zian Flemming"
+    }
+  },
+  "432422": {
+    "2025-26": {
+      "element": 491,
+      "name": "Sandro Tonali"
+    }
+  },
+  "432714": {
+    "2025-26": {
+      "element": 426,
+      "name": "James McAtee"
+    }
+  },
+  "432720": {
+    "2025-26": {
+      "element": 182,
+      "name": "James Trafford"
+    }
+  },
+  "432830": {
+    "2025-26": {
+      "element": 106,
+      "name": "Nathan Collins"
+    }
+  },
+  "433036": {
+    "2025-26": {
+      "element": 427,
+      "name": "Tijjani Reijnders"
+    }
+  },
+  "433154": {
+    "2025-26": {
+      "element": 300,
+      "name": "Dwight McNeil"
+    }
+  },
+  "433312": {
+    "2025-26": {
+      "element": 648,
+      "name": "Marshall Munetsi"
+    }
+  },
+  "433952": {
+    "2025-26": {
+      "element": 357,
+      "name": "Largie Ramazani"
+    }
+  },
+  "434399": {
+    "2025-26": {
+      "element": 541,
+      "name": "Reinildo Mandava"
+    }
+  },
+  "434752": {
+    "2025-26": {
+      "element": 344,
+      "name": "Jaka Bijol"
+    }
+  },
+  "435973": {
+    "2025-26": {
+      "element": 217,
+      "name": "Lyle Foster"
+    }
+  },
+  "435997": {
+    "2025-26": {
+      "element": 698,
+      "name": "Noah Okafor"
+    }
+  },
+  "436234": {
+    "2025-26": {
+      "element": 590,
+      "name": "Bryan Gil Salvatierra"
+    }
+  },
+  "436416": {
+    "2025-26": {
+      "element": 806,
+      "name": "Christos Mandas"
+    }
+  },
+  "436893": {
+    "2025-26": {
+      "element": 78,
+      "name": "Julián Araujo Zúñiga"
+    }
+  },
+  "437495": {
+    "2025-26": {
+      "element": 339,
+      "name": "Illan Meslier"
+    }
+  },
+  "437499": {
+    "2025-26": {
+      "element": 257,
+      "name": "Maxence Lacroix"
+    }
+  },
+  "437505": {
+    "2025-26": {
+      "element": 560,
+      "name": "Wilson Isidor"
+    }
+  },
+  "437730": {
+    "2025-26": {
+      "element": 82,
+      "name": "Antoine Semenyo"
+    }
+  },
+  "437738": {
+    "2025-26": {
+      "element": 345,
+      "name": "Sebastiaan Bornauw"
+    }
+  },
+  "437742": {
+    "2025-26": {
+      "element": 29,
+      "name": "Albert Sambi Lokonga"
+    }
+  },
+  "437748": {
+    "2025-26": {
+      "element": 214,
+      "name": "Mike Trésor Ndayishimiye"
+    }
+  },
+  "438098": {
+    "2025-26": {
+      "element": 23,
+      "name": "Fábio Ferreira Vieira"
+    }
+  },
+  "438234": {
+    "2025-26": {
+      "element": 413,
+      "name": "Omar Marmoush"
+    }
+  },
+  "438464": {
+    "2025-26": {
+      "element": 268,
+      "name": "Cheick Doucouré"
+    }
+  },
+  "439135": {
+    "2025-26": {
+      "element": 154,
+      "name": "Eiran Cashin"
+    }
+  },
+  "440089": {
+    "2025-26": {
+      "element": 121,
+      "name": "Mikkel Damsgaard"
+    }
+  },
+  "440148": {
+    "2025-26": {
+      "element": 395,
+      "name": "Tyler Morton"
+    }
+  },
+  "440323": {
+    "2025-26": {
+      "element": 680,
+      "name": "Armando Broja"
+    }
+  },
+  "440854": {
+    "2025-26": {
+      "element": 9,
+      "name": "Jakub Kiwior"
+    }
+  },
+  "440955": {
+    "2025-26": {
+      "element": 564,
+      "name": "Nazarii Rusyn"
+    }
+  },
+  "440993": {
+    "2025-26": {
+      "element": 299,
+      "name": "Iliman Ndiaye"
+    }
+  },
+  "441024": {
+    "2025-26": {
+      "element": 482,
+      "name": "Harrison Ashby"
+    }
+  },
+  "441164": {
+    "2025-26": {
+      "element": 568,
+      "name": "Pedro Porro Sauceda"
+    }
+  },
+  "441191": {
+    "2025-26": {
+      "element": 477,
+      "name": "Tino Livramento"
+    }
+  },
+  "441192": {
+    "2025-26": {
+      "element": 171,
+      "name": "Jeremy Sarmiento Morante"
+    }
+  },
+  "441240": {
+    "2025-26": {
+      "element": 92,
+      "name": "Romain Faivre"
+    }
+  },
+  "441264": {
+    "2025-26": {
+      "element": 730,
+      "name": "Brian Brobbey"
+    }
+  },
+  "441266": {
+    "2025-26": {
+      "element": 390,
+      "name": "Ryan Gravenberch"
+    }
+  },
+  "441271": {
+    "2025-26": {
+      "element": 638,
+      "name": "Ki-Jana Hoever"
+    }
+  },
+  "441302": {
+    "2025-26": {
+      "element": 39,
+      "name": "Ian Maatsen"
+    }
+  },
+  "444102": {
+    "2025-26": {
+      "element": 97,
+      "name": "Francisco Evanilson de Lima Barbosa"
+    }
+  },
+  "444145": {
+    "2025-26": {
+      "element": 19,
+      "name": "Gabriel Martinelli Silva"
+    }
+  },
+  "444172": {
+    "2025-26": {
+      "element": 68,
+      "name": "Will Dennis"
+    }
+  },
+  "444180": {
+    "2025-26": {
+      "element": 200,
+      "name": "Jaidon Anthony"
+    }
+  },
+  "444463": {
+    "2025-26": {
+      "element": 230,
+      "name": "Wesley Fofana"
+    }
+  },
+  "444765": {
+    "2025-26": {
+      "element": 113,
+      "name": "Sepp van den Berg"
+    }
+  },
+  "444884": {
+    "2025-26": {
+      "element": 389,
+      "name": "Harvey Elliott"
+    }
+  },
+  "445044": {
+    "2025-26": {
+      "element": 583,
+      "name": "Dejan Kulusevski"
+    }
+  },
+  "445122": {
+    "2025-26": {
+      "element": 8,
+      "name": "Jurriën Timber"
+    }
+  },
+  "446008": {
+    "2025-26": {
+      "element": 119,
+      "name": "Bryan Mbeumo"
+    }
+  },
+  "447203": {
+    "2025-26": {
+      "element": 397,
+      "name": "Darwin Núñez Ribeiro"
+    }
+  },
+  "447325": {
+    "2025-26": {
+      "element": 289,
+      "name": "Harry Tyrer"
+    }
+  },
+  "447715": {
+    "2025-26": {
+      "element": 211,
+      "name": "Aaron Ramsey"
+    }
+  },
+  "448047": {
+    "2025-26": {
+      "element": 237,
+      "name": "Enzo Fernández"
+    }
+  },
+  "448089": {
+    "2025-26": {
+      "element": 646,
+      "name": "João Victor Gomes da Silva"
+    }
+  },
+  "448104": {
+    "2025-26": {
+      "element": 725,
+      "name": "Piero Hincapié"
+    }
+  },
+  "448514": {
+    "2025-26": {
+      "element": 402,
+      "name": "Rayan Aït-Nouri"
+    }
+  },
+  "449027": {
+    "2025-26": {
+      "element": 367,
+      "name": "Giorgi Mamardashvili"
+    }
+  },
+  "449434": {
+    "2025-26": {
+      "element": 486,
+      "name": "Anthony Elanga"
+    }
+  },
+  "449871": {
+    "2025-26": {
+      "element": 59,
+      "name": "Amadou Onana"
+    }
+  },
+  "449988": {
+    "2025-26": {
+      "element": 655,
+      "name": "Fábio Soares Silva"
+    }
+  },
+  "450070": {
+    "2025-26": {
+      "element": 615,
+      "name": "Crysencio Summerville"
+    }
+  },
+  "450072": {
+    "2025-26": {
+      "element": 196,
+      "name": "Shurandy Sambo"
+    }
+  },
+  "450535": {
+    "2025-26": {
+      "element": 277,
+      "name": "Malcolm Ebiowei"
+    }
+  },
+  "450539": {
+    "2025-26": {
+      "element": 133,
+      "name": "Myles Peart-Harris"
+    }
+  },
+  "450542": {
+    "2025-26": {
+      "element": 278,
+      "name": "Jesurun Rak-Sakyi"
+    }
+  },
+  "451302": {
+    "2025-26": {
+      "element": 431,
+      "name": "Altay Bayındır"
+    }
+  },
+  "451340": {
+    "2025-26": {
+      "element": 157,
+      "name": "Mitoma Kaoru"
+    }
+  },
+  "451432": {
+    "2025-26": {
+      "element": 509,
+      "name": "David Mota Veiga Teixeira do Carmo"
+    }
+  },
+  "456512": {
+    "2025-26": {
+      "element": 669,
+      "name": "Dan Ndoye"
+    }
+  },
+  "457569": {
+    "2025-26": {
+      "element": 67,
+      "name": "Đorđe Petrović"
+    }
+  },
+  "458249": {
+    "2025-26": {
+      "element": 466,
+      "name": "Joshua Zirkzee"
+    }
+  },
+  "458297": {
+    "2025-26": {
+      "element": 556,
+      "name": "Pierre Ekwah Elimby"
+    }
+  },
+  "460028": {
+    "2025-26": {
+      "element": 227,
+      "name": "Levi Samuels Colwill"
+    }
+  },
+  "460842": {
+    "2025-26": {
+      "element": 582,
+      "name": "Mohammed Kudus"
+    }
+  },
+  "461188": {
+    "2025-26": {
+      "element": 193,
+      "name": "Bashir Humphreys"
+    }
+  },
+  "461195": {
+    "2025-26": {
+      "element": 535,
+      "name": "Dennis Cirkin"
+    }
+  },
+  "461199": {
+    "2025-26": {
+      "element": 548,
+      "name": "Romaine Mundle"
+    }
+  },
+  "461421": {
+    "2025-26": {
+      "element": 57,
+      "name": "Lewis Dobbin"
+    }
+  },
+  "461446": {
+    "2025-26": {
+      "element": 704,
+      "name": "Tyler Onyango"
+    }
+  },
+  "461484": {
+    "2025-26": {
+      "element": 498,
+      "name": "Joe White"
+    }
+  },
+  "461537": {
+    "2025-26": {
+      "element": 435,
+      "name": "Dermot Mee"
+    }
+  },
+  "461567": {
+    "2025-26": {
+      "element": 189,
+      "name": "Owen Dodgson"
+    }
+  },
+  "462116": {
+    "2025-26": {
+      "element": 609,
+      "name": "Jean-Clair Todibo"
+    }
+  },
+  "462381": {
+    "2025-26": {
+      "element": 35,
+      "name": "Filip Marschall"
+    }
+  },
+  "462424": {
+    "2025-26": {
+      "element": 6,
+      "name": "William Saliba"
+    }
+  },
+  "462492": {
+    "2025-26": {
+      "element": 34,
+      "name": "Joe Gauci"
+    }
+  },
+  "462635": {
+    "2025-26": {
+      "element": 360,
+      "name": "Joe Gelhardt"
+    }
+  },
+  "463034": {
+    "2025-26": {
+      "element": 250,
+      "name": "Liam Delap"
+    }
+  },
+  "463067": {
+    "2025-26": {
+      "element": 158,
+      "name": "Georginio Rutter"
+    }
+  },
+  "463748": {
+    "2025-26": {
+      "element": 3,
+      "name": "Karl Hein"
+    }
+  },
+  "463936": {
+    "2025-26": {
+      "element": 239,
+      "name": "Jamie Bynoe-Gittens"
+    }
+  },
+  "463981": {
+    "2025-26": {
+      "element": 77,
+      "name": "James Hill"
+    }
+  },
+  "465247": {
+    "2025-26": {
+      "element": 733,
+      "name": "Senne Lammens"
+    }
+  },
+  "465351": {
+    "2025-26": {
+      "element": 407,
+      "name": "Matheus Nunes"
+    }
+  },
+  "465527": {
+    "2025-26": {
+      "element": 207,
+      "name": "Hannibal Mejbri"
+    }
+  },
+  "465642": {
+    "2025-26": {
+      "element": 684,
+      "name": "Malick Thiaw"
+    }
+  },
+  "465680": {
+    "2025-26": {
+      "element": 696,
+      "name": "Arnaud Kalimuendo"
+    }
+  },
+  "465694": {
+    "2025-26": {
+      "element": 423,
+      "name": "Nico González Iglesias"
+    }
+  },
+  "465702": {
+    "2025-26": {
+      "element": 540,
+      "name": "Timothée Pembélé"
+    }
+  },
+  "465730": {
+    "2025-26": {
+      "element": 145,
+      "name": "Maxim De Cuyper"
+    }
+  },
+  "465920": {
+    "2025-26": {
+      "element": 245,
+      "name": "Mykhailo Mudryk"
+    }
+  },
+  "466052": {
+    "2025-26": {
+      "element": 417,
+      "name": "Rayan Cherki"
+    }
+  },
+  "466075": {
+    "2025-26": {
+      "element": 7,
+      "name": "Riccardo Calafiori"
+    }
+  },
+  "466117": {
+    "2025-26": {
+      "element": 275,
+      "name": "Naouirou Ahamada"
+    }
+  },
+  "466525": {
+    "2025-26": {
+      "element": 660,
+      "name": "Anton Stach"
+    }
+  },
+  "467169": {
+    "2025-26": {
+      "element": 454,
+      "name": "Antony dos Santos"
+    }
+  },
+  "467189": {
+    "2025-26": {
+      "element": 679,
+      "name": "Mads Hermansen"
+    }
+  },
+  "467779": {
+    "2025-26": {
+      "element": 173,
+      "name": "Mats Wieffer"
+    }
+  },
+  "469130": {
+    "2025-26": {
+      "element": 805,
+      "name": "Lorenzo Lucca"
+    }
+  },
+  "469142": {
+    "2025-26": {
+      "element": 151,
+      "name": "Jan Paul van Hecke"
+    }
+  },
+  "469247": {
+    "2025-26": {
+      "element": 51,
+      "name": "Samuel Iling-Junior"
+    }
+  },
+  "469272": {
+    "2025-26": {
+      "element": 210,
+      "name": "Loum Tchaouna"
+    }
+  },
+  "470294": {
+    "2025-26": {
+      "element": 361,
+      "name": "Darko Gyabi"
+    }
+  },
+  "470313": {
+    "2025-26": {
+      "element": 714,
+      "name": "Nick Woltemade"
+    }
+  },
+  "470315": {
+    "2025-26": {
+      "element": 814,
+      "name": "Luca Netz"
+    }
+  },
+  "471798": {
+    "2025-26": {
+      "element": 223,
+      "name": "Gabriel Słonina"
+    }
+  },
+  "472713": {
+    "2025-26": {
+      "element": 116,
+      "name": "Aaron Hickey"
+    }
+  },
+  "472739": {
+    "2025-26": {
+      "element": 141,
+      "name": "Carl Rushworth"
+    }
+  },
+  "472769": {
+    "2025-26": {
+      "element": 411,
+      "name": "Nico O'Reilly"
+    }
+  },
+  "474120": {
+    "2025-26": {
+      "element": 161,
+      "name": "Julio Enciso Espínola"
+    }
+  },
+  "474907": {
+    "2025-26": {
+      "element": 298,
+      "name": "Reece Welch"
+    }
+  },
+  "475123": {
+    "2025-26": {
+      "element": 503,
+      "name": "Carlos Miguel dos Santos Pereira"
+    }
+  },
+  "475168": {
+    "2025-26": {
+      "element": 249,
+      "name": "João Pedro Junqueira de Jesus"
+    }
+  },
+  "476502": {
+    "2025-26": {
+      "element": 649,
+      "name": "Boubacar Traoré"
+    }
+  },
+  "476887": {
+    "2025-26": {
+      "element": 734,
+      "name": "Dilane Bakwa"
+    }
+  },
+  "477064": {
+    "2025-26": {
+      "element": 410,
+      "name": "Rico Lewis"
+    }
+  },
+  "477424": {
+    "2025-26": {
+      "element": 403,
+      "name": "Joško Gvardiol"
+    }
+  },
+  "477547": {
+    "2025-26": {
+      "element": 536,
+      "name": "Leo Fuhr Hjelde"
+    }
+  },
+  "477555": {
+    "2025-26": {
+      "element": 424,
+      "name": "Oscar Bobb"
+    }
+  },
+  "477580": {
+    "2025-26": {
+      "element": 71,
+      "name": "Illia Zabarnyi"
+    }
+  },
+  "477717": {
+    "2025-26": {
+      "element": 191,
+      "name": "Maxime Estève"
+    }
+  },
+  "477851": {
+    "2025-26": {
+      "element": 554,
+      "name": "Abdoullah Ba"
+    }
+  },
+  "478969": {
+    "2025-26": {
+      "element": 190,
+      "name": "Hjalmar Ekdal"
+    }
+  },
+  "480455": {
+    "2025-26": {
+      "element": 290,
+      "name": "Jarrad Branthwaite"
+    }
+  },
+  "481283": {
+    "2025-26": {
+      "element": 688,
+      "name": "James Wright"
+    }
+  },
+  "481655": {
+    "2025-26": {
+      "element": 26,
+      "name": "Martín Zubimendi Ibáñez"
+    }
+  },
+  "482442": {
+    "2025-26": {
+      "element": 593,
+      "name": "Pape Matar Sarr"
+    }
+  },
+  "482609": {
+    "2025-26": {
+      "element": 228,
+      "name": "Malo Gusto"
+    }
+  },
+  "482973": {
+    "2025-26": {
+      "element": 526,
+      "name": "Igor Jesus Maciel da Cruz"
+    }
+  },
+  "483081": {
+    "2025-26": {
+      "element": 635,
+      "name": "Rodrigo Martins Gomes"
+    }
+  },
+  "483364": {
+    "2025-26": {
+      "element": 602,
+      "name": "Krisztián Hegyi"
+    }
+  },
+  "484420": {
+    "2025-26": {
+      "element": 547,
+      "name": "Enzo Le Fée"
+    }
+  },
+  "485047": {
+    "2025-26": {
+      "element": 511,
+      "name": "Felipe Rodrigues da Silva"
+    }
+  },
+  "485055": {
+    "2025-26": {
+      "element": 567,
+      "name": "Antonín Kinský"
+    }
+  },
+  "485337": {
+    "2025-26": {
+      "element": 677,
+      "name": "Evann Guessand"
+    }
+  },
+  "485711": {
+    "2025-26": {
+      "element": 681,
+      "name": "Benjamin Sesko"
+    }
+  },
+  "486385": {
+    "2025-26": {
+      "element": 311,
+      "name": "Norberto Bercique Gomes Betuncal"
+    }
+  },
+  "486520": {
+    "2025-26": {
+      "element": 356,
+      "name": "Ilia Gruev"
+    }
+  },
+  "486672": {
+    "2025-26": {
+      "element": 241,
+      "name": "Moisés Caicedo Corozo"
+    }
+  },
+  "487053": {
+    "2025-26": {
+      "element": 574,
+      "name": "Destiny Udogie"
+    }
+  },
+  "487117": {
+    "2025-26": {
+      "element": 179,
+      "name": "Evan Ferguson"
+    }
+  },
+  "487676": {
+    "2025-26": {
+      "element": 532,
+      "name": "Trai Hume"
+    }
+  },
+  "487702": {
+    "2025-26": {
+      "element": 208,
+      "name": "Luca Koleosho"
+    }
+  },
+  "487838": {
+    "2025-26": {
+      "element": 473,
+      "name": "Lewis Hall"
+    }
+  },
+  "488024": {
+    "2025-26": {
+      "element": 712,
+      "name": "Yéremy Pino Santos"
+    }
+  },
+  "488213": {
+    "2025-26": {
+      "element": 720,
+      "name": "Tolu Arokodare"
+    }
+  },
+  "489571": {
+    "2025-26": {
+      "element": 184,
+      "name": "Etienne Green"
+    }
+  },
+  "489580": {
+    "2025-26": {
+      "element": 380,
+      "name": "Calvin Ramsay"
+    }
+  },
+  "489639": {
+    "2025-26": {
+      "element": 139,
+      "name": "Bart Verbruggen"
+    }
+  },
+  "489706": {
+    "2025-26": {
+      "element": 276,
+      "name": "Justin Devenny"
+    }
+  },
+  "489888": {
+    "2025-26": {
+      "element": 697,
+      "name": "Amine Adli"
+    }
+  },
+  "490000": {
+    "2025-26": {
+      "element": 530,
+      "name": "Blondy Nna Noukeu"
+    }
+  },
+  "490094": {
+    "2025-26": {
+      "element": 304,
+      "name": "Tim Iroegbunam"
+    }
+  },
+  "490142": {
+    "2025-26": {
+      "element": 623,
+      "name": "Freddie Potts"
+    }
+  },
+  "490145": {
+    "2025-26": {
+      "element": 599,
+      "name": "Dane Scarlett"
+    }
+  },
+  "490721": {
+    "2025-26": {
+      "element": 633,
+      "name": "Hugo Bueno López"
+    }
+  },
+  "490881": {
+    "2025-26": {
+      "element": 460,
+      "name": "Toby Collyer"
+    }
+  },
+  "490885": {
+    "2025-26": {
+      "element": 620,
+      "name": "George Earthy"
+    }
+  },
+  "491007": {
+    "2025-26": {
+      "element": 247,
+      "name": "Dário Luís Essugo"
+    }
+  },
+  "491012": {
+    "2025-26": {
+      "element": 312,
+      "name": "Youssef Ramalho Chermiti"
+    }
+  },
+  "491279": {
+    "2025-26": {
+      "element": 575,
+      "name": "Micky van de Ven"
+    }
+  },
+  "491287": {
+    "2025-26": {
+      "element": 56,
+      "name": "Enzo Barrenechea"
+    }
+  },
+  "491460": {
+    "2025-26": {
+      "element": 828,
+      "name": "Alfie Brooks"
+    }
+  },
+  "491501": {
+    "2025-26": {
+      "element": 394,
+      "name": "James McConnell"
+    }
+  },
+  "491557": {
+    "2025-26": {
+      "element": 309,
+      "name": "Jenson Metcalfe"
+    }
+  },
+  "491745": {
+    "2025-26": {
+      "element": 705,
+      "name": "Elijah Campbell"
+    }
+  },
+  "492066": {
+    "2025-26": {
+      "element": 537,
+      "name": "Niall Huggins"
+    }
+  },
+  "492368": {
+    "2025-26": {
+      "element": 349,
+      "name": "Isaac Schmidt"
+    }
+  },
+  "492777": {
+    "2025-26": {
+      "element": 375,
+      "name": "Conor Bradley"
+    }
+  },
+  "492831": {
+    "2025-26": {
+      "element": 216,
+      "name": "Zeki Amdouni"
+    }
+  },
+  "492859": {
+    "2025-26": {
+      "element": 351,
+      "name": "Wilfried Gnonto"
+    }
+  },
+  "493105": {
+    "2025-26": {
+      "element": 453,
+      "name": "Alejandro Garnacho Ferreyra"
+    }
+  },
+  "493125": {
+    "2025-26": {
+      "element": 572,
+      "name": "Radu Drăgușin"
+    }
+  },
+  "493250": {
+    "2025-26": {
+      "element": 452,
+      "name": "Amad Diallo"
+    }
+  },
+  "493362": {
+    "2025-26": {
+      "element": 717,
+      "name": "Xavi Simons"
+    }
+  },
+  "493837": {
+    "2025-26": {
+      "element": 558,
+      "name": "Jay Matete"
+    }
+  },
+  "494307": {
+    "2025-26": {
+      "element": 794,
+      "name": "Max Alleyne"
+    }
+  },
+  "494521": {
+    "2025-26": {
+      "element": 74,
+      "name": "Adrien Truffert"
+    }
+  },
+  "494556": {
+    "2025-26": {
+      "element": 819,
+      "name": "Ollie Shield"
+    }
+  },
+  "494595": {
+    "2025-26": {
+      "element": 382,
+      "name": "Florian Wirtz"
+    }
+  },
+  "494960": {
+    "2025-26": {
+      "element": 192,
+      "name": "Quilindschy Hartman"
+    }
+  },
+  "495145": {
+    "2025-26": {
+      "element": 70,
+      "name": "Alex Paulsen"
+    }
+  },
+  "495161": {
+    "2025-26": {
+      "element": 524,
+      "name": "Marko Stamenić"
+    }
+  },
+  "496178": {
+    "2025-26": {
+      "element": 297,
+      "name": "Roman Dixon"
+    }
+  },
+  "496208": {
+    "2025-26": {
+      "element": 391,
+      "name": "Ben Gannon-Doak"
+    }
+  },
+  "496221": {
+    "2025-26": {
+      "element": 273,
+      "name": "Adam Wharton"
+    }
+  },
+  "496279": {
+    "2025-26": {
+      "element": 308,
+      "name": "Isaac Heath"
+    }
+  },
+  "496661": {
+    "2025-26": {
+      "element": 707,
+      "name": "Tyler Dibling"
+    }
+  },
+  "497606": {
+    "2025-26": {
+      "element": 650,
+      "name": "Tawanda Chirewa"
+    }
+  },
+  "497894": {
+    "2025-26": {
+      "element": 465,
+      "name": "Rasmus Højlund"
+    }
+  },
+  "497949": {
+    "2025-26": {
+      "element": 682,
+      "name": "David Møller Wolfe"
+    }
+  },
+  "498016": {
+    "2025-26": {
+      "element": 670,
+      "name": "Robin Roefs"
+    }
+  },
+  "499167": {
+    "2025-26": {
+      "element": 15,
+      "name": "Josh Nichols"
+    }
+  },
+  "499169": {
+    "2025-26": {
+      "element": 10,
+      "name": "Myles Lewis-Skelly"
+    }
+  },
+  "499175": {
+    "2025-26": {
+      "element": 25,
+      "name": "Ethan Nwaneri"
+    }
+  },
+  "499300": {
+    "2025-26": {
+      "element": 667,
+      "name": "Adam Aznou"
+    }
+  },
+  "499309": {
+    "2025-26": {
+      "element": 252,
+      "name": "Marc Guiu Paz"
+    }
+  },
+  "499604": {
+    "2025-26": {
+      "element": 807,
+      "name": "Rayan Vitor Simplício Rocha"
+    }
+  },
+  "499716": {
+    "2025-26": {
+      "element": 750,
+      "name": "James Rowswell"
+    }
+  },
+  "499717": {
+    "2025-26": {
+      "element": 118,
+      "name": "Jayden Meghoma"
+    }
+  },
+  "499721": {
+    "2025-26": {
+      "element": 592,
+      "name": "Mikey Moore"
+    }
+  },
+  "499726": {
+    "2025-26": {
+      "element": 595,
+      "name": "Callum Olusesi"
+    }
+  },
+  "499857": {
+    "2025-26": {
+      "element": 803,
+      "name": "Teddy Sharman-Lowe"
+    }
+  },
+  "500040": {
+    "2025-26": {
+      "element": 662,
+      "name": "Cristhian Mosquera"
+    }
+  },
+  "500058": {
+    "2025-26": {
+      "element": 398,
+      "name": "Jayden Danns"
+    }
+  },
+  "500151": {
+    "2025-26": {
+      "element": 716,
+      "name": "Nicolò Savona"
+    }
+  },
+  "500696": {
+    "2025-26": {
+      "element": 559,
+      "name": "Nectarios Triantis"
+    }
+  },
+  "501837": {
+    "2025-26": {
+      "element": 634,
+      "name": "Yerson Mosquera Valdelamar"
+    }
+  },
+  "502500": {
+    "2025-26": {
+      "element": 136,
+      "name": "Igor Thiago Nascimento Rodrigues"
+    }
+  },
+  "502697": {
+    "2025-26": {
+      "element": 301,
+      "name": "Carlos Alcaraz Durán"
+    }
+  },
+  "502988": {
+    "2025-26": {
+      "element": 798,
+      "name": "Danny Imray"
+    }
+  },
+  "503139": {
+    "2025-26": {
+      "element": 90,
+      "name": "Alex Scott"
+    }
+  },
+  "503300": {
+    "2025-26": {
+      "element": 103,
+      "name": "Matthew Cox"
+    }
+  },
+  "503301": {
+    "2025-26": {
+      "element": 693,
+      "name": "Omari Hutchinson"
+    }
+  },
+  "503714": {
+    "2025-26": {
+      "element": 676,
+      "name": "Lesley Ugochukwu"
+    }
+  },
+  "504296": {
+    "2025-26": {
+      "element": 307,
+      "name": "Coby Ebere"
+    }
+  },
+  "505079": {
+    "2025-26": {
+      "element": 786,
+      "name": "Alfie McNally"
+    }
+  },
+  "507433": {
+    "2025-26": {
+      "element": 105,
+      "name": "Hákon Rafn Valdimarsson"
+    }
+  },
+  "508395": {
+    "2025-26": {
+      "element": 129,
+      "name": "Yehor Yarmoliuk"
+    }
+  },
+  "508479": {
+    "2025-26": {
+      "element": 221,
+      "name": "Filip Jörgensen"
+    }
+  },
+  "509291": {
+    "2025-26": {
+      "element": 643,
+      "name": "André Trindade da Costa Neto"
+    }
+  },
+  "509416": {
+    "2025-26": {
+      "element": 166,
+      "name": "Yasin Ayari"
+    }
+  },
+  "510281": {
+    "2025-26": {
+      "element": 415,
+      "name": "Sávio Moreira de Oliveira"
+    }
+  },
+  "510362": {
+    "2025-26": {
+      "element": 637,
+      "name": "Toti Gomes"
+    }
+  },
+  "510500": {
+    "2025-26": {
+      "element": 518,
+      "name": "João Pedro Ferreira da Silva"
+    }
+  },
+  "510663": {
+    "2025-26": {
+      "element": 661,
+      "name": "Hugo Ekitiké"
+    }
+  },
+  "511499": {
+    "2025-26": {
+      "element": 584,
+      "name": "Mathys Tel"
+    }
+  },
+  "512462": {
+    "2025-26": {
+      "element": 293,
+      "name": "Jake O'Brien"
+    }
+  },
+  "513418": {
+    "2025-26": {
+      "element": 120,
+      "name": "Kevin Schade"
+    }
+  },
+  "513433": {
+    "2025-26": {
+      "element": 162,
+      "name": "Brajan Gruda"
+    }
+  },
+  "513466": {
+    "2025-26": {
+      "element": 728,
+      "name": "Merlin Röhl"
+    }
+  },
+  "513834": {
+    "2025-26": {
+      "element": 177,
+      "name": "Andrew Moran"
+    }
+  },
+  "514254": {
+    "2025-26": {
+      "element": 169,
+      "name": "Diego Gómez Amarilla"
+    }
+  },
+  "514315": {
+    "2025-26": {
+      "element": 45,
+      "name": "Lino da Cruz Sousa"
+    }
+  },
+  "514356": {
+    "2025-26": {
+      "element": 244,
+      "name": "Roméo Lavia"
+    }
+  },
+  "514362": {
+    "2025-26": {
+      "element": 777,
+      "name": "Temple Ojinnaka"
+    }
+  },
+  "514613": {
+    "2025-26": {
+      "element": 538,
+      "name": "Zak Johnson"
+    }
+  },
+  "515024": {
+    "2025-26": {
+      "element": 334,
+      "name": "Luke Harris"
+    }
+  },
+  "515046": {
+    "2025-26": {
+      "element": 812,
+      "name": "Melker Ellborg"
+    }
+  },
+  "515597": {
+    "2025-26": {
+      "element": 44,
+      "name": "Lamare Bogarde"
+    }
+  },
+  "515621": {
+    "2025-26": {
+      "element": 262,
+      "name": "Chadi Riad Dnanou"
+    }
+  },
+  "516211": {
+    "2025-26": {
+      "element": 165,
+      "name": "Abdallah Sima"
+    }
+  },
+  "516234": {
+    "2025-26": {
+      "element": 763,
+      "name": "Charlie Gray"
+    }
+  },
+  "516875": {
+    "2025-26": {
+      "element": 757,
+      "name": "Ronnie Hollingshead"
+    }
+  },
+  "516895": {
+    "2025-26": {
+      "element": 458,
+      "name": "Kobbie Mainoo"
+    }
+  },
+  "516939": {
+    "2025-26": {
+      "element": 631,
+      "name": "Emmanuel Agbadou"
+    }
+  },
+  "517052": {
+    "2025-26": {
+      "element": 251,
+      "name": "Nicolas Jackson"
+    }
+  },
+  "517179": {
+    "2025-26": {
+      "element": 641,
+      "name": "Alfie Pond"
+    }
+  },
+  "518030": {
+    "2025-26": {
+      "element": 183,
+      "name": "Max Weiß"
+    }
+  },
+  "518335": {
+    "2025-26": {
+      "element": 789,
+      "name": "Max Merrick"
+    }
+  },
+  "518438": {
+    "2025-26": {
+      "element": 611,
+      "name": "Kaelan Casey"
+    }
+  },
+  "518442": {
+    "2025-26": {
+      "element": 622,
+      "name": "Lewis Orford"
+    }
+  },
+  "518906": {
+    "2025-26": {
+      "element": 76,
+      "name": "Owen Bevan"
+    }
+  },
+  "519440": {
+    "2025-26": {
+      "element": 760,
+      "name": "Wellity Lucky"
+    }
+  },
+  "519634": {
+    "2025-26": {
+      "element": 542,
+      "name": "Jenson Seelt"
+    }
+  },
+  "519895": {
+    "2025-26": {
+      "element": 197,
+      "name": "Oliver Sonne"
+    }
+  },
+  "519913": {
+    "2025-26": {
+      "element": 771,
+      "name": "Tyler Fletcher"
+    }
+  },
+  "523705": {
+    "2025-26": {
+      "element": 695,
+      "name": "Jackson Tchatchoua"
+    }
+  },
+  "530121": {
+    "2025-26": {
+      "element": 95,
+      "name": "Zain Silcott-Duberry"
+    }
+  },
+  "530318": {
+    "2025-26": {
+      "element": 281,
+      "name": "Kaden Rodney"
+    }
+  },
+  "530335": {
+    "2025-26": {
+      "element": 785,
+      "name": "Pablo Felipe Pereira de Jesus"
+    }
+  },
+  "531363": {
+    "2025-26": {
+      "element": 658,
+      "name": "Nathan Fraser"
+    }
+  },
+  "531989": {
+    "2025-26": {
+      "element": 280,
+      "name": "David Ozoh"
+    }
+  },
+  "532529": {
+    "2025-26": {
+      "element": 163,
+      "name": "Jack Hinshelwood"
+    }
+  },
+  "532605": {
+    "2025-26": {
+      "element": 246,
+      "name": "Andrey Nascimento dos Santos"
+    }
+  },
+  "533463": {
+    "2025-26": {
+      "element": 83,
+      "name": "Dango Ouattara"
+    }
+  },
+  "533710": {
+    "2025-26": {
+      "element": 137,
+      "name": "Iwan Morgan"
+    }
+  },
+  "534836": {
+    "2025-26": {
+      "element": 710,
+      "name": "Travis Patterson"
+    }
+  },
+  "535017": {
+    "2025-26": {
+      "element": 104,
+      "name": "Julian Eyestone"
+    }
+  },
+  "535301": {
+    "2025-26": {
+      "element": 167,
+      "name": "Carlos Baleba"
+    }
+  },
+  "535818": {
+    "2025-26": {
+      "element": 543,
+      "name": "Simon Adingra"
+    }
+  },
+  "535928": {
+    "2025-26": {
+      "element": 393,
+      "name": "Stefan Bajčetić Maquieira"
+    }
+  },
+  "536109": {
+    "2025-26": {
+      "element": 608,
+      "name": "Ollie Scarles"
+    }
+  },
+  "536119": {
+    "2025-26": {
+      "element": 359,
+      "name": "Charlie Crew"
+    }
+  },
+  "536134": {
+    "2025-26": {
+      "element": 811,
+      "name": "Rio Kyerematen"
+    }
+  },
+  "536241": {
+    "2025-26": {
+      "element": 313,
+      "name": "Martin Sherif"
+    }
+  },
+  "536661": {
+    "2025-26": {
+      "element": 813,
+      "name": "Nilson Angulo"
+    }
+  },
+  "536694": {
+    "2025-26": {
+      "element": 279,
+      "name": "Matheus França de Oliveira"
+    }
+  },
+  "536916": {
+    "2025-26": {
+      "element": 168,
+      "name": "Facundo Buonanotte"
+    }
+  },
+  "537403": {
+    "2025-26": {
+      "element": 63,
+      "name": "Kadan Young"
+    }
+  },
+  "538207": {
+    "2025-26": {
+      "element": 500,
+      "name": "William Osula"
+    }
+  },
+  "541462": {
+    "2025-26": {
+      "element": 75,
+      "name": "Matai Akinmboni"
+    }
+  },
+  "543295": {
+    "2025-26": {
+      "element": 122,
+      "name": "Antoni Milambo"
+    }
+  },
+  "544877": {
+    "2025-26": {
+      "element": 371,
+      "name": "Milos Kerkez"
+    }
+  },
+  "545477": {
+    "2025-26": {
+      "element": 481,
+      "name": "Alex Murphy"
+    }
+  },
+  "547027": {
+    "2025-26": {
+      "element": 544,
+      "name": "Habib Diarra"
+    }
+  },
+  "547037": {
+    "2025-26": {
+      "element": 462,
+      "name": "Jack Fletcher"
+    }
+  },
+  "547410": {
+    "2025-26": {
+      "element": 557,
+      "name": "Harrison Jones"
+    }
+  },
+  "547671": {
+    "2025-26": {
+      "element": 826,
+      "name": "Riley Owen"
+    }
+  },
+  "547676": {
+    "2025-26": {
+      "element": 446,
+      "name": "Tyler Fredricson"
+    }
+  },
+  "547701": {
+    "2025-26": {
+      "element": 591,
+      "name": "Archie Gray"
+    }
+  },
+  "547719": {
+    "2025-26": {
+      "element": 497,
+      "name": "Lewis Miley"
+    }
+  },
+  "547720": {
+    "2025-26": {
+      "element": 156,
+      "name": "Charlie Tasker"
+    }
+  },
+  "547801": {
+    "2025-26": {
+      "element": 306,
+      "name": "Callum Bates"
+    }
+  },
+  "548308": {
+    "2025-26": {
+      "element": 576,
+      "name": "Ashley Phillips"
+    }
+  },
+  "549067": {
+    "2025-26": {
+      "element": 513,
+      "name": "Zach Abbott"
+    }
+  },
+  "549074": {
+    "2025-26": {
+      "element": 172,
+      "name": "Tom Watson"
+    }
+  },
+  "549329": {
+    "2025-26": {
+      "element": 195,
+      "name": "Lucas Pires Silva"
+    }
+  },
+  "549912": {
+    "2025-26": {
+      "element": 553,
+      "name": "Chemsdine Talbi"
+    }
+  },
+  "549939": {
+    "2025-26": {
+      "element": 222,
+      "name": "Mike Penders"
+    }
+  },
+  "550090": {
+    "2025-26": {
+      "element": 144,
+      "name": "Diego Coppola"
+    }
+  },
+  "550141": {
+    "2025-26": {
+      "element": 176,
+      "name": "Adrian Mazilu"
+    }
+  },
+  "550596": {
+    "2025-26": {
+      "element": 94,
+      "name": "Dominic Sadi"
+    }
+  },
+  "550615": {
+    "2025-26": {
+      "element": 243,
+      "name": "Tyrique George"
+    }
+  },
+  "550839": {
+    "2025-26": {
+      "element": 588,
+      "name": "Wilson Odobert"
+    }
+  },
+  "550864": {
+    "2025-26": {
+      "element": 444,
+      "name": "Leny Yoro"
+    }
+  },
+  "551153": {
+    "2025-26": {
+      "element": 563,
+      "name": "Luís Hemir Silva Semedo"
+    }
+  },
+  "551206": {
+    "2025-26": {
+      "element": 213,
+      "name": "Jaydon Banel"
+    }
+  },
+  "551210": {
+    "2025-26": {
+      "element": 672,
+      "name": "Jorrel Hato"
+    }
+  },
+  "551221": {
+    "2025-26": {
+      "element": 4,
+      "name": "Tommy Setford"
+    }
+  },
+  "551226": {
+    "2025-26": {
+      "element": 708,
+      "name": "Mateus Gonçalo Espanha Fernandes"
+    }
+  },
+  "551483": {
+    "2025-26": {
+      "element": 713,
+      "name": "Álex Jiménez Sánchez"
+    }
+  },
+  "552427": {
+    "2025-26": {
+      "element": 598,
+      "name": "Will Lankshear"
+    }
+  },
+  "553299": {
+    "2025-26": {
+      "element": 577,
+      "name": "Takai Kōta"
+    }
+  },
+  "553742": {
+    "2025-26": {
+      "element": 825,
+      "name": "Finlay Herrick"
+    }
+  },
+  "553746": {
+    "2025-26": {
+      "element": 765,
+      "name": "Leo Shahar"
+    }
+  },
+  "554197": {
+    "2025-26": {
+      "element": 551,
+      "name": "Chris Rigg"
+    }
+  },
+  "556637": {
+    "2025-26": {
+      "element": 744,
+      "name": "Nehemiah Oriola"
+    }
+  },
+  "556639": {
+    "2025-26": {
+      "element": 461,
+      "name": "Jayce Fitzgerald"
+    }
+  },
+  "559610": {
+    "2025-26": {
+      "element": 810,
+      "name": "Luka Bentt"
+    }
+  },
+  "559684": {
+    "2025-26": {
+      "element": 464,
+      "name": "Jack Moorhouse"
+    }
+  },
+  "559962": {
+    "2025-26": {
+      "element": 62,
+      "name": "Jamaldeen Jimoh-Aloba"
+    }
+  },
+  "560248": {
+    "2025-26": {
+      "element": 639,
+      "name": "Bastien Meupiyou Menadjou"
+    }
+  },
+  "560262": {
+    "2025-26": {
+      "element": 100,
+      "name": "Junior Kroupi"
+    }
+  },
+  "560441": {
+    "2025-26": {
+      "element": 729,
+      "name": "Luis Eduardo Soares da Silva"
+    }
+  },
+  "560552": {
+    "2025-26": {
+      "element": 731,
+      "name": "Kevin Santos Lopes de Macedo"
+    }
+  },
+  "563324": {
+    "2025-26": {
+      "element": 13,
+      "name": "Brayden Clarke"
+    }
+  },
+  "564406": {
+    "2025-26": {
+      "element": 561,
+      "name": "Eliezer Mayenda Dossou"
+    }
+  },
+  "564505": {
+    "2025-26": {
+      "element": 703,
+      "name": "Sam Proctor"
+    }
+  },
+  "564510": {
+    "2025-26": {
+      "element": 496,
+      "name": "Garang Kuol"
+    }
+  },
+  "564940": {
+    "2025-26": {
+      "element": 718,
+      "name": "Soungoutou Magassa"
+    }
+  },
+  "565297": {
+    "2025-26": {
+      "element": 364,
+      "name": "Mateo Joseph Fernández-Regatillo"
+    }
+  },
+  "565431": {
+    "2025-26": {
+      "element": 626,
+      "name": "Callum Marshall"
+    }
+  },
+  "565863": {
+    "2025-26": {
+      "element": 787,
+      "name": "Sam Chambers"
+    }
+  },
+  "566164": {
+    "2025-26": {
+      "element": 428,
+      "name": "Sverre Nypan"
+    }
+  },
+  "566213": {
+    "2025-26": {
+      "element": 740,
+      "name": "Stephen Mfuni"
+    }
+  },
+  "567119": {
+    "2025-26": {
+      "element": 840,
+      "name": "Shumaira Mheuka"
+    }
+  },
+  "567121": {
+    "2025-26": {
+      "element": 175,
+      "name": "Joe Knight"
+    }
+  },
+  "568159": {
+    "2025-26": {
+      "element": 835,
+      "name": "Archie Whitehall"
+    }
+  },
+  "568791": {
+    "2025-26": {
+      "element": 69,
+      "name": "Callan McKenna"
+    }
+  },
+  "569014": {
+    "2025-26": {
+      "element": 523,
+      "name": "Eric da Silva Moreira"
+    }
+  },
+  "569577": {
+    "2025-26": {
+      "element": 701,
+      "name": "Triston Rowe"
+    }
+  },
+  "570241": {
+    "2025-26": {
+      "element": 117,
+      "name": "Kim Ji-soo"
+    }
+  },
+  "570526": {
+    "2025-26": {
+      "element": 586,
+      "name": "Lucas Bergvall"
+    }
+  },
+  "570929": {
+    "2025-26": {
+      "element": 821,
+      "name": "Jack Whittaker"
+    }
+  },
+  "571087": {
+    "2025-26": {
+      "element": 822,
+      "name": "Jaydon Jones"
+    }
+  },
+  "572702": {
+    "2025-26": {
+      "element": 802,
+      "name": "Keiber Lamadrid"
+    }
+  },
+  "573062": {
+    "2025-26": {
+      "element": 333,
+      "name": "Martial Godo"
+    }
+  },
+  "574398": {
+    "2025-26": {
+      "element": 282,
+      "name": "Franco Umeh-Chibueze"
+    }
+  },
+  "574458": {
+    "2025-26": {
+      "element": 231,
+      "name": "Mamadou Sarr"
+    }
+  },
+  "575034": {
+    "2025-26": {
+      "element": 468,
+      "name": "Ethan Wheatley"
+    }
+  },
+  "575204": {
+    "2025-26": {
+      "element": 425,
+      "name": "Claudio Echeverri"
+    }
+  },
+  "575458": {
+    "2025-26": {
+      "element": 510,
+      "name": "Jair Paula da Cunha Filho"
+    }
+  },
+  "575476": {
+    "2025-26": {
+      "element": 506,
+      "name": "Murillo Costa dos Santos"
+    }
+  },
+  "575901": {
+    "2025-26": {
+      "element": 80,
+      "name": "Julio Soler Barreto"
+    }
+  },
+  "576323": {
+    "2025-26": {
+      "element": 212,
+      "name": "Oluwaseun Adewumi"
+    }
+  },
+  "576620": {
+    "2025-26": {
+      "element": 769,
+      "name": "Bendito Mantato"
+    }
+  },
+  "576628": {
+    "2025-26": {
+      "element": 755,
+      "name": "Shea Lacey"
+    }
+  },
+  "576634": {
+    "2025-26": {
+      "element": 827,
+      "name": "Jim Thwaites"
+    }
+  },
+  "576637": {
+    "2025-26": {
+      "element": 788,
+      "name": "Godwill Kukonki"
+    }
+  },
+  "576756": {
+    "2025-26": {
+      "element": 65,
+      "name": "Zépiqueno Redmond"
+    }
+  },
+  "576980": {
+    "2025-26": {
+      "element": 286,
+      "name": "Zach Marsh"
+    }
+  },
+  "577016": {
+    "2025-26": {
+      "element": 233,
+      "name": "Josh Acheampong"
+    }
+  },
+  "577114": {
+    "2025-26": {
+      "element": 619,
+      "name": "Luis Guilherme Lira dos Santos"
+    }
+  },
+  "577285": {
+    "2025-26": {
+      "element": 754,
+      "name": "George Hemmings"
+    }
+  },
+  "577669": {
+    "2025-26": {
+      "element": 552,
+      "name": "Noah Sadiki"
+    }
+  },
+  "577725": {
+    "2025-26": {
+      "element": 335,
+      "name": "Josh King"
+    }
+  },
+  "577731": {
+    "2025-26": {
+      "element": 60,
+      "name": "Ben Broggio"
+    }
+  },
+  "577974": {
+    "2025-26": {
+      "element": 445,
+      "name": "Harry Amass"
+    }
+  },
+  "577978": {
+    "2025-26": {
+      "element": 838,
+      "name": "Rhys Chadwick"
+    }
+  },
+  "578153": {
+    "2025-26": {
+      "element": 406,
+      "name": "Abdukodir Khusanov"
+    }
+  },
+  "578512": {
+    "2025-26": {
+      "element": 483,
+      "name": "Miodrag Pivaš"
+    }
+  },
+  "578614": {
+    "2025-26": {
+      "element": 203,
+      "name": "Enock Agyei"
+    }
+  },
+  "579075": {
+    "2025-26": {
+      "element": 274,
+      "name": "Asher Agbinone"
+    }
+  },
+  "580921": {
+    "2025-26": {
+      "element": 764,
+      "name": "Reigan Heskey"
+    }
+  },
+  "586268": {
+    "2025-26": {
+      "element": 368,
+      "name": "Ármin Pécsi"
+    }
+  },
+  "586309": {
+    "2025-26": {
+      "element": 310,
+      "name": "Thierno Barry"
+    }
+  },
+  "587178": {
+    "2025-26": {
+      "element": 46,
+      "name": "Yasin Özcan"
+    }
+  },
+  "587433": {
+    "2025-26": {
+      "element": 824,
+      "name": "Conor McManus"
+    }
+  },
+  "588555": {
+    "2025-26": {
+      "element": 433,
+      "name": "Elyh Harrison"
+    }
+  },
+  "588793": {
+    "2025-26": {
+      "element": 14,
+      "name": "Maldini Kacurri"
+    }
+  },
+  "588796": {
+    "2025-26": {
+      "element": 28,
+      "name": "Ismeal Kabia"
+    }
+  },
+  "589100": {
+    "2025-26": {
+      "element": 155,
+      "name": "Jacob Slater"
+    }
+  },
+  "589121": {
+    "2025-26": {
+      "element": 778,
+      "name": "Ethan Sutherland"
+    }
+  },
+  "589507": {
+    "2025-26": {
+      "element": 657,
+      "name": "Leon Chiwome"
+    }
+  },
+  "590012": {
+    "2025-26": {
+      "element": 265,
+      "name": "Caleb Kporha"
+    }
+  },
+  "590014": {
+    "2025-26": {
+      "element": 690,
+      "name": "Rio Cardines"
+    }
+  },
+  "590035": {
+    "2025-26": {
+      "element": 751,
+      "name": "Yusuf Akhamrich"
+    }
+  },
+  "590039": {
+    "2025-26": {
+      "element": 739,
+      "name": "Divine Mukasa"
+    }
+  },
+  "590040": {
+    "2025-26": {
+      "element": 836,
+      "name": "Jimmy Sinclair"
+    }
+  },
+  "590760": {
+    "2025-26": {
+      "element": 99,
+      "name": "Daniel Adu-Adjei"
+    }
+  },
+  "591357": {
+    "2025-26": {
+      "element": 134,
+      "name": "Ryan Trevitt"
+    }
+  },
+  "591384": {
+    "2025-26": {
+      "element": 793,
+      "name": "George King"
+    }
+  },
+  "591385": {
+    "2025-26": {
+      "element": 323,
+      "name": "Samuel Amissah"
+    }
+  },
+  "591386": {
+    "2025-26": {
+      "element": 396,
+      "name": "Trey Nyoni"
+    }
+  },
+  "592031": {
+    "2025-26": {
+      "element": 160,
+      "name": "Yankuba Minteh"
+    }
+  },
+  "592740": {
+    "2025-26": {
+      "element": 839,
+      "name": "Alfie Cresswell"
+    }
+  },
+  "593001": {
+    "2025-26": {
+      "element": 652,
+      "name": "Enso González Medina"
+    }
+  },
+  "593174": {
+    "2025-26": {
+      "element": 797,
+      "name": "Kaye Furo"
+    }
+  },
+  "596042": {
+    "2025-26": {
+      "element": 746,
+      "name": "Kieran Morrison"
+    }
+  },
+  "596047": {
+    "2025-26": {
+      "element": 467,
+      "name": "Chido Obi"
+    }
+  },
+  "596054": {
+    "2025-26": {
+      "element": 651,
+      "name": "Tom Edozie"
+    }
+  },
+  "596777": {
+    "2025-26": {
+      "element": 441,
+      "name": "Patrick Dorgu"
+    }
+  },
+  "597320": {
+    "2025-26": {
+      "element": 795,
+      "name": "Harry Howell"
+    }
+  },
+  "599303": {
+    "2025-26": {
+      "element": 501,
+      "name": "Sean Neave"
+    }
+  },
+  "600882": {
+    "2025-26": {
+      "element": 741,
+      "name": "Harry Gray"
+    }
+  },
+  "601956": {
+    "2025-26": {
+      "element": 766,
+      "name": "Saheed Olagunju"
+    }
+  },
+  "602903": {
+    "2025-26": {
+      "element": 747,
+      "name": "Ezra Mayers"
+    }
+  },
+  "604211": {
+    "2025-26": {
+      "element": 775,
+      "name": "Tymur Tutierov"
+    }
+  },
+  "604988": {
+    "2025-26": {
+      "element": 761,
+      "name": "Freddie Simmonds"
+    }
+  },
+  "605319": {
+    "2025-26": {
+      "element": 767,
+      "name": "Luke Rawlings"
+    }
+  },
+  "606689": {
+    "2025-26": {
+      "element": 130,
+      "name": "Romelle Donovan"
+    }
+  },
+  "606745": {
+    "2025-26": {
+      "element": 447,
+      "name": "Ayden Heaven"
+    }
+  },
+  "606774": {
+    "2025-26": {
+      "element": 687,
+      "name": "Remy Rees-Dottin"
+    }
+  },
+  "606775": {
+    "2025-26": {
+      "element": 96,
+      "name": "Ben Winterburn"
+    }
+  },
+  "606798": {
+    "2025-26": {
+      "element": 42,
+      "name": "Andrés García"
+    }
+  },
+  "606921": {
+    "2025-26": {
+      "element": 269,
+      "name": "Romain Esse"
+    }
+  },
+  "607464": {
+    "2025-26": {
+      "element": 110,
+      "name": "Michael Kayode"
+    }
+  },
+  "608181": {
+    "2025-26": {
+      "element": 180,
+      "name": "Stefanos Tzimas"
+    }
+  },
+  "609873": {
+    "2025-26": {
+      "element": 305,
+      "name": "Harrison Armstrong"
+    }
+  },
+  "610799": {
+    "2025-26": {
+      "element": 578,
+      "name": "Luka Vušković"
+    }
+  },
+  "611134": {
+    "2025-26": {
+      "element": 248,
+      "name": "Kendry Páez Andrade"
+    }
+  },
+  "611695": {
+    "2025-26": {
+      "element": 174,
+      "name": "Malick Yalcouyé"
+    }
+  },
+  "611912": {
+    "2025-26": {
+      "element": 743,
+      "name": "Landon Emenalo"
+    }
+  },
+  "611917": {
+    "2025-26": {
+      "element": 790,
+      "name": "Lucá Williams-Barnett"
+    }
+  },
+  "611922": {
+    "2025-26": {
+      "element": 686,
+      "name": "Rio Ngumoha"
+    }
+  },
+  "611926": {
+    "2025-26": {
+      "element": 378,
+      "name": "Amara Nallo"
+    }
+  },
+  "611975": {
+    "2025-26": {
+      "element": 562,
+      "name": "Ahmed Abdullahi"
+    }
+  },
+  "612534": {
+    "2025-26": {
+      "element": 115,
+      "name": "Benjamin Fredrick"
+    }
+  },
+  "613232": {
+    "2025-26": {
+      "element": 818,
+      "name": "James Wilson"
+    }
+  },
+  "613804": {
+    "2025-26": {
+      "element": 603,
+      "name": "El Hadji Malick Diouf"
+    }
+  },
+  "614574": {
+    "2025-26": {
+      "element": 801,
+      "name": "Alex Tóth"
+    }
+  },
+  "616065": {
+    "2025-26": {
+      "element": 759,
+      "name": "Marli Salmon"
+    }
+  },
+  "616077": {
+    "2025-26": {
+      "element": 700,
+      "name": "Max Dowman"
+    }
+  },
+  "616221": {
+    "2025-26": {
+      "element": 804,
+      "name": "João Victor de Souza Menezes"
+    }
+  },
+  "616222": {
+    "2025-26": {
+      "element": 412,
+      "name": "Vitor de Oliveira Nunes dos Reis"
+    }
+  },
+  "616286": {
+    "2025-26": {
+      "element": 834,
+      "name": "Ryan Kavuma-McQueen"
+    }
+  },
+  "616288": {
+    "2025-26": {
+      "element": 742,
+      "name": "Ryan McAidoo"
+    }
+  },
+  "618027": {
+    "2025-26": {
+      "element": 781,
+      "name": "TJ Carroll"
+    }
+  },
+  "618873": {
+    "2025-26": {
+      "element": 463,
+      "name": "Sékou Koné"
+    }
+  },
+  "619536": {
+    "2025-26": {
+      "element": 770,
+      "name": "Seth Ridgeon"
+    }
+  },
+  "619734": {
+    "2025-26": {
+      "element": 829,
+      "name": "Jesse Derry"
+    }
+  },
+  "620487": {
+    "2025-26": {
+      "element": 721,
+      "name": "Veljko Milosavljevic"
+    }
+  },
+  "622536": {
+    "2025-26": {
+      "element": 114,
+      "name": "Benjamin Arthur"
+    }
+  },
+  "622758": {
+    "2025-26": {
+      "element": 234,
+      "name": "Aarón Anselmino"
+    }
+  },
+  "623095": {
+    "2025-26": {
+      "element": 594,
+      "name": "Yang Min-hyeok"
+    }
+  },
+  "623110": {
+    "2025-26": {
+      "element": 689,
+      "name": "Seung-Soo Park"
+    }
+  },
+  "624773": {
+    "2025-26": {
+      "element": 238,
+      "name": "Estêvão Almeida de Oliveira Gonçalves"
+    }
+  },
+  "626464": {
+    "2025-26": {
+      "element": 127,
+      "name": "Gustavo Nunes Fernandes Gomes"
+    }
+  },
+  "626844": {
+    "2025-26": {
+      "element": 546,
+      "name": "Milan Aleksić"
+    }
+  },
+  "627888": {
+    "2025-26": {
+      "element": 831,
+      "name": "Josh Gracey"
+    }
+  },
+  "628204": {
+    "2025-26": {
+      "element": 131,
+      "name": "Yunus Emre Konak"
+    }
+  },
+  "629068": {
+    "2025-26": {
+      "element": 779,
+      "name": "Braiden Graham"
+    }
+  },
+  "630699": {
+    "2025-26": {
+      "element": 758,
+      "name": "Mohamadou Kanté"
+    }
+  },
+  "631106": {
+    "2025-26": {
+      "element": 780,
+      "name": "Ben Casey"
+    }
+  },
+  "631786": {
+    "2025-26": {
+      "element": 737,
+      "name": "Jonah Kusi-Asare"
+    }
+  },
+  "640108": {
+    "2025-26": {
+      "element": 492,
+      "name": "Antoñito Cordero Campillo"
+    }
+  },
+  "640419": {
+    "2025-26": {
+      "element": 745,
+      "name": "Jun'ai Byfield"
+    }
+  },
+  "641221": {
+    "2025-26": {
+      "element": 640,
+      "name": "Pedro Cardoso de Lima"
+    }
+  },
+  "643135": {
+    "2025-26": {
+      "element": 645,
+      "name": "Fer López González"
+    }
+  },
+  "643426": {
+    "2025-26": {
+      "element": 773,
+      "name": "Dean Benamar"
+    }
+  },
+  "643473": {
+    "2025-26": {
+      "element": 752,
+      "name": "Airidas Golambeckis"
+    }
+  },
+  "643970": {
+    "2025-26": {
+      "element": 837,
+      "name": "Jayden Lienou"
+    }
+  },
+  "644593": {
+    "2025-26": {
+      "element": 820,
+      "name": "Kian McMahon-Brown"
+    }
+  },
+  "645618": {
+    "2025-26": {
+      "element": 702,
+      "name": "Bradley Burrowes"
+    }
+  },
+  "646243": {
+    "2025-26": {
+      "element": 711,
+      "name": "Andre Harriman-Annous"
+    }
+  },
+  "647671": {
+    "2025-26": {
+      "element": 749,
+      "name": "Mateus Mané"
+    }
+  },
+  "647681": {
+    "2025-26": {
+      "element": 692,
+      "name": "Giovanni Leoni"
+    }
+  },
+  "647850": {
+    "2025-26": {
+      "element": 181,
+      "name": "Charalampos Kostoulas"
+    }
+  },
+  "647960": {
+    "2025-26": {
+      "element": 776,
+      "name": "Oliver Pimlott"
+    }
+  },
+  "649240": {
+    "2025-26": {
+      "element": 823,
+      "name": "Joshua Stephenson"
+    }
+  },
+  "651426": {
+    "2025-26": {
+      "element": 723,
+      "name": "Jaydee Canvot"
+    }
+  },
+  "653481": {
+    "2025-26": {
+      "element": 792,
+      "name": "Alysson Edward Franco da Rocha dos Santos"
+    }
+  },
+  "658013": {
+    "2025-26": {
+      "element": 799,
+      "name": "Charlie Stevens"
+    }
+  },
+  "660392": {
+    "2025-26": {
+      "element": 732,
+      "name": "Christantus Uche"
+    }
+  },
+  "661712": {
+    "2025-26": {
+      "element": 439,
+      "name": "Diego León Blanco"
+    }
+  },
+  "664015": {
+    "2025-26": {
+      "element": 768,
+      "name": "Leon Routh"
+    }
+  },
+  "666607": {
+    "2025-26": {
+      "element": 772,
+      "name": "Sam Alabi"
+    }
+  },
+  "671606": {
+    "2025-26": {
+      "element": 833,
+      "name": "Mathis Eboué"
+    }
+  },
+  "672492": {
+    "2025-26": {
+      "element": 762,
+      "name": "Joél Drakes-Thomas"
+    }
+  },
+  "677945": {
+    "2025-26": {
+      "element": 830,
+      "name": "Will Wright"
+    }
+  },
+  "678552": {
+    "2025-26": {
+      "element": 756,
+      "name": "Malcom DaCosta"
+    }
+  },
+  "685628": {
+    "2025-26": {
+      "element": 809,
+      "name": "Jerome Abbey"
+    }
+  },
+  "687076": {
+    "2025-26": {
+      "element": 841,
+      "name": "Lamin Sillah"
+    }
+  },
+  "699989": {
+    "2025-26": {
+      "element": 800,
+      "name": "Djiamgone Jocelin Ta Bi"
+    }
+  },
+  "704232": {
+    "2025-26": {
+      "element": 784,
+      "name": "George Brierley"
+    }
+  },
+  "718875": {
+    "2025-26": {
+      "element": 832,
+      "name": "Talla Ndiaye"
+    }
+  }
+}

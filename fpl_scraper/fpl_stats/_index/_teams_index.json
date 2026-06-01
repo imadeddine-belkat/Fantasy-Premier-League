@@ -1,0 +1,142 @@
+{
+  "1": {
+    "2025-26": {
+      "id": 14,
+      "name": "Man Utd",
+      "short_name": "MUN"
+    }
+  },
+  "2": {
+    "2025-26": {
+      "id": 11,
+      "name": "Leeds",
+      "short_name": "LEE"
+    }
+  },
+  "3": {
+    "2025-26": {
+      "id": 1,
+      "name": "Arsenal",
+      "short_name": "ARS"
+    }
+  },
+  "4": {
+    "2025-26": {
+      "id": 15,
+      "name": "Newcastle",
+      "short_name": "NEW"
+    }
+  },
+  "6": {
+    "2025-26": {
+      "id": 18,
+      "name": "Spurs",
+      "short_name": "TOT"
+    }
+  },
+  "7": {
+    "2025-26": {
+      "id": 2,
+      "name": "Aston Villa",
+      "short_name": "AVL"
+    }
+  },
+  "8": {
+    "2025-26": {
+      "id": 7,
+      "name": "Chelsea",
+      "short_name": "CHE"
+    }
+  },
+  "11": {
+    "2025-26": {
+      "id": 9,
+      "name": "Everton",
+      "short_name": "EVE"
+    }
+  },
+  "14": {
+    "2025-26": {
+      "id": 12,
+      "name": "Liverpool",
+      "short_name": "LIV"
+    }
+  },
+  "17": {
+    "2025-26": {
+      "id": 16,
+      "name": "Nott'm Forest",
+      "short_name": "NFO"
+    }
+  },
+  "21": {
+    "2025-26": {
+      "id": 19,
+      "name": "West Ham",
+      "short_name": "WHU"
+    }
+  },
+  "31": {
+    "2025-26": {
+      "id": 8,
+      "name": "Crystal Palace",
+      "short_name": "CRY"
+    }
+  },
+  "36": {
+    "2025-26": {
+      "id": 6,
+      "name": "Brighton",
+      "short_name": "BHA"
+    }
+  },
+  "39": {
+    "2025-26": {
+      "id": 20,
+      "name": "Wolves",
+      "short_name": "WOL"
+    }
+  },
+  "43": {
+    "2025-26": {
+      "id": 13,
+      "name": "Man City",
+      "short_name": "MCI"
+    }
+  },
+  "54": {
+    "2025-26": {
+      "id": 10,
+      "name": "Fulham",
+      "short_name": "FUL"
+    }
+  },
+  "56": {
+    "2025-26": {
+      "id": 17,
+      "name": "Sunderland",
+      "short_name": "SUN"
+    }
+  },
+  "90": {
+    "2025-26": {
+      "id": 3,
+      "name": "Burnley",
+      "short_name": "BUR"
+    }
+  },
+  "91": {
+    "2025-26": {
+      "id": 4,
+      "name": "Bournemouth",
+      "short_name": "BOU"
+    }
+  },
+  "94": {
+    "2025-26": {
+      "id": 5,
+      "name": "Brentford",
+      "short_name": "BRE"
+    }
+  }
+}

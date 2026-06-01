@@ -24,15 +24,16 @@ class FPLClient:
     def bootstrap(self) -> dict:
         return get_json(self.session, config.BASE_URL + "bootstrap-static/")
 
+    def current_season(self, boot: dict | None = None) -> str:
+        return config.season_from_bootstrap(boot or self.bootstrap())
+
     def fixtures(self) -> list[dict]:
         return get_json(self.session, config.BASE_URL + "fixtures/")
 
     def fixture_codes(self) -> dict[int, int]:
-        """fixture id -> fixture code. Keyed by id so double GWs map correctly."""
         return {f["id"]: f["code"] for f in self.fixtures()}
 
     def player_summary(self, player_id: int) -> dict | None:
-        """element-summary with disk cache. Returns parsed JSON or None on 404."""
         cache_path = self.cache_dir / f"player_{player_id}.json"
         if cache_path.exists():
             with cache_path.open(encoding="utf-8") as f:
@@ -49,5 +50,5 @@ class FPLClient:
         cache_path.parent.mkdir(parents=True, exist_ok=True)
         with cache_path.open("w", encoding="utf-8") as f:
             json.dump(payload, f)
-        time.sleep(config.PLAYER_FETCH_DELAY)  # only on real network hits
+        time.sleep(config.PLAYER_FETCH_DELAY) 
         return payload

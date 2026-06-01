@@ -13,16 +13,17 @@ log = logging.getLogger("fpl")
 
 
 def main() -> None:
-    season = config.get_current_season()
-    log.info("Starting Players Sync for %s", season)
-
-    client = FPLClient(make_session(), season)
+    # Clock season scopes the on-disk cache; the authoritative season label for
+    # filenames comes from the API (GW1 deadline) once bootstrap is fetched.
+    client = FPLClient(make_session(), config.get_current_season())
 
     log.info("Fetching fixtures...")
     fixture_code = client.fixture_codes()
 
     log.info("Fetching master player list...")
     boot = client.bootstrap()
+    season = client.current_season(boot)
+    log.info("Players Sync for %s", season)
     players_meta = boot["elements"]
     team_dir_name = {t["id"]: clean_filename(f"{t['name']}_{t['code']}") for t in boot["teams"]}
     log.info("Processing %d players...", len(players_meta))
@@ -68,13 +69,6 @@ def main() -> None:
             shape_player_rows(rows),
             config.ROOT / "players" / folder / f"{season}_gw_stats.csv",
         )
-
-    log.info("Writing season-wide player index...")
-    all_rows = [row for rows in player_rows.values() for row in rows]
-    write_csv(
-        shape_player_rows(all_rows),
-        config.ROOT / "_index" / "players" / f"{season}_all_players_gw.csv",
-    )
 
     log.info(
         "Players sync complete! Wrote %d team files, %d player files.",

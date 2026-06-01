@@ -14,6 +14,7 @@ scrape_player_stats.py
 badges_scraper.py
 merge_players.py
 build_index.py
+merge_events.py
 
 cache
 pl
