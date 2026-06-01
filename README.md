@@ -95,8 +95,8 @@ Premier-League-Stats/
 
 > **Note:** The tooling that builds the historical `pl_stats/` archive (the `pl/`
 > package and its PulseLive client, plus local scripts such as `scrape_team_stats.py`,
-> `scrape_player_stats.py`, `scrape_squads.py`, `badges_scraper.py`, `merge_players.py`,
-> and `build_index.py`) is run **locally and is not committed** — only the resulting
+> `scrape_player_stats.py`, `scrape_squads.py`, `badges_scraper.py`, `merge_events.py`,
+> `merge_players.py`, and `build_index.py`) is run **locally and is not committed** — only the resulting
 > CSVs, badge SVGs, and index files are pushed. These scripts hit the Premier League's
 > internal PulseLive API, which is unsafe to run from public CI.
 
@@ -137,10 +137,19 @@ Club-by-club PulseLive data for 40+ current and historic top-flight clubs — in
 | `events_stats/{season}_events_stats.csv` | Per-match team event data (~70 columns: xG, passing, duels, set pieces, defensive actions) |
 | `players_stats/{season}_players_stats.csv` | Per-player season aggregates (~110 columns) |
 | `squad/{season}_squad.csv` | Squad list with bios: position, nationality, DOB, height/weight, loan status |
-| `_merged/teams/all_events_stats.csv` | All clubs × all seasons of team event stats, one file |
+| `_merged/teams/all_events_stats.csv` | **Match-centric:** one row per fixture, both clubs combined, all seasons (2009-10 → present) |
 | `_merged/players/all_players_stats.csv` | All clubs × all seasons of player aggregates, one file |
 
 Each `_merged/` group also ships per-club and per-season splits (`teams/teams/`, `teams/seasons/`, `players/players/`, `players/seasons/`) for narrower loads.
+
+> **Merged team schema (home/away pairing).** The per-club `events_stats/` files hold
+> **one row per team per match** (a fixture appears twice — once from each side). The
+> `_merged/teams/` files collapse those into **one row per fixture**: shared match
+> metadata (`season`, `matchId`, `gameweek`, `kickoff`, `ground`, `attendance`,
+> `home_team`, `away_team`) is written once, and every event metric is split into a
+> home/away pair — `goalsFor_h` / `goalsFor_a`, `expectedGoals_h` / `expectedGoals_a`,
+> and so on. `matchId` is the join key; `venue` (`Home`/`Away`) in the source rows
+> resolves which side is which. The result is 128 columns across ~6,460 matches.
 
 ### 5. Index & Lookup Maps
 Small JSON dictionaries under `pl_stats/_index/` for resolving numeric ids to names.
@@ -222,6 +231,7 @@ print(top)
 - FPL underlying metrics (xG, xA, ICT) are the provider's own values and **may be revised post-match** — rows the API can still change are flagged via the `modified` column.
 - **Lookahead bias:** any form/expected field the API updates after a deadline can leak future information. Shift such features by one gameweek or exclude them when training.
 - The PulseLive `events_stats` schema can drift across seasons; merge tooling takes the column union, so older seasons may show empty cells for metrics introduced later.
+- The match-centric `_merged/teams/` build pairs the two source rows of each fixture by `matchId`. A fixture is included only when exactly one `Home` and one `Away` row resolve for that `matchId`; any unpaired or duplicated rows are dropped, so a season's merged match count may fall slightly below `games ÷ 2` if the source had ID inconsistencies.
 
 ---
 
