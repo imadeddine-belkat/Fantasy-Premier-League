@@ -12,9 +12,12 @@ scrape_team_stats.py
 scrape_squads.py
 scrape_player_stats.py
 badges_scraper.py
-merge_players.py
+
 build_index.py
-merge_events.py
+
+merge_season_events.py
+merge_team_events.py
+merge_season_players.py
 
 cache
 pl

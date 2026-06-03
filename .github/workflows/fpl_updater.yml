@@ -31,6 +31,7 @@ jobs:
           python scrape_players.py
           python scrape_fixtures.py
           python build_index_fpl.py
+          python merge_players.py
         working-directory: fpl_scraper
 
       - name: Commit and Push Changes
