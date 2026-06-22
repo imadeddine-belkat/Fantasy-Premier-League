@@ -1,4 +1,4 @@
-season,matchId,gameweek,team_id,team,venue,playerId,pl_id,playerName,slug,position,substitute,goalAssist,goals,minutesPlayed,ownGoals,totalShots
+season,matchId,gameweek,team_id,team,venue,playerId,pl_code,playerName,slug,position,substitute,goalAssist,goals,minutesPlayed,ownGoals,totalShots
 2012-13,2753868,1,111,Wigan_Athletic,Home,642,16045,Ben Watson,ben-watson,M,True,0.0,0.0,,0.0,0.0
 2012-13,2753868,1,111,Wigan_Athletic,Home,649,3296,Emmerson Boyce,emmerson-boyce,D,False,0.0,0.0,90.0,0.0,0.0
 2012-13,2753868,1,111,Wigan_Athletic,Home,773,19556,David Jones,david-jones,M,True,,,,,

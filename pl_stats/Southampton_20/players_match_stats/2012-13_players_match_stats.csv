@@ -1,4 +1,4 @@
-season,matchId,gameweek,team_id,team,venue,playerId,pl_id,playerName,slug,position,substitute,goalAssist,goals,minutesPlayed,ownGoals,totalShots
+season,matchId,gameweek,team_id,team,venue,playerId,pl_code,playerName,slug,position,substitute,goalAssist,goals,minutesPlayed,ownGoals,totalShots
 2012-13,2753856,1,20,Southampton,Away,559,17339,Steven Davis,steven-davis,M,True,0.0,1.0,,0.0,0.0
 2012-13,2753856,1,20,Southampton,Away,9694,3673,Kelvin Davis,kelvin-davis,G,False,0.0,0.0,90.0,0.0,0.0
 2012-13,2753856,1,20,Southampton,Away,10169,12092,Frazer Richardson,frazer-richardson,D,True,,,,,

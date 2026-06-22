@@ -1,4 +1,4 @@
-season,matchId,gameweek,team_id,team,venue,playerId,pl_id,playerName,slug,position,substitute,goalAssist,goals,minutesPlayed,ownGoals,penaltyMiss,totalShots
+season,matchId,gameweek,team_id,team,venue,playerId,pl_code,playerName,slug,position,substitute,goalAssist,goals,minutesPlayed,ownGoals,penaltyMiss,totalShots
 2010-11,1379598,1,8,Chelsea,Home,2,3785,Ashley Cole,ashley-cole,D,False,1.0,0.0,90.0,0.0,,0.0
 2010-11,1379598,1,8,Chelsea,Home,1185,11334,Petr Čech,petr-cech,G,False,0.0,0.0,90.0,0.0,,0.0
 2010-11,1379598,1,8,Chelsea,Home,1198,16734,Paulo Ferreira,paulo-ferreira,D,False,0.0,0.0,60.0,0.0,,0.0

@@ -1,4 +1,4 @@
-season,matchId,gameweek,team_id,team,venue,playerId,pl_id,playerName,slug,position,substitute,goalAssist,goals,minutesPlayed,ownGoals,penaltyMiss,totalShots
+season,matchId,gameweek,team_id,team,venue,playerId,pl_code,playerName,slug,position,substitute,goalAssist,goals,minutesPlayed,ownGoals,penaltyMiss,totalShots
 2011-12,1768169,1,54,Fulham,Home,514,4098,John Arne Riise,john-arne-riise,D,False,0.0,0.0,90.0,0.0,,0.0
 2011-12,1768169,1,54,Fulham,Home,530,16854,Philippe Senderos,philippe-senderos,D,False,0.0,0.0,90.0,0.0,,0.0
 2011-12,1768169,1,54,Fulham,Home,563,1869,Aaron Hughes,aaron-hughes,D,False,0.0,0.0,90.0,0.0,,0.0

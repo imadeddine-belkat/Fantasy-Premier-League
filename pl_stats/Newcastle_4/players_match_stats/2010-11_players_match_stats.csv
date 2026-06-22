@@ -1,4 +1,4 @@
-season,matchId,gameweek,team_id,team,venue,playerId,pl_id,playerName,slug,position,substitute,goalAssist,goals,minutesPlayed,ownGoals,totalShots
+season,matchId,gameweek,team_id,team,venue,playerId,pl_code,playerName,slug,position,substitute,goalAssist,goals,minutesPlayed,ownGoals,totalShots
 2010-11,1379600,1,4,Newcastle_United,Away,636,11829,Wayne Routledge,wayne-routledge,F,False,0.0,0.0,90.0,0.0,0.0
 2010-11,1379600,1,4,Newcastle_United,Away,757,999,Alan Smith,alan-smith,M,False,0.0,0.0,90.0,0.0,0.0
 2010-11,1379600,1,4,Newcastle_United,Away,788,1881,Steve Harper,steve-harper,G,False,0.0,0.0,90.0,0.0,0.0

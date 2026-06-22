@@ -1,4 +1,4 @@
-season,matchId,gameweek,team_id,team,venue,playerId,pl_id,playerName,slug,position,substitute,goalAssist,goals,minutesPlayed,ownGoals,penaltyMiss,totalShots
+season,matchId,gameweek,team_id,team,venue,playerId,pl_code,playerName,slug,position,substitute,goalAssist,goals,minutesPlayed,ownGoals,penaltyMiss,totalShots
 2010-11,1379598,1,35,West_Bromwich_Albion,Away,609,3332,Steven Reid,steven-reid,M,True,,,,,,
 2010-11,1379598,1,35,West_Bromwich_Albion,Away,716,17601,Scott Carson,scott-carson,G,False,0.0,0.0,90.0,0.0,,0.0
 2010-11,1379598,1,35,West_Bromwich_Albion,Away,822,18008,James Morrison,james-morrison,M,False,0.0,0.0,90.0,0.0,,0.0

@@ -1,4 +1,4 @@
-season,matchId,gameweek,team_id,team,venue,playerId,pl_id,playerName,slug,position,substitute,goalAssist,goals,minutesPlayed,ownGoals,totalShots
+season,matchId,gameweek,team_id,team,venue,playerId,pl_code,playerName,slug,position,substitute,goalAssist,goals,minutesPlayed,ownGoals,totalShots
 2012-13,2753858,1,6,Tottenham_Hotspur,Away,597,1803,Brad Friedel,brad-friedel,G,False,0.0,0.0,90.0,0.0,0.0
 2012-13,2753858,1,6,Tottenham_Hotspur,Away,783,10451,Jermaine Jenas,jermaine-jenas,M,True,,,,,
 2012-13,2753858,1,6,Tottenham_Hotspur,Away,946,7958,Jermain Defoe,jermain-defoe,F,False,0.0,1.0,90.0,0.0,0.0

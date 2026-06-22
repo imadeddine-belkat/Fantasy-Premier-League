@@ -1,4 +1,4 @@
-season,matchId,gameweek,team_id,team,venue,playerId,pl_id,playerName,slug,position,substitute,goalAssist,goals,minutesPlayed,ownGoals,penaltyMiss,totalShots
+season,matchId,gameweek,team_id,team,venue,playerId,pl_code,playerName,slug,position,substitute,goalAssist,goals,minutesPlayed,ownGoals,penaltyMiss,totalShots
 2013-14,3964803,1,54,Fulham,Away,278,8595,Dimitar Berbatov,dimitar-berbatov,F,False,0.0,0.0,90.0,0.0,,0.0
 2013-14,3964803,1,54,Fulham,Away,474,17160,Sascha Riether,sascha-riether,D,False,0.0,0.0,90.0,0.0,,0.0
 2013-14,3964803,1,54,Fulham,Away,530,16854,Philippe Senderos,philippe-senderos,D,True,,,,,,

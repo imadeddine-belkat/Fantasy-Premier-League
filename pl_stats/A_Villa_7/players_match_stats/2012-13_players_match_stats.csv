@@ -1,4 +1,4 @@
-season,matchId,gameweek,team_id,team,venue,playerId,pl_id,playerName,slug,position,substitute,goalAssist,goals,minutesPlayed,ownGoals,totalShots
+season,matchId,gameweek,team_id,team,venue,playerId,pl_code,playerName,slug,position,substitute,goalAssist,goals,minutesPlayed,ownGoals,totalShots
 2012-13,2753866,1,7,Aston_Villa,Away,766,1822,Shay Given,shay-given,G,False,0.0,0.0,90.0,0.0,0.0
 2012-13,2753866,1,7,Aston_Villa,Away,789,18737,Charles N'Zogbia,charles-nzogbia,M,False,0.0,0.0,90.0,0.0,0.0
 2012-13,2753866,1,7,Aston_Villa,Away,2660,39242,Karim El Ahmadi,karim-el-ahmadi,M,False,0.0,0.0,90.0,0.0,0.0

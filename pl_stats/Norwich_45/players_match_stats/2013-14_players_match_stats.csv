@@ -1,4 +1,4 @@
-season,matchId,gameweek,team_id,team,venue,playerId,pl_id,playerName,slug,position,substitute,goalAssist,goals,minutesPlayed,ownGoals,totalShots
+season,matchId,gameweek,team_id,team,venue,playerId,pl_code,playerName,slug,position,substitute,goalAssist,goals,minutesPlayed,ownGoals,totalShots
 2013-14,3964801,1,45,Norwich_City,Home,512,18665,Alexander Tettey,alexander-tettey,M,True,0.0,0.0,17.0,0.0,0.0
 2013-14,3964801,1,45,Norwich_City,Home,1131,19236,John Ruddy,john-ruddy,G,False,0.0,0.0,90.0,0.0,0.0
 2013-14,3964801,1,45,Norwich_City,Home,5177,17271,Javier Garrido,javier-garrido,D,False,0.0,0.0,90.0,0.0,0.0

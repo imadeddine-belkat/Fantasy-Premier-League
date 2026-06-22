@@ -1,4 +1,4 @@
-season,matchId,gameweek,team_id,team,venue,playerId,pl_id,playerName,slug,position,substitute,goalAssist,goals,minutesPlayed,ownGoals,totalShots
+season,matchId,gameweek,team_id,team,venue,playerId,pl_code,playerName,slug,position,substitute,goalAssist,goals,minutesPlayed,ownGoals,totalShots
 2009-10,1062466,1,30,Bolton_Wanderers,Home,541,3754,Jlloyd Samuel,jlloyd-samuel,M,True,,,,,
 2009-10,1062466,1,30,Bolton_Wanderers,Home,546,1999,Gavin McCann,gavin-mccann,,False,0.0,0.0,68.0,0.0,0.0
 2009-10,1062466,1,30,Bolton_Wanderers,Home,666,1587,Zat Knight,zat-knight,D,False,0.0,0.0,90.0,0.0,0.0

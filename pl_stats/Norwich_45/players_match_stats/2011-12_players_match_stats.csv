@@ -1,4 +1,4 @@
-season,matchId,gameweek,team_id,team,venue,playerId,pl_id,playerName,slug,position,substitute,goalAssist,goals,minutesPlayed,ownGoals,totalShots
+season,matchId,gameweek,team_id,team,venue,playerId,pl_code,playerName,slug,position,substitute,goalAssist,goals,minutesPlayed,ownGoals,totalShots
 2011-12,1768177,1,45,Norwich_City,Away,734,18144,Zak Whitbread,zak-whitbread,D,False,0.0,0.0,71.0,0.0,0.0
 2011-12,1768177,1,45,Norwich_City,Away,1131,19236,John Ruddy,john-ruddy,G,False,0.0,0.0,90.0,0.0,0.0
 2011-12,1768177,1,45,Norwich_City,Away,10288,15201,Leon Barnett,leon-barnett,D,True,0.0,0.0,19.0,0.0,0.0

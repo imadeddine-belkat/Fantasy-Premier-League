@@ -1,4 +1,4 @@
-season,matchId,gameweek,team_id,team,venue,playerId,pl_id,playerName,slug,position,substitute,goalAssist,goals,minutesPlayed,ownGoals,totalShots
+season,matchId,gameweek,team_id,team,venue,playerId,pl_code,playerName,slug,position,substitute,goalAssist,goals,minutesPlayed,ownGoals,totalShots
 2013-14,3964799,1,4,Newcastle_United,Away,794,6240,Shola Ameobi,shola-ameobi,F,True,,,,,
 2013-14,3964799,1,4,Newcastle_United,Away,796,17974,Steven Taylor,steven-taylor,D,False,0.0,0.0,45.0,0.0,0.0
 2013-14,3964799,1,4,Newcastle_United,Away,3057,7933,Fabricio Coloccini,fabricio-coloccini,D,False,0.0,0.0,90.0,0.0,0.0

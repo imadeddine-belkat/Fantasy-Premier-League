@@ -1,4 +1,4 @@
-season,matchId,gameweek,team_id,team,venue,playerId,pl_id,playerName,slug,position,substitute,goalAssist,goals,minutesPlayed,ownGoals,totalShots
+season,matchId,gameweek,team_id,team,venue,playerId,pl_code,playerName,slug,position,substitute,goalAssist,goals,minutesPlayed,ownGoals,totalShots
 2010-11,1379601,1,41,Birmingham_City,Away,524,19057,Sebastian Larsson,sebastian-larsson,M,False,2.0,0.0,90.0,0.0,0.0
 2010-11,1379601,1,41,Birmingham_City,Away,556,14278,Liam Ridgewell,liam-ridgewell,D,False,0.0,1.0,90.0,0.0,0.0
 2010-11,1379601,1,41,Birmingham_City,Away,565,1550,Maik Taylor,maik-taylor,G,True,,,,,

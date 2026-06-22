@@ -1,4 +1,4 @@
-season,matchId,gameweek,team_id,team,venue,playerId,pl_id,playerName,slug,position,substitute,goalAssist,goals,minutesPlayed,ownGoals,totalShots
+season,matchId,gameweek,team_id,team,venue,playerId,pl_code,playerName,slug,position,substitute,goalAssist,goals,minutesPlayed,ownGoals,totalShots
 2012-13,2753868,1,8,Chelsea,Away,2,3785,Ashley Cole,ashley-cole,D,False,0.0,0.0,90.0,0.0,0.0
 2012-13,2753868,1,8,Chelsea,Away,824,17694,Ross Turnbull,ross-turnbull,G,True,,,,,
 2012-13,2753868,1,8,Chelsea,Away,1185,11334,Petr Čech,petr-cech,G,False,0.0,0.0,90.0,0.0,0.0

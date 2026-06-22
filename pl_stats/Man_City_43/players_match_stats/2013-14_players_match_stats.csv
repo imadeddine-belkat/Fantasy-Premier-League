@@ -1,4 +1,4 @@
-season,matchId,gameweek,team_id,team,venue,playerId,pl_id,playerName,slug,position,substitute,goalAssist,goals,minutesPlayed,ownGoals,totalShots
+season,matchId,gameweek,team_id,team,venue,playerId,pl_code,playerName,slug,position,substitute,goalAssist,goals,minutesPlayed,ownGoals,totalShots
 2013-14,3964799,1,43,Manchester_City,Home,532,17336,Gaël Clichy,gael-clichy,D,False,0.0,0.0,90.0,0.0,0.0
 2013-14,3964799,1,43,Manchester_City,Home,791,15157,James Milner,james-milner,M,True,,,,,
 2013-14,3964799,1,43,Manchester_City,Home,3544,28554,Samir Nasri,samir-nasri,M,True,0.0,1.0,28.0,0.0,0.0

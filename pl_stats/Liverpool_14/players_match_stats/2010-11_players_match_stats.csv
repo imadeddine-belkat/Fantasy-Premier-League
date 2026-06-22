@@ -1,4 +1,4 @@
-season,matchId,gameweek,team_id,team,venue,playerId,pl_id,playerName,slug,position,substitute,goalAssist,goals,minutesPlayed,ownGoals,penaltyMiss,totalShots
+season,matchId,gameweek,team_id,team,venue,playerId,pl_code,playerName,slug,position,substitute,goalAssist,goals,minutesPlayed,ownGoals,penaltyMiss,totalShots
 2010-11,1379599,1,14,Liverpool,Home,701,1814,Steven Gerrard,steven-gerrard,M,False,0.0,0.0,90.0,0.0,,0.0
 2010-11,1379599,1,14,Liverpool,Home,723,1809,Jamie Carragher,jamie-carragher,D,False,0.0,0.0,90.0,0.0,,0.0
 2010-11,1379599,1,14,Liverpool,Home,1204,9047,Glen Johnson,glen-johnson,D,False,0.0,0.0,90.0,0.0,,0.0

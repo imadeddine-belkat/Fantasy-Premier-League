@@ -1,4 +1,4 @@
-season,matchId,gameweek,team_id,team,venue,playerId,pl_id,playerName,slug,position,substitute,goalAssist,goals,minutesPlayed,ownGoals,totalShots
+season,matchId,gameweek,team_id,team,venue,playerId,pl_code,playerName,slug,position,substitute,goalAssist,goals,minutesPlayed,ownGoals,totalShots
 2011-12,2155438,1,6,Tottenham_Hotspur,Home,597,1803,Brad Friedel,brad-friedel,G,False,0.0,0.0,90.0,0.0,0.0
 2011-12,2155438,1,6,Tottenham_Hotspur,Home,927,12679,Michael Dawson,michael-dawson,D,False,0.0,0.0,90.0,0.0,0.0
 2011-12,2155438,1,6,Tottenham_Hotspur,Home,946,7958,Jermain Defoe,jermain-defoe,F,True,,,,,

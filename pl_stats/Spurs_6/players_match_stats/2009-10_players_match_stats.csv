@@ -1,4 +1,4 @@
-season,matchId,gameweek,team_id,team,venue,playerId,pl_id,playerName,slug,position,substitute,goalAssist,goals,minutesPlayed,ownGoals,penaltyMiss,totalShots
+season,matchId,gameweek,team_id,team,venue,playerId,pl_code,playerName,slug,position,substitute,goalAssist,goals,minutesPlayed,ownGoals,penaltyMiss,totalShots
 2009-10,1062472,1,6,Tottenham_Hotspur,Home,917,3773,Peter Crouch,peter-crouch,F,True,0.0,0.0,22.0,0.0,,0.0
 2009-10,1062472,1,6,Tottenham_Hotspur,Home,943,1710,Robbie Keane,robbie-keane,F,False,0.0,0.0,68.0,0.0,,0.0
 2009-10,1062472,1,6,Tottenham_Hotspur,Home,946,7958,Jermain Defoe,jermain-defoe,F,False,0.0,0.0,90.0,0.0,,0.0

@@ -1,4 +1,4 @@
-season,matchId,gameweek,team_id,team,venue,playerId,pl_id,playerName,slug,position,substitute,goalAssist,goals,minutesPlayed,ownGoals,penaltyMiss,totalShots
+season,matchId,gameweek,team_id,team,venue,playerId,pl_code,playerName,slug,position,substitute,goalAssist,goals,minutesPlayed,ownGoals,penaltyMiss,totalShots
 2010-11,1379597,1,30,Bolton_Wanderers,Home,495,9765,Ivan Klasnić,ivan-klasnic,F,True,0.0,0.0,1.0,0.0,,0.0
 2010-11,1379597,1,30,Bolton_Wanderers,Home,571,1615,Robert Blake,robert-blake,,True,,,,,,
 2010-11,1379597,1,30,Bolton_Wanderers,Home,666,1587,Zat Knight,zat-knight,D,False,0.0,0.0,90.0,0.0,,0.0

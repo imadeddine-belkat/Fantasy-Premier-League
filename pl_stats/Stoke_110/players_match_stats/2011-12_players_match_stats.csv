@@ -1,4 +1,4 @@
-season,matchId,gameweek,team_id,team,venue,playerId,pl_id,playerName,slug,position,substitute,goalAssist,goals,minutesPlayed,ownGoals,penaltyMiss,totalShots
+season,matchId,gameweek,team_id,team,venue,playerId,pl_code,playerName,slug,position,substitute,goalAssist,goals,minutesPlayed,ownGoals,penaltyMiss,totalShots
 2011-12,1768174,1,110,Stoke_City,Home,540,1945,Thomas Sorensen,thomas-sorensen,G,True,,,,,,
 2011-12,1768174,1,110,Stoke_City,Home,572,3658,Jermaine Pennant,jermaine-pennant,M,False,0.0,0.0,90.0,0.0,,0.0
 2011-12,1768174,1,110,Stoke_City,Home,709,6769,Salif Alassane Diao,salif-alassane-diao,M,True,,,,,,

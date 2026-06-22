@@ -1,4 +1,4 @@
-season,matchId,gameweek,team_id,team,venue,playerId,pl_id,playerName,slug,position,substitute,goalAssist,goals,minutesPlayed,ownGoals,penaltyMiss,totalShots
+season,matchId,gameweek,team_id,team,venue,playerId,pl_code,playerName,slug,position,substitute,goalAssist,goals,minutesPlayed,ownGoals,penaltyMiss,totalShots
 2011-12,1768168,1,39,Wolverhampton_Wanderers,Away,1846,38251,Dorus De Vries,dorus-de-vries,G,True,,,,,,
 2011-12,1768168,1,39,Wolverhampton_Wanderers,Away,9216,18953,Steven Fletcher,steven-fletcher,F,False,0.0,1.0,90.0,0.0,,0.0
 2011-12,1768168,1,39,Wolverhampton_Wanderers,Away,9386,19008,Christophe Berra,christophe-berra,D,False,0.0,0.0,90.0,0.0,,0.0

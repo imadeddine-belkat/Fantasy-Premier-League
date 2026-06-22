@@ -1,4 +1,4 @@
-season,matchId,gameweek,team_id,team,venue,playerId,pl_id,playerName,slug,position,substitute,goalAssist,goals,minutesPlayed,ownGoals,penaltyMiss,totalShots
+season,matchId,gameweek,team_id,team,venue,playerId,pl_code,playerName,slug,position,substitute,goalAssist,goals,minutesPlayed,ownGoals,penaltyMiss,totalShots
 2009-10,1062469,1,1,Manchester_United,Home,278,8595,Dimitar Berbatov,dimitar-berbatov,F,False,0.0,0.0,74.0,0.0,,0.0
 2009-10,1062469,1,1,Manchester_United,Home,749,1841,Wes Brown,wes-brown,D,True,0.0,0.0,15.0,0.0,,0.0
 2009-10,1062469,1,1,Manchester_United,Home,751,13017,Wayne Rooney,wayne-rooney,F,False,0.0,1.0,90.0,0.0,,0.0

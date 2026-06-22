@@ -1,4 +1,4 @@
-season,matchId,gameweek,team_id,team,venue,playerId,pl_id,playerName,slug,position,substitute,goalAssist,goals,minutesPlayed,ownGoals,penaltyMiss,totalShots
+season,matchId,gameweek,team_id,team,venue,playerId,pl_code,playerName,slug,position,substitute,goalAssist,goals,minutesPlayed,ownGoals,penaltyMiss,totalShots
 2010-11,1379599,1,3,Arsenal,Away,1,12297,Robin van Persie,robin-van-persie,F,True,0.0,0.0,14.0,0.0,,0.0
 2010-11,1379599,1,3,Arsenal,Away,108,8597,Tomáš Rosický,tomas-rosicky,M,True,0.0,0.0,30.0,0.0,,0.0
 2010-11,1379599,1,3,Arsenal,Away,521,14422,Manuel Almunia,manuel-almunia,G,False,0.0,0.0,90.0,0.0,,0.0

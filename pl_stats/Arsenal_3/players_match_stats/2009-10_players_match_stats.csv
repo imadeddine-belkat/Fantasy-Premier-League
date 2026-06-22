@@ -1,4 +1,4 @@
-season,matchId,gameweek,team_id,team,venue,playerId,pl_id,playerName,slug,position,substitute,goalAssist,goals,minutesPlayed,ownGoals,penaltyMiss,totalShots
+season,matchId,gameweek,team_id,team,venue,playerId,pl_code,playerName,slug,position,substitute,goalAssist,goals,minutesPlayed,ownGoals,penaltyMiss,totalShots
 2009-10,1062468,1,3,Arsenal,Away,1,12297,Robin van Persie,robin-van-persie,F,False,2.0,0.0,72.0,0.0,,0.0
 2009-10,1062468,1,3,Arsenal,Away,518,17878,Cesc Fàbregas,cesc-fabregas,M,False,2.0,2.0,72.0,0.0,,0.0
 2009-10,1062468,1,3,Arsenal,Away,521,14422,Manuel Almunia,manuel-almunia,G,False,1.0,0.0,90.0,0.0,,0.0

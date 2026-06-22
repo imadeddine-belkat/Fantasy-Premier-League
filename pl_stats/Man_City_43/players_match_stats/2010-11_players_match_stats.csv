@@ -1,4 +1,4 @@
-season,matchId,gameweek,team_id,team,venue,playerId,pl_id,playerName,slug,position,substitute,goalAssist,goals,minutesPlayed,ownGoals,penaltyMiss,totalShots
+season,matchId,gameweek,team_id,team,venue,playerId,pl_code,playerName,slug,position,substitute,goalAssist,goals,minutesPlayed,ownGoals,penaltyMiss,totalShots
 2010-11,1379602,1,43,Manchester_City,Away,3,1593,Patrick Vieira,patrick-vieira,M,True,,,,,,
 2010-11,1379602,1,43,Manchester_City,Away,534,12450,Kolo Touré,kolo-toure,D,False,0.0,0.0,90.0,0.0,,0.0
 2010-11,1379602,1,43,Manchester_City,Away,544,1632,Gareth Barry,gareth-barry,M,False,0.0,0.0,90.0,0.0,,0.0

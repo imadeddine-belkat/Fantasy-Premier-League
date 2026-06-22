@@ -1,4 +1,4 @@
-season,matchId,gameweek,team_id,team,venue,playerId,pl_id,playerName,slug,position,substitute,goalAssist,goals,minutesPlayed,ownGoals,totalShots
+season,matchId,gameweek,team_id,team,venue,playerId,pl_code,playerName,slug,position,substitute,goalAssist,goals,minutesPlayed,ownGoals,totalShots
 2009-10,1062465,1,43,Manchester_City,Away,10,3201,Stuart Taylor,stuart-taylor,G,True,,,,,
 2009-10,1062465,1,43,Manchester_City,Away,534,12450,Kolo Touré,kolo-toure,D,False,0.0,0.0,90.0,0.0,0.0
 2009-10,1062465,1,43,Manchester_City,Away,544,1632,Gareth Barry,gareth-barry,M,False,0.0,0.0,90.0,0.0,0.0

@@ -1,4 +1,4 @@
-season,matchId,gameweek,team_id,team,venue,playerId,pl_id,playerName,slug,position,substitute,goalAssist,goals,minutesPlayed,ownGoals,penaltyMiss,totalShots
+season,matchId,gameweek,team_id,team,venue,playerId,pl_code,playerName,slug,position,substitute,goalAssist,goals,minutesPlayed,ownGoals,penaltyMiss,totalShots
 2011-12,1768171,1,4,Newcastle_United,Home,794,6240,Shola Ameobi,shola-ameobi,F,False,0.0,0.0,73.0,0.0,,0.0
 2011-12,1768171,1,4,Newcastle_United,Home,796,17974,Steven Taylor,steven-taylor,D,False,0.0,0.0,90.0,0.0,,0.0
 2011-12,1768171,1,4,Newcastle_United,Home,915,16005,Leon Best,leon-best,F,True,0.0,0.0,17.0,0.0,,0.0

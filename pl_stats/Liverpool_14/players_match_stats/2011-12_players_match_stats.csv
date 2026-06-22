@@ -1,4 +1,4 @@
-season,matchId,gameweek,team_id,team,venue,playerId,pl_id,playerName,slug,position,substitute,goalAssist,goals,minutesPlayed,ownGoals,penaltyMiss,totalShots
+season,matchId,gameweek,team_id,team,venue,playerId,pl_code,playerName,slug,position,substitute,goalAssist,goals,minutesPlayed,ownGoals,penaltyMiss,totalShots
 2011-12,1768170,1,14,Liverpool,Home,723,1809,Jamie Carragher,jamie-carragher,D,False,0.0,0.0,90.0,0.0,,0.0
 2011-12,1768170,1,14,Liverpool,Home,816,12002,Stewart Downing,stewart-downing,M,False,0.0,0.0,90.0,0.0,,0.0
 2011-12,1768170,1,14,Liverpool,Home,2221,4719,Dirk Kuyt,dirk-kuyt,M,True,0.0,0.0,30.0,0.0,,0.0

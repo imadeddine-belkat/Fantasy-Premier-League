@@ -1,4 +1,4 @@
-season,matchId,gameweek,team_id,team,venue,playerId,pl_id,playerName,slug,position,substitute,goalAssist,goals,minutesPlayed,ownGoals,totalShots
+season,matchId,gameweek,team_id,team,venue,playerId,pl_code,playerName,slug,position,substitute,goalAssist,goals,minutesPlayed,ownGoals,totalShots
 2010-11,1379603,1,110,Stoke_City,Away,540,1945,Thomas Sorensen,thomas-sorensen,G,False,0.0,0.0,90.0,0.0,0.0
 2010-11,1379603,1,110,Stoke_City,Away,900,1679,Rory Delap,rory-delap,M,False,0.0,0.0,90.0,0.0,0.0
 2010-11,1379603,1,110,Stoke_City,Away,1203,12413,Robert Huth,robert-huth,D,False,0.0,0.0,90.0,0.0,0.0

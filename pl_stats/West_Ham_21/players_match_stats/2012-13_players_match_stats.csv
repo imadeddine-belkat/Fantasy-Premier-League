@@ -1,4 +1,4 @@
-season,matchId,gameweek,team_id,team,venue,playerId,pl_id,playerName,slug,position,substitute,goalAssist,goals,minutesPlayed,ownGoals,totalShots
+season,matchId,gameweek,team_id,team,venue,playerId,pl_code,playerName,slug,position,substitute,goalAssist,goals,minutesPlayed,ownGoals,totalShots
 2012-13,2753866,1,21,West_Ham_United,Home,98,10356,Guy Demel,guy-demel,D,False,0.0,0.0,90.0,0.0,0.0
 2012-13,2753866,1,21,West_Ham_United,Home,864,3289,Matthew Taylor,matthew-taylor,D,False,0.0,0.0,90.0,0.0,0.0
 2012-13,2753866,1,21,West_Ham_United,Home,1227,5306,Kevin Nolan,kevin-nolan,M,False,0.0,1.0,90.0,0.0,0.0

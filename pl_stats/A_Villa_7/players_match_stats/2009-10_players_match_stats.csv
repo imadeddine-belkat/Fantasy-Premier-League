@@ -1,4 +1,4 @@
-season,matchId,gameweek,team_id,team,venue,playerId,pl_id,playerName,slug,position,substitute,goalAssist,goals,minutesPlayed,ownGoals,penaltyMiss,totalShots
+season,matchId,gameweek,team_id,team,venue,playerId,pl_code,playerName,slug,position,substitute,goalAssist,goals,minutesPlayed,ownGoals,penaltyMiss,totalShots
 2009-10,1062464,1,7,Aston_Villa,Home,579,1765,Emile Heskey,emile-heskey,F,False,0.0,0.0,90.0,0.0,,0.0
 2009-10,1062464,1,7,Aston_Villa,Home,597,1803,Brad Friedel,brad-friedel,G,False,0.0,0.0,90.0,0.0,,0.0
 2009-10,1062464,1,7,Aston_Villa,Home,791,15157,James Milner,james-milner,M,False,0.0,0.0,90.0,0.0,,0.0
