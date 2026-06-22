@@ -14,7 +14,7 @@ FIXTURE_DERIVED_COLS = [
     "team_h_score", "team_a_score", "round",
 ]
 
-PLAYER_LEAD_COLS = ["element", "player_code", "first_name", "second_name", "fixture_code"]
+PLAYER_LEAD_COLS = ["element", "position", "player_code", "first_name", "second_name", "fixture_code"]
 
 
 def get_current_season(now: datetime | None = None) -> str:

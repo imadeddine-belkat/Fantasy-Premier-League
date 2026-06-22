@@ -26,6 +26,7 @@ def main() -> None:
     log.info("Players Sync for %s", season)
     players_meta = boot["elements"]
     team_dir_name = {t["id"]: clean_filename(f"{t['name']}_{t['code']}") for t in boot["teams"]}
+    positions = {et["id"]: et["singular_name_short"] for et in boot["element_types"]}
     log.info("Processing %d players...", len(players_meta))
 
     team_rows: dict[int, list[dict]] = {}
@@ -45,8 +46,10 @@ def main() -> None:
         folder = clean_filename(f"{p['first_name']}_{p['second_name']}_{p['code']}")
         for gw in history:
             gw["player_code"] = p["code"]
+            gw["position"] = positions.get(p["element_type"])
             gw["first_name"] = p["first_name"]
             gw["second_name"] = p["second_name"]
+            gw["team_code"] = p["team_code"]
             # history row's 'fixture' is the fixture id; map to its code
             gw["fixture_code"] = fixture_code.get(gw.get("fixture"))
             team_rows.setdefault(p["team"], []).append(gw)
