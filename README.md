@@ -1,13 +1,12 @@
 # ⚽ Premier League Stats
 
-> A unified data repository combining live **Fantasy Premier League (FPL)** statistics for the 2025-26 season with a **historical Premier League archive** spanning 2008-09 to the present.
+> A unified data repository combining **Fantasy Premier League (FPL)** gameweek statistics with a **historical Premier League archive** of match-event, player, and squad data spanning **2008-09 to the present**. Everything is exported as analysis-ready **CSV**, refreshed automatically every gameweek.
 
-[![FPL API](https://img.shields.io/badge/FPL-Official%20API-37003C)](https://fantasy.premierleague.com/api/)
-[![PL Data](https://img.shields.io/badge/Historical-PulseLive%20API-360D3A)](https://www.premierleague.com/)
-[![Automation](https://img.shields.io/badge/automation-GitHub%20Actions-2088FF?logo=githubactions&logoColor=white)](.github/workflows/)
+[![Data Source](https://img.shields.io/badge/source-Official%20FPL%20%2B%20PL%20APIs-37003C)](https://fantasy.premierleague.com/api/)
+[![Automation](https://img.shields.io/badge/automation-GitHub%20Actions-2088FF?logo=githubactions&logoColor=white)](https://github.com/imadeddine-belkat/Premier-League-Stats/blob/main/.github/workflows/fpl_updater.yml)
 [![Python](https://img.shields.io/badge/python-3.12-3776AB?logo=python&logoColor=white)](https://www.python.org/)
-[![Format](https://img.shields.io/badge/format-CSV-150458?logo=pandas&logoColor=white)](#)
-[![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
+[![Format](https://img.shields.io/badge/format-CSV%20%7C%20JSON-150458?logo=pandas&logoColor=white)](#)
+[![License](https://img.shields.io/badge/license-MIT-green.svg)](https://github.com/imadeddine-belkat/Premier-League-Stats/blob/main/LICENSE)
 
 ---
 
@@ -15,16 +14,14 @@
 
 - [Overview](#overview)
 - [Repository Structure](#repository-structure)
-- [Dataset Reference](#dataset-reference)
-  - [1. FPL — Per-Player Gameweeks](#1-fpl--per-player-gameweeks)
-  - [2. FPL — Per-Team Gameweeks & Fixtures](#2-fpl--per-team-gameweeks--fixtures)
-  - [3. FPL — Cross-Entity Index](#3-fpl--cross-entity-index)
-  - [4. Historical PL Archive](#4-historical-pl-archive)
-  - [5. Index & Lookup Maps](#5-index--lookup-maps)
-- [Data Design Philosophy](#data-design-philosophy)
-- [Update Cadence](#update-cadence)
+- [The Two Datasets](#the-two-datasets)
+  - [1. FPL Gameweek Data (`fpl_scraper/fpl_stats/`)](#1-fpl-gameweek-data-fpl_scraperfpl_stats)
+  - [2. Historical PL Archive (`pl_stats/`)](#2-historical-pl-archive-pl_stats)
+- [The Crosswalk: Joining FPL ↔ PL](#the-crosswalk-joining-fpl--pl)
+- [The Scraper Pipeline](#the-scraper-pipeline)
+- [Automation](#automation)
 - [Getting Started](#getting-started)
-- [Use Cases](#use-cases)
+- [Quick Examples](#quick-examples)
 - [Data Caveats](#data-caveats)
 - [Contributing](#contributing)
 - [License](#license)
@@ -33,14 +30,14 @@
 
 ## Overview
 
-This repository serves two complementary purposes, each with its own scraper and data tree.
+This repository serves two complementary datasets that can be joined on a shared player ID:
 
-| Component | Source | Scraper | Coverage |
-| :--- | :--- | :--- | :--- |
-| **Active FPL Scraper** | Official FPL API (`bootstrap-static`, `fixtures`, `element-summary`) | `fpl_scraper/` | 2025-26 |
-| **Historical PL Archive** | Premier League PulseLive API | local tooling (not committed) | 2008-09 → present |
+| Dataset | What it is | Source | Coverage |
+| --- | --- | --- | --- |
+| **FPL Gameweek Data** | Per-player and per-team gameweek stats (points, minutes, xG/xA, ICT, prices, transfers) plus the full fixture list. | Official FPL API (`bootstrap-static`, `fixtures`, `element-summary`) | 2025-26, with merged season files back to 2016-17 |
+| **Historical PL Archive** | Per-club match-event stats, per-match player stats, season-aggregate player stats, and squad rosters for 40+ clubs. | Premier League / PulseLive feeds | 2008-09 → present (each club's top-flight seasons only) |
 
-The FPL pipeline is fully automated via GitHub Actions. The historical PL archive is generated locally and committed as CSV — see [Update Cadence](#update-cadence) for why. All output is analysis-ready CSV that drops straight into Pandas, R, Tableau, or Power BI.
+Both halves key on the same **Opta/PulseLive player ID**, so FPL gameweek scoring can be joined directly to detailed PL event data.
 
 ---
 
@@ -48,190 +45,180 @@ The FPL pipeline is fully automated via GitHub Actions. The historical PL archiv
 
 ```
 Premier-League-Stats/
-├── fpl_scraper/                          # FPL pipeline (automated)
-│   ├── fpl/                              # Reusable package
-│   │   ├── config.py                     # Paths, season resolution, column policy
-│   │   ├── http.py                       # Session + retry/backoff
-│   │   ├── client.py                     # FPL API client (bootstrap, fixtures, summaries)
-│   │   └── io.py                         # Row shaping + CSV writing
-│   ├── scrape_players.py                 # Per-player + per-team gameweek CSVs
-│   ├── scrape_teams.py                   # Team-level + fixtures CSVs
-│   └── fpl_stats/                        # ← FPL output lives here
-│       ├── players/
-│       │   └── {First_Last}_{element_code}/
-│       │       └── {season}_gw_stats.csv
-│       ├── teams/
-│       │   └── {Team}_{code}/
-│       │       ├── players/{season}_all_players_gw.csv
-│       │       └── fixtures/{season}_fixtures.csv
+├── fpl_scraper/                       # FPL pipeline (code + output)
+│   ├── fpl/                           # Reusable package
+│   │   ├── config.py                  # Paths, constants, season resolution
+│   │   ├── http.py                    # Retrying requests.Session (one source of truth)
+│   │   ├── client.py                  # FPL endpoint wrapper + disk cache
+│   │   └── io.py                      # Filename cleaning + dataframe shaping
+│   ├── scrape_teams.py                # Per-team fixtures
+│   ├── scrape_players.py              # Per-player + per-team gameweek stats
+│   ├── scrape_fixtures.py             # Combined + per-team fixtures
+│   ├── build_index_fpl.py             # player_code / team_code → metadata indexes
+│   ├── merge_players.py               # Flatten per-team CSVs into one file per season
+│   └── fpl_stats/                     # ── OUTPUT ──
+│       ├── players/{Name}_{code}/{Season}_gw_stats.csv
+│       ├── teams/{Team}_{code}/
+│       │   ├── players/{Season}_all_players_gw.csv
+│       │   └── fixtures/{Season}_fixtures.csv
+│       ├── fixtures/{Season}_all_fixtures.csv
+│       ├── _merged/players/{Season}_all_players_gw.csv   # all teams, one file/season
 │       └── _index/
-│           ├── players/{season}_all_players_gw.csv   # every player row, flattened
-│           └── fixtures/{season}_all_fixtures.csv
+│           ├── _players_index.json    # player_code → {element, name} per season
+│           └── _teams_index.json      # team_code → {id, name, short_name} per season
 │
-├── pl_stats/                             # Historical PL archive, by club
+├── pl_stats/                          # Historical archive, by club
 │   └── {Team}_{code}/
-│       ├── events_stats/{season}_events_stats.csv     # per-match team event stats
-│       ├── players_stats/{season}_players_stats.csv   # per-player season aggregates
-│       └── squad/{season}_squad.csv                   # squad list + bios
-│   ├── _badges/{team_code}.svg            # club crest assets
-│   ├── _index/                            # id → name lookup maps
-│   │   ├── _teams_index.json              # team code → canonical club name
-│   │   └── _players_index.json            # player id → player name
-│   └── _merged/                           # combined views (generated)
-│       ├── teams/
-│       │   ├── teams/{Team}_events_stats.csv      # one file per club, all seasons
-│       │   ├── seasons/{season}_events_stats.csv   # one file per season, all clubs
-│       │   └── all_events_stats.csv                # everything, one file
-│       └── players/
-│           ├── players/{Team}_players_stats.csv     # one file per club, all seasons
-│           ├── seasons/{season}_players_stats.csv    # one file per season, all clubs
-│           └── all_players_stats.csv                 # everything, one file
+│       ├── events_stats/{Season}_events_stats.csv          # team match-event stats
+│       ├── players_match_stats/{Season}_players_match_stats.csv  # per-player per-match
+│       ├── players_stats/{Season}_players_stats.csv        # per-player season totals
+│       └── squad/{Season}_squad.csv                        # roster + bio data
+│   ├── _merged/events/{Season}_events_stats.csv            # all clubs, one file/season
+│   ├── _index/{Season}_players.json                        # playerId → name
+│   └── _badges/{code}.svg                                  # club crests
 │
-├── .github/workflows/
-│   └── fpl_updater.yml                    # Weekly FPL scrape + auto-commit
-├── requirements.txt
-└── README.md
+├── .github/workflows/fpl_updater.yml  # Weekly scheduled refresh
+└── requirements.txt
 ```
 
-> **Note:** The tooling that builds the historical `pl_stats/` archive (the `pl/`
-> package and its PulseLive client, plus local scripts such as `scrape_team_stats.py`,
-> `scrape_player_stats.py`, `scrape_squads.py`, `badges_scraper.py`, `merge_events.py`,
-> `merge_players.py`, and `build_index.py`) is run **locally and is not committed** — only the resulting
-> CSVs, badge SVGs, and index files are pushed. These scripts hit the Premier League's
-> internal PulseLive API, which is unsafe to run from public CI.
+---
+
+## The Two Datasets
+
+### 1. FPL Gameweek Data (`fpl_scraper/fpl_stats/`)
+
+Round-by-round FPL performance, scraped from the official API.
+
+| File | Granularity | Contents |
+| --- | --- | --- |
+| `players/{Name}_{code}/{Season}_gw_stats.csv` | One player, all gameweeks | Points, minutes, goals, assists, xG, xA, ICT, BPS, defensive contributions, price, transfers in/out, selection |
+| `teams/{Team}_{code}/players/{Season}_all_players_gw.csv` | One club's players, all gameweeks | Same columns, scoped to a single club |
+| `teams/{Team}_{code}/fixtures/{Season}_fixtures.csv` | One club | That club's fixtures with difficulty ratings |
+| `fixtures/{Season}_all_fixtures.csv` | League | Every fixture: kickoff, scores, home/away difficulty |
+| `_merged/players/{Season}_all_players_gw.csv` | League | Every player's gameweek rows flattened into one table — the file you usually want for analysis |
+
+**Key columns:** identity/join keys (`element`, `player_code`, `fixture_code`, `team_code`) lead each player row, followed by the scoring and underlying-stat columns.
+
+### 2. Historical PL Archive (`pl_stats/`)
+
+Nearly two decades of detailed event data for 40+ clubs, including historic top-flight sides such as Blackpool, Bolton, and Portsmouth.
+
+| File | Granularity | Contents |
+| --- | --- | --- |
+| `events_stats/{Season}_events_stats.csv` | Team, per match | ~180 event metrics per game (passing zones, duels, xG, set pieces, defensive actions), keyed by `matchId` + `gameweek` |
+| `players_match_stats/{Season}_players_match_stats.csv` | Player, per match | Per-90 contributions, ratings, carries, duels, keyed by `matchId` + `playerId` |
+| `players_stats/{Season}_players_stats.csv` | Player, per season | Season-aggregate totals across ~140 metrics |
+| `squad/{Season}_squad.csv` | Player | Roster with bio data: position, foot, nationality, DOB, height, weight, loan status |
+
+`pl_stats/_merged/events/` provides the same event data combined across all clubs, one file per season.
 
 ---
 
-## Dataset Reference
+## The Crosswalk: Joining FPL ↔ PL
 
-### 1. FPL — Per-Player Gameweeks
-One CSV per player, tracking every gameweek of the current season.
+The two datasets are linked by a single shared key — the **Opta/PulseLive player ID**:
 
-| Field | Value |
-| :--- | :--- |
-| **Path** | `fpl_scraper/fpl_stats/players/{First_Last}_{element_code}/{season}_gw_stats.csv` |
-| **Granularity** | One row per player per gameweek appearance |
-| **Join key** | `fixture_code` — links to the matching row in any `fixtures` CSV |
+- In FPL data it is `player_code` (and the index `_players_index.json` maps `player_code → {element, name}`).
+- In PL data it is `playerId` / `pl_code` (and `_index/{Season}_players.json` maps `playerId → name`).
 
-**Columns:** `element`, `player_code`, `first_name`, `second_name`, `fixture_code`, then every FPL stat field as-is: `total_points`, `minutes`, `goals_scored`, `assists`, `clean_sheets`, `goals_conceded`, `bonus`, `bps`, `influence`, `creativity`, `threat`, `ict_index`, the defensive block (`clearances_blocks_interceptions`, `recoveries`, `tackles`, `defensive_contribution`), the expected block (`expected_goals`, `expected_assists`, `expected_goal_involvements`, `expected_goals_conceded`), and price/ownership (`value`, `selected`, `transfers_in`, `transfers_out`, `transfers_balance`). A `modified` flag marks rows the API may revise post-deadline.
+These are the **same numbers**, so you can join an FPL gameweek row to its detailed PL match stats directly:
 
-### 2. FPL — Per-Team Gameweeks & Fixtures
-| File | Contents |
-| :--- | :--- |
-| `teams/{Team}_{code}/players/{season}_all_players_gw.csv` | Every gameweek row for that club's players, same schema as above |
-| `teams/{Team}_{code}/fixtures/{season}_fixtures.csv` | Raw fixture rows: `code`, `event`, `kickoff_time`, `team_h`/`team_a`, scores, `team_h_difficulty`/`team_a_difficulty` (FDR), status flags |
+```python
+fpl.merge(pl_match, left_on=["player_code"], right_on=["playerId"])
+```
 
-### 3. FPL — Cross-Entity Index
-Flattened global tables for whole-league analysis without walking the per-team tree.
-
-| File | Contents |
-| :--- | :--- |
-| `_index/players/{season}_all_players_gw.csv` | All players' gameweek rows in one table |
-| `_index/fixtures/{season}_all_fixtures.csv` | The full fixture list / FDR table |
-
-### 4. Historical PL Archive (`pl_stats/`)
-Club-by-club PulseLive data for 40+ current and historic top-flight clubs — including past spells from Blackpool, Bolton, Portsmouth, and others. Each club directory only contains seasons in which it actually played in the Premier League.
-
-| File | Contents |
-| :--- | :--- |
-| `events_stats/{season}_events_stats.csv` | Per-match team event data (~70 columns: xG, passing, duels, set pieces, defensive actions) |
-| `players_stats/{season}_players_stats.csv` | Per-player season aggregates (~110 columns) |
-| `squad/{season}_squad.csv` | Squad list with bios: position, nationality, DOB, height/weight, loan status |
-| `_merged/teams/all_events_stats.csv` | **Match-centric:** one row per fixture, both clubs combined, all seasons (2009-10 → present) |
-| `_merged/players/all_players_stats.csv` | All clubs × all seasons of player aggregates, one file |
-
-Each `_merged/` group also ships per-club and per-season splits (`teams/teams/`, `teams/seasons/`, `players/players/`, `players/seasons/`) for narrower loads.
-
-> **Merged team schema (home/away pairing).** The per-club `events_stats/` files hold
-> **one row per team per match** (a fixture appears twice — once from each side). The
-> `_merged/teams/` files collapse those into **one row per fixture**: shared match
-> metadata (`season`, `matchId`, `gameweek`, `kickoff`, `ground`, `attendance`,
-> `home_team`, `away_team`) is written once, and every event metric is split into a
-> home/away pair — `goalsFor_h` / `goalsFor_a`, `expectedGoals_h` / `expectedGoals_a`,
-> and so on. `matchId` is the join key; `venue` (`Home`/`Away`) in the source rows
-> resolves which side is which. The result is 128 columns across ~6,460 matches.
-
-### 5. Index & Lookup Maps
-Small JSON dictionaries under `pl_stats/_index/` for resolving numeric ids to names.
-
-| File | Maps | Built from |
-| :--- | :--- | :--- |
-| `_teams_index.json` | team code → canonical club name (e.g. `"6": "Tottenham_Hotspur"`) | live PulseLive `teams` payload |
-| `_players_index.json` | player id → player name (e.g. `"118748": "Mohamed Salah"`) | the committed `players_stats/` CSVs |
-
-The player map is derived from on-disk CSVs rather than the API, so it covers every
-player in the archive — including historic ones no longer in any live squad — and
-needs zero network calls to rebuild. Keys are sorted numerically for clean diffs.
+Fixtures join on `fixture_code` (FPL) ↔ `matchId` (PL), both derived from the same canonical fixture code. Teams join on `team_code` (FPL) ↔ the club-folder code in `pl_stats/`.
 
 ---
 
-## Data Design Philosophy
+## The Scraper Pipeline
 
-The FPL scraper follows a strict **raw-data-only** policy:
+The FPL side is a small package (`fpl_scraper/fpl/`) plus five entrypoint scripts. The package centralizes the parts that are easy to get wrong:
 
-- **No derived fields.** Every column is an untouched FPL API value. Compute xPts, form, or rolling averages downstream — the repo never bakes them in.
-- **`fixture_code` is the sole join key.** Player history rows carry only `fixture_code`; all match context (opponent, venue, scores, kickoff) lives once in the fixtures CSV. This avoids duplicating mutable fixture data across thousands of player rows.
-- **Stable column order.** Identity + join key lead each row; remaining stats follow in FPL API order so diffs stay clean across weekly scrapes.
+- **`http.py`** — one retrying `requests.Session` (urllib3 `Retry`: 5 attempts, exponential backoff, retries on 429/5xx). All callers share it, so retry logic lives in exactly one place.
+- **`client.py`** — thin wrapper over the FPL endpoints. The expensive, high-volume `element-summary/{id}/` call (one request per player) is **disk-cached** under `fpl_cache/{season}/player_{id}.json`, with a polite delay between live fetches.
+- **`config.py`** — paths, constants, and season resolution. The cache is scoped by the local clock, but the authoritative season label comes from the API itself (GW1 deadline), so filenames stay correct around the season rollover.
+- **`io.py`** — filename sanitizing and dataframe shaping (drops fixture-derived columns, orders join keys first).
+
+Run order (also encoded in the workflow):
+
+| Step | Script | Output |
+| --- | --- | --- |
+| 1 | `scrape_teams.py` | Per-team fixtures |
+| 2 | `scrape_players.py` | Per-player + per-team gameweek CSVs |
+| 3 | `scrape_fixtures.py` | Combined + per-team fixtures |
+| 4 | `build_index_fpl.py` | Player and team metadata indexes |
+| 5 | `merge_players.py` | One flattened `_all_players_gw.csv` per season |
 
 ---
 
-## Update Cadence
-| Dataset | Method | Frequency |
-| :--- | :--- | :--- |
-| **FPL data** | Automated — `.github/workflows/fpl_updater.yml` runs `scrape_teams.py` then `scrape_players.py`, commits the diff | Weekly (Tuesdays 12:00 UTC) + manual dispatch |
-| **Historical PL archive** | Run locally, commit resulting CSVs | After each round |
+## Automation
 
-The PulseLive endpoints powering `pl_stats/` are the Premier League's internal API. Running them from public CI risks rate-limiting and IP blocks, so that scrape stays local and only its CSV output is pushed.
+`.github/workflows/fpl_updater.yml` runs the full pipeline on a schedule (**Tuesdays at 12:00 UTC**) and on manual dispatch. It installs dependencies, runs the five scripts in order, then commits and pushes any changed data. The historical `pl_stats` archive is pushed manually at the end of each round.
 
 ---
 
 ## Getting Started
 
 ```bash
+# 1. Clone
 git clone https://github.com/imadeddine-belkat/Premier-League-Stats.git
 cd Premier-League-Stats
-pip install -r requirements.txt
 
-# Run the FPL scrapers (writes into fpl_scraper/fpl_stats/)
+# 2. Install dependencies
+pip install -r requirements.txt          # requests, pandas
+
+# 3. Run the FPL pipeline
 cd fpl_scraper
 python scrape_teams.py
 python scrape_players.py
+python scrape_fixtures.py
+python build_index_fpl.py
+python merge_players.py
 ```
 
-**Quick load in Pandas** (read the committed CSVs directly from GitHub):
+You don't have to run anything to *use* the data — every CSV is already committed and can be read straight from a raw GitHub URL.
+
+---
+
+## Quick Examples
+
+**Top FPL scorers, current season, loaded from the merged file:**
 
 ```python
 import pandas as pd
 
-BASE = "https://raw.githubusercontent.com/imadeddine-belkat/Premier-League-Stats/main"
+url = ("https://raw.githubusercontent.com/imadeddine-belkat/Premier-League-Stats/"
+       "main/fpl_scraper/fpl_stats/_merged/players/2025-26_all_players_gw.csv")
+df = pd.read_csv(url)
 
-# All players, all gameweeks this season
-players = pd.read_csv(f"{BASE}/fpl_scraper/fpl_stats/_index/players/2025-26_all_players_gw.csv")
-
-top = (players.groupby(["first_name", "second_name"])["total_points"]
-       .sum().sort_values(ascending=False).head(10))
-print(top)
+totals = (df.groupby(["player_code", "second_name"])["total_points"]
+            .sum().sort_values(ascending=False).head(10))
+print(totals)
 ```
 
-> Re-running the player scraper hits ~840 `element-summary` endpoints with a small politeness delay, so a full sync takes a few minutes.
+**Join FPL gameweek points to detailed PL match stats:**
 
----
+```python
+fpl = pd.read_csv(".../fpl_scraper/fpl_stats/_merged/players/2024-25_all_players_gw.csv")
+pl  = pd.read_csv(".../pl_stats/Arsenal_3/players_match_stats/2024-25_players_match_stats.csv")
 
-## Use Cases
-
-- **FPL managers** — backtest transfers and train expected-points (xPts) models on raw weekly data.
-- **Football analysts** — study long-term tactical and event-level trends back to 2008 via the PulseLive archive.
-- **Data viz / ML** — drop the `_index` and `_merged` CSVs straight into Pandas, R, Tableau, or Power BI.
+joined = fpl.merge(
+    pl,
+    left_on=["player_code", "fixture_code"],
+    right_on=["playerId", "matchId"],
+    how="inner",
+)
+```
 
 ---
 
 ## Data Caveats
 
-- `pl_stats/` only includes seasons in which a given club actually competed in the Premier League.
-- FPL underlying metrics (xG, xA, ICT) are the provider's own values and **may be revised post-match** — rows the API can still change are flagged via the `modified` column.
-- **Lookahead bias:** any form/expected field the API updates after a deadline can leak future information. Shift such features by one gameweek or exclude them when training.
-- The PulseLive `events_stats` schema can drift across seasons; merge tooling takes the column union, so older seasons may show empty cells for metrics introduced later.
-- The match-centric `_merged/teams/` build pairs the two source rows of each fixture by `matchId`. A fixture is included only when exactly one `Home` and one `Away` row resolve for that `matchId`; any unpaired or duplicated rows are dropped, so a season's merged match count may fall slightly below `games ÷ 2` if the source had ID inconsistencies.
+- Historical `pl_stats` for a club only includes seasons in which that club actually played in the Premier League.
+- FPL underlying metrics (xG, xA, ICT) reflect official API values and can be revised post-match by the provider.
+- **Beware lookahead bias** when modelling expected points: any form/price/selection field the API updates *after* a gameweek deadline must be lagged by one gameweek or excluded from training features.
+- Player names are UTF-8 and may contain accents; the canonical join key is the numeric ID (`player_code` / `playerId`), not the name.
 
 ---
 
@@ -241,6 +228,6 @@ Contributions, corrections, and historical backfills are welcome. Please open an
 
 ## License
 
-Distributed under the MIT License. See [`LICENSE`](LICENSE) for details.
+Distributed under the MIT License. See [`LICENSE`](https://github.com/imadeddine-belkat/Premier-League-Stats/blob/main/LICENSE) for details.
 
-> **Disclaimer:** Unofficial dataset, not affiliated with or endorsed by the Premier League or Fantasy Premier League. Data is sourced from publicly accessible APIs for educational and analytical use.
+> **Disclaimer:** This is an unofficial dataset, not affiliated with or endorsed by the Premier League or Fantasy Premier League. All data is sourced from publicly available APIs for educational and analytical use.
