@@ -1,0 +1,77 @@
+season,matchId,gameweek,team_id,team,venue,playerId,pl_code,playerName,slug,position,substitute,goalAssist,goals,minutesPlayed,ownGoals,substitute.1,totalShots
+2013-14,3964809,1,21,West_Ham_United,Home,1253,1344,Jussi Jääskeläinen,jussi-jaaskelainen,G,False,0.0,0.0,90.0,0.0,,0.0
+2013-14,3964809,1,21,West_Ham_United,Home,50539,60706,Adrián,adrian,G,True,,,,,,
+2013-14,3964823,2,21,West_Ham_United,Away,1253,1344,Jussi Jääskeläinen,jussi-jaaskelainen,G,False,0.0,0.0,90.0,0.0,,0.0
+2013-14,3964823,2,21,West_Ham_United,Away,50539,60706,Adrián,adrian,G,True,,,,,,
+2013-14,3964849,3,21,West_Ham_United,Home,1253,1344,Jussi Jääskeläinen,jussi-jaaskelainen,G,False,0.0,0.0,90.0,0.0,,0.0
+2013-14,3964849,3,21,West_Ham_United,Home,50539,60706,Adrián,adrian,G,True,,,,,,
+2013-14,3965127,4,21,West_Ham_United,Away,1253,1344,Jussi Jääskeläinen,jussi-jaaskelainen,G,False,0.0,0.0,90.0,0.0,,0.0
+2013-14,3965127,4,21,West_Ham_United,Away,50539,60706,Adrián,adrian,G,True,,,,,,
+2013-14,3965155,5,21,West_Ham_United,Home,1253,1344,Jussi Jääskeläinen,jussi-jaaskelainen,G,False,0.0,0.0,90.0,0.0,,0.0
+2013-14,3965155,5,21,West_Ham_United,Home,50539,60706,Adrián,adrian,G,True,,,,,,
+2013-14,3965163,6,21,West_Ham_United,Away,1253,1344,Jussi Jääskeläinen,jussi-jaaskelainen,G,False,0.0,0.0,90.0,0.0,,0.0
+2013-14,3965163,6,21,West_Ham_United,Away,50539,60706,Adrián,adrian,G,True,,,,,,
+2013-14,3965193,7,21,West_Ham_United,Away,1253,1344,Jussi Jääskeläinen,jussi-jaaskelainen,G,False,0.0,0.0,90.0,0.0,,0.0
+2013-14,3965193,7,21,West_Ham_United,Away,50539,60706,Adrián,adrian,G,True,,,,,,
+2013-14,3965215,8,21,West_Ham_United,Home,1253,1344,Jussi Jääskeläinen,jussi-jaaskelainen,G,False,0.0,0.0,90.0,0.0,,0.0
+2013-14,3965215,8,21,West_Ham_United,Home,50539,60706,Adrián,adrian,G,True,,,,,,
+2013-14,3965233,9,21,West_Ham_United,Away,1253,1344,Jussi Jääskeläinen,jussi-jaaskelainen,G,False,0.0,0.0,90.0,0.0,,0.0
+2013-14,3965233,9,21,West_Ham_United,Away,50539,60706,Adrián,adrian,G,True,,,,,,
+2013-14,3965255,10,21,West_Ham_United,Home,1253,1344,Jussi Jääskeläinen,jussi-jaaskelainen,G,False,0.0,0.0,90.0,0.0,,0.0
+2013-14,3965255,10,21,West_Ham_United,Home,50539,60706,Adrián,adrian,G,True,,,,,,
+2013-14,3965267,11,21,West_Ham_United,Away,1253,1344,Jussi Jääskeläinen,jussi-jaaskelainen,G,False,0.0,0.0,90.0,0.0,,0.0
+2013-14,3965267,11,21,West_Ham_United,Away,50539,60706,Adrián,adrian,G,True,,,,,,
+2013-14,3965295,12,21,West_Ham_United,Home,1253,1344,Jussi Jääskeläinen,jussi-jaaskelainen,G,False,0.0,0.0,90.0,0.0,,0.0
+2013-14,3965295,12,21,West_Ham_United,Home,50539,60706,Adrián,adrian,G,True,,,,,,
+2013-14,3965315,13,21,West_Ham_United,Home,1253,1344,Jussi Jääskeläinen,jussi-jaaskelainen,G,False,0.0,0.0,90.0,0.0,,0.0
+2013-14,3965315,13,21,West_Ham_United,Home,50539,60706,Adrián,adrian,G,True,,,,,,
+2013-14,3965319,14,21,West_Ham_United,Away,1253,1344,Jussi Jääskeläinen,jussi-jaaskelainen,G,False,0.0,0.0,90.0,0.0,,0.0
+2013-14,3965319,14,21,West_Ham_United,Away,50539,60706,Adrián,adrian,G,True,,,,,,
+2013-14,3965343,15,21,West_Ham_United,Away,1253,1344,Jussi Jääskeläinen,jussi-jaaskelainen,G,False,0.0,0.0,90.0,0.0,,0.0
+2013-14,3965343,15,21,West_Ham_United,Away,50539,60706,Adrián,adrian,G,True,,,,,,
+2013-14,3965375,16,21,West_Ham_United,Home,1253,1344,Jussi Jääskeläinen,jussi-jaaskelainen,G,False,0.0,0.0,90.0,0.0,,0.0
+2013-14,3965375,16,21,West_Ham_United,Home,50539,60706,Adrián,adrian,G,True,,,,,,
+2013-14,3965385,17,21,West_Ham_United,Away,1253,1344,Jussi Jääskeläinen,jussi-jaaskelainen,G,True,,,,,,
+2013-14,3965385,17,21,West_Ham_United,Away,50539,60706,Adrián,adrian,G,False,0.0,0.0,90.0,0.0,,0.0
+2013-14,3965415,18,21,West_Ham_United,Home,1253,1344,Jussi Jääskeläinen,jussi-jaaskelainen,G,True,,,,,,
+2013-14,3965415,18,21,West_Ham_United,Home,50539,60706,Adrián,adrian,G,False,0.0,0.0,90.0,0.0,,0.0
+2013-14,3965435,19,21,West_Ham_United,Home,1253,1344,Jussi Jääskeläinen,jussi-jaaskelainen,G,False,0.0,0.0,90.0,0.0,,0.0
+2013-14,3965435,19,21,West_Ham_United,Home,50539,60706,Adrián,adrian,G,True,,,,,,
+2013-14,3965441,20,21,West_Ham_United,Away,1253,1344,Jussi Jääskeläinen,jussi-jaaskelainen,G,False,0.0,0.0,90.0,0.0,,0.0
+2013-14,3965441,20,21,West_Ham_United,Away,50539,60706,Adrián,adrian,G,True,,,,,,
+2013-14,3965459,21,21,West_Ham_United,Away,1253,1344,Jussi Jääskeläinen,jussi-jaaskelainen,G,True,,,,,,
+2013-14,3965459,21,21,West_Ham_United,Away,50539,60706,Adrián,adrian,G,False,0.0,0.0,90.0,0.0,,0.0
+2013-14,3965495,22,21,West_Ham_United,Home,1253,1344,Jussi Jääskeläinen,jussi-jaaskelainen,G,True,,,,,,
+2013-14,3965495,22,21,West_Ham_United,Home,50539,60706,Adrián,adrian,G,False,0.0,0.0,90.0,0.0,,0.0
+2013-14,3965513,23,21,West_Ham_United,Away,1253,1344,Jussi Jääskeläinen,jussi-jaaskelainen,G,True,,,,,,
+2013-14,3965513,23,21,West_Ham_United,Away,50539,60706,Adrián,adrian,G,False,0.0,0.0,90.0,0.0,,0.0
+2013-14,3965535,24,21,West_Ham_United,Home,1253,1344,Jussi Jääskeläinen,jussi-jaaskelainen,G,True,,,,,,
+2013-14,3965535,24,21,West_Ham_United,Home,50539,60706,Adrián,adrian,G,False,0.0,0.0,90.0,0.0,,0.0
+2013-14,3965537,25,21,West_Ham_United,Away,1253,1344,Jussi Jääskeläinen,jussi-jaaskelainen,G,True,,,,,,
+2013-14,3965537,25,21,West_Ham_United,Away,50539,60706,Adrián,adrian,G,False,0.0,0.0,90.0,0.0,,0.0
+2013-14,3965567,26,21,West_Ham_United,Home,1253,1344,Jussi Jääskeläinen,jussi-jaaskelainen,G,True,,,,,,
+2013-14,3965567,26,21,West_Ham_United,Home,50539,60706,Adrián,adrian,G,False,0.0,0.0,90.0,0.0,,0.0
+2013-14,3965595,27,21,West_Ham_United,Home,1253,1344,Jussi Jääskeläinen,jussi-jaaskelainen,G,True,,,,,,
+2013-14,3965595,27,21,West_Ham_United,Home,50539,60706,Adrián,adrian,G,False,0.0,0.0,90.0,0.0,,0.0
+2013-14,3965599,28,21,West_Ham_United,Away,1253,1344,Jussi Jääskeläinen,jussi-jaaskelainen,G,True,,,,,,
+2013-14,3965599,28,21,West_Ham_United,Away,50539,60706,Adrián,adrian,G,False,0.0,0.0,90.0,0.0,,0.0
+2013-14,5089630,29,21,West_Ham_United,Home,1253,1344,Jussi Jääskeläinen,jussi-jaaskelainen,G,True,,,,,,
+2013-14,5089630,29,21,West_Ham_United,Home,50539,60706,Adrián,adrian,G,False,0.0,0.0,90.0,0.0,,0.0
+2013-14,3965649,30,21,West_Ham_United,Away,1253,1344,Jussi Jääskeläinen,jussi-jaaskelainen,G,True,,,,,,
+2013-14,3965649,30,21,West_Ham_United,Away,50539,60706,Adrián,adrian,G,False,0.0,0.0,90.0,0.0,,0.0
+2013-14,3965675,31,21,West_Ham_United,Home,1253,1344,Jussi Jääskeläinen,jussi-jaaskelainen,G,True,,,,,,
+2013-14,3965675,31,21,West_Ham_United,Home,50539,60706,Adrián,adrian,G,False,0.0,0.0,90.0,0.0,,0.0
+2013-14,3965691,32,21,West_Ham_United,Away,1253,1344,Jussi Jääskeläinen,jussi-jaaskelainen,G,True,,,,,,
+2013-14,3965691,32,21,West_Ham_United,Away,50539,60706,Adrián,adrian,G,False,0.0,0.0,90.0,0.0,,0.0
+2013-14,3965715,33,21,West_Ham_United,Home,1253,1344,Jussi Jääskeläinen,jussi-jaaskelainen,G,True,,,,,,
+2013-14,3965715,33,21,West_Ham_United,Home,50539,60706,Adrián,adrian,G,False,0.0,0.0,90.0,0.0,,0.0
+2013-14,5187566,34,21,West_Ham_United,Away,1253,1344,Jussi Jääskeläinen,jussi-jaaskelainen,G,True,,,,,,
+2013-14,5187566,34,21,West_Ham_United,Away,50539,60706,Adrián,adrian,G,False,0.0,0.0,90.0,0.0,,0.0
+2013-14,3965755,35,21,West_Ham_United,Home,1253,1344,Jussi Jääskeläinen,jussi-jaaskelainen,G,True,,,,,,
+2013-14,3965755,35,21,West_Ham_United,Home,50539,60706,Adrián,adrian,G,False,0.0,0.0,90.0,0.0,,0.0
+2013-14,3965775,36,21,West_Ham_United,Away,1253,1344,Jussi Jääskeläinen,jussi-jaaskelainen,G,True,,,,,,
+2013-14,3965775,36,21,West_Ham_United,Away,50539,60706,Adrián,adrian,G,False,0.0,0.0,90.0,0.0,,0.0
+2013-14,3965795,37,21,West_Ham_United,Home,1253,1344,Jussi Jääskeläinen,jussi-jaaskelainen,G,True,,,,,,
+2013-14,3965795,37,21,West_Ham_United,Home,50539,60706,Adrián,adrian,G,False,0.0,0.0,90.0,0.0,,0.0
+2013-14,3965805,38,21,West_Ham_United,Away,1253,1344,Jussi Jääskeläinen,jussi-jaaskelainen,G,True,,,,,,
+2013-14,3965805,38,21,West_Ham_United,Away,50539,60706,Adrián,adrian,G,False,0.0,0.0,90.0,0.0,,0.0

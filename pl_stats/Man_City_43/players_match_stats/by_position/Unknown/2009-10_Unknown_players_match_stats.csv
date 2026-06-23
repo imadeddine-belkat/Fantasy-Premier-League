@@ -1,0 +1,10 @@
+season,matchId,gameweek,team_id,team,venue,playerId,pl_code,playerName,slug,position,substitute,goalAssist,goals,minutesPlayed,ownGoals,substitute.1,totalShots
+2009-10,1062528,7,43,Manchester_City,Home,18683,39888,Michael Johnson,michael-johnson,Unknown,True,0.0,0.0,1.0,0.0,,0.0
+2009-10,1062535,8,43,Manchester_City,Away,18683,39888,Michael Johnson,michael-johnson,Unknown,True,,,,,,
+2009-10,1062553,9,43,Manchester_City,Away,18683,39888,Michael Johnson,michael-johnson,Unknown,True,,,,,,
+2009-10,1062560,10,43,Manchester_City,Home,18683,39888,Michael Johnson,michael-johnson,Unknown,True,,,,,,
+2009-10,1062565,11,43,Manchester_City,Away,18683,39888,Michael Johnson,michael-johnson,Unknown,True,,,,,,
+2009-10,1062579,12,43,Manchester_City,Home,18683,39888,Michael Johnson,michael-johnson,Unknown,True,,,,,,
+2009-10,1062589,13,43,Manchester_City,Away,18683,39888,Michael Johnson,michael-johnson,Unknown,True,,,,,,
+2009-10,1062599,14,43,Manchester_City,Home,18683,39888,Michael Johnson,michael-johnson,Unknown,True,,,,,,
+2009-10,1062609,15,43,Manchester_City,Home,18683,39888,Michael Johnson,michael-johnson,Unknown,True,,,,,,

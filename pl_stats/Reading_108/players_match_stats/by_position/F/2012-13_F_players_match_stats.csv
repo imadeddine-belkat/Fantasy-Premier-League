@@ -1,0 +1,162 @@
+season,matchId,gameweek,team_id,team,venue,playerId,pl_code,playerName,slug,position,substitute,goalAssist,goals,minutesPlayed,ownGoals,substitute.1,totalShots
+2012-13,2753862,1,108,Reading,Home,6578,15729,Noel Hunt,noel-hunt,F,True,0.0,0.0,,0.0,,0.0
+2012-13,2753862,1,108,Reading,Home,17000,39439,Pavel Pogrebnyak,pavel-pogrebnyak,F,False,0.0,0.0,90.0,0.0,,0.0
+2012-13,2753862,1,108,Reading,Home,20843,19163,Adam Le Fondre,adam-le-fondre,F,False,0.0,1.0,90.0,0.0,,0.0
+2012-13,2753862,1,108,Reading,Home,31369,47393,Simon Church,simon-church,F,True,,,,,,
+2012-13,2753862,1,108,Reading,Home,33427,49440,Hal Robson-Kanu,hal-robson-kanu,F,False,0.0,0.0,90.0,0.0,,0.0
+2012-13,3251557,2,108,Reading,Away,6578,15729,Noel Hunt,noel-hunt,F,False,0.0,0.0,90.0,0.0,,0.0
+2012-13,3251557,2,108,Reading,Away,20843,19163,Adam Le Fondre,adam-le-fondre,F,False,0.0,0.0,90.0,0.0,,0.0
+2012-13,3251557,2,108,Reading,Away,297150,148418,Dominic Samuel,dominic-samuel,F,True,0.0,0.0,18.0,0.0,,0.0
+2012-13,2754578,3,108,Reading,Away,6578,15729,Noel Hunt,noel-hunt,F,True,0.0,0.0,,0.0,,0.0
+2012-13,2754578,3,108,Reading,Away,17000,39439,Pavel Pogrebnyak,pavel-pogrebnyak,F,False,0.0,1.0,90.0,0.0,,0.0
+2012-13,2754578,3,108,Reading,Away,20843,19163,Adam Le Fondre,adam-le-fondre,F,True,0.0,0.0,,0.0,,0.0
+2012-13,2754578,3,108,Reading,Away,33427,49440,Hal Robson-Kanu,hal-robson-kanu,F,True,0.0,0.0,,0.0,,0.0
+2012-13,2754612,4,108,Reading,Home,6578,15729,Noel Hunt,noel-hunt,F,True,0.0,0.0,,0.0,,0.0
+2012-13,2754612,4,108,Reading,Home,17000,39439,Pavel Pogrebnyak,pavel-pogrebnyak,F,False,0.0,0.0,90.0,0.0,,0.0
+2012-13,2754612,4,108,Reading,Home,20843,19163,Adam Le Fondre,adam-le-fondre,F,True,0.0,0.0,,0.0,,0.0
+2012-13,2754612,4,108,Reading,Home,33427,49440,Hal Robson-Kanu,hal-robson-kanu,F,True,0.0,1.0,,0.0,,0.0
+2012-13,2754640,5,108,Reading,Away,6578,15729,Noel Hunt,noel-hunt,F,True,0.0,0.0,,0.0,,0.0
+2012-13,2754640,5,108,Reading,Away,17000,39439,Pavel Pogrebnyak,pavel-pogrebnyak,F,False,0.0,0.0,90.0,0.0,,0.0
+2012-13,2754640,5,108,Reading,Away,20843,19163,Adam Le Fondre,adam-le-fondre,F,False,0.0,0.0,90.0,0.0,,0.0
+2012-13,2754640,5,108,Reading,Away,31369,47393,Simon Church,simon-church,F,True,,,,,,
+2012-13,2754640,5,108,Reading,Away,33427,49440,Hal Robson-Kanu,hal-robson-kanu,F,True,0.0,0.0,,0.0,,0.0
+2012-13,2754666,6,108,Reading,Home,6578,15729,Noel Hunt,noel-hunt,F,False,0.0,1.0,90.0,0.0,,0.0
+2012-13,2754666,6,108,Reading,Home,9767,3118,Jason Roberts,jason-roberts,F,True,0.0,0.0,,0.0,,0.0
+2012-13,2754666,6,108,Reading,Home,17000,39439,Pavel Pogrebnyak,pavel-pogrebnyak,F,False,0.0,0.0,90.0,0.0,,0.0
+2012-13,2754666,6,108,Reading,Home,20843,19163,Adam Le Fondre,adam-le-fondre,F,True,0.0,0.0,,0.0,,0.0
+2012-13,2754666,6,108,Reading,Home,33427,49440,Hal Robson-Kanu,hal-robson-kanu,F,True,,,,,,
+2012-13,2754686,7,108,Reading,Away,6578,15729,Noel Hunt,noel-hunt,F,False,0.0,1.0,90.0,0.0,,0.0
+2012-13,2754686,7,108,Reading,Away,9767,3118,Jason Roberts,jason-roberts,F,True,0.0,0.0,,0.0,,0.0
+2012-13,2754686,7,108,Reading,Away,17000,39439,Pavel Pogrebnyak,pavel-pogrebnyak,F,False,0.0,1.0,90.0,0.0,,0.0
+2012-13,2754686,7,108,Reading,Away,20843,19163,Adam Le Fondre,adam-le-fondre,F,True,0.0,0.0,,0.0,,0.0
+2012-13,2754686,7,108,Reading,Away,33427,49440,Hal Robson-Kanu,hal-robson-kanu,F,True,0.0,0.0,,0.0,,0.0
+2012-13,2754698,8,108,Reading,Away,9767,3118,Jason Roberts,jason-roberts,F,True,0.0,0.0,,0.0,,0.0
+2012-13,2754698,8,108,Reading,Away,17000,39439,Pavel Pogrebnyak,pavel-pogrebnyak,F,False,0.0,0.0,90.0,0.0,,0.0
+2012-13,2754698,8,108,Reading,Away,20843,19163,Adam Le Fondre,adam-le-fondre,F,True,0.0,0.0,,0.0,,0.0
+2012-13,2754698,8,108,Reading,Away,33427,49440,Hal Robson-Kanu,hal-robson-kanu,F,True,,,,,,
+2012-13,2754738,9,108,Reading,Home,6578,15729,Noel Hunt,noel-hunt,F,True,,,,,,
+2012-13,2754738,9,108,Reading,Home,9767,3118,Jason Roberts,jason-roberts,F,False,0.0,0.0,90.0,0.0,,0.0
+2012-13,2754738,9,108,Reading,Home,17000,39439,Pavel Pogrebnyak,pavel-pogrebnyak,F,False,0.0,0.0,90.0,0.0,,0.0
+2012-13,2754738,9,108,Reading,Home,20843,19163,Adam Le Fondre,adam-le-fondre,F,True,0.0,0.0,,0.0,,0.0
+2012-13,2754738,9,108,Reading,Home,33427,49440,Hal Robson-Kanu,hal-robson-kanu,F,True,0.0,1.0,,0.0,,0.0
+2012-13,2754754,10,108,Reading,Away,6578,15729,Noel Hunt,noel-hunt,F,False,0.0,0.0,90.0,0.0,,0.0
+2012-13,2754754,10,108,Reading,Away,9767,3118,Jason Roberts,jason-roberts,F,False,0.0,0.0,90.0,0.0,,0.0
+2012-13,2754754,10,108,Reading,Away,17000,39439,Pavel Pogrebnyak,pavel-pogrebnyak,F,True,,,,,,
+2012-13,2754754,10,108,Reading,Away,20843,19163,Adam Le Fondre,adam-le-fondre,F,True,0.0,0.0,,0.0,,0.0
+2012-13,2754754,10,108,Reading,Away,33427,49440,Hal Robson-Kanu,hal-robson-kanu,F,True,0.0,0.0,,0.0,,0.0
+2012-13,2754778,11,108,Reading,Home,6578,15729,Noel Hunt,noel-hunt,F,False,0.0,0.0,90.0,0.0,,0.0
+2012-13,2754778,11,108,Reading,Home,9767,3118,Jason Roberts,jason-roberts,F,False,0.0,0.0,90.0,0.0,,0.0
+2012-13,2754778,11,108,Reading,Home,17000,39439,Pavel Pogrebnyak,pavel-pogrebnyak,F,True,0.0,0.0,,0.0,,0.0
+2012-13,2754778,11,108,Reading,Home,20843,19163,Adam Le Fondre,adam-le-fondre,F,True,0.0,0.0,,0.0,,0.0
+2012-13,2754778,11,108,Reading,Home,33427,49440,Hal Robson-Kanu,hal-robson-kanu,F,True,,,,,,
+2012-13,2754896,12,108,Reading,Home,6578,15729,Noel Hunt,noel-hunt,F,True,0.0,0.0,,0.0,,0.0
+2012-13,2754896,12,108,Reading,Home,9767,3118,Jason Roberts,jason-roberts,F,False,0.0,0.0,90.0,0.0,,0.0
+2012-13,2754896,12,108,Reading,Home,17000,39439,Pavel Pogrebnyak,pavel-pogrebnyak,F,True,,,,,,
+2012-13,2754896,12,108,Reading,Home,20843,19163,Adam Le Fondre,adam-le-fondre,F,False,0.0,2.0,90.0,0.0,,0.0
+2012-13,2754896,12,108,Reading,Home,33427,49440,Hal Robson-Kanu,hal-robson-kanu,F,False,0.0,0.0,90.0,0.0,,0.0
+2012-13,2754920,13,108,Reading,Away,6578,15729,Noel Hunt,noel-hunt,F,True,,,,,,
+2012-13,2754920,13,108,Reading,Away,9767,3118,Jason Roberts,jason-roberts,F,False,0.0,0.0,90.0,0.0,,0.0
+2012-13,2754920,13,108,Reading,Away,17000,39439,Pavel Pogrebnyak,pavel-pogrebnyak,F,True,0.0,0.0,,0.0,,0.0
+2012-13,2754920,13,108,Reading,Away,20843,19163,Adam Le Fondre,adam-le-fondre,F,False,0.0,0.0,90.0,0.0,,0.0
+2012-13,2754920,13,108,Reading,Away,33427,49440,Hal Robson-Kanu,hal-robson-kanu,F,False,0.0,0.0,90.0,0.0,,0.0
+2012-13,2754922,14,108,Reading,Away,6578,15729,Noel Hunt,noel-hunt,F,True,0.0,0.0,,0.0,,0.0
+2012-13,2754922,14,108,Reading,Away,9767,3118,Jason Roberts,jason-roberts,F,False,0.0,0.0,90.0,0.0,,0.0
+2012-13,2754922,14,108,Reading,Away,17000,39439,Pavel Pogrebnyak,pavel-pogrebnyak,F,True,,,,,,
+2012-13,2754922,14,108,Reading,Away,20843,19163,Adam Le Fondre,adam-le-fondre,F,False,0.0,0.0,90.0,0.0,,0.0
+2012-13,2754922,14,108,Reading,Away,33427,49440,Hal Robson-Kanu,hal-robson-kanu,F,False,0.0,0.0,90.0,0.0,,0.0
+2012-13,2754964,15,108,Reading,Home,6578,15729,Noel Hunt,noel-hunt,F,True,0.0,0.0,,0.0,,0.0
+2012-13,2754964,15,108,Reading,Home,9767,3118,Jason Roberts,jason-roberts,F,False,0.0,0.0,90.0,0.0,,0.0
+2012-13,2754964,15,108,Reading,Home,17000,39439,Pavel Pogrebnyak,pavel-pogrebnyak,F,True,0.0,0.0,,0.0,,0.0
+2012-13,2754964,15,108,Reading,Home,20843,19163,Adam Le Fondre,adam-le-fondre,F,False,0.0,1.0,90.0,0.0,,0.0
+2012-13,2754964,15,108,Reading,Home,33427,49440,Hal Robson-Kanu,hal-robson-kanu,F,False,0.0,1.0,90.0,0.0,,0.0
+2012-13,2754980,16,108,Reading,Away,6578,15729,Noel Hunt,noel-hunt,F,True,0.0,0.0,21.0,0.0,,0.0
+2012-13,2754980,16,108,Reading,Away,9767,3118,Jason Roberts,jason-roberts,F,False,0.0,0.0,90.0,0.0,,0.0
+2012-13,2754980,16,108,Reading,Away,20843,19163,Adam Le Fondre,adam-le-fondre,F,False,0.0,0.0,90.0,0.0,,0.0
+2012-13,2754980,16,108,Reading,Away,33427,49440,Hal Robson-Kanu,hal-robson-kanu,F,False,0.0,0.0,77.0,0.0,,0.0
+2012-13,2754980,16,108,Reading,Away,297150,148418,Dominic Samuel,dominic-samuel,F,True,,,,,,
+2012-13,2755002,17,108,Reading,Home,6578,15729,Noel Hunt,noel-hunt,F,False,0.0,0.0,61.0,0.0,,0.0
+2012-13,2755002,17,108,Reading,Home,17000,39439,Pavel Pogrebnyak,pavel-pogrebnyak,F,False,0.0,0.0,62.0,0.0,,0.0
+2012-13,2755002,17,108,Reading,Home,20843,19163,Adam Le Fondre,adam-le-fondre,F,True,0.0,1.0,28.0,0.0,,0.0
+2012-13,2755002,17,108,Reading,Home,33427,49440,Hal Robson-Kanu,hal-robson-kanu,F,True,0.0,0.0,29.0,0.0,,0.0
+2012-13,2755014,18,108,Reading,Away,6578,15729,Noel Hunt,noel-hunt,F,True,,,,,,
+2012-13,2755014,18,108,Reading,Away,17000,39439,Pavel Pogrebnyak,pavel-pogrebnyak,F,False,0.0,0.0,90.0,0.0,,0.0
+2012-13,2755014,18,108,Reading,Away,20843,19163,Adam Le Fondre,adam-le-fondre,F,True,,,,,,
+2012-13,2755014,18,108,Reading,Away,33427,49440,Hal Robson-Kanu,hal-robson-kanu,F,True,,,,,,
+2012-13,2755044,19,108,Reading,Home,6578,15729,Noel Hunt,noel-hunt,F,True,,,,,,
+2012-13,2755044,19,108,Reading,Home,17000,39439,Pavel Pogrebnyak,pavel-pogrebnyak,F,False,0.0,0.0,61.0,0.0,,0.0
+2012-13,2755044,19,108,Reading,Home,20843,19163,Adam Le Fondre,adam-le-fondre,F,True,0.0,0.0,29.0,0.0,,0.0
+2012-13,2755044,19,108,Reading,Home,33427,49440,Hal Robson-Kanu,hal-robson-kanu,F,True,0.0,0.0,29.0,0.0,,0.0
+2012-13,2755064,20,108,Reading,Home,6578,15729,Noel Hunt,noel-hunt,F,True,0.0,0.0,25.0,0.0,,0.0
+2012-13,2755064,20,108,Reading,Home,17000,39439,Pavel Pogrebnyak,pavel-pogrebnyak,F,False,0.0,1.0,90.0,0.0,,0.0
+2012-13,2755064,20,108,Reading,Home,20843,19163,Adam Le Fondre,adam-le-fondre,F,True,,,,,,
+2012-13,2755064,20,108,Reading,Home,33427,49440,Hal Robson-Kanu,hal-robson-kanu,F,True,0.0,0.0,14.0,0.0,,0.0
+2012-13,2755082,21,108,Reading,Away,6578,15729,Noel Hunt,noel-hunt,F,True,0.0,0.0,6.0,0.0,,0.0
+2012-13,2755082,21,108,Reading,Away,17000,39439,Pavel Pogrebnyak,pavel-pogrebnyak,F,False,0.0,1.0,84.0,0.0,,0.0
+2012-13,2755082,21,108,Reading,Away,20843,19163,Adam Le Fondre,adam-le-fondre,F,True,0.0,0.0,17.0,0.0,,0.0
+2012-13,2755082,21,108,Reading,Away,33427,49440,Hal Robson-Kanu,hal-robson-kanu,F,True,0.0,0.0,33.0,0.0,,0.0
+2012-13,2755104,22,108,Reading,Home,6578,15729,Noel Hunt,noel-hunt,F,True,,,,,,
+2012-13,2755104,22,108,Reading,Home,17000,39439,Pavel Pogrebnyak,pavel-pogrebnyak,F,False,0.0,1.0,90.0,0.0,,0.0
+2012-13,2755104,22,108,Reading,Home,20843,19163,Adam Le Fondre,adam-le-fondre,F,True,0.0,1.0,25.0,0.0,,0.0
+2012-13,2755120,23,108,Reading,Away,6578,15729,Noel Hunt,noel-hunt,F,True,,,,,,
+2012-13,2755120,23,108,Reading,Away,17000,39439,Pavel Pogrebnyak,pavel-pogrebnyak,F,False,0.0,0.0,90.0,0.0,,0.0
+2012-13,2755120,23,108,Reading,Away,20843,19163,Adam Le Fondre,adam-le-fondre,F,True,0.0,2.0,20.0,0.0,,0.0
+2012-13,2755140,24,108,Reading,Home,17000,39439,Pavel Pogrebnyak,pavel-pogrebnyak,F,False,0.0,0.0,90.0,0.0,,0.0
+2012-13,2755140,24,108,Reading,Home,20843,19163,Adam Le Fondre,adam-le-fondre,F,True,0.0,2.0,24.0,0.0,,0.0
+2012-13,2755140,24,108,Reading,Home,33427,49440,Hal Robson-Kanu,hal-robson-kanu,F,True,,,,,,
+2012-13,2755162,25,108,Reading,Home,17000,39439,Pavel Pogrebnyak,pavel-pogrebnyak,F,False,0.0,0.0,72.0,0.0,,0.0
+2012-13,2755162,25,108,Reading,Home,19931,40501,Nick Blackman,nick-blackman,F,True,0.0,0.0,18.0,0.0,,0.0
+2012-13,2755162,25,108,Reading,Home,20843,19163,Adam Le Fondre,adam-le-fondre,F,True,0.0,0.0,25.0,0.0,,0.0
+2012-13,2755182,26,108,Reading,Away,6578,15729,Noel Hunt,noel-hunt,F,True,0.0,0.0,10.0,0.0,,0.0
+2012-13,2755182,26,108,Reading,Away,17000,39439,Pavel Pogrebnyak,pavel-pogrebnyak,F,False,0.0,0.0,80.0,0.0,,0.0
+2012-13,2755182,26,108,Reading,Away,19931,40501,Nick Blackman,nick-blackman,F,False,0.0,0.0,56.0,0.0,,0.0
+2012-13,2755182,26,108,Reading,Away,20843,19163,Adam Le Fondre,adam-le-fondre,F,True,0.0,0.0,34.0,0.0,,0.0
+2012-13,2757520,27,108,Reading,Home,6578,15729,Noel Hunt,noel-hunt,F,True,0.0,0.0,27.0,0.0,,0.0
+2012-13,2757520,27,108,Reading,Home,17000,39439,Pavel Pogrebnyak,pavel-pogrebnyak,F,False,0.0,0.0,55.0,0.0,,0.0
+2012-13,2757520,27,108,Reading,Home,20843,19163,Adam Le Fondre,adam-le-fondre,F,True,0.0,0.0,44.0,0.0,,0.0
+2012-13,2757520,27,108,Reading,Home,33427,49440,Hal Robson-Kanu,hal-robson-kanu,F,True,,,,,,
+2012-13,2757150,28,108,Reading,Away,6578,15729,Noel Hunt,noel-hunt,F,False,0.0,0.0,74.0,0.0,,0.0
+2012-13,2757150,28,108,Reading,Away,19931,40501,Nick Blackman,nick-blackman,F,True,0.0,0.0,16.0,0.0,,0.0
+2012-13,2757150,28,108,Reading,Away,20843,19163,Adam Le Fondre,adam-le-fondre,F,False,0.0,0.0,90.0,0.0,,0.0
+2012-13,2757150,28,108,Reading,Away,33427,49440,Hal Robson-Kanu,hal-robson-kanu,F,True,0.0,1.0,71.0,0.0,,0.0
+2012-13,2757180,29,108,Reading,Home,6578,15729,Noel Hunt,noel-hunt,F,False,0.0,0.0,56.0,0.0,,0.0
+2012-13,2757180,29,108,Reading,Home,19931,40501,Nick Blackman,nick-blackman,F,True,0.0,0.0,34.0,0.0,,0.0
+2012-13,2757180,29,108,Reading,Home,20843,19163,Adam Le Fondre,adam-le-fondre,F,False,0.0,0.0,90.0,0.0,,0.0
+2012-13,2757180,29,108,Reading,Home,33427,49440,Hal Robson-Kanu,hal-robson-kanu,F,False,0.0,0.0,90.0,0.0,,0.0
+2012-13,2757514,30,108,Reading,Away,6578,15729,Noel Hunt,noel-hunt,F,False,0.0,0.0,70.0,0.0,,0.0
+2012-13,2757514,30,108,Reading,Away,19931,40501,Nick Blackman,nick-blackman,F,True,0.0,0.0,20.0,0.0,,0.0
+2012-13,2757514,30,108,Reading,Away,20843,19163,Adam Le Fondre,adam-le-fondre,F,True,0.0,0.0,20.0,0.0,,0.0
+2012-13,2757514,30,108,Reading,Away,33427,49440,Hal Robson-Kanu,hal-robson-kanu,F,False,0.0,0.0,70.0,0.0,,0.0
+2012-13,2757218,31,108,Reading,Away,6578,15729,Noel Hunt,noel-hunt,F,True,0.0,0.0,29.0,0.0,,0.0
+2012-13,2757218,31,108,Reading,Away,17000,39439,Pavel Pogrebnyak,pavel-pogrebnyak,F,False,0.0,0.0,61.0,0.0,,0.0
+2012-13,2757218,31,108,Reading,Away,20843,19163,Adam Le Fondre,adam-le-fondre,F,True,,,,,,
+2012-13,2757218,31,108,Reading,Away,33427,49440,Hal Robson-Kanu,hal-robson-kanu,F,False,0.0,1.0,80.0,0.0,,0.0
+2012-13,2757246,32,108,Reading,Home,6578,15729,Noel Hunt,noel-hunt,F,True,0.0,0.0,16.0,0.0,,0.0
+2012-13,2757246,32,108,Reading,Home,17000,39439,Pavel Pogrebnyak,pavel-pogrebnyak,F,True,,,,,,
+2012-13,2757246,32,108,Reading,Home,20843,19163,Adam Le Fondre,adam-le-fondre,F,False,0.0,0.0,90.0,0.0,,0.0
+2012-13,2757246,32,108,Reading,Home,33427,49440,Hal Robson-Kanu,hal-robson-kanu,F,False,0.0,0.0,74.0,0.0,,0.0
+2012-13,2757266,33,108,Reading,Home,6578,15729,Noel Hunt,noel-hunt,F,False,0.0,0.0,79.0,0.0,,0.0
+2012-13,2757266,33,108,Reading,Home,17000,39439,Pavel Pogrebnyak,pavel-pogrebnyak,F,False,0.0,0.0,73.0,0.0,,0.0
+2012-13,2757266,33,108,Reading,Home,19931,40501,Nick Blackman,nick-blackman,F,True,0.0,0.0,17.0,0.0,,0.0
+2012-13,2757266,33,108,Reading,Home,20843,19163,Adam Le Fondre,adam-le-fondre,F,True,0.0,0.0,11.0,0.0,,0.0
+2012-13,2757300,34,108,Reading,Away,6578,15729,Noel Hunt,noel-hunt,F,True,,,,,,
+2012-13,2757300,34,108,Reading,Away,17000,39439,Pavel Pogrebnyak,pavel-pogrebnyak,F,False,0.0,0.0,90.0,0.0,,0.0
+2012-13,2757300,34,108,Reading,Away,19931,40501,Nick Blackman,nick-blackman,F,False,0.0,0.0,90.0,0.0,,0.0
+2012-13,2757300,34,108,Reading,Away,20843,19163,Adam Le Fondre,adam-le-fondre,F,True,,,,,,
+2012-13,2757326,35,108,Reading,Home,6578,15729,Noel Hunt,noel-hunt,F,True,,,,,,
+2012-13,2757326,35,108,Reading,Home,17000,39439,Pavel Pogrebnyak,pavel-pogrebnyak,F,False,0.0,0.0,90.0,0.0,,0.0
+2012-13,2757326,35,108,Reading,Home,19931,40501,Nick Blackman,nick-blackman,F,False,0.0,0.0,55.0,0.0,,0.0
+2012-13,2757326,35,108,Reading,Home,20843,19163,Adam Le Fondre,adam-le-fondre,F,True,0.0,0.0,26.0,0.0,,0.0
+2012-13,2757326,35,108,Reading,Home,33427,49440,Hal Robson-Kanu,hal-robson-kanu,F,True,0.0,0.0,35.0,0.0,,0.0
+2012-13,2757508,36,108,Reading,Away,6578,15729,Noel Hunt,noel-hunt,F,True,,,,,,
+2012-13,2757508,36,108,Reading,Away,17000,39439,Pavel Pogrebnyak,pavel-pogrebnyak,F,False,0.0,0.0,71.0,0.0,,0.0
+2012-13,2757508,36,108,Reading,Away,19931,40501,Nick Blackman,nick-blackman,F,True,0.0,0.0,17.0,0.0,,0.0
+2012-13,2757508,36,108,Reading,Away,20843,19163,Adam Le Fondre,adam-le-fondre,F,True,0.0,1.0,19.0,0.0,,0.0
+2012-13,2757508,36,108,Reading,Away,33427,49440,Hal Robson-Kanu,hal-robson-kanu,F,False,0.0,2.0,81.0,0.0,,0.0
+2012-13,2757384,37,108,Reading,Home,17000,39439,Pavel Pogrebnyak,pavel-pogrebnyak,F,False,0.0,0.0,62.0,0.0,,0.0
+2012-13,2757384,37,108,Reading,Home,19931,40501,Nick Blackman,nick-blackman,F,True,0.0,0.0,21.0,0.0,,0.0
+2012-13,2757384,37,108,Reading,Home,20843,19163,Adam Le Fondre,adam-le-fondre,F,True,0.0,0.0,28.0,0.0,,0.0
+2012-13,2757384,37,108,Reading,Home,33427,49440,Hal Robson-Kanu,hal-robson-kanu,F,False,0.0,0.0,90.0,0.0,,0.0
+2012-13,2757420,38,108,Reading,Away,17000,39439,Pavel Pogrebnyak,pavel-pogrebnyak,F,False,0.0,0.0,46.0,0.0,,0.0
+2012-13,2757420,38,108,Reading,Away,19931,40501,Nick Blackman,nick-blackman,F,True,0.0,0.0,44.0,0.0,,0.0
+2012-13,2757420,38,108,Reading,Away,20843,19163,Adam Le Fondre,adam-le-fondre,F,True,0.0,1.0,44.0,0.0,,0.0
+2012-13,2757420,38,108,Reading,Away,33427,49440,Hal Robson-Kanu,hal-robson-kanu,F,False,0.0,0.0,46.0,0.0,,0.0

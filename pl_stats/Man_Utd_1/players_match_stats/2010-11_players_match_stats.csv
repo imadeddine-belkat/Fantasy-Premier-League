@@ -1,684 +1,684 @@
-season,matchId,gameweek,team_id,team,venue,playerId,pl_code,playerName,slug,position,substitute,goalAssist,goals,minutesPlayed,ownGoals,penaltyMiss,totalShots
-2010-11,1379600,1,1,Manchester_United,Home,278,8595.0,Dimitar Berbatov,dimitar-berbatov,F,False,0.0,1.0,90.0,0.0,,0.0
-2010-11,1379600,1,1,Manchester_United,Home,661,4058.0,Edwin van der Sar,edwin-van-der-sar,G,False,0.0,0.0,90.0,0.0,,0.0
-2010-11,1379600,1,1,Manchester_United,Home,751,13017.0,Wayne Rooney,wayne-rooney,F,False,1.0,0.0,63.0,0.0,,0.0
-2010-11,1379600,1,1,Manchester_United,Home,754,3.0,Ryan Giggs,ryan-giggs,M,True,0.0,1.0,19.0,0.0,,0.0
-2010-11,1379600,1,1,Manchester_United,Home,761,363.0,Paul Scholes,paul-scholes,M,False,2.0,0.0,90.0,0.0,,0.0
-2010-11,1379600,1,1,Manchester_United,Home,763,3736.0,John O'Shea,john-oshea,D,False,0.0,0.0,90.0,0.0,,0.0
-2010-11,1379600,1,1,Manchester_United,Home,765,14295.0,Darren Fletcher,darren-fletcher,M,False,0.0,1.0,90.0,0.0,,0.0
-2010-11,1379600,1,1,Manchester_United,Home,938,2404.0,Michael Carrick,michael-carrick,M,True,,,,,,
-2010-11,1379600,1,1,Manchester_United,Home,1054,10135.0,Tomasz Kuszczak,tomasz-kuszczak,G,True,,,,,,
-2010-11,1379600,1,1,Manchester_United,Home,3063,14075.0,Patrice Evra,patrice-evra,D,False,0.0,0.0,87.0,0.0,,0.0
-2010-11,1379600,1,1,Manchester_United,Home,11184,14965.0,Nemanja Vidić,nemanja-vidic,D,False,0.0,0.0,90.0,0.0,,0.0
-2010-11,1379600,1,1,Manchester_United,Home,11820,20695.0,Antonio Valencia,antonio-valencia,D,False,0.0,0.0,90.0,0.0,,0.0
-2010-11,1379600,1,1,Manchester_United,Home,17740,38530.0,Nani,nani,M,False,0.0,0.0,71.0,0.0,,0.0
-2010-11,1379600,1,1,Manchester_United,Home,30144,37642.0,Jonny Evans,jonny-evans,D,False,0.0,0.0,90.0,0.0,,0.0
-2010-11,1379600,1,1,Manchester_United,Home,34312,,Javier Hernández,javier-hernandez,F,True,0.0,0.0,27.0,0.0,,0.0
-2010-11,1379600,1,1,Manchester_United,Home,39623,54772.0,Rafael,rafael,D,True,0.0,0.0,3.0,0.0,,0.0
-2010-11,1379600,1,1,Manchester_United,Home,47741,55909.0,Chris Smalling,chris-smalling,D,True,,,,,,
-2010-11,1379600,1,1,Manchester_United,Home,50130,59970.0,Federico Macheda,federico-macheda,F,True,,,,,,
-2010-11,1379607,2,1,Manchester_United,Away,278,8595.0,Dimitar Berbatov,dimitar-berbatov,F,False,1.0,0.0,90.0,0.0,,0.0
-2010-11,1379607,2,1,Manchester_United,Away,661,4058.0,Edwin van der Sar,edwin-van-der-sar,G,False,0.0,0.0,90.0,0.0,,0.0
-2010-11,1379607,2,1,Manchester_United,Away,754,3.0,Ryan Giggs,ryan-giggs,M,True,0.0,0.0,16.0,0.0,,0.0
-2010-11,1379607,2,1,Manchester_United,Away,761,363.0,Paul Scholes,paul-scholes,M,False,0.0,1.0,90.0,0.0,,0.0
-2010-11,1379607,2,1,Manchester_United,Away,763,3736.0,John O'Shea,john-oshea,D,False,0.0,0.0,90.0,0.0,,0.0
-2010-11,1379607,2,1,Manchester_United,Away,765,14295.0,Darren Fletcher,darren-fletcher,M,False,0.0,0.0,90.0,0.0,,0.0
-2010-11,1379607,2,1,Manchester_United,Away,938,2404.0,Michael Carrick,michael-carrick,M,True,,,,,,
-2010-11,1379607,2,1,Manchester_United,Away,1054,10135.0,Tomasz Kuszczak,tomasz-kuszczak,G,True,,,,,,
-2010-11,1379607,2,1,Manchester_United,Away,2496,12882.0,Ji-Sung Park,ji-sung-park,M,False,0.0,0.0,66.0,0.0,,0.0
-2010-11,1379607,2,1,Manchester_United,Away,3063,14075.0,Patrice Evra,patrice-evra,D,False,0.0,0.0,90.0,0.0,,0.0
-2010-11,1379607,2,1,Manchester_United,Away,11184,14965.0,Nemanja Vidić,nemanja-vidic,D,False,0.0,0.0,90.0,0.0,,0.0
-2010-11,1379607,2,1,Manchester_United,Away,11820,20695.0,Antonio Valencia,antonio-valencia,D,False,0.0,0.0,74.0,0.0,,0.0
-2010-11,1379607,2,1,Manchester_United,Away,17740,38530.0,Nani,nani,M,True,0.0,0.0,24.0,0.0,1.0,0.0
-2010-11,1379607,2,1,Manchester_United,Away,30144,37642.0,Jonny Evans,jonny-evans,D,False,0.0,0.0,90.0,0.0,,0.0
-2010-11,1379607,2,1,Manchester_United,Away,34312,,Javier Hernández,javier-hernandez,F,False,0.0,0.0,74.0,0.0,,0.0
-2010-11,1379607,2,1,Manchester_United,Away,39623,54772.0,Rafael,rafael,D,True,,,,,,
-2010-11,1379607,2,1,Manchester_United,Away,47741,55909.0,Chris Smalling,chris-smalling,D,True,,,,,,
-2010-11,1379607,2,1,Manchester_United,Away,1421986,1795.0,Michael Owen,michael-owen,F,True,0.0,0.0,16.0,0.0,,0.0
-2010-11,1379620,3,1,Manchester_United,Home,278,8595.0,Dimitar Berbatov,dimitar-berbatov,F,False,0.0,1.0,74.0,0.0,,0.0
-2010-11,1379620,3,1,Manchester_United,Home,661,4058.0,Edwin van der Sar,edwin-van-der-sar,G,False,0.0,0.0,90.0,0.0,,0.0
-2010-11,1379620,3,1,Manchester_United,Home,751,13017.0,Wayne Rooney,wayne-rooney,F,False,1.0,1.0,90.0,0.0,,0.0
-2010-11,1379620,3,1,Manchester_United,Home,754,3.0,Ryan Giggs,ryan-giggs,M,False,0.0,0.0,90.0,0.0,,0.0
-2010-11,1379620,3,1,Manchester_United,Home,761,363.0,Paul Scholes,paul-scholes,M,False,0.0,0.0,74.0,0.0,,0.0
-2010-11,1379620,3,1,Manchester_United,Home,763,3736.0,John O'Shea,john-oshea,D,False,0.0,0.0,90.0,0.0,,0.0
-2010-11,1379620,3,1,Manchester_United,Home,765,14295.0,Darren Fletcher,darren-fletcher,M,False,0.0,0.0,90.0,0.0,,0.0
-2010-11,1379620,3,1,Manchester_United,Home,938,2404.0,Michael Carrick,michael-carrick,M,True,0.0,0.0,16.0,0.0,,0.0
-2010-11,1379620,3,1,Manchester_United,Home,1054,10135.0,Tomasz Kuszczak,tomasz-kuszczak,G,True,,,,,,
-2010-11,1379620,3,1,Manchester_United,Home,3063,14075.0,Patrice Evra,patrice-evra,D,False,0.0,0.0,90.0,0.0,,0.0
-2010-11,1379620,3,1,Manchester_United,Home,11184,14965.0,Nemanja Vidić,nemanja-vidic,D,False,0.0,0.0,90.0,0.0,,0.0
-2010-11,1379620,3,1,Manchester_United,Home,11820,20695.0,Antonio Valencia,antonio-valencia,D,True,,,,,,
-2010-11,1379620,3,1,Manchester_United,Home,17740,38530.0,Nani,nani,M,False,1.0,1.0,90.0,0.0,,0.0
-2010-11,1379620,3,1,Manchester_United,Home,30144,37642.0,Jonny Evans,jonny-evans,D,False,0.0,0.0,74.0,0.0,,0.0
-2010-11,1379620,3,1,Manchester_United,Home,34312,,Javier Hernández,javier-hernandez,F,True,,,,,,
-2010-11,1379620,3,1,Manchester_United,Home,39623,54772.0,Rafael,rafael,D,True,,,,,,
-2010-11,1379620,3,1,Manchester_United,Home,47741,55909.0,Chris Smalling,chris-smalling,D,True,0.0,0.0,16.0,0.0,,0.0
-2010-11,1379620,3,1,Manchester_United,Home,1421986,1795.0,Michael Owen,michael-owen,F,True,0.0,0.0,16.0,0.0,,0.0
-2010-11,1379794,4,1,Manchester_United,Away,278,8595.0,Dimitar Berbatov,dimitar-berbatov,F,False,0.0,1.0,90.0,0.0,,0.0
-2010-11,1379794,4,1,Manchester_United,Away,661,4058.0,Edwin van der Sar,edwin-van-der-sar,G,False,0.0,0.0,90.0,0.0,,0.0
-2010-11,1379794,4,1,Manchester_United,Away,745,1807.0,Gary Neville,gary-neville,D,False,0.0,0.0,90.0,0.0,,0.0
-2010-11,1379794,4,1,Manchester_United,Away,754,3.0,Ryan Giggs,ryan-giggs,M,False,0.0,0.0,90.0,0.0,,0.0
-2010-11,1379794,4,1,Manchester_United,Away,761,363.0,Paul Scholes,paul-scholes,M,False,1.0,0.0,90.0,0.0,,0.0
-2010-11,1379794,4,1,Manchester_United,Away,763,3736.0,John O'Shea,john-oshea,D,False,0.0,0.0,90.0,0.0,,0.0
-2010-11,1379794,4,1,Manchester_United,Away,765,14295.0,Darren Fletcher,darren-fletcher,M,False,0.0,1.0,90.0,0.0,,0.0
-2010-11,1379794,4,1,Manchester_United,Away,1054,10135.0,Tomasz Kuszczak,tomasz-kuszczak,G,True,,,,,,
-2010-11,1379794,4,1,Manchester_United,Away,2496,12882.0,Ji-Sung Park,ji-sung-park,M,True,0.0,0.0,9.0,0.0,,0.0
-2010-11,1379794,4,1,Manchester_United,Away,3063,14075.0,Patrice Evra,patrice-evra,D,False,0.0,0.0,81.0,0.0,,0.0
-2010-11,1379794,4,1,Manchester_United,Away,11184,14965.0,Nemanja Vidić,nemanja-vidic,D,False,0.0,1.0,90.0,0.0,,0.0
-2010-11,1379794,4,1,Manchester_United,Away,17740,38530.0,Nani,nani,M,False,2.0,0.0,90.0,0.0,,0.0
-2010-11,1379794,4,1,Manchester_United,Away,21073,27707.0,Darron Gibson,darron-gibson,M,True,,,,,,
-2010-11,1379794,4,1,Manchester_United,Away,30144,37642.0,Jonny Evans,jonny-evans,D,False,0.0,0.0,90.0,0.0,,0.0
-2010-11,1379794,4,1,Manchester_United,Away,39623,54772.0,Rafael,rafael,D,True,,,,,,
-2010-11,1379794,4,1,Manchester_United,Away,47741,55909.0,Chris Smalling,chris-smalling,D,True,,,,,,
-2010-11,1379794,4,1,Manchester_United,Away,50130,59970.0,Federico Macheda,federico-macheda,F,True,,,,,,
-2010-11,1379794,4,1,Manchester_United,Away,1421986,1795.0,Michael Owen,michael-owen,F,True,,,,,,
-2010-11,1379806,5,1,Manchester_United,Home,278,8595.0,Dimitar Berbatov,dimitar-berbatov,F,False,0.0,3.0,88.0,0.0,,0.0
-2010-11,1379806,5,1,Manchester_United,Home,661,4058.0,Edwin van der Sar,edwin-van-der-sar,G,False,0.0,0.0,90.0,0.0,,0.0
-2010-11,1379806,5,1,Manchester_United,Home,749,1841.0,Wes Brown,wes-brown,D,True,,,,,,
-2010-11,1379806,5,1,Manchester_United,Home,751,13017.0,Wayne Rooney,wayne-rooney,F,False,0.0,0.0,90.0,0.0,,0.0
-2010-11,1379806,5,1,Manchester_United,Home,754,3.0,Ryan Giggs,ryan-giggs,M,False,1.0,0.0,82.0,0.0,,0.0
-2010-11,1379806,5,1,Manchester_United,Home,761,363.0,Paul Scholes,paul-scholes,M,False,0.0,0.0,90.0,0.0,,0.0
-2010-11,1379806,5,1,Manchester_United,Home,763,3736.0,John O'Shea,john-oshea,D,False,1.0,0.0,90.0,0.0,,0.0
-2010-11,1379806,5,1,Manchester_United,Home,765,14295.0,Darren Fletcher,darren-fletcher,M,False,0.0,0.0,90.0,0.0,,0.0
-2010-11,1379806,5,1,Manchester_United,Home,1054,10135.0,Tomasz Kuszczak,tomasz-kuszczak,G,True,,,,,,
-2010-11,1379806,5,1,Manchester_United,Home,3063,14075.0,Patrice Evra,patrice-evra,D,False,0.0,0.0,90.0,0.0,,0.0
-2010-11,1379806,5,1,Manchester_United,Home,11184,14965.0,Nemanja Vidić,nemanja-vidic,D,False,0.0,0.0,90.0,0.0,,0.0
-2010-11,1379806,5,1,Manchester_United,Home,17740,38530.0,Nani,nani,M,False,1.0,0.0,88.0,0.0,,0.0
-2010-11,1379806,5,1,Manchester_United,Home,17887,27258.0,Anderson,anderson,M,True,0.0,0.0,2.0,0.0,,0.0
-2010-11,1379806,5,1,Manchester_United,Home,21073,27707.0,Darron Gibson,darron-gibson,M,True,0.0,0.0,2.0,0.0,,0.0
-2010-11,1379806,5,1,Manchester_United,Home,30144,37642.0,Jonny Evans,jonny-evans,D,False,0.0,0.0,90.0,0.0,,0.0
-2010-11,1379806,5,1,Manchester_United,Home,47741,55909.0,Chris Smalling,chris-smalling,D,True,,,,,,
-2010-11,1379806,5,1,Manchester_United,Home,50130,59970.0,Federico Macheda,federico-macheda,F,True,0.0,0.0,8.0,0.0,,0.0
-2010-11,1379806,5,1,Manchester_United,Home,1421986,1795.0,Michael Owen,michael-owen,F,True,,,,,,
-2010-11,1379815,6,1,Manchester_United,Away,278,8595.0,Dimitar Berbatov,dimitar-berbatov,F,False,0.0,0.0,90.0,0.0,,0.0
-2010-11,1379815,6,1,Manchester_United,Away,661,4058.0,Edwin van der Sar,edwin-van-der-sar,G,False,0.0,0.0,90.0,0.0,,0.0
-2010-11,1379815,6,1,Manchester_United,Away,751,13017.0,Wayne Rooney,wayne-rooney,F,False,1.0,0.0,61.0,0.0,,0.0
-2010-11,1379815,6,1,Manchester_United,Away,754,3.0,Ryan Giggs,ryan-giggs,M,False,0.0,0.0,53.0,0.0,,0.0
-2010-11,1379815,6,1,Manchester_United,Away,761,363.0,Paul Scholes,paul-scholes,M,False,0.0,0.0,90.0,0.0,,0.0
-2010-11,1379815,6,1,Manchester_United,Away,763,3736.0,John O'Shea,john-oshea,D,False,0.0,0.0,90.0,0.0,,0.0
-2010-11,1379815,6,1,Manchester_United,Away,765,14295.0,Darren Fletcher,darren-fletcher,M,False,0.0,0.0,71.0,0.0,,0.0
-2010-11,1379815,6,1,Manchester_United,Away,1054,10135.0,Tomasz Kuszczak,tomasz-kuszczak,G,True,,,,,,
-2010-11,1379815,6,1,Manchester_United,Away,2496,12882.0,Ji-Sung Park,ji-sung-park,M,True,0.0,0.0,37.0,0.0,,0.0
-2010-11,1379815,6,1,Manchester_United,Away,3063,14075.0,Patrice Evra,patrice-evra,D,False,0.0,0.0,90.0,0.0,,0.0
-2010-11,1379815,6,1,Manchester_United,Away,11184,14965.0,Nemanja Vidić,nemanja-vidic,D,False,0.0,0.0,90.0,0.0,,0.0
-2010-11,1379815,6,1,Manchester_United,Away,17740,38530.0,Nani,nani,M,False,1.0,1.0,90.0,0.0,,0.0
-2010-11,1379815,6,1,Manchester_United,Away,17887,27258.0,Anderson,anderson,M,True,,,,,,
-2010-11,1379815,6,1,Manchester_United,Away,30144,37642.0,Jonny Evans,jonny-evans,D,False,0.0,0.0,90.0,0.0,,0.0
-2010-11,1379815,6,1,Manchester_United,Away,39623,54772.0,Rafael,rafael,D,True,,,,,,
-2010-11,1379815,6,1,Manchester_United,Away,47741,55909.0,Chris Smalling,chris-smalling,D,True,,,,,,
-2010-11,1379815,6,1,Manchester_United,Away,50130,59970.0,Federico Macheda,federico-macheda,F,True,0.0,0.0,29.0,0.0,,0.0
-2010-11,1379815,6,1,Manchester_United,Away,1421986,1795.0,Michael Owen,michael-owen,F,True,0.0,1.0,19.0,0.0,,0.0
-2010-11,1379827,7,1,Manchester_United,Away,278,8595.0,Dimitar Berbatov,dimitar-berbatov,F,True,0.0,0.0,44.0,0.0,,0.0
-2010-11,1379827,7,1,Manchester_United,Away,661,4058.0,Edwin van der Sar,edwin-van-der-sar,G,False,0.0,0.0,90.0,0.0,,0.0
-2010-11,1379827,7,1,Manchester_United,Away,748,2034.0,Rio Ferdinand,rio-ferdinand,D,False,0.0,0.0,90.0,0.0,,0.0
-2010-11,1379827,7,1,Manchester_United,Away,761,363.0,Paul Scholes,paul-scholes,M,False,0.0,0.0,90.0,0.0,,0.0
-2010-11,1379827,7,1,Manchester_United,Away,763,3736.0,John O'Shea,john-oshea,D,False,0.0,0.0,90.0,0.0,,0.0
-2010-11,1379827,7,1,Manchester_United,Away,765,14295.0,Darren Fletcher,darren-fletcher,M,False,0.0,0.0,90.0,0.0,,0.0
-2010-11,1379827,7,1,Manchester_United,Away,1054,10135.0,Tomasz Kuszczak,tomasz-kuszczak,G,True,,,,,,
-2010-11,1379827,7,1,Manchester_United,Away,3063,14075.0,Patrice Evra,patrice-evra,D,True,,,,,,
-2010-11,1379827,7,1,Manchester_United,Away,11184,14965.0,Nemanja Vidić,nemanja-vidic,D,False,0.0,0.0,90.0,0.0,,0.0
-2010-11,1379827,7,1,Manchester_United,Away,17740,38530.0,Nani,nani,M,False,0.0,0.0,90.0,0.0,,0.0
-2010-11,1379827,7,1,Manchester_United,Away,17887,27258.0,Anderson,anderson,M,False,0.0,0.0,80.0,0.0,,0.0
-2010-11,1379827,7,1,Manchester_United,Away,21073,27707.0,Darron Gibson,darron-gibson,M,True,,,,,,
-2010-11,1379827,7,1,Manchester_United,Away,34312,,Javier Hernández,javier-hernandez,F,True,0.0,0.0,26.0,0.0,,0.0
-2010-11,1379827,7,1,Manchester_United,Away,39623,54772.0,Rafael,rafael,D,False,0.0,0.0,90.0,0.0,,0.0
-2010-11,1379827,7,1,Manchester_United,Away,47741,55909.0,Chris Smalling,chris-smalling,D,True,,,,,,
-2010-11,1379827,7,1,Manchester_United,Away,50130,59970.0,Federico Macheda,federico-macheda,F,False,0.0,0.0,64.0,0.0,,0.0
-2010-11,1379827,7,1,Manchester_United,Away,124950,84374.0,Bebé,bebe,M,True,0.0,0.0,10.0,0.0,,0.0
-2010-11,1379827,7,1,Manchester_United,Away,1421986,1795.0,Michael Owen,michael-owen,F,False,0.0,0.0,46.0,0.0,,0.0
-2010-11,1379839,8,1,Manchester_United,Home,278,8595.0,Dimitar Berbatov,dimitar-berbatov,F,False,1.0,0.0,90.0,0.0,,0.0
-2010-11,1379839,8,1,Manchester_United,Home,661,4058.0,Edwin van der Sar,edwin-van-der-sar,G,False,0.0,0.0,90.0,0.0,,0.0
-2010-11,1379839,8,1,Manchester_United,Home,748,2034.0,Rio Ferdinand,rio-ferdinand,D,False,0.0,0.0,90.0,0.0,,0.0
-2010-11,1379839,8,1,Manchester_United,Home,751,13017.0,Wayne Rooney,wayne-rooney,F,True,0.0,0.0,18.0,0.0,,0.0
-2010-11,1379839,8,1,Manchester_United,Home,754,3.0,Ryan Giggs,ryan-giggs,M,False,0.0,0.0,42.0,0.0,,0.0
-2010-11,1379839,8,1,Manchester_United,Home,761,363.0,Paul Scholes,paul-scholes,M,True,0.0,0.0,18.0,0.0,,0.0
-2010-11,1379839,8,1,Manchester_United,Home,763,3736.0,John O'Shea,john-oshea,D,True,,,,,,
-2010-11,1379839,8,1,Manchester_United,Home,938,2404.0,Michael Carrick,michael-carrick,M,False,0.0,0.0,72.0,0.0,,0.0
-2010-11,1379839,8,1,Manchester_United,Home,1054,10135.0,Tomasz Kuszczak,tomasz-kuszczak,G,True,,,,,,
-2010-11,1379839,8,1,Manchester_United,Home,3063,14075.0,Patrice Evra,patrice-evra,D,False,0.0,0.0,90.0,1.0,,0.0
-2010-11,1379839,8,1,Manchester_United,Home,11184,14965.0,Nemanja Vidić,nemanja-vidic,D,False,0.0,0.0,90.0,0.0,,0.0
-2010-11,1379839,8,1,Manchester_United,Home,17740,38530.0,Nani,nani,M,False,1.0,1.0,90.0,0.0,,0.0
-2010-11,1379839,8,1,Manchester_United,Home,17887,27258.0,Anderson,anderson,M,False,0.0,0.0,72.0,0.0,,0.0
-2010-11,1379839,8,1,Manchester_United,Home,21073,27707.0,Darron Gibson,darron-gibson,M,True,0.0,0.0,48.0,0.0,,0.0
-2010-11,1379839,8,1,Manchester_United,Home,34312,,Javier Hernández,javier-hernandez,F,False,0.0,1.0,90.0,0.0,,0.0
-2010-11,1379839,8,1,Manchester_United,Home,39623,54772.0,Rafael,rafael,D,False,0.0,0.0,90.0,0.0,,0.0
-2010-11,1379839,8,1,Manchester_United,Home,47741,55909.0,Chris Smalling,chris-smalling,D,True,,,,,,
-2010-11,1379839,8,1,Manchester_United,Home,50130,59970.0,Federico Macheda,federico-macheda,F,True,,,,,,
-2010-11,1379846,9,1,Manchester_United,Away,278,8595.0,Dimitar Berbatov,dimitar-berbatov,F,False,0.0,0.0,90.0,0.0,,0.0
-2010-11,1379846,9,1,Manchester_United,Away,661,4058.0,Edwin van der Sar,edwin-van-der-sar,G,False,0.0,0.0,90.0,0.0,,0.0
-2010-11,1379846,9,1,Manchester_United,Away,745,1807.0,Gary Neville,gary-neville,D,False,0.0,0.0,46.0,0.0,,0.0
-2010-11,1379846,9,1,Manchester_United,Away,748,2034.0,Rio Ferdinand,rio-ferdinand,D,False,0.0,0.0,90.0,0.0,,0.0
-2010-11,1379846,9,1,Manchester_United,Away,749,1841.0,Wes Brown,wes-brown,D,True,0.0,0.0,44.0,0.0,,0.0
-2010-11,1379846,9,1,Manchester_United,Away,761,363.0,Paul Scholes,paul-scholes,M,False,0.0,0.0,87.0,0.0,,0.0
-2010-11,1379846,9,1,Manchester_United,Away,763,3736.0,John O'Shea,john-oshea,D,False,0.0,0.0,70.0,0.0,,0.0
-2010-11,1379846,9,1,Manchester_United,Away,765,14295.0,Darren Fletcher,darren-fletcher,M,False,0.0,0.0,90.0,0.0,,0.0
-2010-11,1379846,9,1,Manchester_United,Away,938,2404.0,Michael Carrick,michael-carrick,M,True,0.0,0.0,20.0,0.0,,0.0
-2010-11,1379846,9,1,Manchester_United,Away,1054,10135.0,Tomasz Kuszczak,tomasz-kuszczak,G,True,,,,,,
-2010-11,1379846,9,1,Manchester_United,Away,3063,14075.0,Patrice Evra,patrice-evra,D,False,1.0,0.0,90.0,0.0,,0.0
-2010-11,1379846,9,1,Manchester_United,Away,11184,14965.0,Nemanja Vidić,nemanja-vidic,D,False,1.0,0.0,90.0,0.0,,0.0
-2010-11,1379846,9,1,Manchester_United,Away,16511,38429.0,Gabriel Obertan,gabriel-obertan,M,True,0.0,0.0,3.0,0.0,,0.0
-2010-11,1379846,9,1,Manchester_United,Away,17740,38530.0,Nani,nani,M,False,0.0,0.0,90.0,0.0,,0.0
-2010-11,1379846,9,1,Manchester_United,Away,21073,27707.0,Darron Gibson,darron-gibson,M,True,,,,,,
-2010-11,1379846,9,1,Manchester_United,Away,34312,,Javier Hernández,javier-hernandez,F,False,0.0,2.0,90.0,0.0,,0.0
-2010-11,1379846,9,1,Manchester_United,Away,47741,55909.0,Chris Smalling,chris-smalling,D,True,,,,,,
-2010-11,1379846,9,1,Manchester_United,Away,50130,59970.0,Federico Macheda,federico-macheda,F,True,,,,,,
-2010-11,1379859,10,1,Manchester_United,Home,278,8595.0,Dimitar Berbatov,dimitar-berbatov,F,False,0.0,0.0,64.0,0.0,,0.0
-2010-11,1379859,10,1,Manchester_United,Home,661,4058.0,Edwin van der Sar,edwin-van-der-sar,G,False,0.0,0.0,90.0,0.0,,0.0
-2010-11,1379859,10,1,Manchester_United,Home,748,2034.0,Rio Ferdinand,rio-ferdinand,D,False,0.0,0.0,90.0,0.0,,0.0
-2010-11,1379859,10,1,Manchester_United,Home,749,1841.0,Wes Brown,wes-brown,D,True,0.0,0.0,26.0,0.0,,0.0
-2010-11,1379859,10,1,Manchester_United,Home,761,363.0,Paul Scholes,paul-scholes,M,True,0.0,0.0,26.0,0.0,,0.0
-2010-11,1379859,10,1,Manchester_United,Home,763,3736.0,John O'Shea,john-oshea,D,True,,,,,,
-2010-11,1379859,10,1,Manchester_United,Home,765,14295.0,Darren Fletcher,darren-fletcher,M,False,0.0,0.0,90.0,0.0,,0.0
-2010-11,1379859,10,1,Manchester_United,Home,938,2404.0,Michael Carrick,michael-carrick,M,False,0.0,0.0,90.0,0.0,,0.0
-2010-11,1379859,10,1,Manchester_United,Home,1054,10135.0,Tomasz Kuszczak,tomasz-kuszczak,G,True,,,,,,
-2010-11,1379859,10,1,Manchester_United,Home,2496,12882.0,Ji-Sung Park,ji-sung-park,M,False,0.0,0.0,90.0,0.0,,0.0
-2010-11,1379859,10,1,Manchester_United,Home,3063,14075.0,Patrice Evra,patrice-evra,D,False,0.0,0.0,90.0,0.0,,0.0
-2010-11,1379859,10,1,Manchester_United,Home,11184,14965.0,Nemanja Vidić,nemanja-vidic,D,False,0.0,1.0,90.0,0.0,,0.0
-2010-11,1379859,10,1,Manchester_United,Home,16511,38429.0,Gabriel Obertan,gabriel-obertan,M,True,0.0,0.0,3.0,0.0,,0.0
-2010-11,1379859,10,1,Manchester_United,Home,17740,38530.0,Nani,nani,M,False,1.0,1.0,90.0,0.0,,0.0
-2010-11,1379859,10,1,Manchester_United,Home,34312,,Javier Hernández,javier-hernandez,F,False,0.0,0.0,87.0,0.0,,0.0
-2010-11,1379859,10,1,Manchester_United,Home,39623,54772.0,Rafael,rafael,D,False,0.0,0.0,64.0,0.0,,0.0
-2010-11,1379859,10,1,Manchester_United,Home,47741,55909.0,Chris Smalling,chris-smalling,D,True,,,,,,
-2010-11,1379859,10,1,Manchester_United,Home,124950,84374.0,Bebé,bebe,M,True,,,,,,
-2010-11,1379869,11,1,Manchester_United,Home,661,4058.0,Edwin van der Sar,edwin-van-der-sar,G,False,0.0,0.0,90.0,0.0,,0.0
-2010-11,1379869,11,1,Manchester_United,Home,748,2034.0,Rio Ferdinand,rio-ferdinand,D,False,0.0,0.0,90.0,0.0,,0.0
-2010-11,1379869,11,1,Manchester_United,Home,749,1841.0,Wes Brown,wes-brown,D,False,0.0,0.0,90.0,0.0,,0.0
-2010-11,1379869,11,1,Manchester_United,Home,761,363.0,Paul Scholes,paul-scholes,M,True,0.0,0.0,16.0,0.0,,0.0
-2010-11,1379869,11,1,Manchester_United,Home,763,3736.0,John O'Shea,john-oshea,D,False,0.0,0.0,74.0,0.0,,0.0
-2010-11,1379869,11,1,Manchester_United,Home,765,14295.0,Darren Fletcher,darren-fletcher,M,False,0.0,0.0,90.0,0.0,,0.0
-2010-11,1379869,11,1,Manchester_United,Home,1054,10135.0,Tomasz Kuszczak,tomasz-kuszczak,G,True,,,,,,
-2010-11,1379869,11,1,Manchester_United,Home,2496,12882.0,Ji-Sung Park,ji-sung-park,M,False,0.0,2.0,90.0,0.0,,0.0
-2010-11,1379869,11,1,Manchester_United,Home,3063,14075.0,Patrice Evra,patrice-evra,D,False,0.0,0.0,90.0,0.0,,0.0
-2010-11,1379869,11,1,Manchester_United,Home,11184,14965.0,Nemanja Vidić,nemanja-vidic,D,False,0.0,0.0,90.0,0.0,,0.0
-2010-11,1379869,11,1,Manchester_United,Home,16511,38429.0,Gabriel Obertan,gabriel-obertan,M,False,0.0,0.0,90.0,0.0,,0.0
-2010-11,1379869,11,1,Manchester_United,Home,30144,37642.0,Jonny Evans,jonny-evans,D,True,,,,,,
-2010-11,1379869,11,1,Manchester_United,Home,34312,,Javier Hernández,javier-hernandez,F,False,0.0,0.0,90.0,0.0,,0.0
-2010-11,1379869,11,1,Manchester_United,Home,40677,54771.0,Fábio,fabio,D,True,,,,,,
-2010-11,1379869,11,1,Manchester_United,Home,47741,55909.0,Chris Smalling,chris-smalling,D,True,,,,,,
-2010-11,1379869,11,1,Manchester_United,Home,50130,59970.0,Federico Macheda,federico-macheda,F,True,0.0,0.0,16.0,0.0,,0.0
-2010-11,1379869,11,1,Manchester_United,Home,124950,84374.0,Bebé,bebe,M,True,0.0,0.0,64.0,0.0,,0.0
-2010-11,1379869,11,1,Manchester_United,Home,1422211,5043.0,Owen Hargreaves,owen-hargreaves,M,False,0.0,0.0,10.0,0.0,,0.0
-2010-11,1379880,12,1,Manchester_United,Away,278,8595.0,Dimitar Berbatov,dimitar-berbatov,F,False,0.0,0.0,78.0,0.0,,0.0
-2010-11,1379880,12,1,Manchester_United,Away,661,4058.0,Edwin van der Sar,edwin-van-der-sar,G,False,0.0,0.0,90.0,0.0,,0.0
-2010-11,1379880,12,1,Manchester_United,Away,748,2034.0,Rio Ferdinand,rio-ferdinand,D,False,0.0,0.0,90.0,0.0,,0.0
-2010-11,1379880,12,1,Manchester_United,Away,749,1841.0,Wes Brown,wes-brown,D,True,0.0,0.0,41.0,0.0,,0.0
-2010-11,1379880,12,1,Manchester_United,Away,761,363.0,Paul Scholes,paul-scholes,M,False,0.0,0.0,90.0,0.0,,0.0
-2010-11,1379880,12,1,Manchester_United,Away,763,3736.0,John O'Shea,john-oshea,D,True,0.0,0.0,22.0,0.0,,0.0
-2010-11,1379880,12,1,Manchester_United,Away,765,14295.0,Darren Fletcher,darren-fletcher,M,False,0.0,0.0,90.0,0.0,,0.0
-2010-11,1379880,12,1,Manchester_United,Away,938,2404.0,Michael Carrick,michael-carrick,M,False,0.0,0.0,90.0,0.0,,0.0
-2010-11,1379880,12,1,Manchester_United,Away,2496,12882.0,Ji-Sung Park,ji-sung-park,M,False,0.0,0.0,90.0,0.0,,0.0
-2010-11,1379880,12,1,Manchester_United,Away,3063,14075.0,Patrice Evra,patrice-evra,D,False,0.0,0.0,68.0,0.0,,0.0
-2010-11,1379880,12,1,Manchester_United,Away,11184,14965.0,Nemanja Vidić,nemanja-vidic,D,False,0.0,0.0,90.0,0.0,,0.0
-2010-11,1379880,12,1,Manchester_United,Away,16511,38429.0,Gabriel Obertan,gabriel-obertan,M,True,,,,,,
-2010-11,1379880,12,1,Manchester_United,Away,17740,38530.0,Nani,nani,M,False,0.0,0.0,90.0,0.0,,0.0
-2010-11,1379880,12,1,Manchester_United,Away,21073,27707.0,Darron Gibson,darron-gibson,M,True,,,,,,
-2010-11,1379880,12,1,Manchester_United,Away,34312,,Javier Hernández,javier-hernandez,F,True,0.0,0.0,12.0,0.0,,0.0
-2010-11,1379880,12,1,Manchester_United,Away,39623,54772.0,Rafael,rafael,D,False,0.0,0.0,49.0,0.0,,0.0
-2010-11,1379880,12,1,Manchester_United,Away,42688,51922.0,Ben Amos,ben-amos,G,True,,,,,,
-2010-11,1379880,12,1,Manchester_United,Away,47741,55909.0,Chris Smalling,chris-smalling,D,True,,,,,,
-2010-11,1379882,13,1,Manchester_United,Away,278,8595.0,Dimitar Berbatov,dimitar-berbatov,F,False,0.0,0.0,73.0,0.0,,0.0
-2010-11,1379882,13,1,Manchester_United,Away,661,4058.0,Edwin van der Sar,edwin-van-der-sar,G,False,0.0,0.0,90.0,0.0,,0.0
-2010-11,1379882,13,1,Manchester_United,Away,748,2034.0,Rio Ferdinand,rio-ferdinand,D,False,0.0,0.0,90.0,0.0,,0.0
-2010-11,1379882,13,1,Manchester_United,Away,749,1841.0,Wes Brown,wes-brown,D,False,0.0,0.0,90.0,0.0,,0.0
-2010-11,1379882,13,1,Manchester_United,Away,763,3736.0,John O'Shea,john-oshea,D,True,0.0,0.0,17.0,0.0,,0.0
-2010-11,1379882,13,1,Manchester_United,Away,765,14295.0,Darren Fletcher,darren-fletcher,M,False,1.0,0.0,90.0,0.0,,0.0
-2010-11,1379882,13,1,Manchester_United,Away,938,2404.0,Michael Carrick,michael-carrick,M,False,0.0,0.0,90.0,0.0,,0.0
-2010-11,1379882,13,1,Manchester_United,Away,2496,12882.0,Ji-Sung Park,ji-sung-park,M,False,0.0,0.0,86.0,0.0,,0.0
-2010-11,1379882,13,1,Manchester_United,Away,3063,14075.0,Patrice Evra,patrice-evra,D,False,0.0,0.0,90.0,0.0,,0.0
-2010-11,1379882,13,1,Manchester_United,Away,11184,14965.0,Nemanja Vidić,nemanja-vidic,D,False,0.0,1.0,90.0,0.0,,0.0
-2010-11,1379882,13,1,Manchester_United,Away,16511,38429.0,Gabriel Obertan,gabriel-obertan,M,True,,,,,,
-2010-11,1379882,13,1,Manchester_United,Away,17740,38530.0,Nani,nani,M,False,1.0,0.0,90.0,0.0,,0.0
-2010-11,1379882,13,1,Manchester_United,Away,21073,27707.0,Darron Gibson,darron-gibson,M,True,,,,,,
-2010-11,1379882,13,1,Manchester_United,Away,34312,,Javier Hernández,javier-hernandez,F,False,0.0,0.0,73.0,0.0,,0.0
-2010-11,1379882,13,1,Manchester_United,Away,40677,54771.0,Fábio,fabio,D,True,,,,,,
-2010-11,1379882,13,1,Manchester_United,Away,47741,55909.0,Chris Smalling,chris-smalling,D,True,0.0,0.0,4.0,0.0,,0.0
-2010-11,1379882,13,1,Manchester_United,Away,50130,59970.0,Federico Macheda,federico-macheda,F,True,0.0,1.0,17.0,0.0,,0.0
-2010-11,1379899,14,1,Manchester_United,Home,661,4058.0,Edwin van der Sar,edwin-van-der-sar,G,False,0.0,0.0,90.0,0.0,,0.0
-2010-11,1379899,14,1,Manchester_United,Home,748,2034.0,Rio Ferdinand,rio-ferdinand,D,False,0.0,0.0,90.0,0.0,,0.0
-2010-11,1379899,14,1,Manchester_United,Home,751,13017.0,Wayne Rooney,wayne-rooney,F,True,0.0,0.0,34.0,0.0,,0.0
-2010-11,1379899,14,1,Manchester_United,Home,754,3.0,Ryan Giggs,ryan-giggs,M,True,,,,,,
-2010-11,1379899,14,1,Manchester_United,Home,761,363.0,Paul Scholes,paul-scholes,M,True,0.0,0.0,34.0,0.0,,0.0
-2010-11,1379899,14,1,Manchester_United,Home,763,3736.0,John O'Shea,john-oshea,D,True,,,,,,
-2010-11,1379899,14,1,Manchester_United,Home,765,14295.0,Darren Fletcher,darren-fletcher,M,False,0.0,0.0,90.0,0.0,,0.0
-2010-11,1379899,14,1,Manchester_United,Home,938,2404.0,Michael Carrick,michael-carrick,M,False,0.0,0.0,64.0,0.0,,0.0
-2010-11,1379899,14,1,Manchester_United,Home,1054,10135.0,Tomasz Kuszczak,tomasz-kuszczak,G,True,,,,,,
-2010-11,1379899,14,1,Manchester_United,Home,2496,12882.0,Ji-Sung Park,ji-sung-park,M,False,1.0,0.0,56.0,0.0,,0.0
-2010-11,1379899,14,1,Manchester_United,Home,3063,14075.0,Patrice Evra,patrice-evra,D,False,0.0,1.0,90.0,0.0,,0.0
-2010-11,1379899,14,1,Manchester_United,Home,11184,14965.0,Nemanja Vidić,nemanja-vidic,D,False,0.0,0.0,90.0,0.0,,0.0
-2010-11,1379899,14,1,Manchester_United,Home,16511,38429.0,Gabriel Obertan,gabriel-obertan,M,False,0.0,0.0,90.0,0.0,,0.0
-2010-11,1379899,14,1,Manchester_United,Home,17740,38530.0,Nani,nani,M,False,0.0,0.0,90.0,0.0,,0.0
-2010-11,1379899,14,1,Manchester_United,Home,30144,37642.0,Jonny Evans,jonny-evans,D,True,,,,,,
-2010-11,1379899,14,1,Manchester_United,Home,34312,,Javier Hernández,javier-hernandez,F,True,0.0,1.0,26.0,0.0,,0.0
-2010-11,1379899,14,1,Manchester_United,Home,39623,54772.0,Rafael,rafael,D,False,1.0,0.0,90.0,0.0,,0.0
-2010-11,1379899,14,1,Manchester_United,Home,50130,59970.0,Federico Macheda,federico-macheda,F,False,0.0,0.0,56.0,0.0,,0.0
-2010-11,1379906,15,1,Manchester_United,Home,278,8595.0,Dimitar Berbatov,dimitar-berbatov,F,False,0.0,5.0,90.0,0.0,,0.0
-2010-11,1379906,15,1,Manchester_United,Home,661,4058.0,Edwin van der Sar,edwin-van-der-sar,G,False,0.0,0.0,90.0,0.0,,0.0
-2010-11,1379906,15,1,Manchester_United,Home,748,2034.0,Rio Ferdinand,rio-ferdinand,D,False,0.0,0.0,90.0,0.0,,0.0
-2010-11,1379906,15,1,Manchester_United,Home,751,13017.0,Wayne Rooney,wayne-rooney,F,False,2.0,0.0,90.0,0.0,,0.0
-2010-11,1379906,15,1,Manchester_United,Home,754,3.0,Ryan Giggs,ryan-giggs,M,True,,,,,,
-2010-11,1379906,15,1,Manchester_United,Home,763,3736.0,John O'Shea,john-oshea,D,True,,,,,,
-2010-11,1379906,15,1,Manchester_United,Home,765,14295.0,Darren Fletcher,darren-fletcher,M,True,,,,,,
-2010-11,1379906,15,1,Manchester_United,Home,938,2404.0,Michael Carrick,michael-carrick,M,False,0.0,0.0,90.0,0.0,,0.0
-2010-11,1379906,15,1,Manchester_United,Home,1054,10135.0,Tomasz Kuszczak,tomasz-kuszczak,G,True,,,,,,
-2010-11,1379906,15,1,Manchester_United,Home,2496,12882.0,Ji-Sung Park,ji-sung-park,M,False,0.0,1.0,72.0,0.0,,0.0
-2010-11,1379906,15,1,Manchester_United,Home,3063,14075.0,Patrice Evra,patrice-evra,D,False,0.0,0.0,90.0,0.0,,0.0
-2010-11,1379906,15,1,Manchester_United,Home,11184,14965.0,Nemanja Vidić,nemanja-vidic,D,False,0.0,0.0,64.0,0.0,,0.0
-2010-11,1379906,15,1,Manchester_United,Home,16511,38429.0,Gabriel Obertan,gabriel-obertan,M,True,0.0,0.0,18.0,0.0,,0.0
-2010-11,1379906,15,1,Manchester_United,Home,17740,38530.0,Nani,nani,M,False,1.0,1.0,90.0,0.0,,0.0
-2010-11,1379906,15,1,Manchester_United,Home,17887,27258.0,Anderson,anderson,M,False,1.0,0.0,90.0,0.0,,0.0
-2010-11,1379906,15,1,Manchester_United,Home,30144,37642.0,Jonny Evans,jonny-evans,D,True,0.0,0.0,26.0,0.0,,0.0
-2010-11,1379906,15,1,Manchester_United,Home,34312,,Javier Hernández,javier-hernandez,F,True,,,,,,
-2010-11,1379906,15,1,Manchester_United,Home,39623,54772.0,Rafael,rafael,D,False,0.0,0.0,90.0,0.0,,0.0
-2010-11,1575939,16,1,Manchester_United,Away,278,8595.0,Dimitar Berbatov,dimitar-berbatov,F,False,0.0,2.0,90.0,0.0,,0.0
-2010-11,1575939,16,1,Manchester_United,Away,661,4058.0,Edwin van der Sar,edwin-van-der-sar,G,False,0.0,0.0,90.0,0.0,,0.0
-2010-11,1575939,16,1,Manchester_United,Away,751,13017.0,Wayne Rooney,wayne-rooney,F,False,0.0,0.0,66.0,0.0,,0.0
-2010-11,1575939,16,1,Manchester_United,Away,754,3.0,Ryan Giggs,ryan-giggs,M,True,1.0,0.0,44.0,0.0,,0.0
-2010-11,1575939,16,1,Manchester_United,Away,761,363.0,Paul Scholes,paul-scholes,M,False,1.0,0.0,90.0,0.0,,0.0
-2010-11,1575939,16,1,Manchester_United,Away,765,14295.0,Darren Fletcher,darren-fletcher,M,False,1.0,0.0,90.0,0.0,,0.0
-2010-11,1575939,16,1,Manchester_United,Away,3063,14075.0,Patrice Evra,patrice-evra,D,False,0.0,0.0,90.0,0.0,,0.0
-2010-11,1575939,16,1,Manchester_United,Away,8391,39725.0,Anders Lindegaard,anders-lindegaard,G,True,,,,,,
-2010-11,1575939,16,1,Manchester_United,Away,11184,14965.0,Nemanja Vidić,nemanja-vidic,D,False,0.0,0.0,90.0,0.0,,0.0
-2010-11,1575939,16,1,Manchester_United,Away,17740,38530.0,Nani,nani,M,False,0.0,0.0,90.0,0.0,,0.0
-2010-11,1575939,16,1,Manchester_United,Away,17887,27258.0,Anderson,anderson,M,True,0.0,0.0,10.0,0.0,,0.0
-2010-11,1575939,16,1,Manchester_United,Away,21073,27707.0,Darron Gibson,darron-gibson,M,False,0.0,0.0,46.0,0.0,,0.0
-2010-11,1575939,16,1,Manchester_United,Away,30144,37642.0,Jonny Evans,jonny-evans,D,True,,,,,,
-2010-11,1575939,16,1,Manchester_United,Away,34312,,Javier Hernández,javier-hernandez,F,True,0.0,1.0,24.0,0.0,,0.0
-2010-11,1575939,16,1,Manchester_United,Away,39623,54772.0,Rafael,rafael,D,False,0.0,0.0,80.0,0.0,,0.0
-2010-11,1575939,16,1,Manchester_United,Away,40677,54771.0,Fábio,fabio,D,True,,,,,,
-2010-11,1575939,16,1,Manchester_United,Away,47741,55909.0,Chris Smalling,chris-smalling,D,False,0.0,0.0,90.0,0.0,,0.0
-2010-11,1575939,16,1,Manchester_United,Away,1421986,1795.0,Michael Owen,michael-owen,F,True,,,,,,
-2010-11,1379926,17,1,Manchester_United,Home,278,8595.0,Dimitar Berbatov,dimitar-berbatov,F,True,,,,,,
-2010-11,1379926,17,1,Manchester_United,Home,661,4058.0,Edwin van der Sar,edwin-van-der-sar,G,False,0.0,0.0,90.0,0.0,,0.0
-2010-11,1379926,17,1,Manchester_United,Home,748,2034.0,Rio Ferdinand,rio-ferdinand,D,False,0.0,0.0,90.0,0.0,,0.0
-2010-11,1379926,17,1,Manchester_United,Home,749,1841.0,Wes Brown,wes-brown,D,True,,,,,,
-2010-11,1379926,17,1,Manchester_United,Home,751,13017.0,Wayne Rooney,wayne-rooney,F,False,0.0,0.0,90.0,0.0,1.0,0.0
-2010-11,1379926,17,1,Manchester_United,Home,754,3.0,Ryan Giggs,ryan-giggs,M,True,0.0,0.0,5.0,0.0,,0.0
-2010-11,1379926,17,1,Manchester_United,Home,765,14295.0,Darren Fletcher,darren-fletcher,M,False,0.0,0.0,90.0,0.0,,0.0
-2010-11,1379926,17,1,Manchester_United,Home,938,2404.0,Michael Carrick,michael-carrick,M,False,0.0,0.0,90.0,0.0,,0.0
-2010-11,1379926,17,1,Manchester_United,Home,1054,10135.0,Tomasz Kuszczak,tomasz-kuszczak,G,True,,,,,,
-2010-11,1379926,17,1,Manchester_United,Home,2496,12882.0,Ji-Sung Park,ji-sung-park,M,False,0.0,1.0,90.0,0.0,,0.0
-2010-11,1379926,17,1,Manchester_United,Home,3063,14075.0,Patrice Evra,patrice-evra,D,False,0.0,0.0,90.0,0.0,,0.0
-2010-11,1379926,17,1,Manchester_United,Home,11184,14965.0,Nemanja Vidić,nemanja-vidic,D,False,0.0,0.0,90.0,0.0,,0.0
-2010-11,1379926,17,1,Manchester_United,Home,16511,38429.0,Gabriel Obertan,gabriel-obertan,M,True,,,,,,
-2010-11,1379926,17,1,Manchester_United,Home,17740,38530.0,Nani,nani,M,False,1.0,0.0,90.0,0.0,,0.0
-2010-11,1379926,17,1,Manchester_United,Home,17887,27258.0,Anderson,anderson,M,False,0.0,0.0,85.0,0.0,,0.0
-2010-11,1379926,17,1,Manchester_United,Home,34312,,Javier Hernández,javier-hernandez,F,True,,,,,,
-2010-11,1379926,17,1,Manchester_United,Home,39623,54772.0,Rafael,rafael,D,False,0.0,0.0,90.0,0.0,,0.0
-2010-11,1379926,17,1,Manchester_United,Home,47741,55909.0,Chris Smalling,chris-smalling,D,True,,,,,,
-2010-11,1588345,18,1,Manchester_United,Away,278,8595.0,Dimitar Berbatov,dimitar-berbatov,F,True,0.0,0.0,20.0,0.0,,0.0
-2010-11,1588345,18,1,Manchester_United,Away,661,4058.0,Edwin van der Sar,edwin-van-der-sar,G,False,0.0,0.0,90.0,0.0,,0.0
-2010-11,1588345,18,1,Manchester_United,Away,749,1841.0,Wes Brown,wes-brown,D,True,,,,,,
-2010-11,1588345,18,1,Manchester_United,Away,751,13017.0,Wayne Rooney,wayne-rooney,F,False,0.0,1.0,90.0,0.0,,0.0
-2010-11,1588345,18,1,Manchester_United,Away,754,3.0,Ryan Giggs,ryan-giggs,M,True,0.0,0.0,20.0,0.0,,0.0
-2010-11,1588345,18,1,Manchester_United,Away,761,363.0,Paul Scholes,paul-scholes,M,False,0.0,0.0,70.0,0.0,,0.0
-2010-11,1588345,18,1,Manchester_United,Away,763,3736.0,John O'Shea,john-oshea,D,False,0.0,0.0,90.0,0.0,,0.0
-2010-11,1588345,18,1,Manchester_United,Away,765,14295.0,Darren Fletcher,darren-fletcher,M,False,0.0,0.0,90.0,0.0,,0.0
-2010-11,1588345,18,1,Manchester_United,Away,938,2404.0,Michael Carrick,michael-carrick,M,False,0.0,0.0,90.0,0.0,,0.0
-2010-11,1588345,18,1,Manchester_United,Away,1054,10135.0,Tomasz Kuszczak,tomasz-kuszczak,G,True,,,,,,
-2010-11,1588345,18,1,Manchester_United,Away,3063,14075.0,Patrice Evra,patrice-evra,D,False,0.0,0.0,81.0,0.0,,0.0
-2010-11,1588345,18,1,Manchester_United,Away,11184,14965.0,Nemanja Vidić,nemanja-vidic,D,False,0.0,0.0,90.0,0.0,,0.0
-2010-11,1588345,18,1,Manchester_United,Away,17740,38530.0,Nani,nani,M,False,1.0,0.0,90.0,0.0,,0.0
-2010-11,1588345,18,1,Manchester_United,Away,21073,27707.0,Darron Gibson,darron-gibson,M,True,,,,,,
-2010-11,1588345,18,1,Manchester_United,Away,34312,,Javier Hernández,javier-hernandez,F,False,0.0,0.0,70.0,0.0,,0.0
-2010-11,1588345,18,1,Manchester_United,Away,39623,54772.0,Rafael,rafael,D,True,,,,,,
-2010-11,1588345,18,1,Manchester_United,Away,40677,54771.0,Fábio,fabio,D,True,0.0,0.0,9.0,0.0,,0.0
-2010-11,1588345,18,1,Manchester_United,Away,47741,55909.0,Chris Smalling,chris-smalling,D,False,0.0,0.0,90.0,0.0,,0.0
-2010-11,1379949,19,1,Manchester_United,Home,278,8595.0,Dimitar Berbatov,dimitar-berbatov,F,False,0.0,1.0,82.0,0.0,,0.0
-2010-11,1379949,19,1,Manchester_United,Home,661,4058.0,Edwin van der Sar,edwin-van-der-sar,G,False,0.0,0.0,90.0,0.0,,0.0
-2010-11,1379949,19,1,Manchester_United,Home,745,1807.0,Gary Neville,gary-neville,D,True,,,,,,
-2010-11,1379949,19,1,Manchester_United,Home,748,2034.0,Rio Ferdinand,rio-ferdinand,D,False,0.0,0.0,90.0,0.0,,0.0
-2010-11,1379949,19,1,Manchester_United,Home,751,13017.0,Wayne Rooney,wayne-rooney,F,False,1.0,0.0,90.0,0.0,,0.0
-2010-11,1379949,19,1,Manchester_United,Home,754,3.0,Ryan Giggs,ryan-giggs,M,False,0.0,0.0,64.0,0.0,,0.0
-2010-11,1379949,19,1,Manchester_United,Home,938,2404.0,Michael Carrick,michael-carrick,M,False,0.0,0.0,90.0,0.0,,0.0
-2010-11,1379949,19,1,Manchester_United,Home,1054,10135.0,Tomasz Kuszczak,tomasz-kuszczak,G,True,,,,,,
-2010-11,1379949,19,1,Manchester_United,Home,2496,12882.0,Ji-Sung Park,ji-sung-park,M,False,0.0,0.0,90.0,0.0,,0.0
-2010-11,1379949,19,1,Manchester_United,Home,3063,14075.0,Patrice Evra,patrice-evra,D,False,0.0,0.0,90.0,0.0,,0.0
-2010-11,1379949,19,1,Manchester_United,Home,11184,14965.0,Nemanja Vidić,nemanja-vidic,D,False,0.0,0.0,90.0,0.0,,0.0
-2010-11,1379949,19,1,Manchester_United,Home,17887,27258.0,Anderson,anderson,M,False,0.0,0.0,64.0,0.0,,0.0
-2010-11,1379949,19,1,Manchester_United,Home,21073,27707.0,Darron Gibson,darron-gibson,M,True,0.0,0.0,26.0,0.0,,0.0
-2010-11,1379949,19,1,Manchester_United,Home,34312,,Javier Hernández,javier-hernandez,F,True,0.0,0.0,8.0,0.0,,0.0
-2010-11,1379949,19,1,Manchester_United,Home,39623,54772.0,Rafael,rafael,D,False,0.0,0.0,90.0,0.0,,0.0
-2010-11,1379949,19,1,Manchester_United,Home,47741,55909.0,Chris Smalling,chris-smalling,D,True,,,,,,
-2010-11,1379949,19,1,Manchester_United,Home,50130,59970.0,Federico Macheda,federico-macheda,F,True,0.0,0.0,26.0,0.0,,0.0
-2010-11,1379949,19,1,Manchester_United,Home,124950,84374.0,Bebé,bebe,M,True,,,,,,
-2010-11,1379952,20,1,Manchester_United,Away,278,8595.0,Dimitar Berbatov,dimitar-berbatov,F,False,0.0,1.0,90.0,0.0,,0.0
-2010-11,1379952,20,1,Manchester_United,Away,661,4058.0,Edwin van der Sar,edwin-van-der-sar,G,False,0.0,0.0,90.0,0.0,,0.0
-2010-11,1379952,20,1,Manchester_United,Away,745,1807.0,Gary Neville,gary-neville,D,True,,,,,,
-2010-11,1379952,20,1,Manchester_United,Away,748,2034.0,Rio Ferdinand,rio-ferdinand,D,False,0.0,0.0,90.0,0.0,,0.0
-2010-11,1379952,20,1,Manchester_United,Away,751,13017.0,Wayne Rooney,wayne-rooney,F,False,0.0,0.0,90.0,0.0,,0.0
-2010-11,1379952,20,1,Manchester_United,Away,754,3.0,Ryan Giggs,ryan-giggs,M,False,0.0,0.0,90.0,0.0,,0.0
-2010-11,1379952,20,1,Manchester_United,Away,765,14295.0,Darren Fletcher,darren-fletcher,M,True,0.0,0.0,17.0,0.0,,0.0
-2010-11,1379952,20,1,Manchester_United,Away,938,2404.0,Michael Carrick,michael-carrick,M,False,0.0,0.0,90.0,0.0,,0.0
-2010-11,1379952,20,1,Manchester_United,Away,1054,10135.0,Tomasz Kuszczak,tomasz-kuszczak,G,True,,,,,,
-2010-11,1379952,20,1,Manchester_United,Away,3063,14075.0,Patrice Evra,patrice-evra,D,False,0.0,0.0,90.0,0.0,,0.0
-2010-11,1379952,20,1,Manchester_United,Away,11184,14965.0,Nemanja Vidić,nemanja-vidic,D,False,0.0,0.0,90.0,0.0,,0.0
-2010-11,1379952,20,1,Manchester_United,Away,16511,38429.0,Gabriel Obertan,gabriel-obertan,M,True,,,,,,
-2010-11,1379952,20,1,Manchester_United,Away,17887,27258.0,Anderson,anderson,M,False,0.0,0.0,73.0,0.0,,0.0
-2010-11,1379952,20,1,Manchester_United,Away,21073,27707.0,Darron Gibson,darron-gibson,M,False,1.0,0.0,90.0,0.0,,0.0
-2010-11,1379952,20,1,Manchester_United,Away,30144,37642.0,Jonny Evans,jonny-evans,D,True,,,,,,
-2010-11,1379952,20,1,Manchester_United,Away,34312,,Javier Hernández,javier-hernandez,F,True,0.0,0.0,1.0,0.0,,0.0
-2010-11,1379952,20,1,Manchester_United,Away,39623,54772.0,Rafael,rafael,D,False,0.0,0.0,90.0,0.0,,0.0
-2010-11,1379952,20,1,Manchester_United,Away,50130,59970.0,Federico Macheda,federico-macheda,F,True,,,,,,
-2010-11,1379969,21,1,Manchester_United,Away,278,8595.0,Dimitar Berbatov,dimitar-berbatov,F,False,0.0,0.0,60.0,0.0,,0.0
-2010-11,1379969,21,1,Manchester_United,Away,745,1807.0,Gary Neville,gary-neville,D,False,0.0,0.0,71.0,0.0,,0.0
-2010-11,1379969,21,1,Manchester_United,Away,748,2034.0,Rio Ferdinand,rio-ferdinand,D,False,0.0,0.0,90.0,0.0,,0.0
-2010-11,1379969,21,1,Manchester_United,Away,751,13017.0,Wayne Rooney,wayne-rooney,F,False,1.0,1.0,90.0,0.0,,0.0
-2010-11,1379969,21,1,Manchester_United,Away,765,14295.0,Darren Fletcher,darren-fletcher,M,False,0.0,0.0,90.0,0.0,,0.0
-2010-11,1379969,21,1,Manchester_United,Away,938,2404.0,Michael Carrick,michael-carrick,M,False,0.0,0.0,90.0,0.0,,0.0
-2010-11,1379969,21,1,Manchester_United,Away,1054,10135.0,Tomasz Kuszczak,tomasz-kuszczak,G,False,0.0,0.0,90.0,0.0,,0.0
-2010-11,1379969,21,1,Manchester_United,Away,3063,14075.0,Patrice Evra,patrice-evra,D,False,1.0,0.0,90.0,0.0,,0.0
-2010-11,1379969,21,1,Manchester_United,Away,11184,14965.0,Nemanja Vidić,nemanja-vidic,D,False,0.0,0.0,90.0,0.0,,0.0
-2010-11,1379969,21,1,Manchester_United,Away,16511,38429.0,Gabriel Obertan,gabriel-obertan,M,False,0.0,0.0,60.0,0.0,,0.0
-2010-11,1379969,21,1,Manchester_United,Away,17887,27258.0,Anderson,anderson,M,False,0.0,0.0,90.0,0.0,,0.0
-2010-11,1379969,21,1,Manchester_United,Away,21073,27707.0,Darron Gibson,darron-gibson,M,True,0.0,0.0,30.0,0.0,,0.0
-2010-11,1379969,21,1,Manchester_United,Away,30144,37642.0,Jonny Evans,jonny-evans,D,True,,,,,,
-2010-11,1379969,21,1,Manchester_United,Away,34312,,Javier Hernández,javier-hernandez,F,True,0.0,1.0,30.0,0.0,,0.0
-2010-11,1379969,21,1,Manchester_United,Away,40677,54771.0,Fábio,fabio,D,True,0.0,0.0,19.0,0.0,,0.0
-2010-11,1379969,21,1,Manchester_United,Away,42688,51922.0,Ben Amos,ben-amos,G,True,,,,,,
-2010-11,1379969,21,1,Manchester_United,Away,124950,84374.0,Bebé,bebe,M,True,,,,,,
-2010-11,1379969,21,1,Manchester_United,Away,1421986,1795.0,Michael Owen,michael-owen,F,True,,,,,,
-2010-11,1379975,22,1,Manchester_United,Home,278,8595.0,Dimitar Berbatov,dimitar-berbatov,F,False,0.0,0.0,90.0,0.0,,0.0
-2010-11,1379975,22,1,Manchester_United,Home,754,3.0,Ryan Giggs,ryan-giggs,M,False,0.0,0.0,90.0,0.0,,0.0
-2010-11,1379975,22,1,Manchester_United,Home,765,14295.0,Darren Fletcher,darren-fletcher,M,False,0.0,0.0,90.0,0.0,,0.0
-2010-11,1379975,22,1,Manchester_United,Home,938,2404.0,Michael Carrick,michael-carrick,M,True,0.0,0.0,12.0,0.0,,0.0
-2010-11,1379975,22,1,Manchester_United,Home,1054,10135.0,Tomasz Kuszczak,tomasz-kuszczak,G,False,0.0,0.0,90.0,0.0,,0.0
-2010-11,1379975,22,1,Manchester_United,Home,3063,14075.0,Patrice Evra,patrice-evra,D,False,0.0,0.0,90.0,0.0,,0.0
-2010-11,1379975,22,1,Manchester_United,Home,11184,14965.0,Nemanja Vidić,nemanja-vidic,D,False,0.0,0.0,90.0,0.0,,0.0
-2010-11,1379975,22,1,Manchester_United,Home,16511,38429.0,Gabriel Obertan,gabriel-obertan,M,True,,,,,,
-2010-11,1379975,22,1,Manchester_United,Home,17740,38530.0,Nani,nani,M,False,1.0,1.0,90.0,0.0,,0.0
-2010-11,1379975,22,1,Manchester_United,Home,17887,27258.0,Anderson,anderson,M,True,,,,,,
-2010-11,1379975,22,1,Manchester_United,Home,21073,27707.0,Darron Gibson,darron-gibson,M,False,0.0,0.0,78.0,0.0,,0.0
-2010-11,1379975,22,1,Manchester_United,Home,30144,37642.0,Jonny Evans,jonny-evans,D,True,,,,,,
-2010-11,1379975,22,1,Manchester_United,Home,34312,,Javier Hernández,javier-hernandez,F,False,1.0,1.0,78.0,0.0,,0.0
-2010-11,1379975,22,1,Manchester_United,Home,39623,54772.0,Rafael,rafael,D,False,0.0,0.0,90.0,0.0,,0.0
-2010-11,1379975,22,1,Manchester_United,Home,40677,54771.0,Fábio,fabio,D,True,,,,,,
-2010-11,1379975,22,1,Manchester_United,Home,42688,51922.0,Ben Amos,ben-amos,G,True,,,,,,
-2010-11,1379975,22,1,Manchester_United,Home,47741,55909.0,Chris Smalling,chris-smalling,D,False,0.0,0.0,90.0,0.0,,0.0
-2010-11,1379975,22,1,Manchester_United,Home,1421986,1795.0,Michael Owen,michael-owen,F,True,0.0,0.0,12.0,0.0,,0.0
-2010-11,1379988,23,1,Manchester_United,Away,278,8595.0,Dimitar Berbatov,dimitar-berbatov,F,False,0.0,0.0,78.0,0.0,,0.0
-2010-11,1379988,23,1,Manchester_United,Away,661,4058.0,Edwin van der Sar,edwin-van-der-sar,G,False,0.0,0.0,90.0,0.0,,0.0
-2010-11,1379988,23,1,Manchester_United,Away,748,2034.0,Rio Ferdinand,rio-ferdinand,D,False,0.0,0.0,90.0,0.0,,0.0
-2010-11,1379988,23,1,Manchester_United,Away,751,13017.0,Wayne Rooney,wayne-rooney,F,False,0.0,0.0,90.0,0.0,,0.0
-2010-11,1379988,23,1,Manchester_United,Away,754,3.0,Ryan Giggs,ryan-giggs,M,False,0.0,0.0,90.0,0.0,,0.0
-2010-11,1379988,23,1,Manchester_United,Away,761,363.0,Paul Scholes,paul-scholes,M,True,,,,,,
-2010-11,1379988,23,1,Manchester_United,Away,765,14295.0,Darren Fletcher,darren-fletcher,M,False,0.0,0.0,90.0,0.0,,0.0
-2010-11,1379988,23,1,Manchester_United,Away,938,2404.0,Michael Carrick,michael-carrick,M,False,0.0,0.0,90.0,0.0,,0.0
-2010-11,1379988,23,1,Manchester_United,Away,1054,10135.0,Tomasz Kuszczak,tomasz-kuszczak,G,True,,,,,,
-2010-11,1379988,23,1,Manchester_United,Away,3063,14075.0,Patrice Evra,patrice-evra,D,False,0.0,0.0,90.0,0.0,,0.0
-2010-11,1379988,23,1,Manchester_United,Away,11184,14965.0,Nemanja Vidić,nemanja-vidic,D,False,0.0,0.0,90.0,0.0,,0.0
-2010-11,1379988,23,1,Manchester_United,Away,17740,38530.0,Nani,nani,M,False,0.0,0.0,61.0,0.0,,0.0
-2010-11,1379988,23,1,Manchester_United,Away,17887,27258.0,Anderson,anderson,M,True,0.0,0.0,29.0,0.0,,0.0
-2010-11,1379988,23,1,Manchester_United,Away,30144,37642.0,Jonny Evans,jonny-evans,D,True,,,,,,
-2010-11,1379988,23,1,Manchester_United,Away,34312,,Javier Hernández,javier-hernandez,F,True,0.0,0.0,12.0,0.0,,0.0
-2010-11,1379988,23,1,Manchester_United,Away,39623,54772.0,Rafael,rafael,D,False,0.0,0.0,74.0,0.0,,0.0
-2010-11,1379988,23,1,Manchester_United,Away,47741,55909.0,Chris Smalling,chris-smalling,D,True,,,,,,
-2010-11,1379988,23,1,Manchester_United,Away,1421986,1795.0,Michael Owen,michael-owen,F,True,,,,,,
-2010-11,1379999,24,1,Manchester_United,Home,278,8595.0,Dimitar Berbatov,dimitar-berbatov,F,False,0.0,3.0,90.0,0.0,,0.0
-2010-11,1379999,24,1,Manchester_United,Home,661,4058.0,Edwin van der Sar,edwin-van-der-sar,G,False,0.0,0.0,90.0,0.0,,0.0
-2010-11,1379999,24,1,Manchester_United,Home,751,13017.0,Wayne Rooney,wayne-rooney,F,False,2.0,0.0,90.0,0.0,,0.0
-2010-11,1379999,24,1,Manchester_United,Home,754,3.0,Ryan Giggs,ryan-giggs,M,False,1.0,1.0,55.0,0.0,,0.0
-2010-11,1379999,24,1,Manchester_United,Home,761,363.0,Paul Scholes,paul-scholes,M,True,,,,,,
-2010-11,1379999,24,1,Manchester_United,Home,763,3736.0,John O'Shea,john-oshea,D,False,2.0,0.0,90.0,0.0,,0.0
-2010-11,1379999,24,1,Manchester_United,Home,938,2404.0,Michael Carrick,michael-carrick,M,False,0.0,0.0,25.0,0.0,,0.0
-2010-11,1379999,24,1,Manchester_United,Home,1054,10135.0,Tomasz Kuszczak,tomasz-kuszczak,G,True,,,,,,
-2010-11,1379999,24,1,Manchester_United,Home,3063,14075.0,Patrice Evra,patrice-evra,D,False,0.0,0.0,46.0,0.0,,0.0
-2010-11,1379999,24,1,Manchester_United,Home,11184,14965.0,Nemanja Vidić,nemanja-vidic,D,False,0.0,0.0,90.0,0.0,,0.0
-2010-11,1379999,24,1,Manchester_United,Home,16511,38429.0,Gabriel Obertan,gabriel-obertan,M,True,,,,,,
-2010-11,1379999,24,1,Manchester_United,Home,17740,38530.0,Nani,nani,M,False,0.0,1.0,90.0,0.0,,0.0
-2010-11,1379999,24,1,Manchester_United,Home,17887,27258.0,Anderson,anderson,M,False,0.0,0.0,90.0,0.0,,0.0
-2010-11,1379999,24,1,Manchester_United,Home,21073,27707.0,Darron Gibson,darron-gibson,M,True,0.0,0.0,65.0,0.0,,0.0
-2010-11,1379999,24,1,Manchester_United,Home,30144,37642.0,Jonny Evans,jonny-evans,D,True,,,,,,
-2010-11,1379999,24,1,Manchester_United,Home,40677,54771.0,Fábio,fabio,D,True,0.0,0.0,44.0,0.0,,0.0
-2010-11,1379999,24,1,Manchester_United,Home,47741,55909.0,Chris Smalling,chris-smalling,D,False,0.0,0.0,90.0,0.0,,0.0
-2010-11,1379999,24,1,Manchester_United,Home,1421986,1795.0,Michael Owen,michael-owen,F,True,0.0,0.0,35.0,0.0,,0.0
-2010-11,1380006,25,1,Manchester_United,Home,278,8595.0,Dimitar Berbatov,dimitar-berbatov,F,False,0.0,0.0,90.0,0.0,,0.0
-2010-11,1380006,25,1,Manchester_United,Home,661,4058.0,Edwin van der Sar,edwin-van-der-sar,G,False,1.0,0.0,90.0,0.0,,0.0
-2010-11,1380006,25,1,Manchester_United,Home,748,2034.0,Rio Ferdinand,rio-ferdinand,D,False,0.0,0.0,90.0,0.0,,0.0
-2010-11,1380006,25,1,Manchester_United,Home,751,13017.0,Wayne Rooney,wayne-rooney,F,False,1.0,2.0,90.0,0.0,,0.0
-2010-11,1380006,25,1,Manchester_United,Home,754,3.0,Ryan Giggs,ryan-giggs,M,False,0.0,0.0,90.0,0.0,,0.0
-2010-11,1380006,25,1,Manchester_United,Home,761,363.0,Paul Scholes,paul-scholes,M,True,,,,,,
-2010-11,1380006,25,1,Manchester_United,Home,763,3736.0,John O'Shea,john-oshea,D,False,0.0,0.0,90.0,0.0,,0.0
-2010-11,1380006,25,1,Manchester_United,Home,765,14295.0,Darren Fletcher,darren-fletcher,M,False,0.0,0.0,34.0,0.0,,0.0
-2010-11,1380006,25,1,Manchester_United,Home,938,2404.0,Michael Carrick,michael-carrick,M,False,0.0,0.0,90.0,0.0,,0.0
-2010-11,1380006,25,1,Manchester_United,Home,3063,14075.0,Patrice Evra,patrice-evra,D,False,0.0,0.0,90.0,0.0,,0.0
-2010-11,1380006,25,1,Manchester_United,Home,8391,39725.0,Anders Lindegaard,anders-lindegaard,G,True,,,,,,
-2010-11,1380006,25,1,Manchester_United,Home,11184,14965.0,Nemanja Vidić,nemanja-vidic,D,False,0.0,1.0,90.0,0.0,,0.0
-2010-11,1380006,25,1,Manchester_United,Home,17740,38530.0,Nani,nani,M,False,1.0,0.0,90.0,0.0,,0.0
-2010-11,1380006,25,1,Manchester_United,Home,17887,27258.0,Anderson,anderson,M,True,0.0,0.0,56.0,0.0,,0.0
-2010-11,1380006,25,1,Manchester_United,Home,34312,,Javier Hernández,javier-hernandez,F,True,,,,,,
-2010-11,1380006,25,1,Manchester_United,Home,39623,54772.0,Rafael,rafael,D,True,,,,,,
-2010-11,1380006,25,1,Manchester_United,Home,47741,55909.0,Chris Smalling,chris-smalling,D,True,,,,,,
-2010-11,1380006,25,1,Manchester_United,Home,1421986,1795.0,Michael Owen,michael-owen,F,True,,,,,,
-2010-11,1380021,26,1,Manchester_United,Away,278,8595.0,Dimitar Berbatov,dimitar-berbatov,F,False,0.0,0.0,65.0,0.0,,0.0
-2010-11,1380021,26,1,Manchester_United,Away,661,4058.0,Edwin van der Sar,edwin-van-der-sar,G,False,0.0,0.0,90.0,0.0,,0.0
-2010-11,1380021,26,1,Manchester_United,Away,751,13017.0,Wayne Rooney,wayne-rooney,F,False,0.0,0.0,90.0,0.0,,0.0
-2010-11,1380021,26,1,Manchester_United,Away,754,3.0,Ryan Giggs,ryan-giggs,M,False,0.0,0.0,90.0,0.0,,0.0
-2010-11,1380021,26,1,Manchester_United,Away,761,363.0,Paul Scholes,paul-scholes,M,True,0.0,0.0,44.0,0.0,,0.0
-2010-11,1380021,26,1,Manchester_United,Away,763,3736.0,John O'Shea,john-oshea,D,True,,,,,,
-2010-11,1380021,26,1,Manchester_United,Away,765,14295.0,Darren Fletcher,darren-fletcher,M,False,1.0,0.0,90.0,0.0,,0.0
-2010-11,1380021,26,1,Manchester_United,Away,938,2404.0,Michael Carrick,michael-carrick,M,False,0.0,0.0,46.0,0.0,,0.0
-2010-11,1380021,26,1,Manchester_United,Away,1054,10135.0,Tomasz Kuszczak,tomasz-kuszczak,G,True,,,,,,
-2010-11,1380021,26,1,Manchester_United,Away,3063,14075.0,Patrice Evra,patrice-evra,D,False,0.0,0.0,90.0,0.0,,0.0
-2010-11,1380021,26,1,Manchester_United,Away,11184,14965.0,Nemanja Vidić,nemanja-vidic,D,False,0.0,0.0,90.0,0.0,,0.0
-2010-11,1380021,26,1,Manchester_United,Away,17740,38530.0,Nani,nani,M,False,0.0,1.0,90.0,0.0,,0.0
-2010-11,1380021,26,1,Manchester_United,Away,17887,27258.0,Anderson,anderson,M,True,,,,,,
-2010-11,1380021,26,1,Manchester_United,Away,30144,37642.0,Jonny Evans,jonny-evans,D,False,0.0,0.0,65.0,0.0,,0.0
-2010-11,1380021,26,1,Manchester_United,Away,34312,,Javier Hernández,javier-hernandez,F,True,0.0,0.0,25.0,0.0,,0.0
-2010-11,1380021,26,1,Manchester_United,Away,39623,54772.0,Rafael,rafael,D,False,0.0,0.0,90.0,0.0,,0.0
-2010-11,1380021,26,1,Manchester_United,Away,47741,55909.0,Chris Smalling,chris-smalling,D,True,0.0,0.0,25.0,0.0,,0.0
-2010-11,1380021,26,1,Manchester_United,Away,1421986,1795.0,Michael Owen,michael-owen,F,True,,,,,,
-2010-11,1380029,27,1,Manchester_United,Home,278,8595.0,Dimitar Berbatov,dimitar-berbatov,F,True,0.0,0.0,23.0,0.0,,0.0
-2010-11,1380029,27,1,Manchester_United,Home,661,4058.0,Edwin van der Sar,edwin-van-der-sar,G,False,0.0,0.0,90.0,0.0,,0.0
-2010-11,1380029,27,1,Manchester_United,Home,749,1841.0,Wes Brown,wes-brown,D,True,,,,,,
-2010-11,1380029,27,1,Manchester_United,Home,751,13017.0,Wayne Rooney,wayne-rooney,F,False,0.0,1.0,90.0,0.0,,0.0
-2010-11,1380029,27,1,Manchester_United,Home,754,3.0,Ryan Giggs,ryan-giggs,M,False,1.0,0.0,90.0,0.0,,0.0
-2010-11,1380029,27,1,Manchester_United,Home,761,363.0,Paul Scholes,paul-scholes,M,False,0.0,0.0,79.0,0.0,,0.0
-2010-11,1380029,27,1,Manchester_United,Home,763,3736.0,John O'Shea,john-oshea,D,False,0.0,0.0,90.0,0.0,,0.0
-2010-11,1380029,27,1,Manchester_United,Home,765,14295.0,Darren Fletcher,darren-fletcher,M,False,0.0,0.0,90.0,0.0,,0.0
-2010-11,1380029,27,1,Manchester_United,Home,938,2404.0,Michael Carrick,michael-carrick,M,True,0.0,0.0,11.0,0.0,,0.0
-2010-11,1380029,27,1,Manchester_United,Home,3063,14075.0,Patrice Evra,patrice-evra,D,False,0.0,0.0,90.0,0.0,,0.0
-2010-11,1380029,27,1,Manchester_United,Home,8391,39725.0,Anders Lindegaard,anders-lindegaard,G,True,,,,,,
-2010-11,1380029,27,1,Manchester_United,Home,11184,14965.0,Nemanja Vidić,nemanja-vidic,D,False,0.0,0.0,90.0,0.0,,0.0
-2010-11,1380029,27,1,Manchester_United,Home,17740,38530.0,Nani,nani,M,False,1.0,1.0,90.0,0.0,,0.0
-2010-11,1380029,27,1,Manchester_United,Home,17887,27258.0,Anderson,anderson,M,False,0.0,0.0,67.0,0.0,,0.0
-2010-11,1380029,27,1,Manchester_United,Home,34312,,Javier Hernández,javier-hernandez,F,True,,,,,,
-2010-11,1380029,27,1,Manchester_United,Home,39623,54772.0,Rafael,rafael,D,True,,,,,,
-2010-11,1380029,27,1,Manchester_United,Home,47741,55909.0,Chris Smalling,chris-smalling,D,False,0.0,0.0,90.0,0.0,,0.0
-2010-11,1380029,27,1,Manchester_United,Home,1421986,1795.0,Michael Owen,michael-owen,F,True,,,,,,
-2010-11,1380040,28,1,Manchester_United,Away,278,8595.0,Dimitar Berbatov,dimitar-berbatov,F,True,1.0,0.0,14.0,0.0,,0.0
-2010-11,1380040,28,1,Manchester_United,Away,661,4058.0,Edwin van der Sar,edwin-van-der-sar,G,False,0.0,0.0,90.0,0.0,,0.0
-2010-11,1380040,28,1,Manchester_United,Away,749,1841.0,Wes Brown,wes-brown,D,True,,,,,,
-2010-11,1380040,28,1,Manchester_United,Away,751,13017.0,Wayne Rooney,wayne-rooney,F,False,1.0,1.0,90.0,0.0,,0.0
-2010-11,1380040,28,1,Manchester_United,Away,761,363.0,Paul Scholes,paul-scholes,M,False,0.0,0.0,77.0,0.0,,0.0
-2010-11,1380040,28,1,Manchester_United,Away,763,3736.0,John O'Shea,john-oshea,D,False,0.0,0.0,90.0,0.0,,0.0
-2010-11,1380040,28,1,Manchester_United,Away,765,14295.0,Darren Fletcher,darren-fletcher,M,False,1.0,0.0,90.0,0.0,,0.0
-2010-11,1380040,28,1,Manchester_United,Away,938,2404.0,Michael Carrick,michael-carrick,M,False,0.0,0.0,90.0,0.0,,0.0
-2010-11,1380040,28,1,Manchester_United,Away,1054,10135.0,Tomasz Kuszczak,tomasz-kuszczak,G,True,,,,,,
-2010-11,1380040,28,1,Manchester_United,Away,3063,14075.0,Patrice Evra,patrice-evra,D,False,0.0,0.0,90.0,0.0,,0.0
-2010-11,1380040,28,1,Manchester_United,Away,11184,14965.0,Nemanja Vidić,nemanja-vidic,D,False,0.0,0.0,90.0,0.0,,0.0
-2010-11,1380040,28,1,Manchester_United,Away,17740,38530.0,Nani,nani,M,False,1.0,0.0,85.0,0.0,,0.0
-2010-11,1380040,28,1,Manchester_United,Away,21073,27707.0,Darron Gibson,darron-gibson,M,True,0.0,0.0,13.0,0.0,,0.0
-2010-11,1380040,28,1,Manchester_United,Away,34312,,Javier Hernández,javier-hernandez,F,False,0.0,2.0,76.0,0.0,,0.0
-2010-11,1380040,28,1,Manchester_United,Away,39623,54772.0,Rafael,rafael,D,True,,,,,,
-2010-11,1380040,28,1,Manchester_United,Away,40677,54771.0,Fábio,fabio,D,True,0.0,1.0,5.0,0.0,,0.0
-2010-11,1380040,28,1,Manchester_United,Away,47741,55909.0,Chris Smalling,chris-smalling,D,False,0.0,0.0,90.0,0.0,,0.0
-2010-11,1380040,28,1,Manchester_United,Away,100621,78007.0,Joshua King,joshua-king,F,True,,,,,,
-2010-11,1380047,29,1,Manchester_United,Away,278,8595.0,Dimitar Berbatov,dimitar-berbatov,F,False,0.0,0.0,90.0,0.0,,0.0
-2010-11,1380047,29,1,Manchester_United,Away,661,4058.0,Edwin van der Sar,edwin-van-der-sar,G,False,0.0,0.0,90.0,0.0,,0.0
-2010-11,1380047,29,1,Manchester_United,Away,749,1841.0,Wes Brown,wes-brown,D,False,0.0,0.0,90.0,0.0,,0.0
-2010-11,1380047,29,1,Manchester_United,Away,751,13017.0,Wayne Rooney,wayne-rooney,F,False,0.0,0.0,90.0,0.0,,0.0
-2010-11,1380047,29,1,Manchester_United,Away,754,3.0,Ryan Giggs,ryan-giggs,M,False,1.0,0.0,90.0,0.0,,0.0
-2010-11,1380047,29,1,Manchester_United,Away,761,363.0,Paul Scholes,paul-scholes,M,False,0.0,0.0,83.0,0.0,,0.0
-2010-11,1380047,29,1,Manchester_United,Away,763,3736.0,John O'Shea,john-oshea,D,True,0.0,0.0,14.0,0.0,,0.0
-2010-11,1380047,29,1,Manchester_United,Away,765,14295.0,Darren Fletcher,darren-fletcher,M,True,0.0,0.0,7.0,0.0,,0.0
-2010-11,1380047,29,1,Manchester_United,Away,938,2404.0,Michael Carrick,michael-carrick,M,False,0.0,0.0,90.0,0.0,,0.0
-2010-11,1380047,29,1,Manchester_United,Away,1054,10135.0,Tomasz Kuszczak,tomasz-kuszczak,G,True,,,,,,
-2010-11,1380047,29,1,Manchester_United,Away,3063,14075.0,Patrice Evra,patrice-evra,D,False,0.0,0.0,90.0,0.0,,0.0
-2010-11,1380047,29,1,Manchester_United,Away,16511,38429.0,Gabriel Obertan,gabriel-obertan,M,True,,,,,,
-2010-11,1380047,29,1,Manchester_United,Away,17740,38530.0,Nani,nani,M,False,0.0,0.0,45.0,0.0,,0.0
-2010-11,1380047,29,1,Manchester_United,Away,21073,27707.0,Darron Gibson,darron-gibson,M,True,,,,,,
-2010-11,1380047,29,1,Manchester_United,Away,34312,,Javier Hernández,javier-hernandez,F,True,0.0,1.0,45.0,0.0,,0.0
-2010-11,1380047,29,1,Manchester_United,Away,39623,54772.0,Rafael,rafael,D,False,0.0,0.0,76.0,0.0,,0.0
-2010-11,1380047,29,1,Manchester_United,Away,40677,54771.0,Fábio,fabio,D,True,,,,,,
-2010-11,1380047,29,1,Manchester_United,Away,47741,55909.0,Chris Smalling,chris-smalling,D,False,0.0,0.0,90.0,0.0,,0.0
-2010-11,1380056,30,1,Manchester_United,Home,278,8595.0,Dimitar Berbatov,dimitar-berbatov,F,True,0.0,1.0,44.0,0.0,,0.0
-2010-11,1380056,30,1,Manchester_United,Home,661,4058.0,Edwin van der Sar,edwin-van-der-sar,G,False,0.0,0.0,90.0,0.0,,0.0
-2010-11,1380056,30,1,Manchester_United,Home,749,1841.0,Wes Brown,wes-brown,D,False,0.0,0.0,46.0,0.0,,0.0
-2010-11,1380056,30,1,Manchester_United,Home,751,13017.0,Wayne Rooney,wayne-rooney,F,False,0.0,0.0,90.0,0.0,,0.0
-2010-11,1380056,30,1,Manchester_United,Home,754,3.0,Ryan Giggs,ryan-giggs,M,False,0.0,0.0,90.0,0.0,,0.0
-2010-11,1380056,30,1,Manchester_United,Home,938,2404.0,Michael Carrick,michael-carrick,M,False,0.0,0.0,90.0,0.0,,0.0
-2010-11,1380056,30,1,Manchester_United,Home,1054,10135.0,Tomasz Kuszczak,tomasz-kuszczak,G,True,,,,,,
-2010-11,1380056,30,1,Manchester_United,Home,2496,12882.0,Ji-Sung Park,ji-sung-park,M,True,,,,,,
-2010-11,1380056,30,1,Manchester_United,Home,3063,14075.0,Patrice Evra,patrice-evra,D,False,0.0,0.0,90.0,0.0,,0.0
-2010-11,1380056,30,1,Manchester_United,Home,11820,20695.0,Antonio Valencia,antonio-valencia,D,False,0.0,0.0,90.0,0.0,,0.0
-2010-11,1380056,30,1,Manchester_United,Home,17740,38530.0,Nani,nani,M,False,0.0,0.0,90.0,0.0,,0.0
-2010-11,1380056,30,1,Manchester_United,Home,21073,27707.0,Darron Gibson,darron-gibson,M,True,,,,,,
-2010-11,1380056,30,1,Manchester_United,Home,30144,37642.0,Jonny Evans,jonny-evans,D,False,0.0,0.0,76.0,0.0,,0.0
-2010-11,1380056,30,1,Manchester_United,Home,34312,,Javier Hernández,javier-hernandez,F,False,0.0,0.0,46.0,0.0,,0.0
-2010-11,1380056,30,1,Manchester_United,Home,40677,54771.0,Fábio,fabio,D,True,0.0,0.0,44.0,0.0,,0.0
-2010-11,1380056,30,1,Manchester_United,Home,47741,55909.0,Chris Smalling,chris-smalling,D,False,0.0,0.0,90.0,0.0,,0.0
-2010-11,1380056,30,1,Manchester_United,Home,102521,79933.0,Oliver Gill,oliver-gill,D,True,,,,,,
-2010-11,1380056,30,1,Manchester_United,Home,1421986,1795.0,Michael Owen,michael-owen,F,True,,,,,,
-2010-11,1380070,31,1,Manchester_United,Away,278,8595.0,Dimitar Berbatov,dimitar-berbatov,F,True,0.0,0.0,26.0,0.0,,0.0
-2010-11,1380070,31,1,Manchester_United,Away,751,13017.0,Wayne Rooney,wayne-rooney,F,False,0.0,3.0,87.0,0.0,,0.0
-2010-11,1380070,31,1,Manchester_United,Away,754,3.0,Ryan Giggs,ryan-giggs,M,False,1.0,0.0,90.0,0.0,,0.0
-2010-11,1380070,31,1,Manchester_United,Away,938,2404.0,Michael Carrick,michael-carrick,M,False,0.0,0.0,90.0,0.0,,0.0
-2010-11,1380070,31,1,Manchester_United,Away,1054,10135.0,Tomasz Kuszczak,tomasz-kuszczak,G,False,0.0,0.0,90.0,0.0,,0.0
-2010-11,1380070,31,1,Manchester_United,Away,2496,12882.0,Ji-Sung Park,ji-sung-park,M,False,0.0,0.0,64.0,0.0,,0.0
-2010-11,1380070,31,1,Manchester_United,Away,3063,14075.0,Patrice Evra,patrice-evra,D,False,0.0,0.0,46.0,0.0,,0.0
-2010-11,1380070,31,1,Manchester_United,Away,11184,14965.0,Nemanja Vidić,nemanja-vidic,D,False,0.0,0.0,90.0,0.0,,0.0
-2010-11,1380070,31,1,Manchester_United,Away,11820,20695.0,Antonio Valencia,antonio-valencia,D,False,1.0,0.0,90.0,0.0,,0.0
-2010-11,1380070,31,1,Manchester_United,Away,17740,38530.0,Nani,nani,M,True,0.0,0.0,3.0,0.0,,0.0
-2010-11,1380070,31,1,Manchester_United,Away,17887,27258.0,Anderson,anderson,M,True,,,,,,
-2010-11,1380070,31,1,Manchester_United,Away,21073,27707.0,Darron Gibson,darron-gibson,M,False,0.0,0.0,90.0,0.0,,0.0
-2010-11,1380070,31,1,Manchester_United,Away,34312,,Javier Hernández,javier-hernandez,F,True,0.0,1.0,44.0,0.0,,0.0
-2010-11,1380070,31,1,Manchester_United,Away,40677,54771.0,Fábio,fabio,D,False,0.0,0.0,90.0,0.0,,0.0
-2010-11,1380070,31,1,Manchester_United,Away,42688,51922.0,Ben Amos,ben-amos,G,True,,,,,,
-2010-11,1380070,31,1,Manchester_United,Away,47741,55909.0,Chris Smalling,chris-smalling,D,False,0.0,0.0,90.0,0.0,,0.0
-2010-11,1380070,31,1,Manchester_United,Away,102521,79933.0,Oliver Gill,oliver-gill,D,True,,,,,,
-2010-11,1380070,31,1,Manchester_United,Away,1421986,1795.0,Michael Owen,michael-owen,F,True,,,,,,
-2010-11,1380078,32,1,Manchester_United,Home,278,8595.0,Dimitar Berbatov,dimitar-berbatov,F,False,0.0,1.0,90.0,0.0,,0.0
-2010-11,1380078,32,1,Manchester_United,Home,661,4058.0,Edwin van der Sar,edwin-van-der-sar,G,True,,,,,,
-2010-11,1380078,32,1,Manchester_United,Home,749,1841.0,Wes Brown,wes-brown,D,True,,,,,,
-2010-11,1380078,32,1,Manchester_United,Home,761,363.0,Paul Scholes,paul-scholes,M,False,0.0,0.0,90.0,0.0,,0.0
-2010-11,1380078,32,1,Manchester_United,Home,763,3736.0,John O'Shea,john-oshea,D,False,0.0,0.0,90.0,0.0,,0.0
-2010-11,1380078,32,1,Manchester_United,Home,938,2404.0,Michael Carrick,michael-carrick,M,True,0.0,0.0,3.0,0.0,,0.0
-2010-11,1380078,32,1,Manchester_United,Home,1054,10135.0,Tomasz Kuszczak,tomasz-kuszczak,G,False,0.0,0.0,90.0,0.0,,0.0
-2010-11,1380078,32,1,Manchester_United,Home,2496,12882.0,Ji-Sung Park,ji-sung-park,M,True,,,,,,
-2010-11,1380078,32,1,Manchester_United,Home,3063,14075.0,Patrice Evra,patrice-evra,D,False,0.0,0.0,90.0,0.0,,0.0
-2010-11,1380078,32,1,Manchester_United,Home,11184,14965.0,Nemanja Vidić,nemanja-vidic,D,False,0.0,0.0,90.0,0.0,,0.0
-2010-11,1380078,32,1,Manchester_United,Home,11820,20695.0,Antonio Valencia,antonio-valencia,D,False,0.0,1.0,73.0,0.0,,0.0
-2010-11,1380078,32,1,Manchester_United,Home,17740,38530.0,Nani,nani,M,False,2.0,0.0,87.0,0.0,,0.0
-2010-11,1380078,32,1,Manchester_United,Home,17887,27258.0,Anderson,anderson,M,False,0.0,0.0,76.0,0.0,,0.0
-2010-11,1380078,32,1,Manchester_United,Home,21073,27707.0,Darron Gibson,darron-gibson,M,False,0.0,0.0,90.0,0.0,,0.0
-2010-11,1380078,32,1,Manchester_United,Home,34312,,Javier Hernández,javier-hernandez,F,True,,,,,,
-2010-11,1380078,32,1,Manchester_United,Home,40677,54771.0,Fábio,fabio,D,True,0.0,0.0,14.0,0.0,,0.0
-2010-11,1380078,32,1,Manchester_United,Home,47741,55909.0,Chris Smalling,chris-smalling,D,False,0.0,0.0,90.0,0.0,,0.0
-2010-11,1380078,32,1,Manchester_United,Home,1421986,1795.0,Michael Owen,michael-owen,F,True,0.0,0.0,17.0,0.0,,0.0
-2010-11,1380087,33,1,Manchester_United,Away,661,4058.0,Edwin van der Sar,edwin-van-der-sar,G,False,0.0,0.0,90.0,0.0,,0.0
-2010-11,1380087,33,1,Manchester_United,Away,751,13017.0,Wayne Rooney,wayne-rooney,F,False,0.0,0.0,90.0,0.0,,0.0
-2010-11,1380087,33,1,Manchester_United,Away,754,3.0,Ryan Giggs,ryan-giggs,M,False,0.0,0.0,90.0,0.0,,0.0
-2010-11,1380087,33,1,Manchester_United,Away,763,3736.0,John O'Shea,john-oshea,D,False,0.0,0.0,90.0,0.0,,0.0
-2010-11,1380087,33,1,Manchester_United,Away,938,2404.0,Michael Carrick,michael-carrick,M,False,0.0,0.0,90.0,0.0,,0.0
-2010-11,1380087,33,1,Manchester_United,Away,1054,10135.0,Tomasz Kuszczak,tomasz-kuszczak,G,True,,,,,,
-2010-11,1380087,33,1,Manchester_United,Away,2496,12882.0,Ji-Sung Park,ji-sung-park,M,True,,,,,,
-2010-11,1380087,33,1,Manchester_United,Away,3063,14075.0,Patrice Evra,patrice-evra,D,False,0.0,0.0,90.0,0.0,,0.0
-2010-11,1380087,33,1,Manchester_United,Away,11184,14965.0,Nemanja Vidić,nemanja-vidic,D,False,0.0,0.0,90.0,0.0,,0.0
-2010-11,1380087,33,1,Manchester_United,Away,11820,20695.0,Antonio Valencia,antonio-valencia,D,True,0.0,0.0,20.0,0.0,,0.0
-2010-11,1380087,33,1,Manchester_United,Away,17740,38530.0,Nani,nani,M,False,0.0,0.0,81.0,0.0,,0.0
-2010-11,1380087,33,1,Manchester_United,Away,17887,27258.0,Anderson,anderson,M,False,0.0,0.0,70.0,0.0,,0.0
-2010-11,1380087,33,1,Manchester_United,Away,21073,27707.0,Darron Gibson,darron-gibson,M,True,,,,,,
-2010-11,1380087,33,1,Manchester_United,Away,30144,37642.0,Jonny Evans,jonny-evans,D,True,,,,,,
-2010-11,1380087,33,1,Manchester_United,Away,34312,,Javier Hernández,javier-hernandez,F,False,0.0,0.0,90.0,0.0,,0.0
-2010-11,1380087,33,1,Manchester_United,Away,40677,54771.0,Fábio,fabio,D,True,,,,,,
-2010-11,1380087,33,1,Manchester_United,Away,47741,55909.0,Chris Smalling,chris-smalling,D,False,0.0,0.0,90.0,0.0,,0.0
-2010-11,1380087,33,1,Manchester_United,Away,1421986,1795.0,Michael Owen,michael-owen,F,True,0.0,0.0,9.0,0.0,,0.0
-2010-11,1380098,34,1,Manchester_United,Home,661,4058.0,Edwin van der Sar,edwin-van-der-sar,G,False,0.0,0.0,90.0,0.0,,0.0
-2010-11,1380098,34,1,Manchester_United,Home,748,2034.0,Rio Ferdinand,rio-ferdinand,D,False,0.0,0.0,90.0,0.0,,0.0
-2010-11,1380098,34,1,Manchester_United,Home,749,1841.0,Wes Brown,wes-brown,D,True,,,,,,
-2010-11,1380098,34,1,Manchester_United,Home,751,13017.0,Wayne Rooney,wayne-rooney,F,False,0.0,0.0,90.0,0.0,,0.0
-2010-11,1380098,34,1,Manchester_United,Home,754,3.0,Ryan Giggs,ryan-giggs,M,True,0.0,0.0,16.0,0.0,,0.0
-2010-11,1380098,34,1,Manchester_United,Home,763,3736.0,John O'Shea,john-oshea,D,False,0.0,0.0,57.0,0.0,,0.0
-2010-11,1380098,34,1,Manchester_United,Home,938,2404.0,Michael Carrick,michael-carrick,M,True,,,,,,
-2010-11,1380098,34,1,Manchester_United,Home,1054,10135.0,Tomasz Kuszczak,tomasz-kuszczak,G,True,,,,,,
-2010-11,1380098,34,1,Manchester_United,Home,3063,14075.0,Patrice Evra,patrice-evra,D,True,0.0,0.0,33.0,0.0,,0.0
-2010-11,1380098,34,1,Manchester_United,Home,11820,20695.0,Antonio Valencia,antonio-valencia,D,False,1.0,0.0,90.0,0.0,,0.0
-2010-11,1380098,34,1,Manchester_United,Home,17740,38530.0,Nani,nani,M,False,0.0,0.0,63.0,0.0,,0.0
-2010-11,1380098,34,1,Manchester_United,Home,17887,27258.0,Anderson,anderson,M,False,0.0,0.0,90.0,0.0,,0.0
-2010-11,1380098,34,1,Manchester_United,Home,21073,27707.0,Darron Gibson,darron-gibson,M,False,0.0,0.0,74.0,0.0,,0.0
-2010-11,1380098,34,1,Manchester_United,Home,30144,37642.0,Jonny Evans,jonny-evans,D,False,0.0,0.0,90.0,0.0,,0.0
-2010-11,1380098,34,1,Manchester_United,Home,34312,,Javier Hernández,javier-hernandez,F,False,0.0,1.0,90.0,0.0,,0.0
-2010-11,1380098,34,1,Manchester_United,Home,39623,54772.0,Rafael,rafael,D,True,,,,,,
-2010-11,1380098,34,1,Manchester_United,Home,40677,54771.0,Fábio,fabio,D,False,0.0,0.0,90.0,0.0,,0.0
-2010-11,1380098,34,1,Manchester_United,Home,1421986,1795.0,Michael Owen,michael-owen,F,True,0.0,0.0,27.0,0.0,,0.0
-2010-11,1380102,35,1,Manchester_United,Away,278,8595.0,Dimitar Berbatov,dimitar-berbatov,F,True,0.0,0.0,16.0,0.0,,0.0
-2010-11,1380102,35,1,Manchester_United,Away,661,4058.0,Edwin van der Sar,edwin-van-der-sar,G,False,0.0,0.0,90.0,0.0,,0.0
-2010-11,1380102,35,1,Manchester_United,Away,748,2034.0,Rio Ferdinand,rio-ferdinand,D,False,0.0,0.0,90.0,0.0,,0.0
-2010-11,1380102,35,1,Manchester_United,Away,751,13017.0,Wayne Rooney,wayne-rooney,F,False,0.0,0.0,90.0,0.0,,0.0
-2010-11,1380102,35,1,Manchester_United,Away,763,3736.0,John O'Shea,john-oshea,D,True,,,,,,
-2010-11,1380102,35,1,Manchester_United,Away,938,2404.0,Michael Carrick,michael-carrick,M,False,0.0,0.0,85.0,0.0,,0.0
-2010-11,1380102,35,1,Manchester_United,Away,1054,10135.0,Tomasz Kuszczak,tomasz-kuszczak,G,True,,,,,,
-2010-11,1380102,35,1,Manchester_United,Away,2496,12882.0,Ji-Sung Park,ji-sung-park,M,False,0.0,0.0,90.0,0.0,,0.0
-2010-11,1380102,35,1,Manchester_United,Away,3063,14075.0,Patrice Evra,patrice-evra,D,False,0.0,0.0,90.0,0.0,,0.0
-2010-11,1380102,35,1,Manchester_United,Away,11184,14965.0,Nemanja Vidić,nemanja-vidic,D,False,0.0,0.0,90.0,0.0,,0.0
-2010-11,1380102,35,1,Manchester_United,Away,11820,20695.0,Antonio Valencia,antonio-valencia,D,True,0.0,0.0,35.0,0.0,,0.0
-2010-11,1380102,35,1,Manchester_United,Away,17740,38530.0,Nani,nani,M,False,0.0,0.0,90.0,0.0,,0.0
-2010-11,1380102,35,1,Manchester_United,Away,17887,27258.0,Anderson,anderson,M,False,0.0,0.0,55.0,0.0,,0.0
-2010-11,1380102,35,1,Manchester_United,Away,34312,,Javier Hernández,javier-hernandez,F,False,0.0,0.0,74.0,0.0,,0.0
-2010-11,1380102,35,1,Manchester_United,Away,39623,54772.0,Rafael,rafael,D,True,,,,,,
-2010-11,1380102,35,1,Manchester_United,Away,40677,54771.0,Fábio,fabio,D,False,0.0,0.0,90.0,0.0,,0.0
-2010-11,1380102,35,1,Manchester_United,Away,47741,55909.0,Chris Smalling,chris-smalling,D,True,,,,,,
-2010-11,1380102,35,1,Manchester_United,Away,1421986,1795.0,Michael Owen,michael-owen,F,True,0.0,0.0,5.0,0.0,,0.0
-2010-11,1380116,36,1,Manchester_United,Home,278,8595.0,Dimitar Berbatov,dimitar-berbatov,F,True,,,,,,
-2010-11,1380116,36,1,Manchester_United,Home,661,4058.0,Edwin van der Sar,edwin-van-der-sar,G,False,0.0,0.0,90.0,0.0,,0.0
-2010-11,1380116,36,1,Manchester_United,Home,748,2034.0,Rio Ferdinand,rio-ferdinand,D,False,0.0,0.0,90.0,0.0,,0.0
-2010-11,1380116,36,1,Manchester_United,Home,751,13017.0,Wayne Rooney,wayne-rooney,F,False,0.0,0.0,90.0,0.0,,0.0
-2010-11,1380116,36,1,Manchester_United,Home,754,3.0,Ryan Giggs,ryan-giggs,M,False,1.0,0.0,90.0,0.0,,0.0
-2010-11,1380116,36,1,Manchester_United,Home,761,363.0,Paul Scholes,paul-scholes,M,True,,,,,,
-2010-11,1380116,36,1,Manchester_United,Home,763,3736.0,John O'Shea,john-oshea,D,False,0.0,0.0,46.0,0.0,,0.0
-2010-11,1380116,36,1,Manchester_United,Home,938,2404.0,Michael Carrick,michael-carrick,M,False,0.0,0.0,90.0,0.0,,0.0
-2010-11,1380116,36,1,Manchester_United,Home,1054,10135.0,Tomasz Kuszczak,tomasz-kuszczak,G,True,,,,,,
-2010-11,1380116,36,1,Manchester_United,Home,2496,12882.0,Ji-Sung Park,ji-sung-park,M,False,1.0,0.0,90.0,0.0,,0.0
-2010-11,1380116,36,1,Manchester_United,Home,11184,14965.0,Nemanja Vidić,nemanja-vidic,D,False,0.0,1.0,90.0,0.0,,0.0
-2010-11,1380116,36,1,Manchester_United,Home,11820,20695.0,Antonio Valencia,antonio-valencia,D,False,0.0,0.0,90.0,0.0,,0.0
-2010-11,1380116,36,1,Manchester_United,Home,17740,38530.0,Nani,nani,M,True,,,,,,
-2010-11,1380116,36,1,Manchester_United,Home,17887,27258.0,Anderson,anderson,M,True,,,,,,
-2010-11,1380116,36,1,Manchester_United,Home,30144,37642.0,Jonny Evans,jonny-evans,D,True,0.0,0.0,44.0,0.0,,0.0
-2010-11,1380116,36,1,Manchester_United,Home,34312,,Javier Hernández,javier-hernandez,F,False,0.0,1.0,90.0,0.0,,0.0
-2010-11,1380116,36,1,Manchester_United,Home,40677,54771.0,Fábio,fabio,D,False,0.0,0.0,88.0,0.0,,0.0
-2010-11,1380116,36,1,Manchester_United,Home,47741,55909.0,Chris Smalling,chris-smalling,D,True,0.0,0.0,2.0,0.0,,0.0
-2010-11,1380124,37,1,Manchester_United,Away,278,8595.0,Dimitar Berbatov,dimitar-berbatov,F,True,0.0,0.0,10.0,0.0,,0.0
-2010-11,1380124,37,1,Manchester_United,Away,748,2034.0,Rio Ferdinand,rio-ferdinand,D,False,0.0,0.0,90.0,0.0,,0.0
-2010-11,1380124,37,1,Manchester_United,Away,751,13017.0,Wayne Rooney,wayne-rooney,F,False,0.0,1.0,90.0,0.0,,0.0
-2010-11,1380124,37,1,Manchester_United,Away,754,3.0,Ryan Giggs,ryan-giggs,M,False,0.0,0.0,90.0,0.0,,0.0
-2010-11,1380124,37,1,Manchester_United,Away,761,363.0,Paul Scholes,paul-scholes,M,True,0.0,0.0,28.0,0.0,,0.0
-2010-11,1380124,37,1,Manchester_United,Away,938,2404.0,Michael Carrick,michael-carrick,M,False,0.0,0.0,90.0,0.0,,0.0
-2010-11,1380124,37,1,Manchester_United,Away,1054,10135.0,Tomasz Kuszczak,tomasz-kuszczak,G,False,0.0,0.0,90.0,0.0,,0.0
-2010-11,1380124,37,1,Manchester_United,Away,3063,14075.0,Patrice Evra,patrice-evra,D,True,,,,,,
-2010-11,1380124,37,1,Manchester_United,Away,11184,14965.0,Nemanja Vidić,nemanja-vidic,D,False,0.0,0.0,90.0,0.0,,0.0
-2010-11,1380124,37,1,Manchester_United,Away,11820,20695.0,Antonio Valencia,antonio-valencia,D,False,0.0,0.0,90.0,0.0,,0.0
-2010-11,1380124,37,1,Manchester_United,Away,17740,38530.0,Nani,nani,M,False,0.0,0.0,80.0,0.0,,0.0
-2010-11,1380124,37,1,Manchester_United,Away,17887,27258.0,Anderson,anderson,M,True,,,,,,
-2010-11,1380124,37,1,Manchester_United,Away,30144,37642.0,Jonny Evans,jonny-evans,D,False,0.0,0.0,90.0,0.0,,0.0
-2010-11,1380124,37,1,Manchester_United,Away,34312,,Javier Hernández,javier-hernandez,F,False,0.0,0.0,90.0,0.0,,0.0
-2010-11,1380124,37,1,Manchester_United,Away,40677,54771.0,Fábio,fabio,D,False,0.0,0.0,62.0,0.0,,0.0
-2010-11,1380124,37,1,Manchester_United,Away,42688,51922.0,Ben Amos,ben-amos,G,True,,,,,,
-2010-11,1380124,37,1,Manchester_United,Away,47741,55909.0,Chris Smalling,chris-smalling,D,True,,,,,,
-2010-11,1380124,37,1,Manchester_United,Away,1421986,1795.0,Michael Owen,michael-owen,F,True,,,,,,
-2010-11,1380136,38,1,Manchester_United,Home,278,8595.0,Dimitar Berbatov,dimitar-berbatov,F,False,1.0,0.0,90.0,0.0,,0.0
-2010-11,1380136,38,1,Manchester_United,Home,661,4058.0,Edwin van der Sar,edwin-van-der-sar,G,False,0.0,0.0,90.0,0.0,,0.0
-2010-11,1380136,38,1,Manchester_United,Home,748,2034.0,Rio Ferdinand,rio-ferdinand,D,True,,,,,,
-2010-11,1380136,38,1,Manchester_United,Home,751,13017.0,Wayne Rooney,wayne-rooney,F,True,0.0,0.0,6.0,0.0,,0.0
-2010-11,1380136,38,1,Manchester_United,Home,761,363.0,Paul Scholes,paul-scholes,M,False,0.0,0.0,90.0,0.0,,0.0
-2010-11,1380136,38,1,Manchester_United,Home,765,14295.0,Darren Fletcher,darren-fletcher,M,False,0.0,0.0,90.0,0.0,,0.0
-2010-11,1380136,38,1,Manchester_United,Home,2496,12882.0,Ji-Sung Park,ji-sung-park,M,False,1.0,1.0,63.0,0.0,,0.0
-2010-11,1380136,38,1,Manchester_United,Home,3063,14075.0,Patrice Evra,patrice-evra,D,False,0.0,0.0,90.0,0.0,,0.0
-2010-11,1380136,38,1,Manchester_United,Home,8391,39725.0,Anders Lindegaard,anders-lindegaard,G,True,,,,,,
-2010-11,1380136,38,1,Manchester_United,Home,11184,14965.0,Nemanja Vidić,nemanja-vidic,D,False,0.0,0.0,84.0,0.0,,0.0
-2010-11,1380136,38,1,Manchester_United,Home,11820,20695.0,Antonio Valencia,antonio-valencia,D,True,,,,,,
-2010-11,1380136,38,1,Manchester_United,Home,17740,38530.0,Nani,nani,M,False,0.0,0.0,90.0,0.0,,0.0
-2010-11,1380136,38,1,Manchester_United,Home,17887,27258.0,Anderson,anderson,M,False,1.0,1.0,90.0,0.0,,0.0
-2010-11,1380136,38,1,Manchester_United,Home,21073,27707.0,Darron Gibson,darron-gibson,M,True,,,,,,
-2010-11,1380136,38,1,Manchester_United,Home,30144,37642.0,Jonny Evans,jonny-evans,D,False,0.0,0.0,90.0,0.0,,0.0
-2010-11,1380136,38,1,Manchester_United,Home,39623,54772.0,Rafael,rafael,D,False,0.0,0.0,46.0,0.0,,0.0
-2010-11,1380136,38,1,Manchester_United,Home,47741,55909.0,Chris Smalling,chris-smalling,D,True,0.0,0.0,44.0,0.0,,0.0
-2010-11,1380136,38,1,Manchester_United,Home,1421986,1795.0,Michael Owen,michael-owen,F,True,0.0,1.0,27.0,0.0,,0.0
+season,matchId,gameweek,team_id,team,venue,playerId,pl_code,playerName,slug,position,substitute,goalAssist,goals,minutesPlayed,ownGoals,penaltyMiss,substitute.1,totalShots
+2010-11,1379600,1,1,Manchester_United,Home,278,8595,Dimitar Berbatov,dimitar-berbatov,F,False,0.0,1.0,90.0,0.0,,,0.0
+2010-11,1379600,1,1,Manchester_United,Home,661,4058,Edwin van der Sar,edwin-van-der-sar,G,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1379600,1,1,Manchester_United,Home,751,13017,Wayne Rooney,wayne-rooney,F,False,1.0,0.0,63.0,0.0,,,0.0
+2010-11,1379600,1,1,Manchester_United,Home,754,3,Ryan Giggs,ryan-giggs,M,True,0.0,1.0,19.0,0.0,,,0.0
+2010-11,1379600,1,1,Manchester_United,Home,761,363,Paul Scholes,paul-scholes,M,False,2.0,0.0,90.0,0.0,,,0.0
+2010-11,1379600,1,1,Manchester_United,Home,763,3736,John O'Shea,john-oshea,D,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1379600,1,1,Manchester_United,Home,765,14295,Darren Fletcher,darren-fletcher,M,False,0.0,1.0,90.0,0.0,,,0.0
+2010-11,1379600,1,1,Manchester_United,Home,938,2404,Michael Carrick,michael-carrick,M,True,,,,,,,
+2010-11,1379600,1,1,Manchester_United,Home,1054,10135,Tomasz Kuszczak,tomasz-kuszczak,G,True,,,,,,,
+2010-11,1379600,1,1,Manchester_United,Home,3063,14075,Patrice Evra,patrice-evra,D,False,0.0,0.0,87.0,0.0,,,0.0
+2010-11,1379600,1,1,Manchester_United,Home,11184,14965,Nemanja Vidić,nemanja-vidic,D,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1379600,1,1,Manchester_United,Home,11820,20695,Antonio Valencia,antonio-valencia,D,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1379600,1,1,Manchester_United,Home,17740,38530,Nani,nani,M,False,0.0,0.0,71.0,0.0,,,0.0
+2010-11,1379600,1,1,Manchester_United,Home,30144,37642,Jonny Evans,jonny-evans,D,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1379600,1,1,Manchester_United,Home,34312,,Javier Hernández,javier-hernandez,F,True,0.0,0.0,27.0,0.0,,,0.0
+2010-11,1379600,1,1,Manchester_United,Home,39623,54772,Rafael,rafael,D,True,0.0,0.0,3.0,0.0,,,0.0
+2010-11,1379600,1,1,Manchester_United,Home,47741,55909,Chris Smalling,chris-smalling,D,True,,,,,,,
+2010-11,1379600,1,1,Manchester_United,Home,50130,59970,Federico Macheda,federico-macheda,F,True,,,,,,,
+2010-11,1379607,2,1,Manchester_United,Away,278,8595,Dimitar Berbatov,dimitar-berbatov,F,False,1.0,0.0,90.0,0.0,,,0.0
+2010-11,1379607,2,1,Manchester_United,Away,661,4058,Edwin van der Sar,edwin-van-der-sar,G,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1379607,2,1,Manchester_United,Away,754,3,Ryan Giggs,ryan-giggs,M,True,0.0,0.0,16.0,0.0,,,0.0
+2010-11,1379607,2,1,Manchester_United,Away,761,363,Paul Scholes,paul-scholes,M,False,0.0,1.0,90.0,0.0,,,0.0
+2010-11,1379607,2,1,Manchester_United,Away,763,3736,John O'Shea,john-oshea,D,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1379607,2,1,Manchester_United,Away,765,14295,Darren Fletcher,darren-fletcher,M,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1379607,2,1,Manchester_United,Away,938,2404,Michael Carrick,michael-carrick,M,True,,,,,,,
+2010-11,1379607,2,1,Manchester_United,Away,1054,10135,Tomasz Kuszczak,tomasz-kuszczak,G,True,,,,,,,
+2010-11,1379607,2,1,Manchester_United,Away,2496,12882,Ji-Sung Park,ji-sung-park,M,False,0.0,0.0,66.0,0.0,,,0.0
+2010-11,1379607,2,1,Manchester_United,Away,3063,14075,Patrice Evra,patrice-evra,D,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1379607,2,1,Manchester_United,Away,11184,14965,Nemanja Vidić,nemanja-vidic,D,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1379607,2,1,Manchester_United,Away,11820,20695,Antonio Valencia,antonio-valencia,D,False,0.0,0.0,74.0,0.0,,,0.0
+2010-11,1379607,2,1,Manchester_United,Away,17740,38530,Nani,nani,M,True,0.0,0.0,24.0,0.0,1.0,,0.0
+2010-11,1379607,2,1,Manchester_United,Away,30144,37642,Jonny Evans,jonny-evans,D,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1379607,2,1,Manchester_United,Away,34312,,Javier Hernández,javier-hernandez,F,False,0.0,0.0,74.0,0.0,,,0.0
+2010-11,1379607,2,1,Manchester_United,Away,39623,54772,Rafael,rafael,D,True,,,,,,,
+2010-11,1379607,2,1,Manchester_United,Away,47741,55909,Chris Smalling,chris-smalling,D,True,,,,,,,
+2010-11,1379607,2,1,Manchester_United,Away,1421986,1795,Michael Owen,michael-owen,F,True,0.0,0.0,16.0,0.0,,,0.0
+2010-11,1379620,3,1,Manchester_United,Home,278,8595,Dimitar Berbatov,dimitar-berbatov,F,False,0.0,1.0,74.0,0.0,,,0.0
+2010-11,1379620,3,1,Manchester_United,Home,661,4058,Edwin van der Sar,edwin-van-der-sar,G,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1379620,3,1,Manchester_United,Home,751,13017,Wayne Rooney,wayne-rooney,F,False,1.0,1.0,90.0,0.0,,,0.0
+2010-11,1379620,3,1,Manchester_United,Home,754,3,Ryan Giggs,ryan-giggs,M,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1379620,3,1,Manchester_United,Home,761,363,Paul Scholes,paul-scholes,M,False,0.0,0.0,74.0,0.0,,,0.0
+2010-11,1379620,3,1,Manchester_United,Home,763,3736,John O'Shea,john-oshea,D,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1379620,3,1,Manchester_United,Home,765,14295,Darren Fletcher,darren-fletcher,M,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1379620,3,1,Manchester_United,Home,938,2404,Michael Carrick,michael-carrick,M,True,0.0,0.0,16.0,0.0,,,0.0
+2010-11,1379620,3,1,Manchester_United,Home,1054,10135,Tomasz Kuszczak,tomasz-kuszczak,G,True,,,,,,,
+2010-11,1379620,3,1,Manchester_United,Home,3063,14075,Patrice Evra,patrice-evra,D,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1379620,3,1,Manchester_United,Home,11184,14965,Nemanja Vidić,nemanja-vidic,D,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1379620,3,1,Manchester_United,Home,11820,20695,Antonio Valencia,antonio-valencia,D,True,,,,,,,
+2010-11,1379620,3,1,Manchester_United,Home,17740,38530,Nani,nani,M,False,1.0,1.0,90.0,0.0,,,0.0
+2010-11,1379620,3,1,Manchester_United,Home,30144,37642,Jonny Evans,jonny-evans,D,False,0.0,0.0,74.0,0.0,,,0.0
+2010-11,1379620,3,1,Manchester_United,Home,34312,,Javier Hernández,javier-hernandez,F,True,,,,,,,
+2010-11,1379620,3,1,Manchester_United,Home,39623,54772,Rafael,rafael,D,True,,,,,,,
+2010-11,1379620,3,1,Manchester_United,Home,47741,55909,Chris Smalling,chris-smalling,D,True,0.0,0.0,16.0,0.0,,,0.0
+2010-11,1379620,3,1,Manchester_United,Home,1421986,1795,Michael Owen,michael-owen,F,True,0.0,0.0,16.0,0.0,,,0.0
+2010-11,1379794,4,1,Manchester_United,Away,278,8595,Dimitar Berbatov,dimitar-berbatov,F,False,0.0,1.0,90.0,0.0,,,0.0
+2010-11,1379794,4,1,Manchester_United,Away,661,4058,Edwin van der Sar,edwin-van-der-sar,G,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1379794,4,1,Manchester_United,Away,745,1807,Gary Neville,gary-neville,D,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1379794,4,1,Manchester_United,Away,754,3,Ryan Giggs,ryan-giggs,M,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1379794,4,1,Manchester_United,Away,761,363,Paul Scholes,paul-scholes,M,False,1.0,0.0,90.0,0.0,,,0.0
+2010-11,1379794,4,1,Manchester_United,Away,763,3736,John O'Shea,john-oshea,D,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1379794,4,1,Manchester_United,Away,765,14295,Darren Fletcher,darren-fletcher,M,False,0.0,1.0,90.0,0.0,,,0.0
+2010-11,1379794,4,1,Manchester_United,Away,1054,10135,Tomasz Kuszczak,tomasz-kuszczak,G,True,,,,,,,
+2010-11,1379794,4,1,Manchester_United,Away,2496,12882,Ji-Sung Park,ji-sung-park,M,True,0.0,0.0,9.0,0.0,,,0.0
+2010-11,1379794,4,1,Manchester_United,Away,3063,14075,Patrice Evra,patrice-evra,D,False,0.0,0.0,81.0,0.0,,,0.0
+2010-11,1379794,4,1,Manchester_United,Away,11184,14965,Nemanja Vidić,nemanja-vidic,D,False,0.0,1.0,90.0,0.0,,,0.0
+2010-11,1379794,4,1,Manchester_United,Away,17740,38530,Nani,nani,M,False,2.0,0.0,90.0,0.0,,,0.0
+2010-11,1379794,4,1,Manchester_United,Away,21073,27707,Darron Gibson,darron-gibson,M,True,,,,,,,
+2010-11,1379794,4,1,Manchester_United,Away,30144,37642,Jonny Evans,jonny-evans,D,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1379794,4,1,Manchester_United,Away,39623,54772,Rafael,rafael,D,True,,,,,,,
+2010-11,1379794,4,1,Manchester_United,Away,47741,55909,Chris Smalling,chris-smalling,D,True,,,,,,,
+2010-11,1379794,4,1,Manchester_United,Away,50130,59970,Federico Macheda,federico-macheda,F,True,,,,,,,
+2010-11,1379794,4,1,Manchester_United,Away,1421986,1795,Michael Owen,michael-owen,F,True,,,,,,,
+2010-11,1379806,5,1,Manchester_United,Home,278,8595,Dimitar Berbatov,dimitar-berbatov,F,False,0.0,3.0,88.0,0.0,,,0.0
+2010-11,1379806,5,1,Manchester_United,Home,661,4058,Edwin van der Sar,edwin-van-der-sar,G,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1379806,5,1,Manchester_United,Home,749,1841,Wes Brown,wes-brown,D,True,,,,,,,
+2010-11,1379806,5,1,Manchester_United,Home,751,13017,Wayne Rooney,wayne-rooney,F,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1379806,5,1,Manchester_United,Home,754,3,Ryan Giggs,ryan-giggs,M,False,1.0,0.0,82.0,0.0,,,0.0
+2010-11,1379806,5,1,Manchester_United,Home,761,363,Paul Scholes,paul-scholes,M,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1379806,5,1,Manchester_United,Home,763,3736,John O'Shea,john-oshea,D,False,1.0,0.0,90.0,0.0,,,0.0
+2010-11,1379806,5,1,Manchester_United,Home,765,14295,Darren Fletcher,darren-fletcher,M,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1379806,5,1,Manchester_United,Home,1054,10135,Tomasz Kuszczak,tomasz-kuszczak,G,True,,,,,,,
+2010-11,1379806,5,1,Manchester_United,Home,3063,14075,Patrice Evra,patrice-evra,D,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1379806,5,1,Manchester_United,Home,11184,14965,Nemanja Vidić,nemanja-vidic,D,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1379806,5,1,Manchester_United,Home,17740,38530,Nani,nani,M,False,1.0,0.0,88.0,0.0,,,0.0
+2010-11,1379806,5,1,Manchester_United,Home,17887,27258,Anderson,anderson,M,True,0.0,0.0,2.0,0.0,,,0.0
+2010-11,1379806,5,1,Manchester_United,Home,21073,27707,Darron Gibson,darron-gibson,M,True,0.0,0.0,2.0,0.0,,,0.0
+2010-11,1379806,5,1,Manchester_United,Home,30144,37642,Jonny Evans,jonny-evans,D,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1379806,5,1,Manchester_United,Home,47741,55909,Chris Smalling,chris-smalling,D,True,,,,,,,
+2010-11,1379806,5,1,Manchester_United,Home,50130,59970,Federico Macheda,federico-macheda,F,True,0.0,0.0,8.0,0.0,,,0.0
+2010-11,1379806,5,1,Manchester_United,Home,1421986,1795,Michael Owen,michael-owen,F,True,,,,,,,
+2010-11,1379815,6,1,Manchester_United,Away,278,8595,Dimitar Berbatov,dimitar-berbatov,F,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1379815,6,1,Manchester_United,Away,661,4058,Edwin van der Sar,edwin-van-der-sar,G,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1379815,6,1,Manchester_United,Away,751,13017,Wayne Rooney,wayne-rooney,F,False,1.0,0.0,61.0,0.0,,,0.0
+2010-11,1379815,6,1,Manchester_United,Away,754,3,Ryan Giggs,ryan-giggs,M,False,0.0,0.0,53.0,0.0,,,0.0
+2010-11,1379815,6,1,Manchester_United,Away,761,363,Paul Scholes,paul-scholes,M,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1379815,6,1,Manchester_United,Away,763,3736,John O'Shea,john-oshea,D,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1379815,6,1,Manchester_United,Away,765,14295,Darren Fletcher,darren-fletcher,M,False,0.0,0.0,71.0,0.0,,,0.0
+2010-11,1379815,6,1,Manchester_United,Away,1054,10135,Tomasz Kuszczak,tomasz-kuszczak,G,True,,,,,,,
+2010-11,1379815,6,1,Manchester_United,Away,2496,12882,Ji-Sung Park,ji-sung-park,M,True,0.0,0.0,37.0,0.0,,,0.0
+2010-11,1379815,6,1,Manchester_United,Away,3063,14075,Patrice Evra,patrice-evra,D,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1379815,6,1,Manchester_United,Away,11184,14965,Nemanja Vidić,nemanja-vidic,D,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1379815,6,1,Manchester_United,Away,17740,38530,Nani,nani,M,False,1.0,1.0,90.0,0.0,,,0.0
+2010-11,1379815,6,1,Manchester_United,Away,17887,27258,Anderson,anderson,M,True,,,,,,,
+2010-11,1379815,6,1,Manchester_United,Away,30144,37642,Jonny Evans,jonny-evans,D,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1379815,6,1,Manchester_United,Away,39623,54772,Rafael,rafael,D,True,,,,,,,
+2010-11,1379815,6,1,Manchester_United,Away,47741,55909,Chris Smalling,chris-smalling,D,True,,,,,,,
+2010-11,1379815,6,1,Manchester_United,Away,50130,59970,Federico Macheda,federico-macheda,F,True,0.0,0.0,29.0,0.0,,,0.0
+2010-11,1379815,6,1,Manchester_United,Away,1421986,1795,Michael Owen,michael-owen,F,True,0.0,1.0,19.0,0.0,,,0.0
+2010-11,1379827,7,1,Manchester_United,Away,278,8595,Dimitar Berbatov,dimitar-berbatov,F,True,0.0,0.0,44.0,0.0,,,0.0
+2010-11,1379827,7,1,Manchester_United,Away,661,4058,Edwin van der Sar,edwin-van-der-sar,G,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1379827,7,1,Manchester_United,Away,748,2034,Rio Ferdinand,rio-ferdinand,D,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1379827,7,1,Manchester_United,Away,761,363,Paul Scholes,paul-scholes,M,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1379827,7,1,Manchester_United,Away,763,3736,John O'Shea,john-oshea,D,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1379827,7,1,Manchester_United,Away,765,14295,Darren Fletcher,darren-fletcher,M,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1379827,7,1,Manchester_United,Away,1054,10135,Tomasz Kuszczak,tomasz-kuszczak,G,True,,,,,,,
+2010-11,1379827,7,1,Manchester_United,Away,3063,14075,Patrice Evra,patrice-evra,D,True,,,,,,,
+2010-11,1379827,7,1,Manchester_United,Away,11184,14965,Nemanja Vidić,nemanja-vidic,D,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1379827,7,1,Manchester_United,Away,17740,38530,Nani,nani,M,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1379827,7,1,Manchester_United,Away,17887,27258,Anderson,anderson,M,False,0.0,0.0,80.0,0.0,,,0.0
+2010-11,1379827,7,1,Manchester_United,Away,21073,27707,Darron Gibson,darron-gibson,M,True,,,,,,,
+2010-11,1379827,7,1,Manchester_United,Away,34312,,Javier Hernández,javier-hernandez,F,True,0.0,0.0,26.0,0.0,,,0.0
+2010-11,1379827,7,1,Manchester_United,Away,39623,54772,Rafael,rafael,D,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1379827,7,1,Manchester_United,Away,47741,55909,Chris Smalling,chris-smalling,D,True,,,,,,,
+2010-11,1379827,7,1,Manchester_United,Away,50130,59970,Federico Macheda,federico-macheda,F,False,0.0,0.0,64.0,0.0,,,0.0
+2010-11,1379827,7,1,Manchester_United,Away,124950,84374,Bebé,bebe,M,True,0.0,0.0,10.0,0.0,,,0.0
+2010-11,1379827,7,1,Manchester_United,Away,1421986,1795,Michael Owen,michael-owen,F,False,0.0,0.0,46.0,0.0,,,0.0
+2010-11,1379839,8,1,Manchester_United,Home,278,8595,Dimitar Berbatov,dimitar-berbatov,F,False,1.0,0.0,90.0,0.0,,,0.0
+2010-11,1379839,8,1,Manchester_United,Home,661,4058,Edwin van der Sar,edwin-van-der-sar,G,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1379839,8,1,Manchester_United,Home,748,2034,Rio Ferdinand,rio-ferdinand,D,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1379839,8,1,Manchester_United,Home,751,13017,Wayne Rooney,wayne-rooney,F,True,0.0,0.0,18.0,0.0,,,0.0
+2010-11,1379839,8,1,Manchester_United,Home,754,3,Ryan Giggs,ryan-giggs,M,False,0.0,0.0,42.0,0.0,,,0.0
+2010-11,1379839,8,1,Manchester_United,Home,761,363,Paul Scholes,paul-scholes,M,True,0.0,0.0,18.0,0.0,,,0.0
+2010-11,1379839,8,1,Manchester_United,Home,763,3736,John O'Shea,john-oshea,D,True,,,,,,,
+2010-11,1379839,8,1,Manchester_United,Home,938,2404,Michael Carrick,michael-carrick,M,False,0.0,0.0,72.0,0.0,,,0.0
+2010-11,1379839,8,1,Manchester_United,Home,1054,10135,Tomasz Kuszczak,tomasz-kuszczak,G,True,,,,,,,
+2010-11,1379839,8,1,Manchester_United,Home,3063,14075,Patrice Evra,patrice-evra,D,False,0.0,0.0,90.0,1.0,,,0.0
+2010-11,1379839,8,1,Manchester_United,Home,11184,14965,Nemanja Vidić,nemanja-vidic,D,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1379839,8,1,Manchester_United,Home,17740,38530,Nani,nani,M,False,1.0,1.0,90.0,0.0,,,0.0
+2010-11,1379839,8,1,Manchester_United,Home,17887,27258,Anderson,anderson,M,False,0.0,0.0,72.0,0.0,,,0.0
+2010-11,1379839,8,1,Manchester_United,Home,21073,27707,Darron Gibson,darron-gibson,M,True,0.0,0.0,48.0,0.0,,,0.0
+2010-11,1379839,8,1,Manchester_United,Home,34312,,Javier Hernández,javier-hernandez,F,False,0.0,1.0,90.0,0.0,,,0.0
+2010-11,1379839,8,1,Manchester_United,Home,39623,54772,Rafael,rafael,D,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1379839,8,1,Manchester_United,Home,47741,55909,Chris Smalling,chris-smalling,D,True,,,,,,,
+2010-11,1379839,8,1,Manchester_United,Home,50130,59970,Federico Macheda,federico-macheda,F,True,,,,,,,
+2010-11,1379846,9,1,Manchester_United,Away,278,8595,Dimitar Berbatov,dimitar-berbatov,F,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1379846,9,1,Manchester_United,Away,661,4058,Edwin van der Sar,edwin-van-der-sar,G,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1379846,9,1,Manchester_United,Away,745,1807,Gary Neville,gary-neville,D,False,0.0,0.0,46.0,0.0,,,0.0
+2010-11,1379846,9,1,Manchester_United,Away,748,2034,Rio Ferdinand,rio-ferdinand,D,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1379846,9,1,Manchester_United,Away,749,1841,Wes Brown,wes-brown,D,True,0.0,0.0,44.0,0.0,,,0.0
+2010-11,1379846,9,1,Manchester_United,Away,761,363,Paul Scholes,paul-scholes,M,False,0.0,0.0,87.0,0.0,,,0.0
+2010-11,1379846,9,1,Manchester_United,Away,763,3736,John O'Shea,john-oshea,D,False,0.0,0.0,70.0,0.0,,,0.0
+2010-11,1379846,9,1,Manchester_United,Away,765,14295,Darren Fletcher,darren-fletcher,M,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1379846,9,1,Manchester_United,Away,938,2404,Michael Carrick,michael-carrick,M,True,0.0,0.0,20.0,0.0,,,0.0
+2010-11,1379846,9,1,Manchester_United,Away,1054,10135,Tomasz Kuszczak,tomasz-kuszczak,G,True,,,,,,,
+2010-11,1379846,9,1,Manchester_United,Away,3063,14075,Patrice Evra,patrice-evra,D,False,1.0,0.0,90.0,0.0,,,0.0
+2010-11,1379846,9,1,Manchester_United,Away,11184,14965,Nemanja Vidić,nemanja-vidic,D,False,1.0,0.0,90.0,0.0,,,0.0
+2010-11,1379846,9,1,Manchester_United,Away,16511,38429,Gabriel Obertan,gabriel-obertan,M,True,0.0,0.0,3.0,0.0,,,0.0
+2010-11,1379846,9,1,Manchester_United,Away,17740,38530,Nani,nani,M,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1379846,9,1,Manchester_United,Away,21073,27707,Darron Gibson,darron-gibson,M,True,,,,,,,
+2010-11,1379846,9,1,Manchester_United,Away,34312,,Javier Hernández,javier-hernandez,F,False,0.0,2.0,90.0,0.0,,,0.0
+2010-11,1379846,9,1,Manchester_United,Away,47741,55909,Chris Smalling,chris-smalling,D,True,,,,,,,
+2010-11,1379846,9,1,Manchester_United,Away,50130,59970,Federico Macheda,federico-macheda,F,True,,,,,,,
+2010-11,1379859,10,1,Manchester_United,Home,278,8595,Dimitar Berbatov,dimitar-berbatov,F,False,0.0,0.0,64.0,0.0,,,0.0
+2010-11,1379859,10,1,Manchester_United,Home,661,4058,Edwin van der Sar,edwin-van-der-sar,G,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1379859,10,1,Manchester_United,Home,748,2034,Rio Ferdinand,rio-ferdinand,D,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1379859,10,1,Manchester_United,Home,749,1841,Wes Brown,wes-brown,D,True,0.0,0.0,26.0,0.0,,,0.0
+2010-11,1379859,10,1,Manchester_United,Home,761,363,Paul Scholes,paul-scholes,M,True,0.0,0.0,26.0,0.0,,,0.0
+2010-11,1379859,10,1,Manchester_United,Home,763,3736,John O'Shea,john-oshea,D,True,,,,,,,
+2010-11,1379859,10,1,Manchester_United,Home,765,14295,Darren Fletcher,darren-fletcher,M,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1379859,10,1,Manchester_United,Home,938,2404,Michael Carrick,michael-carrick,M,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1379859,10,1,Manchester_United,Home,1054,10135,Tomasz Kuszczak,tomasz-kuszczak,G,True,,,,,,,
+2010-11,1379859,10,1,Manchester_United,Home,2496,12882,Ji-Sung Park,ji-sung-park,M,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1379859,10,1,Manchester_United,Home,3063,14075,Patrice Evra,patrice-evra,D,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1379859,10,1,Manchester_United,Home,11184,14965,Nemanja Vidić,nemanja-vidic,D,False,0.0,1.0,90.0,0.0,,,0.0
+2010-11,1379859,10,1,Manchester_United,Home,16511,38429,Gabriel Obertan,gabriel-obertan,M,True,0.0,0.0,3.0,0.0,,,0.0
+2010-11,1379859,10,1,Manchester_United,Home,17740,38530,Nani,nani,M,False,1.0,1.0,90.0,0.0,,,0.0
+2010-11,1379859,10,1,Manchester_United,Home,34312,,Javier Hernández,javier-hernandez,F,False,0.0,0.0,87.0,0.0,,,0.0
+2010-11,1379859,10,1,Manchester_United,Home,39623,54772,Rafael,rafael,D,False,0.0,0.0,64.0,0.0,,,0.0
+2010-11,1379859,10,1,Manchester_United,Home,47741,55909,Chris Smalling,chris-smalling,D,True,,,,,,,
+2010-11,1379859,10,1,Manchester_United,Home,124950,84374,Bebé,bebe,M,True,,,,,,,
+2010-11,1379869,11,1,Manchester_United,Home,661,4058,Edwin van der Sar,edwin-van-der-sar,G,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1379869,11,1,Manchester_United,Home,748,2034,Rio Ferdinand,rio-ferdinand,D,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1379869,11,1,Manchester_United,Home,749,1841,Wes Brown,wes-brown,D,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1379869,11,1,Manchester_United,Home,761,363,Paul Scholes,paul-scholes,M,True,0.0,0.0,16.0,0.0,,,0.0
+2010-11,1379869,11,1,Manchester_United,Home,763,3736,John O'Shea,john-oshea,D,False,0.0,0.0,74.0,0.0,,,0.0
+2010-11,1379869,11,1,Manchester_United,Home,765,14295,Darren Fletcher,darren-fletcher,M,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1379869,11,1,Manchester_United,Home,1054,10135,Tomasz Kuszczak,tomasz-kuszczak,G,True,,,,,,,
+2010-11,1379869,11,1,Manchester_United,Home,2496,12882,Ji-Sung Park,ji-sung-park,M,False,0.0,2.0,90.0,0.0,,,0.0
+2010-11,1379869,11,1,Manchester_United,Home,3063,14075,Patrice Evra,patrice-evra,D,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1379869,11,1,Manchester_United,Home,11184,14965,Nemanja Vidić,nemanja-vidic,D,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1379869,11,1,Manchester_United,Home,16511,38429,Gabriel Obertan,gabriel-obertan,M,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1379869,11,1,Manchester_United,Home,30144,37642,Jonny Evans,jonny-evans,D,True,,,,,,,
+2010-11,1379869,11,1,Manchester_United,Home,34312,,Javier Hernández,javier-hernandez,F,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1379869,11,1,Manchester_United,Home,40677,54771,Fábio,fabio,D,True,,,,,,,
+2010-11,1379869,11,1,Manchester_United,Home,47741,55909,Chris Smalling,chris-smalling,D,True,,,,,,,
+2010-11,1379869,11,1,Manchester_United,Home,50130,59970,Federico Macheda,federico-macheda,F,True,0.0,0.0,16.0,0.0,,,0.0
+2010-11,1379869,11,1,Manchester_United,Home,124950,84374,Bebé,bebe,M,True,0.0,0.0,64.0,0.0,,,0.0
+2010-11,1379869,11,1,Manchester_United,Home,1422211,5043,Owen Hargreaves,owen-hargreaves,M,False,0.0,0.0,10.0,0.0,,,0.0
+2010-11,1379880,12,1,Manchester_United,Away,278,8595,Dimitar Berbatov,dimitar-berbatov,F,False,0.0,0.0,78.0,0.0,,,0.0
+2010-11,1379880,12,1,Manchester_United,Away,661,4058,Edwin van der Sar,edwin-van-der-sar,G,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1379880,12,1,Manchester_United,Away,748,2034,Rio Ferdinand,rio-ferdinand,D,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1379880,12,1,Manchester_United,Away,749,1841,Wes Brown,wes-brown,D,True,0.0,0.0,41.0,0.0,,,0.0
+2010-11,1379880,12,1,Manchester_United,Away,761,363,Paul Scholes,paul-scholes,M,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1379880,12,1,Manchester_United,Away,763,3736,John O'Shea,john-oshea,D,True,0.0,0.0,22.0,0.0,,,0.0
+2010-11,1379880,12,1,Manchester_United,Away,765,14295,Darren Fletcher,darren-fletcher,M,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1379880,12,1,Manchester_United,Away,938,2404,Michael Carrick,michael-carrick,M,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1379880,12,1,Manchester_United,Away,2496,12882,Ji-Sung Park,ji-sung-park,M,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1379880,12,1,Manchester_United,Away,3063,14075,Patrice Evra,patrice-evra,D,False,0.0,0.0,68.0,0.0,,,0.0
+2010-11,1379880,12,1,Manchester_United,Away,11184,14965,Nemanja Vidić,nemanja-vidic,D,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1379880,12,1,Manchester_United,Away,16511,38429,Gabriel Obertan,gabriel-obertan,M,True,,,,,,,
+2010-11,1379880,12,1,Manchester_United,Away,17740,38530,Nani,nani,M,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1379880,12,1,Manchester_United,Away,21073,27707,Darron Gibson,darron-gibson,M,True,,,,,,,
+2010-11,1379880,12,1,Manchester_United,Away,34312,,Javier Hernández,javier-hernandez,F,True,0.0,0.0,12.0,0.0,,,0.0
+2010-11,1379880,12,1,Manchester_United,Away,39623,54772,Rafael,rafael,D,False,0.0,0.0,49.0,0.0,,,0.0
+2010-11,1379880,12,1,Manchester_United,Away,42688,51922,Ben Amos,ben-amos,G,True,,,,,,,
+2010-11,1379880,12,1,Manchester_United,Away,47741,55909,Chris Smalling,chris-smalling,D,True,,,,,,,
+2010-11,1379882,13,1,Manchester_United,Away,278,8595,Dimitar Berbatov,dimitar-berbatov,F,False,0.0,0.0,73.0,0.0,,,0.0
+2010-11,1379882,13,1,Manchester_United,Away,661,4058,Edwin van der Sar,edwin-van-der-sar,G,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1379882,13,1,Manchester_United,Away,748,2034,Rio Ferdinand,rio-ferdinand,D,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1379882,13,1,Manchester_United,Away,749,1841,Wes Brown,wes-brown,D,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1379882,13,1,Manchester_United,Away,763,3736,John O'Shea,john-oshea,D,True,0.0,0.0,17.0,0.0,,,0.0
+2010-11,1379882,13,1,Manchester_United,Away,765,14295,Darren Fletcher,darren-fletcher,M,False,1.0,0.0,90.0,0.0,,,0.0
+2010-11,1379882,13,1,Manchester_United,Away,938,2404,Michael Carrick,michael-carrick,M,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1379882,13,1,Manchester_United,Away,2496,12882,Ji-Sung Park,ji-sung-park,M,False,0.0,0.0,86.0,0.0,,,0.0
+2010-11,1379882,13,1,Manchester_United,Away,3063,14075,Patrice Evra,patrice-evra,D,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1379882,13,1,Manchester_United,Away,11184,14965,Nemanja Vidić,nemanja-vidic,D,False,0.0,1.0,90.0,0.0,,,0.0
+2010-11,1379882,13,1,Manchester_United,Away,16511,38429,Gabriel Obertan,gabriel-obertan,M,True,,,,,,,
+2010-11,1379882,13,1,Manchester_United,Away,17740,38530,Nani,nani,M,False,1.0,0.0,90.0,0.0,,,0.0
+2010-11,1379882,13,1,Manchester_United,Away,21073,27707,Darron Gibson,darron-gibson,M,True,,,,,,,
+2010-11,1379882,13,1,Manchester_United,Away,34312,,Javier Hernández,javier-hernandez,F,False,0.0,0.0,73.0,0.0,,,0.0
+2010-11,1379882,13,1,Manchester_United,Away,40677,54771,Fábio,fabio,D,True,,,,,,,
+2010-11,1379882,13,1,Manchester_United,Away,47741,55909,Chris Smalling,chris-smalling,D,True,0.0,0.0,4.0,0.0,,,0.0
+2010-11,1379882,13,1,Manchester_United,Away,50130,59970,Federico Macheda,federico-macheda,F,True,0.0,1.0,17.0,0.0,,,0.0
+2010-11,1379899,14,1,Manchester_United,Home,661,4058,Edwin van der Sar,edwin-van-der-sar,G,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1379899,14,1,Manchester_United,Home,748,2034,Rio Ferdinand,rio-ferdinand,D,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1379899,14,1,Manchester_United,Home,751,13017,Wayne Rooney,wayne-rooney,F,True,0.0,0.0,34.0,0.0,,,0.0
+2010-11,1379899,14,1,Manchester_United,Home,754,3,Ryan Giggs,ryan-giggs,M,True,,,,,,,
+2010-11,1379899,14,1,Manchester_United,Home,761,363,Paul Scholes,paul-scholes,M,True,0.0,0.0,34.0,0.0,,,0.0
+2010-11,1379899,14,1,Manchester_United,Home,763,3736,John O'Shea,john-oshea,D,True,,,,,,,
+2010-11,1379899,14,1,Manchester_United,Home,765,14295,Darren Fletcher,darren-fletcher,M,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1379899,14,1,Manchester_United,Home,938,2404,Michael Carrick,michael-carrick,M,False,0.0,0.0,64.0,0.0,,,0.0
+2010-11,1379899,14,1,Manchester_United,Home,1054,10135,Tomasz Kuszczak,tomasz-kuszczak,G,True,,,,,,,
+2010-11,1379899,14,1,Manchester_United,Home,2496,12882,Ji-Sung Park,ji-sung-park,M,False,1.0,0.0,56.0,0.0,,,0.0
+2010-11,1379899,14,1,Manchester_United,Home,3063,14075,Patrice Evra,patrice-evra,D,False,0.0,1.0,90.0,0.0,,,0.0
+2010-11,1379899,14,1,Manchester_United,Home,11184,14965,Nemanja Vidić,nemanja-vidic,D,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1379899,14,1,Manchester_United,Home,16511,38429,Gabriel Obertan,gabriel-obertan,M,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1379899,14,1,Manchester_United,Home,17740,38530,Nani,nani,M,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1379899,14,1,Manchester_United,Home,30144,37642,Jonny Evans,jonny-evans,D,True,,,,,,,
+2010-11,1379899,14,1,Manchester_United,Home,34312,,Javier Hernández,javier-hernandez,F,True,0.0,1.0,26.0,0.0,,,0.0
+2010-11,1379899,14,1,Manchester_United,Home,39623,54772,Rafael,rafael,D,False,1.0,0.0,90.0,0.0,,,0.0
+2010-11,1379899,14,1,Manchester_United,Home,50130,59970,Federico Macheda,federico-macheda,F,False,0.0,0.0,56.0,0.0,,,0.0
+2010-11,1379906,15,1,Manchester_United,Home,278,8595,Dimitar Berbatov,dimitar-berbatov,F,False,0.0,5.0,90.0,0.0,,,0.0
+2010-11,1379906,15,1,Manchester_United,Home,661,4058,Edwin van der Sar,edwin-van-der-sar,G,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1379906,15,1,Manchester_United,Home,748,2034,Rio Ferdinand,rio-ferdinand,D,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1379906,15,1,Manchester_United,Home,751,13017,Wayne Rooney,wayne-rooney,F,False,2.0,0.0,90.0,0.0,,,0.0
+2010-11,1379906,15,1,Manchester_United,Home,754,3,Ryan Giggs,ryan-giggs,M,True,,,,,,,
+2010-11,1379906,15,1,Manchester_United,Home,763,3736,John O'Shea,john-oshea,D,True,,,,,,,
+2010-11,1379906,15,1,Manchester_United,Home,765,14295,Darren Fletcher,darren-fletcher,M,True,,,,,,,
+2010-11,1379906,15,1,Manchester_United,Home,938,2404,Michael Carrick,michael-carrick,M,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1379906,15,1,Manchester_United,Home,1054,10135,Tomasz Kuszczak,tomasz-kuszczak,G,True,,,,,,,
+2010-11,1379906,15,1,Manchester_United,Home,2496,12882,Ji-Sung Park,ji-sung-park,M,False,0.0,1.0,72.0,0.0,,,0.0
+2010-11,1379906,15,1,Manchester_United,Home,3063,14075,Patrice Evra,patrice-evra,D,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1379906,15,1,Manchester_United,Home,11184,14965,Nemanja Vidić,nemanja-vidic,D,False,0.0,0.0,64.0,0.0,,,0.0
+2010-11,1379906,15,1,Manchester_United,Home,16511,38429,Gabriel Obertan,gabriel-obertan,M,True,0.0,0.0,18.0,0.0,,,0.0
+2010-11,1379906,15,1,Manchester_United,Home,17740,38530,Nani,nani,M,False,1.0,1.0,90.0,0.0,,,0.0
+2010-11,1379906,15,1,Manchester_United,Home,17887,27258,Anderson,anderson,M,False,1.0,0.0,90.0,0.0,,,0.0
+2010-11,1379906,15,1,Manchester_United,Home,30144,37642,Jonny Evans,jonny-evans,D,True,0.0,0.0,26.0,0.0,,,0.0
+2010-11,1379906,15,1,Manchester_United,Home,34312,,Javier Hernández,javier-hernandez,F,True,,,,,,,
+2010-11,1379906,15,1,Manchester_United,Home,39623,54772,Rafael,rafael,D,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1575939,16,1,Manchester_United,Away,278,8595,Dimitar Berbatov,dimitar-berbatov,F,False,0.0,2.0,90.0,0.0,,,0.0
+2010-11,1575939,16,1,Manchester_United,Away,661,4058,Edwin van der Sar,edwin-van-der-sar,G,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1575939,16,1,Manchester_United,Away,751,13017,Wayne Rooney,wayne-rooney,F,False,0.0,0.0,66.0,0.0,,,0.0
+2010-11,1575939,16,1,Manchester_United,Away,754,3,Ryan Giggs,ryan-giggs,M,True,1.0,0.0,44.0,0.0,,,0.0
+2010-11,1575939,16,1,Manchester_United,Away,761,363,Paul Scholes,paul-scholes,M,False,1.0,0.0,90.0,0.0,,,0.0
+2010-11,1575939,16,1,Manchester_United,Away,765,14295,Darren Fletcher,darren-fletcher,M,False,1.0,0.0,90.0,0.0,,,0.0
+2010-11,1575939,16,1,Manchester_United,Away,3063,14075,Patrice Evra,patrice-evra,D,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1575939,16,1,Manchester_United,Away,8391,39725,Anders Lindegaard,anders-lindegaard,G,True,,,,,,,
+2010-11,1575939,16,1,Manchester_United,Away,11184,14965,Nemanja Vidić,nemanja-vidic,D,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1575939,16,1,Manchester_United,Away,17740,38530,Nani,nani,M,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1575939,16,1,Manchester_United,Away,17887,27258,Anderson,anderson,M,True,0.0,0.0,10.0,0.0,,,0.0
+2010-11,1575939,16,1,Manchester_United,Away,21073,27707,Darron Gibson,darron-gibson,M,False,0.0,0.0,46.0,0.0,,,0.0
+2010-11,1575939,16,1,Manchester_United,Away,30144,37642,Jonny Evans,jonny-evans,D,True,,,,,,,
+2010-11,1575939,16,1,Manchester_United,Away,34312,,Javier Hernández,javier-hernandez,F,True,0.0,1.0,24.0,0.0,,,0.0
+2010-11,1575939,16,1,Manchester_United,Away,39623,54772,Rafael,rafael,D,False,0.0,0.0,80.0,0.0,,,0.0
+2010-11,1575939,16,1,Manchester_United,Away,40677,54771,Fábio,fabio,D,True,,,,,,,
+2010-11,1575939,16,1,Manchester_United,Away,47741,55909,Chris Smalling,chris-smalling,D,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1575939,16,1,Manchester_United,Away,1421986,1795,Michael Owen,michael-owen,F,True,,,,,,,
+2010-11,1379926,17,1,Manchester_United,Home,278,8595,Dimitar Berbatov,dimitar-berbatov,F,True,,,,,,,
+2010-11,1379926,17,1,Manchester_United,Home,661,4058,Edwin van der Sar,edwin-van-der-sar,G,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1379926,17,1,Manchester_United,Home,748,2034,Rio Ferdinand,rio-ferdinand,D,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1379926,17,1,Manchester_United,Home,749,1841,Wes Brown,wes-brown,D,True,,,,,,,
+2010-11,1379926,17,1,Manchester_United,Home,751,13017,Wayne Rooney,wayne-rooney,F,False,0.0,0.0,90.0,0.0,1.0,,0.0
+2010-11,1379926,17,1,Manchester_United,Home,754,3,Ryan Giggs,ryan-giggs,M,True,0.0,0.0,5.0,0.0,,,0.0
+2010-11,1379926,17,1,Manchester_United,Home,765,14295,Darren Fletcher,darren-fletcher,M,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1379926,17,1,Manchester_United,Home,938,2404,Michael Carrick,michael-carrick,M,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1379926,17,1,Manchester_United,Home,1054,10135,Tomasz Kuszczak,tomasz-kuszczak,G,True,,,,,,,
+2010-11,1379926,17,1,Manchester_United,Home,2496,12882,Ji-Sung Park,ji-sung-park,M,False,0.0,1.0,90.0,0.0,,,0.0
+2010-11,1379926,17,1,Manchester_United,Home,3063,14075,Patrice Evra,patrice-evra,D,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1379926,17,1,Manchester_United,Home,11184,14965,Nemanja Vidić,nemanja-vidic,D,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1379926,17,1,Manchester_United,Home,16511,38429,Gabriel Obertan,gabriel-obertan,M,True,,,,,,,
+2010-11,1379926,17,1,Manchester_United,Home,17740,38530,Nani,nani,M,False,1.0,0.0,90.0,0.0,,,0.0
+2010-11,1379926,17,1,Manchester_United,Home,17887,27258,Anderson,anderson,M,False,0.0,0.0,85.0,0.0,,,0.0
+2010-11,1379926,17,1,Manchester_United,Home,34312,,Javier Hernández,javier-hernandez,F,True,,,,,,,
+2010-11,1379926,17,1,Manchester_United,Home,39623,54772,Rafael,rafael,D,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1379926,17,1,Manchester_United,Home,47741,55909,Chris Smalling,chris-smalling,D,True,,,,,,,
+2010-11,1588345,18,1,Manchester_United,Away,278,8595,Dimitar Berbatov,dimitar-berbatov,F,True,0.0,0.0,20.0,0.0,,,0.0
+2010-11,1588345,18,1,Manchester_United,Away,661,4058,Edwin van der Sar,edwin-van-der-sar,G,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1588345,18,1,Manchester_United,Away,749,1841,Wes Brown,wes-brown,D,True,,,,,,,
+2010-11,1588345,18,1,Manchester_United,Away,751,13017,Wayne Rooney,wayne-rooney,F,False,0.0,1.0,90.0,0.0,,,0.0
+2010-11,1588345,18,1,Manchester_United,Away,754,3,Ryan Giggs,ryan-giggs,M,True,0.0,0.0,20.0,0.0,,,0.0
+2010-11,1588345,18,1,Manchester_United,Away,761,363,Paul Scholes,paul-scholes,M,False,0.0,0.0,70.0,0.0,,,0.0
+2010-11,1588345,18,1,Manchester_United,Away,763,3736,John O'Shea,john-oshea,D,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1588345,18,1,Manchester_United,Away,765,14295,Darren Fletcher,darren-fletcher,M,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1588345,18,1,Manchester_United,Away,938,2404,Michael Carrick,michael-carrick,M,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1588345,18,1,Manchester_United,Away,1054,10135,Tomasz Kuszczak,tomasz-kuszczak,G,True,,,,,,,
+2010-11,1588345,18,1,Manchester_United,Away,3063,14075,Patrice Evra,patrice-evra,D,False,0.0,0.0,81.0,0.0,,,0.0
+2010-11,1588345,18,1,Manchester_United,Away,11184,14965,Nemanja Vidić,nemanja-vidic,D,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1588345,18,1,Manchester_United,Away,17740,38530,Nani,nani,M,False,1.0,0.0,90.0,0.0,,,0.0
+2010-11,1588345,18,1,Manchester_United,Away,21073,27707,Darron Gibson,darron-gibson,M,True,,,,,,,
+2010-11,1588345,18,1,Manchester_United,Away,34312,,Javier Hernández,javier-hernandez,F,False,0.0,0.0,70.0,0.0,,,0.0
+2010-11,1588345,18,1,Manchester_United,Away,39623,54772,Rafael,rafael,D,True,,,,,,,
+2010-11,1588345,18,1,Manchester_United,Away,40677,54771,Fábio,fabio,D,True,0.0,0.0,9.0,0.0,,,0.0
+2010-11,1588345,18,1,Manchester_United,Away,47741,55909,Chris Smalling,chris-smalling,D,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1379949,19,1,Manchester_United,Home,278,8595,Dimitar Berbatov,dimitar-berbatov,F,False,0.0,1.0,82.0,0.0,,,0.0
+2010-11,1379949,19,1,Manchester_United,Home,661,4058,Edwin van der Sar,edwin-van-der-sar,G,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1379949,19,1,Manchester_United,Home,745,1807,Gary Neville,gary-neville,D,True,,,,,,,
+2010-11,1379949,19,1,Manchester_United,Home,748,2034,Rio Ferdinand,rio-ferdinand,D,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1379949,19,1,Manchester_United,Home,751,13017,Wayne Rooney,wayne-rooney,F,False,1.0,0.0,90.0,0.0,,,0.0
+2010-11,1379949,19,1,Manchester_United,Home,754,3,Ryan Giggs,ryan-giggs,M,False,0.0,0.0,64.0,0.0,,,0.0
+2010-11,1379949,19,1,Manchester_United,Home,938,2404,Michael Carrick,michael-carrick,M,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1379949,19,1,Manchester_United,Home,1054,10135,Tomasz Kuszczak,tomasz-kuszczak,G,True,,,,,,,
+2010-11,1379949,19,1,Manchester_United,Home,2496,12882,Ji-Sung Park,ji-sung-park,M,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1379949,19,1,Manchester_United,Home,3063,14075,Patrice Evra,patrice-evra,D,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1379949,19,1,Manchester_United,Home,11184,14965,Nemanja Vidić,nemanja-vidic,D,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1379949,19,1,Manchester_United,Home,17887,27258,Anderson,anderson,M,False,0.0,0.0,64.0,0.0,,,0.0
+2010-11,1379949,19,1,Manchester_United,Home,21073,27707,Darron Gibson,darron-gibson,M,True,0.0,0.0,26.0,0.0,,,0.0
+2010-11,1379949,19,1,Manchester_United,Home,34312,,Javier Hernández,javier-hernandez,F,True,0.0,0.0,8.0,0.0,,,0.0
+2010-11,1379949,19,1,Manchester_United,Home,39623,54772,Rafael,rafael,D,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1379949,19,1,Manchester_United,Home,47741,55909,Chris Smalling,chris-smalling,D,True,,,,,,,
+2010-11,1379949,19,1,Manchester_United,Home,50130,59970,Federico Macheda,federico-macheda,F,True,0.0,0.0,26.0,0.0,,,0.0
+2010-11,1379949,19,1,Manchester_United,Home,124950,84374,Bebé,bebe,M,True,,,,,,,
+2010-11,1379952,20,1,Manchester_United,Away,278,8595,Dimitar Berbatov,dimitar-berbatov,F,False,0.0,1.0,90.0,0.0,,,0.0
+2010-11,1379952,20,1,Manchester_United,Away,661,4058,Edwin van der Sar,edwin-van-der-sar,G,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1379952,20,1,Manchester_United,Away,745,1807,Gary Neville,gary-neville,D,True,,,,,,,
+2010-11,1379952,20,1,Manchester_United,Away,748,2034,Rio Ferdinand,rio-ferdinand,D,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1379952,20,1,Manchester_United,Away,751,13017,Wayne Rooney,wayne-rooney,F,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1379952,20,1,Manchester_United,Away,754,3,Ryan Giggs,ryan-giggs,M,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1379952,20,1,Manchester_United,Away,765,14295,Darren Fletcher,darren-fletcher,M,True,0.0,0.0,17.0,0.0,,,0.0
+2010-11,1379952,20,1,Manchester_United,Away,938,2404,Michael Carrick,michael-carrick,M,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1379952,20,1,Manchester_United,Away,1054,10135,Tomasz Kuszczak,tomasz-kuszczak,G,True,,,,,,,
+2010-11,1379952,20,1,Manchester_United,Away,3063,14075,Patrice Evra,patrice-evra,D,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1379952,20,1,Manchester_United,Away,11184,14965,Nemanja Vidić,nemanja-vidic,D,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1379952,20,1,Manchester_United,Away,16511,38429,Gabriel Obertan,gabriel-obertan,M,True,,,,,,,
+2010-11,1379952,20,1,Manchester_United,Away,17887,27258,Anderson,anderson,M,False,0.0,0.0,73.0,0.0,,,0.0
+2010-11,1379952,20,1,Manchester_United,Away,21073,27707,Darron Gibson,darron-gibson,M,False,1.0,0.0,90.0,0.0,,,0.0
+2010-11,1379952,20,1,Manchester_United,Away,30144,37642,Jonny Evans,jonny-evans,D,True,,,,,,,
+2010-11,1379952,20,1,Manchester_United,Away,34312,,Javier Hernández,javier-hernandez,F,True,0.0,0.0,1.0,0.0,,,0.0
+2010-11,1379952,20,1,Manchester_United,Away,39623,54772,Rafael,rafael,D,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1379952,20,1,Manchester_United,Away,50130,59970,Federico Macheda,federico-macheda,F,True,,,,,,,
+2010-11,1379969,21,1,Manchester_United,Away,278,8595,Dimitar Berbatov,dimitar-berbatov,F,False,0.0,0.0,60.0,0.0,,,0.0
+2010-11,1379969,21,1,Manchester_United,Away,745,1807,Gary Neville,gary-neville,D,False,0.0,0.0,71.0,0.0,,,0.0
+2010-11,1379969,21,1,Manchester_United,Away,748,2034,Rio Ferdinand,rio-ferdinand,D,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1379969,21,1,Manchester_United,Away,751,13017,Wayne Rooney,wayne-rooney,F,False,1.0,1.0,90.0,0.0,,,0.0
+2010-11,1379969,21,1,Manchester_United,Away,765,14295,Darren Fletcher,darren-fletcher,M,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1379969,21,1,Manchester_United,Away,938,2404,Michael Carrick,michael-carrick,M,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1379969,21,1,Manchester_United,Away,1054,10135,Tomasz Kuszczak,tomasz-kuszczak,G,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1379969,21,1,Manchester_United,Away,3063,14075,Patrice Evra,patrice-evra,D,False,1.0,0.0,90.0,0.0,,,0.0
+2010-11,1379969,21,1,Manchester_United,Away,11184,14965,Nemanja Vidić,nemanja-vidic,D,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1379969,21,1,Manchester_United,Away,16511,38429,Gabriel Obertan,gabriel-obertan,M,False,0.0,0.0,60.0,0.0,,,0.0
+2010-11,1379969,21,1,Manchester_United,Away,17887,27258,Anderson,anderson,M,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1379969,21,1,Manchester_United,Away,21073,27707,Darron Gibson,darron-gibson,M,True,0.0,0.0,30.0,0.0,,,0.0
+2010-11,1379969,21,1,Manchester_United,Away,30144,37642,Jonny Evans,jonny-evans,D,True,,,,,,,
+2010-11,1379969,21,1,Manchester_United,Away,34312,,Javier Hernández,javier-hernandez,F,True,0.0,1.0,30.0,0.0,,,0.0
+2010-11,1379969,21,1,Manchester_United,Away,40677,54771,Fábio,fabio,D,True,0.0,0.0,19.0,0.0,,,0.0
+2010-11,1379969,21,1,Manchester_United,Away,42688,51922,Ben Amos,ben-amos,G,True,,,,,,,
+2010-11,1379969,21,1,Manchester_United,Away,124950,84374,Bebé,bebe,M,True,,,,,,,
+2010-11,1379969,21,1,Manchester_United,Away,1421986,1795,Michael Owen,michael-owen,F,True,,,,,,,
+2010-11,1379975,22,1,Manchester_United,Home,278,8595,Dimitar Berbatov,dimitar-berbatov,F,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1379975,22,1,Manchester_United,Home,754,3,Ryan Giggs,ryan-giggs,M,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1379975,22,1,Manchester_United,Home,765,14295,Darren Fletcher,darren-fletcher,M,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1379975,22,1,Manchester_United,Home,938,2404,Michael Carrick,michael-carrick,M,True,0.0,0.0,12.0,0.0,,,0.0
+2010-11,1379975,22,1,Manchester_United,Home,1054,10135,Tomasz Kuszczak,tomasz-kuszczak,G,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1379975,22,1,Manchester_United,Home,3063,14075,Patrice Evra,patrice-evra,D,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1379975,22,1,Manchester_United,Home,11184,14965,Nemanja Vidić,nemanja-vidic,D,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1379975,22,1,Manchester_United,Home,16511,38429,Gabriel Obertan,gabriel-obertan,M,True,,,,,,,
+2010-11,1379975,22,1,Manchester_United,Home,17740,38530,Nani,nani,M,False,1.0,1.0,90.0,0.0,,,0.0
+2010-11,1379975,22,1,Manchester_United,Home,17887,27258,Anderson,anderson,M,True,,,,,,,
+2010-11,1379975,22,1,Manchester_United,Home,21073,27707,Darron Gibson,darron-gibson,M,False,0.0,0.0,78.0,0.0,,,0.0
+2010-11,1379975,22,1,Manchester_United,Home,30144,37642,Jonny Evans,jonny-evans,D,True,,,,,,,
+2010-11,1379975,22,1,Manchester_United,Home,34312,,Javier Hernández,javier-hernandez,F,False,1.0,1.0,78.0,0.0,,,0.0
+2010-11,1379975,22,1,Manchester_United,Home,39623,54772,Rafael,rafael,D,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1379975,22,1,Manchester_United,Home,40677,54771,Fábio,fabio,D,True,,,,,,,
+2010-11,1379975,22,1,Manchester_United,Home,42688,51922,Ben Amos,ben-amos,G,True,,,,,,,
+2010-11,1379975,22,1,Manchester_United,Home,47741,55909,Chris Smalling,chris-smalling,D,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1379975,22,1,Manchester_United,Home,1421986,1795,Michael Owen,michael-owen,F,True,0.0,0.0,12.0,0.0,,,0.0
+2010-11,1379988,23,1,Manchester_United,Away,278,8595,Dimitar Berbatov,dimitar-berbatov,F,False,0.0,0.0,78.0,0.0,,,0.0
+2010-11,1379988,23,1,Manchester_United,Away,661,4058,Edwin van der Sar,edwin-van-der-sar,G,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1379988,23,1,Manchester_United,Away,748,2034,Rio Ferdinand,rio-ferdinand,D,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1379988,23,1,Manchester_United,Away,751,13017,Wayne Rooney,wayne-rooney,F,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1379988,23,1,Manchester_United,Away,754,3,Ryan Giggs,ryan-giggs,M,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1379988,23,1,Manchester_United,Away,761,363,Paul Scholes,paul-scholes,M,True,,,,,,,
+2010-11,1379988,23,1,Manchester_United,Away,765,14295,Darren Fletcher,darren-fletcher,M,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1379988,23,1,Manchester_United,Away,938,2404,Michael Carrick,michael-carrick,M,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1379988,23,1,Manchester_United,Away,1054,10135,Tomasz Kuszczak,tomasz-kuszczak,G,True,,,,,,,
+2010-11,1379988,23,1,Manchester_United,Away,3063,14075,Patrice Evra,patrice-evra,D,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1379988,23,1,Manchester_United,Away,11184,14965,Nemanja Vidić,nemanja-vidic,D,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1379988,23,1,Manchester_United,Away,17740,38530,Nani,nani,M,False,0.0,0.0,61.0,0.0,,,0.0
+2010-11,1379988,23,1,Manchester_United,Away,17887,27258,Anderson,anderson,M,True,0.0,0.0,29.0,0.0,,,0.0
+2010-11,1379988,23,1,Manchester_United,Away,30144,37642,Jonny Evans,jonny-evans,D,True,,,,,,,
+2010-11,1379988,23,1,Manchester_United,Away,34312,,Javier Hernández,javier-hernandez,F,True,0.0,0.0,12.0,0.0,,,0.0
+2010-11,1379988,23,1,Manchester_United,Away,39623,54772,Rafael,rafael,D,False,0.0,0.0,74.0,0.0,,,0.0
+2010-11,1379988,23,1,Manchester_United,Away,47741,55909,Chris Smalling,chris-smalling,D,True,,,,,,,
+2010-11,1379988,23,1,Manchester_United,Away,1421986,1795,Michael Owen,michael-owen,F,True,,,,,,,
+2010-11,1379999,24,1,Manchester_United,Home,278,8595,Dimitar Berbatov,dimitar-berbatov,F,False,0.0,3.0,90.0,0.0,,,0.0
+2010-11,1379999,24,1,Manchester_United,Home,661,4058,Edwin van der Sar,edwin-van-der-sar,G,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1379999,24,1,Manchester_United,Home,751,13017,Wayne Rooney,wayne-rooney,F,False,2.0,0.0,90.0,0.0,,,0.0
+2010-11,1379999,24,1,Manchester_United,Home,754,3,Ryan Giggs,ryan-giggs,M,False,1.0,1.0,55.0,0.0,,,0.0
+2010-11,1379999,24,1,Manchester_United,Home,761,363,Paul Scholes,paul-scholes,M,True,,,,,,,
+2010-11,1379999,24,1,Manchester_United,Home,763,3736,John O'Shea,john-oshea,D,False,2.0,0.0,90.0,0.0,,,0.0
+2010-11,1379999,24,1,Manchester_United,Home,938,2404,Michael Carrick,michael-carrick,M,False,0.0,0.0,25.0,0.0,,,0.0
+2010-11,1379999,24,1,Manchester_United,Home,1054,10135,Tomasz Kuszczak,tomasz-kuszczak,G,True,,,,,,,
+2010-11,1379999,24,1,Manchester_United,Home,3063,14075,Patrice Evra,patrice-evra,D,False,0.0,0.0,46.0,0.0,,,0.0
+2010-11,1379999,24,1,Manchester_United,Home,11184,14965,Nemanja Vidić,nemanja-vidic,D,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1379999,24,1,Manchester_United,Home,16511,38429,Gabriel Obertan,gabriel-obertan,M,True,,,,,,,
+2010-11,1379999,24,1,Manchester_United,Home,17740,38530,Nani,nani,M,False,0.0,1.0,90.0,0.0,,,0.0
+2010-11,1379999,24,1,Manchester_United,Home,17887,27258,Anderson,anderson,M,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1379999,24,1,Manchester_United,Home,21073,27707,Darron Gibson,darron-gibson,M,True,0.0,0.0,65.0,0.0,,,0.0
+2010-11,1379999,24,1,Manchester_United,Home,30144,37642,Jonny Evans,jonny-evans,D,True,,,,,,,
+2010-11,1379999,24,1,Manchester_United,Home,40677,54771,Fábio,fabio,D,True,0.0,0.0,44.0,0.0,,,0.0
+2010-11,1379999,24,1,Manchester_United,Home,47741,55909,Chris Smalling,chris-smalling,D,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1379999,24,1,Manchester_United,Home,1421986,1795,Michael Owen,michael-owen,F,True,0.0,0.0,35.0,0.0,,,0.0
+2010-11,1380006,25,1,Manchester_United,Home,278,8595,Dimitar Berbatov,dimitar-berbatov,F,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1380006,25,1,Manchester_United,Home,661,4058,Edwin van der Sar,edwin-van-der-sar,G,False,1.0,0.0,90.0,0.0,,,0.0
+2010-11,1380006,25,1,Manchester_United,Home,748,2034,Rio Ferdinand,rio-ferdinand,D,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1380006,25,1,Manchester_United,Home,751,13017,Wayne Rooney,wayne-rooney,F,False,1.0,2.0,90.0,0.0,,,0.0
+2010-11,1380006,25,1,Manchester_United,Home,754,3,Ryan Giggs,ryan-giggs,M,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1380006,25,1,Manchester_United,Home,761,363,Paul Scholes,paul-scholes,M,True,,,,,,,
+2010-11,1380006,25,1,Manchester_United,Home,763,3736,John O'Shea,john-oshea,D,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1380006,25,1,Manchester_United,Home,765,14295,Darren Fletcher,darren-fletcher,M,False,0.0,0.0,34.0,0.0,,,0.0
+2010-11,1380006,25,1,Manchester_United,Home,938,2404,Michael Carrick,michael-carrick,M,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1380006,25,1,Manchester_United,Home,3063,14075,Patrice Evra,patrice-evra,D,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1380006,25,1,Manchester_United,Home,8391,39725,Anders Lindegaard,anders-lindegaard,G,True,,,,,,,
+2010-11,1380006,25,1,Manchester_United,Home,11184,14965,Nemanja Vidić,nemanja-vidic,D,False,0.0,1.0,90.0,0.0,,,0.0
+2010-11,1380006,25,1,Manchester_United,Home,17740,38530,Nani,nani,M,False,1.0,0.0,90.0,0.0,,,0.0
+2010-11,1380006,25,1,Manchester_United,Home,17887,27258,Anderson,anderson,M,True,0.0,0.0,56.0,0.0,,,0.0
+2010-11,1380006,25,1,Manchester_United,Home,34312,,Javier Hernández,javier-hernandez,F,True,,,,,,,
+2010-11,1380006,25,1,Manchester_United,Home,39623,54772,Rafael,rafael,D,True,,,,,,,
+2010-11,1380006,25,1,Manchester_United,Home,47741,55909,Chris Smalling,chris-smalling,D,True,,,,,,,
+2010-11,1380006,25,1,Manchester_United,Home,1421986,1795,Michael Owen,michael-owen,F,True,,,,,,,
+2010-11,1380021,26,1,Manchester_United,Away,278,8595,Dimitar Berbatov,dimitar-berbatov,F,False,0.0,0.0,65.0,0.0,,,0.0
+2010-11,1380021,26,1,Manchester_United,Away,661,4058,Edwin van der Sar,edwin-van-der-sar,G,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1380021,26,1,Manchester_United,Away,751,13017,Wayne Rooney,wayne-rooney,F,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1380021,26,1,Manchester_United,Away,754,3,Ryan Giggs,ryan-giggs,M,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1380021,26,1,Manchester_United,Away,761,363,Paul Scholes,paul-scholes,M,True,0.0,0.0,44.0,0.0,,,0.0
+2010-11,1380021,26,1,Manchester_United,Away,763,3736,John O'Shea,john-oshea,D,True,,,,,,,
+2010-11,1380021,26,1,Manchester_United,Away,765,14295,Darren Fletcher,darren-fletcher,M,False,1.0,0.0,90.0,0.0,,,0.0
+2010-11,1380021,26,1,Manchester_United,Away,938,2404,Michael Carrick,michael-carrick,M,False,0.0,0.0,46.0,0.0,,,0.0
+2010-11,1380021,26,1,Manchester_United,Away,1054,10135,Tomasz Kuszczak,tomasz-kuszczak,G,True,,,,,,,
+2010-11,1380021,26,1,Manchester_United,Away,3063,14075,Patrice Evra,patrice-evra,D,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1380021,26,1,Manchester_United,Away,11184,14965,Nemanja Vidić,nemanja-vidic,D,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1380021,26,1,Manchester_United,Away,17740,38530,Nani,nani,M,False,0.0,1.0,90.0,0.0,,,0.0
+2010-11,1380021,26,1,Manchester_United,Away,17887,27258,Anderson,anderson,M,True,,,,,,,
+2010-11,1380021,26,1,Manchester_United,Away,30144,37642,Jonny Evans,jonny-evans,D,False,0.0,0.0,65.0,0.0,,,0.0
+2010-11,1380021,26,1,Manchester_United,Away,34312,,Javier Hernández,javier-hernandez,F,True,0.0,0.0,25.0,0.0,,,0.0
+2010-11,1380021,26,1,Manchester_United,Away,39623,54772,Rafael,rafael,D,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1380021,26,1,Manchester_United,Away,47741,55909,Chris Smalling,chris-smalling,D,True,0.0,0.0,25.0,0.0,,,0.0
+2010-11,1380021,26,1,Manchester_United,Away,1421986,1795,Michael Owen,michael-owen,F,True,,,,,,,
+2010-11,1380029,27,1,Manchester_United,Home,278,8595,Dimitar Berbatov,dimitar-berbatov,F,True,0.0,0.0,23.0,0.0,,,0.0
+2010-11,1380029,27,1,Manchester_United,Home,661,4058,Edwin van der Sar,edwin-van-der-sar,G,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1380029,27,1,Manchester_United,Home,749,1841,Wes Brown,wes-brown,D,True,,,,,,,
+2010-11,1380029,27,1,Manchester_United,Home,751,13017,Wayne Rooney,wayne-rooney,F,False,0.0,1.0,90.0,0.0,,,0.0
+2010-11,1380029,27,1,Manchester_United,Home,754,3,Ryan Giggs,ryan-giggs,M,False,1.0,0.0,90.0,0.0,,,0.0
+2010-11,1380029,27,1,Manchester_United,Home,761,363,Paul Scholes,paul-scholes,M,False,0.0,0.0,79.0,0.0,,,0.0
+2010-11,1380029,27,1,Manchester_United,Home,763,3736,John O'Shea,john-oshea,D,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1380029,27,1,Manchester_United,Home,765,14295,Darren Fletcher,darren-fletcher,M,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1380029,27,1,Manchester_United,Home,938,2404,Michael Carrick,michael-carrick,M,True,0.0,0.0,11.0,0.0,,,0.0
+2010-11,1380029,27,1,Manchester_United,Home,3063,14075,Patrice Evra,patrice-evra,D,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1380029,27,1,Manchester_United,Home,8391,39725,Anders Lindegaard,anders-lindegaard,G,True,,,,,,,
+2010-11,1380029,27,1,Manchester_United,Home,11184,14965,Nemanja Vidić,nemanja-vidic,D,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1380029,27,1,Manchester_United,Home,17740,38530,Nani,nani,M,False,1.0,1.0,90.0,0.0,,,0.0
+2010-11,1380029,27,1,Manchester_United,Home,17887,27258,Anderson,anderson,M,False,0.0,0.0,67.0,0.0,,,0.0
+2010-11,1380029,27,1,Manchester_United,Home,34312,,Javier Hernández,javier-hernandez,F,True,,,,,,,
+2010-11,1380029,27,1,Manchester_United,Home,39623,54772,Rafael,rafael,D,True,,,,,,,
+2010-11,1380029,27,1,Manchester_United,Home,47741,55909,Chris Smalling,chris-smalling,D,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1380029,27,1,Manchester_United,Home,1421986,1795,Michael Owen,michael-owen,F,True,,,,,,,
+2010-11,1380040,28,1,Manchester_United,Away,278,8595,Dimitar Berbatov,dimitar-berbatov,F,True,1.0,0.0,14.0,0.0,,,0.0
+2010-11,1380040,28,1,Manchester_United,Away,661,4058,Edwin van der Sar,edwin-van-der-sar,G,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1380040,28,1,Manchester_United,Away,749,1841,Wes Brown,wes-brown,D,True,,,,,,,
+2010-11,1380040,28,1,Manchester_United,Away,751,13017,Wayne Rooney,wayne-rooney,F,False,1.0,1.0,90.0,0.0,,,0.0
+2010-11,1380040,28,1,Manchester_United,Away,761,363,Paul Scholes,paul-scholes,M,False,0.0,0.0,77.0,0.0,,,0.0
+2010-11,1380040,28,1,Manchester_United,Away,763,3736,John O'Shea,john-oshea,D,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1380040,28,1,Manchester_United,Away,765,14295,Darren Fletcher,darren-fletcher,M,False,1.0,0.0,90.0,0.0,,,0.0
+2010-11,1380040,28,1,Manchester_United,Away,938,2404,Michael Carrick,michael-carrick,M,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1380040,28,1,Manchester_United,Away,1054,10135,Tomasz Kuszczak,tomasz-kuszczak,G,True,,,,,,,
+2010-11,1380040,28,1,Manchester_United,Away,3063,14075,Patrice Evra,patrice-evra,D,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1380040,28,1,Manchester_United,Away,11184,14965,Nemanja Vidić,nemanja-vidic,D,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1380040,28,1,Manchester_United,Away,17740,38530,Nani,nani,M,False,1.0,0.0,85.0,0.0,,,0.0
+2010-11,1380040,28,1,Manchester_United,Away,21073,27707,Darron Gibson,darron-gibson,M,True,0.0,0.0,13.0,0.0,,,0.0
+2010-11,1380040,28,1,Manchester_United,Away,34312,,Javier Hernández,javier-hernandez,F,False,0.0,2.0,76.0,0.0,,,0.0
+2010-11,1380040,28,1,Manchester_United,Away,39623,54772,Rafael,rafael,D,True,,,,,,,
+2010-11,1380040,28,1,Manchester_United,Away,40677,54771,Fábio,fabio,D,True,0.0,1.0,5.0,0.0,,,0.0
+2010-11,1380040,28,1,Manchester_United,Away,47741,55909,Chris Smalling,chris-smalling,D,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1380040,28,1,Manchester_United,Away,100621,78007,Joshua King,joshua-king,F,True,,,,,,,
+2010-11,1380047,29,1,Manchester_United,Away,278,8595,Dimitar Berbatov,dimitar-berbatov,F,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1380047,29,1,Manchester_United,Away,661,4058,Edwin van der Sar,edwin-van-der-sar,G,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1380047,29,1,Manchester_United,Away,749,1841,Wes Brown,wes-brown,D,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1380047,29,1,Manchester_United,Away,751,13017,Wayne Rooney,wayne-rooney,F,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1380047,29,1,Manchester_United,Away,754,3,Ryan Giggs,ryan-giggs,M,False,1.0,0.0,90.0,0.0,,,0.0
+2010-11,1380047,29,1,Manchester_United,Away,761,363,Paul Scholes,paul-scholes,M,False,0.0,0.0,83.0,0.0,,,0.0
+2010-11,1380047,29,1,Manchester_United,Away,763,3736,John O'Shea,john-oshea,D,True,0.0,0.0,14.0,0.0,,,0.0
+2010-11,1380047,29,1,Manchester_United,Away,765,14295,Darren Fletcher,darren-fletcher,M,True,0.0,0.0,7.0,0.0,,,0.0
+2010-11,1380047,29,1,Manchester_United,Away,938,2404,Michael Carrick,michael-carrick,M,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1380047,29,1,Manchester_United,Away,1054,10135,Tomasz Kuszczak,tomasz-kuszczak,G,True,,,,,,,
+2010-11,1380047,29,1,Manchester_United,Away,3063,14075,Patrice Evra,patrice-evra,D,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1380047,29,1,Manchester_United,Away,16511,38429,Gabriel Obertan,gabriel-obertan,M,True,,,,,,,
+2010-11,1380047,29,1,Manchester_United,Away,17740,38530,Nani,nani,M,False,0.0,0.0,45.0,0.0,,,0.0
+2010-11,1380047,29,1,Manchester_United,Away,21073,27707,Darron Gibson,darron-gibson,M,True,,,,,,,
+2010-11,1380047,29,1,Manchester_United,Away,34312,,Javier Hernández,javier-hernandez,F,True,0.0,1.0,45.0,0.0,,,0.0
+2010-11,1380047,29,1,Manchester_United,Away,39623,54772,Rafael,rafael,D,False,0.0,0.0,76.0,0.0,,,0.0
+2010-11,1380047,29,1,Manchester_United,Away,40677,54771,Fábio,fabio,D,True,,,,,,,
+2010-11,1380047,29,1,Manchester_United,Away,47741,55909,Chris Smalling,chris-smalling,D,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1380056,30,1,Manchester_United,Home,278,8595,Dimitar Berbatov,dimitar-berbatov,F,True,0.0,1.0,44.0,0.0,,,0.0
+2010-11,1380056,30,1,Manchester_United,Home,661,4058,Edwin van der Sar,edwin-van-der-sar,G,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1380056,30,1,Manchester_United,Home,749,1841,Wes Brown,wes-brown,D,False,0.0,0.0,46.0,0.0,,,0.0
+2010-11,1380056,30,1,Manchester_United,Home,751,13017,Wayne Rooney,wayne-rooney,F,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1380056,30,1,Manchester_United,Home,754,3,Ryan Giggs,ryan-giggs,M,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1380056,30,1,Manchester_United,Home,938,2404,Michael Carrick,michael-carrick,M,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1380056,30,1,Manchester_United,Home,1054,10135,Tomasz Kuszczak,tomasz-kuszczak,G,True,,,,,,,
+2010-11,1380056,30,1,Manchester_United,Home,2496,12882,Ji-Sung Park,ji-sung-park,M,True,,,,,,,
+2010-11,1380056,30,1,Manchester_United,Home,3063,14075,Patrice Evra,patrice-evra,D,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1380056,30,1,Manchester_United,Home,11820,20695,Antonio Valencia,antonio-valencia,D,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1380056,30,1,Manchester_United,Home,17740,38530,Nani,nani,M,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1380056,30,1,Manchester_United,Home,21073,27707,Darron Gibson,darron-gibson,M,True,,,,,,,
+2010-11,1380056,30,1,Manchester_United,Home,30144,37642,Jonny Evans,jonny-evans,D,False,0.0,0.0,76.0,0.0,,,0.0
+2010-11,1380056,30,1,Manchester_United,Home,34312,,Javier Hernández,javier-hernandez,F,False,0.0,0.0,46.0,0.0,,,0.0
+2010-11,1380056,30,1,Manchester_United,Home,40677,54771,Fábio,fabio,D,True,0.0,0.0,44.0,0.0,,,0.0
+2010-11,1380056,30,1,Manchester_United,Home,47741,55909,Chris Smalling,chris-smalling,D,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1380056,30,1,Manchester_United,Home,102521,79933,Oliver Gill,oliver-gill,D,True,,,,,,,
+2010-11,1380056,30,1,Manchester_United,Home,1421986,1795,Michael Owen,michael-owen,F,True,,,,,,,
+2010-11,1380070,31,1,Manchester_United,Away,278,8595,Dimitar Berbatov,dimitar-berbatov,F,True,0.0,0.0,26.0,0.0,,,0.0
+2010-11,1380070,31,1,Manchester_United,Away,751,13017,Wayne Rooney,wayne-rooney,F,False,0.0,3.0,87.0,0.0,,,0.0
+2010-11,1380070,31,1,Manchester_United,Away,754,3,Ryan Giggs,ryan-giggs,M,False,1.0,0.0,90.0,0.0,,,0.0
+2010-11,1380070,31,1,Manchester_United,Away,938,2404,Michael Carrick,michael-carrick,M,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1380070,31,1,Manchester_United,Away,1054,10135,Tomasz Kuszczak,tomasz-kuszczak,G,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1380070,31,1,Manchester_United,Away,2496,12882,Ji-Sung Park,ji-sung-park,M,False,0.0,0.0,64.0,0.0,,,0.0
+2010-11,1380070,31,1,Manchester_United,Away,3063,14075,Patrice Evra,patrice-evra,D,False,0.0,0.0,46.0,0.0,,,0.0
+2010-11,1380070,31,1,Manchester_United,Away,11184,14965,Nemanja Vidić,nemanja-vidic,D,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1380070,31,1,Manchester_United,Away,11820,20695,Antonio Valencia,antonio-valencia,D,False,1.0,0.0,90.0,0.0,,,0.0
+2010-11,1380070,31,1,Manchester_United,Away,17740,38530,Nani,nani,M,True,0.0,0.0,3.0,0.0,,,0.0
+2010-11,1380070,31,1,Manchester_United,Away,17887,27258,Anderson,anderson,M,True,,,,,,,
+2010-11,1380070,31,1,Manchester_United,Away,21073,27707,Darron Gibson,darron-gibson,M,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1380070,31,1,Manchester_United,Away,34312,,Javier Hernández,javier-hernandez,F,True,0.0,1.0,44.0,0.0,,,0.0
+2010-11,1380070,31,1,Manchester_United,Away,40677,54771,Fábio,fabio,D,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1380070,31,1,Manchester_United,Away,42688,51922,Ben Amos,ben-amos,G,True,,,,,,,
+2010-11,1380070,31,1,Manchester_United,Away,47741,55909,Chris Smalling,chris-smalling,D,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1380070,31,1,Manchester_United,Away,102521,79933,Oliver Gill,oliver-gill,D,True,,,,,,,
+2010-11,1380070,31,1,Manchester_United,Away,1421986,1795,Michael Owen,michael-owen,F,True,,,,,,,
+2010-11,1380078,32,1,Manchester_United,Home,278,8595,Dimitar Berbatov,dimitar-berbatov,F,False,0.0,1.0,90.0,0.0,,,0.0
+2010-11,1380078,32,1,Manchester_United,Home,661,4058,Edwin van der Sar,edwin-van-der-sar,G,True,,,,,,,
+2010-11,1380078,32,1,Manchester_United,Home,749,1841,Wes Brown,wes-brown,D,True,,,,,,,
+2010-11,1380078,32,1,Manchester_United,Home,761,363,Paul Scholes,paul-scholes,M,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1380078,32,1,Manchester_United,Home,763,3736,John O'Shea,john-oshea,D,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1380078,32,1,Manchester_United,Home,938,2404,Michael Carrick,michael-carrick,M,True,0.0,0.0,3.0,0.0,,,0.0
+2010-11,1380078,32,1,Manchester_United,Home,1054,10135,Tomasz Kuszczak,tomasz-kuszczak,G,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1380078,32,1,Manchester_United,Home,2496,12882,Ji-Sung Park,ji-sung-park,M,True,,,,,,,
+2010-11,1380078,32,1,Manchester_United,Home,3063,14075,Patrice Evra,patrice-evra,D,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1380078,32,1,Manchester_United,Home,11184,14965,Nemanja Vidić,nemanja-vidic,D,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1380078,32,1,Manchester_United,Home,11820,20695,Antonio Valencia,antonio-valencia,D,False,0.0,1.0,73.0,0.0,,,0.0
+2010-11,1380078,32,1,Manchester_United,Home,17740,38530,Nani,nani,M,False,2.0,0.0,87.0,0.0,,,0.0
+2010-11,1380078,32,1,Manchester_United,Home,17887,27258,Anderson,anderson,M,False,0.0,0.0,76.0,0.0,,,0.0
+2010-11,1380078,32,1,Manchester_United,Home,21073,27707,Darron Gibson,darron-gibson,M,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1380078,32,1,Manchester_United,Home,34312,,Javier Hernández,javier-hernandez,F,True,,,,,,,
+2010-11,1380078,32,1,Manchester_United,Home,40677,54771,Fábio,fabio,D,True,0.0,0.0,14.0,0.0,,,0.0
+2010-11,1380078,32,1,Manchester_United,Home,47741,55909,Chris Smalling,chris-smalling,D,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1380078,32,1,Manchester_United,Home,1421986,1795,Michael Owen,michael-owen,F,True,0.0,0.0,17.0,0.0,,,0.0
+2010-11,1380087,33,1,Manchester_United,Away,661,4058,Edwin van der Sar,edwin-van-der-sar,G,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1380087,33,1,Manchester_United,Away,751,13017,Wayne Rooney,wayne-rooney,F,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1380087,33,1,Manchester_United,Away,754,3,Ryan Giggs,ryan-giggs,M,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1380087,33,1,Manchester_United,Away,763,3736,John O'Shea,john-oshea,D,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1380087,33,1,Manchester_United,Away,938,2404,Michael Carrick,michael-carrick,M,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1380087,33,1,Manchester_United,Away,1054,10135,Tomasz Kuszczak,tomasz-kuszczak,G,True,,,,,,,
+2010-11,1380087,33,1,Manchester_United,Away,2496,12882,Ji-Sung Park,ji-sung-park,M,True,,,,,,,
+2010-11,1380087,33,1,Manchester_United,Away,3063,14075,Patrice Evra,patrice-evra,D,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1380087,33,1,Manchester_United,Away,11184,14965,Nemanja Vidić,nemanja-vidic,D,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1380087,33,1,Manchester_United,Away,11820,20695,Antonio Valencia,antonio-valencia,D,True,0.0,0.0,20.0,0.0,,,0.0
+2010-11,1380087,33,1,Manchester_United,Away,17740,38530,Nani,nani,M,False,0.0,0.0,81.0,0.0,,,0.0
+2010-11,1380087,33,1,Manchester_United,Away,17887,27258,Anderson,anderson,M,False,0.0,0.0,70.0,0.0,,,0.0
+2010-11,1380087,33,1,Manchester_United,Away,21073,27707,Darron Gibson,darron-gibson,M,True,,,,,,,
+2010-11,1380087,33,1,Manchester_United,Away,30144,37642,Jonny Evans,jonny-evans,D,True,,,,,,,
+2010-11,1380087,33,1,Manchester_United,Away,34312,,Javier Hernández,javier-hernandez,F,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1380087,33,1,Manchester_United,Away,40677,54771,Fábio,fabio,D,True,,,,,,,
+2010-11,1380087,33,1,Manchester_United,Away,47741,55909,Chris Smalling,chris-smalling,D,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1380087,33,1,Manchester_United,Away,1421986,1795,Michael Owen,michael-owen,F,True,0.0,0.0,9.0,0.0,,,0.0
+2010-11,1380098,34,1,Manchester_United,Home,661,4058,Edwin van der Sar,edwin-van-der-sar,G,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1380098,34,1,Manchester_United,Home,748,2034,Rio Ferdinand,rio-ferdinand,D,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1380098,34,1,Manchester_United,Home,749,1841,Wes Brown,wes-brown,D,True,,,,,,,
+2010-11,1380098,34,1,Manchester_United,Home,751,13017,Wayne Rooney,wayne-rooney,F,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1380098,34,1,Manchester_United,Home,754,3,Ryan Giggs,ryan-giggs,M,True,0.0,0.0,16.0,0.0,,,0.0
+2010-11,1380098,34,1,Manchester_United,Home,763,3736,John O'Shea,john-oshea,D,False,0.0,0.0,57.0,0.0,,,0.0
+2010-11,1380098,34,1,Manchester_United,Home,938,2404,Michael Carrick,michael-carrick,M,True,,,,,,,
+2010-11,1380098,34,1,Manchester_United,Home,1054,10135,Tomasz Kuszczak,tomasz-kuszczak,G,True,,,,,,,
+2010-11,1380098,34,1,Manchester_United,Home,3063,14075,Patrice Evra,patrice-evra,D,True,0.0,0.0,33.0,0.0,,,0.0
+2010-11,1380098,34,1,Manchester_United,Home,11820,20695,Antonio Valencia,antonio-valencia,D,False,1.0,0.0,90.0,0.0,,,0.0
+2010-11,1380098,34,1,Manchester_United,Home,17740,38530,Nani,nani,M,False,0.0,0.0,63.0,0.0,,,0.0
+2010-11,1380098,34,1,Manchester_United,Home,17887,27258,Anderson,anderson,M,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1380098,34,1,Manchester_United,Home,21073,27707,Darron Gibson,darron-gibson,M,False,0.0,0.0,74.0,0.0,,,0.0
+2010-11,1380098,34,1,Manchester_United,Home,30144,37642,Jonny Evans,jonny-evans,D,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1380098,34,1,Manchester_United,Home,34312,,Javier Hernández,javier-hernandez,F,False,0.0,1.0,90.0,0.0,,,0.0
+2010-11,1380098,34,1,Manchester_United,Home,39623,54772,Rafael,rafael,D,True,,,,,,,
+2010-11,1380098,34,1,Manchester_United,Home,40677,54771,Fábio,fabio,D,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1380098,34,1,Manchester_United,Home,1421986,1795,Michael Owen,michael-owen,F,True,0.0,0.0,27.0,0.0,,,0.0
+2010-11,1380102,35,1,Manchester_United,Away,278,8595,Dimitar Berbatov,dimitar-berbatov,F,True,0.0,0.0,16.0,0.0,,,0.0
+2010-11,1380102,35,1,Manchester_United,Away,661,4058,Edwin van der Sar,edwin-van-der-sar,G,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1380102,35,1,Manchester_United,Away,748,2034,Rio Ferdinand,rio-ferdinand,D,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1380102,35,1,Manchester_United,Away,751,13017,Wayne Rooney,wayne-rooney,F,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1380102,35,1,Manchester_United,Away,763,3736,John O'Shea,john-oshea,D,True,,,,,,,
+2010-11,1380102,35,1,Manchester_United,Away,938,2404,Michael Carrick,michael-carrick,M,False,0.0,0.0,85.0,0.0,,,0.0
+2010-11,1380102,35,1,Manchester_United,Away,1054,10135,Tomasz Kuszczak,tomasz-kuszczak,G,True,,,,,,,
+2010-11,1380102,35,1,Manchester_United,Away,2496,12882,Ji-Sung Park,ji-sung-park,M,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1380102,35,1,Manchester_United,Away,3063,14075,Patrice Evra,patrice-evra,D,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1380102,35,1,Manchester_United,Away,11184,14965,Nemanja Vidić,nemanja-vidic,D,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1380102,35,1,Manchester_United,Away,11820,20695,Antonio Valencia,antonio-valencia,D,True,0.0,0.0,35.0,0.0,,,0.0
+2010-11,1380102,35,1,Manchester_United,Away,17740,38530,Nani,nani,M,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1380102,35,1,Manchester_United,Away,17887,27258,Anderson,anderson,M,False,0.0,0.0,55.0,0.0,,,0.0
+2010-11,1380102,35,1,Manchester_United,Away,34312,,Javier Hernández,javier-hernandez,F,False,0.0,0.0,74.0,0.0,,,0.0
+2010-11,1380102,35,1,Manchester_United,Away,39623,54772,Rafael,rafael,D,True,,,,,,,
+2010-11,1380102,35,1,Manchester_United,Away,40677,54771,Fábio,fabio,D,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1380102,35,1,Manchester_United,Away,47741,55909,Chris Smalling,chris-smalling,D,True,,,,,,,
+2010-11,1380102,35,1,Manchester_United,Away,1421986,1795,Michael Owen,michael-owen,F,True,0.0,0.0,5.0,0.0,,,0.0
+2010-11,1380116,36,1,Manchester_United,Home,278,8595,Dimitar Berbatov,dimitar-berbatov,F,True,,,,,,,
+2010-11,1380116,36,1,Manchester_United,Home,661,4058,Edwin van der Sar,edwin-van-der-sar,G,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1380116,36,1,Manchester_United,Home,748,2034,Rio Ferdinand,rio-ferdinand,D,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1380116,36,1,Manchester_United,Home,751,13017,Wayne Rooney,wayne-rooney,F,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1380116,36,1,Manchester_United,Home,754,3,Ryan Giggs,ryan-giggs,M,False,1.0,0.0,90.0,0.0,,,0.0
+2010-11,1380116,36,1,Manchester_United,Home,761,363,Paul Scholes,paul-scholes,M,True,,,,,,,
+2010-11,1380116,36,1,Manchester_United,Home,763,3736,John O'Shea,john-oshea,D,False,0.0,0.0,46.0,0.0,,,0.0
+2010-11,1380116,36,1,Manchester_United,Home,938,2404,Michael Carrick,michael-carrick,M,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1380116,36,1,Manchester_United,Home,1054,10135,Tomasz Kuszczak,tomasz-kuszczak,G,True,,,,,,,
+2010-11,1380116,36,1,Manchester_United,Home,2496,12882,Ji-Sung Park,ji-sung-park,M,False,1.0,0.0,90.0,0.0,,,0.0
+2010-11,1380116,36,1,Manchester_United,Home,11184,14965,Nemanja Vidić,nemanja-vidic,D,False,0.0,1.0,90.0,0.0,,,0.0
+2010-11,1380116,36,1,Manchester_United,Home,11820,20695,Antonio Valencia,antonio-valencia,D,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1380116,36,1,Manchester_United,Home,17740,38530,Nani,nani,M,True,,,,,,,
+2010-11,1380116,36,1,Manchester_United,Home,17887,27258,Anderson,anderson,M,True,,,,,,,
+2010-11,1380116,36,1,Manchester_United,Home,30144,37642,Jonny Evans,jonny-evans,D,True,0.0,0.0,44.0,0.0,,,0.0
+2010-11,1380116,36,1,Manchester_United,Home,34312,,Javier Hernández,javier-hernandez,F,False,0.0,1.0,90.0,0.0,,,0.0
+2010-11,1380116,36,1,Manchester_United,Home,40677,54771,Fábio,fabio,D,False,0.0,0.0,88.0,0.0,,,0.0
+2010-11,1380116,36,1,Manchester_United,Home,47741,55909,Chris Smalling,chris-smalling,D,True,0.0,0.0,2.0,0.0,,,0.0
+2010-11,1380124,37,1,Manchester_United,Away,278,8595,Dimitar Berbatov,dimitar-berbatov,F,True,0.0,0.0,10.0,0.0,,,0.0
+2010-11,1380124,37,1,Manchester_United,Away,748,2034,Rio Ferdinand,rio-ferdinand,D,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1380124,37,1,Manchester_United,Away,751,13017,Wayne Rooney,wayne-rooney,F,False,0.0,1.0,90.0,0.0,,,0.0
+2010-11,1380124,37,1,Manchester_United,Away,754,3,Ryan Giggs,ryan-giggs,M,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1380124,37,1,Manchester_United,Away,761,363,Paul Scholes,paul-scholes,M,True,0.0,0.0,28.0,0.0,,,0.0
+2010-11,1380124,37,1,Manchester_United,Away,938,2404,Michael Carrick,michael-carrick,M,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1380124,37,1,Manchester_United,Away,1054,10135,Tomasz Kuszczak,tomasz-kuszczak,G,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1380124,37,1,Manchester_United,Away,3063,14075,Patrice Evra,patrice-evra,D,True,,,,,,,
+2010-11,1380124,37,1,Manchester_United,Away,11184,14965,Nemanja Vidić,nemanja-vidic,D,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1380124,37,1,Manchester_United,Away,11820,20695,Antonio Valencia,antonio-valencia,D,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1380124,37,1,Manchester_United,Away,17740,38530,Nani,nani,M,False,0.0,0.0,80.0,0.0,,,0.0
+2010-11,1380124,37,1,Manchester_United,Away,17887,27258,Anderson,anderson,M,True,,,,,,,
+2010-11,1380124,37,1,Manchester_United,Away,30144,37642,Jonny Evans,jonny-evans,D,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1380124,37,1,Manchester_United,Away,34312,,Javier Hernández,javier-hernandez,F,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1380124,37,1,Manchester_United,Away,40677,54771,Fábio,fabio,D,False,0.0,0.0,62.0,0.0,,,0.0
+2010-11,1380124,37,1,Manchester_United,Away,42688,51922,Ben Amos,ben-amos,G,True,,,,,,,
+2010-11,1380124,37,1,Manchester_United,Away,47741,55909,Chris Smalling,chris-smalling,D,True,,,,,,,
+2010-11,1380124,37,1,Manchester_United,Away,1421986,1795,Michael Owen,michael-owen,F,True,,,,,,,
+2010-11,1380136,38,1,Manchester_United,Home,278,8595,Dimitar Berbatov,dimitar-berbatov,F,False,1.0,0.0,90.0,0.0,,,0.0
+2010-11,1380136,38,1,Manchester_United,Home,661,4058,Edwin van der Sar,edwin-van-der-sar,G,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1380136,38,1,Manchester_United,Home,748,2034,Rio Ferdinand,rio-ferdinand,D,True,,,,,,,
+2010-11,1380136,38,1,Manchester_United,Home,751,13017,Wayne Rooney,wayne-rooney,F,True,0.0,0.0,6.0,0.0,,,0.0
+2010-11,1380136,38,1,Manchester_United,Home,761,363,Paul Scholes,paul-scholes,M,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1380136,38,1,Manchester_United,Home,765,14295,Darren Fletcher,darren-fletcher,M,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1380136,38,1,Manchester_United,Home,2496,12882,Ji-Sung Park,ji-sung-park,M,False,1.0,1.0,63.0,0.0,,,0.0
+2010-11,1380136,38,1,Manchester_United,Home,3063,14075,Patrice Evra,patrice-evra,D,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1380136,38,1,Manchester_United,Home,8391,39725,Anders Lindegaard,anders-lindegaard,G,True,,,,,,,
+2010-11,1380136,38,1,Manchester_United,Home,11184,14965,Nemanja Vidić,nemanja-vidic,D,False,0.0,0.0,84.0,0.0,,,0.0
+2010-11,1380136,38,1,Manchester_United,Home,11820,20695,Antonio Valencia,antonio-valencia,D,True,,,,,,,
+2010-11,1380136,38,1,Manchester_United,Home,17740,38530,Nani,nani,M,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1380136,38,1,Manchester_United,Home,17887,27258,Anderson,anderson,M,False,1.0,1.0,90.0,0.0,,,0.0
+2010-11,1380136,38,1,Manchester_United,Home,21073,27707,Darron Gibson,darron-gibson,M,True,,,,,,,
+2010-11,1380136,38,1,Manchester_United,Home,30144,37642,Jonny Evans,jonny-evans,D,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1380136,38,1,Manchester_United,Home,39623,54772,Rafael,rafael,D,False,0.0,0.0,46.0,0.0,,,0.0
+2010-11,1380136,38,1,Manchester_United,Home,47741,55909,Chris Smalling,chris-smalling,D,True,0.0,0.0,44.0,0.0,,,0.0
+2010-11,1380136,38,1,Manchester_United,Home,1421986,1795,Michael Owen,michael-owen,F,True,0.0,1.0,27.0,0.0,,,0.0

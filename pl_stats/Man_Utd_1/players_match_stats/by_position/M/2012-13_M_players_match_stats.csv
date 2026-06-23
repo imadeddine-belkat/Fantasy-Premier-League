@@ -1,0 +1,210 @@
+season,matchId,gameweek,team_id,team,venue,playerId,pl_code,playerName,slug,position,substitute,goalAssist,goals,minutesPlayed,ownGoals,substitute.1,totalShots
+2012-13,2753672,1,1,Manchester_United,Away,761,363,Paul Scholes,paul-scholes,M,False,0.0,0.0,90.0,0.0,,0.0
+2012-13,2753672,1,1,Manchester_United,Away,938,2404,Michael Carrick,michael-carrick,M,False,0.0,0.0,90.0,0.0,,0.0
+2012-13,2753672,1,1,Manchester_United,Away,17740,38530,Nani,nani,M,False,0.0,0.0,90.0,0.0,,0.0
+2012-13,2753672,1,1,Manchester_United,Away,17887,27258,Anderson,anderson,M,True,0.0,0.0,,0.0,,0.0
+2012-13,2753672,1,1,Manchester_United,Away,34853,83090,Shinji Kagawa,shinji-kagawa,M,False,0.0,0.0,90.0,0.0,,0.0
+2012-13,2753672,1,1,Manchester_United,Away,46432,43250,Tom Cleverley,tom-cleverley,M,False,0.0,0.0,90.0,0.0,,0.0
+2012-13,2754564,2,1,Manchester_United,Home,754,3,Ryan Giggs,ryan-giggs,M,True,0.0,0.0,,0.0,,0.0
+2012-13,2754564,2,1,Manchester_United,Home,761,363,Paul Scholes,paul-scholes,M,True,,,,,,
+2012-13,2754564,2,1,Manchester_United,Home,938,2404,Michael Carrick,michael-carrick,M,False,0.0,0.0,90.0,0.0,,0.0
+2012-13,2754564,2,1,Manchester_United,Home,17887,27258,Anderson,anderson,M,False,0.0,0.0,90.0,0.0,,0.0
+2012-13,2754564,2,1,Manchester_United,Home,34853,83090,Shinji Kagawa,shinji-kagawa,M,False,0.0,1.0,90.0,0.0,,0.0
+2012-13,2754564,2,1,Manchester_United,Home,46432,43250,Tom Cleverley,tom-cleverley,M,False,0.0,0.0,90.0,0.0,,0.0
+2012-13,2754586,3,1,Manchester_United,Away,754,3,Ryan Giggs,ryan-giggs,M,True,,,,,,
+2012-13,2754586,3,1,Manchester_United,Away,761,363,Paul Scholes,paul-scholes,M,True,0.0,0.0,,0.0,,0.0
+2012-13,2754586,3,1,Manchester_United,Away,938,2404,Michael Carrick,michael-carrick,M,False,0.0,0.0,90.0,0.0,,0.0
+2012-13,2754586,3,1,Manchester_United,Away,17740,38530,Nani,nani,M,True,0.0,0.0,,0.0,,0.0
+2012-13,2754586,3,1,Manchester_United,Away,34853,83090,Shinji Kagawa,shinji-kagawa,M,False,0.0,0.0,90.0,0.0,,0.0
+2012-13,2754586,3,1,Manchester_United,Away,46432,43250,Tom Cleverley,tom-cleverley,M,False,0.0,0.0,90.0,0.0,,0.0
+2012-13,2754586,3,1,Manchester_United,Away,123778,82205,Nick Powell,nick-powell,M,True,,,,,,
+2012-13,2754606,4,1,Manchester_United,Home,754,3,Ryan Giggs,ryan-giggs,M,False,0.0,0.0,90.0,0.0,,0.0
+2012-13,2754606,4,1,Manchester_United,Home,761,363,Paul Scholes,paul-scholes,M,False,0.0,1.0,90.0,0.0,,0.0
+2012-13,2754606,4,1,Manchester_United,Home,938,2404,Michael Carrick,michael-carrick,M,False,0.0,0.0,90.0,0.0,,0.0
+2012-13,2754606,4,1,Manchester_United,Home,17740,38530,Nani,nani,M,False,0.0,0.0,90.0,0.0,,0.0
+2012-13,2754606,4,1,Manchester_United,Home,34853,83090,Shinji Kagawa,shinji-kagawa,M,True,,,,,,
+2012-13,2754606,4,1,Manchester_United,Home,46432,43250,Tom Cleverley,tom-cleverley,M,True,,,,,,
+2012-13,2754606,4,1,Manchester_United,Home,123778,82205,Nick Powell,nick-powell,M,True,0.0,1.0,,0.0,,0.0
+2012-13,2754620,5,1,Manchester_United,Away,754,3,Ryan Giggs,ryan-giggs,M,False,0.0,0.0,90.0,0.0,,0.0
+2012-13,2754620,5,1,Manchester_United,Away,761,363,Paul Scholes,paul-scholes,M,True,0.0,0.0,,0.0,,0.0
+2012-13,2754620,5,1,Manchester_United,Away,938,2404,Michael Carrick,michael-carrick,M,False,0.0,0.0,90.0,0.0,,0.0
+2012-13,2754620,5,1,Manchester_United,Away,17740,38530,Nani,nani,M,False,0.0,0.0,90.0,0.0,,0.0
+2012-13,2754620,5,1,Manchester_United,Away,17887,27258,Anderson,anderson,M,True,,,,,,
+2012-13,2754620,5,1,Manchester_United,Away,34853,83090,Shinji Kagawa,shinji-kagawa,M,False,0.0,0.0,90.0,0.0,,0.0
+2012-13,2754620,5,1,Manchester_United,Away,46432,43250,Tom Cleverley,tom-cleverley,M,True,,,,,,
+2012-13,2754658,6,1,Manchester_United,Home,754,3,Ryan Giggs,ryan-giggs,M,False,0.0,0.0,90.0,0.0,,0.0
+2012-13,2754658,6,1,Manchester_United,Home,761,363,Paul Scholes,paul-scholes,M,False,0.0,0.0,90.0,0.0,,0.0
+2012-13,2754658,6,1,Manchester_United,Home,938,2404,Michael Carrick,michael-carrick,M,False,0.0,0.0,90.0,0.0,,0.0
+2012-13,2754658,6,1,Manchester_United,Home,17740,38530,Nani,nani,M,False,0.0,1.0,90.0,0.0,,0.0
+2012-13,2754658,6,1,Manchester_United,Home,17887,27258,Anderson,anderson,M,True,,,,,,
+2012-13,2754658,6,1,Manchester_United,Home,34853,83090,Shinji Kagawa,shinji-kagawa,M,False,0.0,1.0,90.0,0.0,,0.0
+2012-13,2754658,6,1,Manchester_United,Home,46432,43250,Tom Cleverley,tom-cleverley,M,True,,,,,,
+2012-13,2754682,7,1,Manchester_United,Away,754,3,Ryan Giggs,ryan-giggs,M,True,0.0,0.0,,0.0,,0.0
+2012-13,2754682,7,1,Manchester_United,Away,761,363,Paul Scholes,paul-scholes,M,True,0.0,0.0,,0.0,,0.0
+2012-13,2754682,7,1,Manchester_United,Away,938,2404,Michael Carrick,michael-carrick,M,False,0.0,0.0,90.0,0.0,,0.0
+2012-13,2754682,7,1,Manchester_United,Away,17887,27258,Anderson,anderson,M,True,,,,,,
+2012-13,2754682,7,1,Manchester_United,Away,34853,83090,Shinji Kagawa,shinji-kagawa,M,False,0.0,0.0,90.0,0.0,,0.0
+2012-13,2754682,7,1,Manchester_United,Away,46432,43250,Tom Cleverley,tom-cleverley,M,False,0.0,1.0,90.0,0.0,,0.0
+2012-13,2754702,8,1,Manchester_United,Home,754,3,Ryan Giggs,ryan-giggs,M,True,,,,,,
+2012-13,2754702,8,1,Manchester_United,Home,761,363,Paul Scholes,paul-scholes,M,False,0.0,0.0,90.0,0.0,,0.0
+2012-13,2754702,8,1,Manchester_United,Home,938,2404,Michael Carrick,michael-carrick,M,False,0.0,0.0,90.0,0.0,,0.0
+2012-13,2754702,8,1,Manchester_United,Home,17740,38530,Nani,nani,M,True,0.0,0.0,,0.0,,0.0
+2012-13,2754702,8,1,Manchester_United,Home,17887,27258,Anderson,anderson,M,True,0.0,0.0,,0.0,,0.0
+2012-13,2754702,8,1,Manchester_United,Home,123778,82205,Nick Powell,nick-powell,M,True,,,,,,
+2012-13,2754728,9,1,Manchester_United,Away,754,3,Ryan Giggs,ryan-giggs,M,True,0.0,0.0,,0.0,,0.0
+2012-13,2754728,9,1,Manchester_United,Away,761,363,Paul Scholes,paul-scholes,M,True,,,,,,
+2012-13,2754728,9,1,Manchester_United,Away,938,2404,Michael Carrick,michael-carrick,M,False,0.0,0.0,90.0,0.0,,0.0
+2012-13,2754728,9,1,Manchester_United,Away,17740,38530,Nani,nani,M,True,,,,,,
+2012-13,2754728,9,1,Manchester_United,Away,17887,27258,Anderson,anderson,M,True,,,,,,
+2012-13,2754728,9,1,Manchester_United,Away,46432,43250,Tom Cleverley,tom-cleverley,M,False,0.0,0.0,90.0,0.0,,0.0
+2012-13,2754750,10,1,Manchester_United,Home,761,363,Paul Scholes,paul-scholes,M,True,,,,,,
+2012-13,2754750,10,1,Manchester_United,Home,938,2404,Michael Carrick,michael-carrick,M,False,0.0,0.0,90.0,0.0,,0.0
+2012-13,2754750,10,1,Manchester_United,Home,17740,38530,Nani,nani,M,True,0.0,0.0,,0.0,,0.0
+2012-13,2754750,10,1,Manchester_United,Home,17887,27258,Anderson,anderson,M,True,0.0,0.0,,0.0,,0.0
+2012-13,2754750,10,1,Manchester_United,Home,46432,43250,Tom Cleverley,tom-cleverley,M,False,0.0,0.0,90.0,0.0,,0.0
+2012-13,2754750,10,1,Manchester_United,Home,123778,82205,Nick Powell,nick-powell,M,True,,,,,,
+2012-13,2754768,11,1,Manchester_United,Away,761,363,Paul Scholes,paul-scholes,M,False,0.0,0.0,90.0,0.0,,0.0
+2012-13,2754768,11,1,Manchester_United,Away,765,14295,Darren Fletcher,darren-fletcher,M,True,,,,,,
+2012-13,2754768,11,1,Manchester_United,Away,938,2404,Michael Carrick,michael-carrick,M,False,0.0,0.0,90.0,0.0,,0.0
+2012-13,2754768,11,1,Manchester_United,Away,17887,27258,Anderson,anderson,M,True,0.0,0.0,,0.0,,0.0
+2012-13,2754768,11,1,Manchester_United,Away,46432,43250,Tom Cleverley,tom-cleverley,M,True,0.0,0.0,,0.0,,0.0
+2012-13,2754892,12,1,Manchester_United,Away,754,3,Ryan Giggs,ryan-giggs,M,False,0.0,0.0,90.0,0.0,,0.0
+2012-13,2754892,12,1,Manchester_United,Away,761,363,Paul Scholes,paul-scholes,M,True,0.0,0.0,,0.0,,0.0
+2012-13,2754892,12,1,Manchester_United,Away,765,14295,Darren Fletcher,darren-fletcher,M,True,,,,,,
+2012-13,2754892,12,1,Manchester_United,Away,938,2404,Michael Carrick,michael-carrick,M,False,0.0,0.0,90.0,0.0,,0.0
+2012-13,2754892,12,1,Manchester_United,Away,17887,27258,Anderson,anderson,M,True,0.0,0.0,,0.0,,0.0
+2012-13,2754892,12,1,Manchester_United,Away,46432,43250,Tom Cleverley,tom-cleverley,M,True,,,,,,
+2012-13,2754908,13,1,Manchester_United,Home,761,363,Paul Scholes,paul-scholes,M,False,0.0,0.0,90.0,0.0,,0.0
+2012-13,2754908,13,1,Manchester_United,Home,765,14295,Darren Fletcher,darren-fletcher,M,False,0.0,1.0,90.0,0.0,,0.0
+2012-13,2754908,13,1,Manchester_United,Home,17887,27258,Anderson,anderson,M,True,0.0,0.0,,0.0,,0.0
+2012-13,2754908,13,1,Manchester_United,Home,46432,43250,Tom Cleverley,tom-cleverley,M,True,,,,,,
+2012-13,2754908,13,1,Manchester_United,Home,123778,82205,Nick Powell,nick-powell,M,True,0.0,0.0,,0.0,,0.0
+2012-13,2754924,14,1,Manchester_United,Home,765,14295,Darren Fletcher,darren-fletcher,M,True,,,,,,
+2012-13,2754924,14,1,Manchester_United,Home,938,2404,Michael Carrick,michael-carrick,M,False,0.0,0.0,90.0,0.0,,0.0
+2012-13,2754924,14,1,Manchester_United,Home,17887,27258,Anderson,anderson,M,False,0.0,0.0,90.0,0.0,,0.0
+2012-13,2754924,14,1,Manchester_United,Home,46432,43250,Tom Cleverley,tom-cleverley,M,False,0.0,0.0,90.0,0.0,,0.0
+2012-13,2754964,15,1,Manchester_United,Away,754,3,Ryan Giggs,ryan-giggs,M,True,,,,,,
+2012-13,2754964,15,1,Manchester_United,Away,765,14295,Darren Fletcher,darren-fletcher,M,False,0.0,0.0,90.0,0.0,,0.0
+2012-13,2754964,15,1,Manchester_United,Away,938,2404,Michael Carrick,michael-carrick,M,False,0.0,0.0,90.0,0.0,,0.0
+2012-13,2754964,15,1,Manchester_United,Away,17887,27258,Anderson,anderson,M,False,0.0,1.0,90.0,0.0,,0.0
+2012-13,2754964,15,1,Manchester_United,Away,46432,43250,Tom Cleverley,tom-cleverley,M,True,,,,,,
+2012-13,2754978,16,1,Manchester_United,Away,754,3,Ryan Giggs,ryan-giggs,M,True,,,,,,
+2012-13,2754978,16,1,Manchester_United,Away,761,363,Paul Scholes,paul-scholes,M,True,,,,,,
+2012-13,2754978,16,1,Manchester_United,Away,938,2404,Michael Carrick,michael-carrick,M,False,0.0,0.0,90.0,0.0,,0.0
+2012-13,2754978,16,1,Manchester_United,Away,46432,43250,Tom Cleverley,tom-cleverley,M,False,0.0,0.0,87.0,0.0,,0.0
+2012-13,2754994,17,1,Manchester_United,Home,754,3,Ryan Giggs,ryan-giggs,M,True,0.0,0.0,17.0,0.0,,0.0
+2012-13,2754994,17,1,Manchester_United,Home,761,363,Paul Scholes,paul-scholes,M,True,0.0,0.0,44.0,0.0,,0.0
+2012-13,2754994,17,1,Manchester_United,Home,765,14295,Darren Fletcher,darren-fletcher,M,True,,,,,,
+2012-13,2754994,17,1,Manchester_United,Home,938,2404,Michael Carrick,michael-carrick,M,False,0.0,0.0,46.0,0.0,,0.0
+2012-13,2754994,17,1,Manchester_United,Home,46432,43250,Tom Cleverley,tom-cleverley,M,False,0.0,1.0,73.0,0.0,,0.0
+2012-13,2755020,18,1,Manchester_United,Away,754,3,Ryan Giggs,ryan-giggs,M,True,0.0,0.0,12.0,0.0,,0.0
+2012-13,2755020,18,1,Manchester_United,Away,761,363,Paul Scholes,paul-scholes,M,True,0.0,0.0,5.0,0.0,,0.0
+2012-13,2755020,18,1,Manchester_United,Away,765,14295,Darren Fletcher,darren-fletcher,M,True,,,,,,
+2012-13,2755020,18,1,Manchester_United,Away,938,2404,Michael Carrick,michael-carrick,M,False,0.0,0.0,90.0,0.0,,0.0
+2012-13,2755020,18,1,Manchester_United,Away,46432,43250,Tom Cleverley,tom-cleverley,M,False,0.0,0.0,85.0,0.0,,0.0
+2012-13,2755038,19,1,Manchester_United,Home,754,3,Ryan Giggs,ryan-giggs,M,False,0.0,0.0,90.0,0.0,,0.0
+2012-13,2755038,19,1,Manchester_United,Home,761,363,Paul Scholes,paul-scholes,M,False,0.0,0.0,69.0,0.0,,0.0
+2012-13,2755038,19,1,Manchester_United,Home,765,14295,Darren Fletcher,darren-fletcher,M,True,0.0,0.0,1.0,0.0,,0.0
+2012-13,2755038,19,1,Manchester_United,Home,938,2404,Michael Carrick,michael-carrick,M,False,0.0,0.0,90.0,0.0,,0.0
+2012-13,2755038,19,1,Manchester_United,Home,46432,43250,Tom Cleverley,tom-cleverley,M,True,0.0,0.0,21.0,0.0,,0.0
+2012-13,2755038,19,1,Manchester_United,Home,147663,94217,Ryan Tunnicliffe,ryan-tunnicliffe,M,True,,,,,,
+2012-13,2755058,20,1,Manchester_United,Home,754,3,Ryan Giggs,ryan-giggs,M,True,,,,,,
+2012-13,2755058,20,1,Manchester_United,Home,761,363,Paul Scholes,paul-scholes,M,True,0.0,0.0,8.0,0.0,,0.0
+2012-13,2755058,20,1,Manchester_United,Home,938,2404,Michael Carrick,michael-carrick,M,False,0.0,0.0,90.0,0.0,,0.0
+2012-13,2755058,20,1,Manchester_United,Home,34853,83090,Shinji Kagawa,shinji-kagawa,M,False,0.0,0.0,65.0,0.0,,0.0
+2012-13,2755058,20,1,Manchester_United,Home,46432,43250,Tom Cleverley,tom-cleverley,M,False,0.0,0.0,82.0,0.0,,0.0
+2012-13,2755088,21,1,Manchester_United,Away,754,3,Ryan Giggs,ryan-giggs,M,False,0.0,0.0,90.0,0.0,,0.0
+2012-13,2755088,21,1,Manchester_United,Away,761,363,Paul Scholes,paul-scholes,M,True,,,,,,
+2012-13,2755088,21,1,Manchester_United,Away,938,2404,Michael Carrick,michael-carrick,M,False,0.0,0.0,68.0,0.0,,0.0
+2012-13,2755088,21,1,Manchester_United,Away,34853,83090,Shinji Kagawa,shinji-kagawa,M,True,0.0,0.0,22.0,0.0,,0.0
+2012-13,2755088,21,1,Manchester_United,Away,46432,43250,Tom Cleverley,tom-cleverley,M,False,0.0,0.0,90.0,0.0,,0.0
+2012-13,2755098,22,1,Manchester_United,Home,754,3,Ryan Giggs,ryan-giggs,M,True,,,,,,
+2012-13,2755098,22,1,Manchester_United,Home,938,2404,Michael Carrick,michael-carrick,M,False,0.0,0.0,90.0,0.0,,0.0
+2012-13,2755098,22,1,Manchester_United,Home,17887,27258,Anderson,anderson,M,True,,,,,,
+2012-13,2755098,22,1,Manchester_United,Home,34853,83090,Shinji Kagawa,shinji-kagawa,M,False,0.0,0.0,77.0,0.0,,0.0
+2012-13,2755098,22,1,Manchester_United,Home,46432,43250,Tom Cleverley,tom-cleverley,M,False,0.0,0.0,90.0,0.0,,0.0
+2012-13,2755126,23,1,Manchester_United,Away,754,3,Ryan Giggs,ryan-giggs,M,True,,,,,,
+2012-13,2755126,23,1,Manchester_United,Away,938,2404,Michael Carrick,michael-carrick,M,False,0.0,0.0,90.0,0.0,,0.0
+2012-13,2755126,23,1,Manchester_United,Away,17887,27258,Anderson,anderson,M,True,,,,,,
+2012-13,2755126,23,1,Manchester_United,Away,34853,83090,Shinji Kagawa,shinji-kagawa,M,False,0.0,0.0,62.0,0.0,,0.0
+2012-13,2755126,23,1,Manchester_United,Away,46432,43250,Tom Cleverley,tom-cleverley,M,False,0.0,0.0,74.0,0.0,,0.0
+2012-13,2755136,24,1,Manchester_United,Home,938,2404,Michael Carrick,michael-carrick,M,False,0.0,0.0,90.0,0.0,,0.0
+2012-13,2755136,24,1,Manchester_United,Home,17740,38530,Nani,nani,M,True,0.0,0.0,17.0,0.0,,0.0
+2012-13,2755136,24,1,Manchester_United,Home,17887,27258,Anderson,anderson,M,False,0.0,0.0,68.0,0.0,,0.0
+2012-13,2755136,24,1,Manchester_United,Home,34853,83090,Shinji Kagawa,shinji-kagawa,M,False,0.0,0.0,73.0,0.0,,0.0
+2012-13,2755136,24,1,Manchester_United,Home,46432,43250,Tom Cleverley,tom-cleverley,M,True,,,,,,
+2012-13,2755154,25,1,Manchester_United,Away,754,3,Ryan Giggs,ryan-giggs,M,True,0.0,0.0,15.0,0.0,,0.0
+2012-13,2755154,25,1,Manchester_United,Away,938,2404,Michael Carrick,michael-carrick,M,False,0.0,0.0,90.0,0.0,,0.0
+2012-13,2755154,25,1,Manchester_United,Away,17740,38530,Nani,nani,M,False,0.0,0.0,84.0,0.0,,0.0
+2012-13,2755154,25,1,Manchester_United,Away,17887,27258,Anderson,anderson,M,True,,,,,,
+2012-13,2755154,25,1,Manchester_United,Away,34853,83090,Shinji Kagawa,shinji-kagawa,M,True,,,,,,
+2012-13,2755154,25,1,Manchester_United,Away,46432,43250,Tom Cleverley,tom-cleverley,M,False,0.0,0.0,75.0,0.0,,0.0
+2012-13,2755176,26,1,Manchester_United,Home,754,3,Ryan Giggs,ryan-giggs,M,False,0.0,1.0,90.0,0.0,,0.0
+2012-13,2755176,26,1,Manchester_United,Home,938,2404,Michael Carrick,michael-carrick,M,True,0.0,0.0,34.0,0.0,,0.0
+2012-13,2755176,26,1,Manchester_United,Home,17740,38530,Nani,nani,M,True,,,,,,
+2012-13,2755176,26,1,Manchester_United,Home,17887,27258,Anderson,anderson,M,True,,,,,,
+2012-13,2755176,26,1,Manchester_United,Home,46432,43250,Tom Cleverley,tom-cleverley,M,False,0.0,0.0,90.0,0.0,,0.0
+2012-13,2757518,27,1,Manchester_United,Away,754,3,Ryan Giggs,ryan-giggs,M,False,0.0,1.0,90.0,0.0,,0.0
+2012-13,2757518,27,1,Manchester_United,Away,938,2404,Michael Carrick,michael-carrick,M,False,0.0,0.0,90.0,0.0,,0.0
+2012-13,2757518,27,1,Manchester_United,Away,17740,38530,Nani,nani,M,False,0.0,0.0,90.0,0.0,,0.0
+2012-13,2757518,27,1,Manchester_United,Away,17887,27258,Anderson,anderson,M,True,,,,,,
+2012-13,2757518,27,1,Manchester_United,Away,46432,43250,Tom Cleverley,tom-cleverley,M,True,,,,,,
+2012-13,2757152,28,1,Manchester_United,Home,938,2404,Michael Carrick,michael-carrick,M,False,0.0,0.0,90.0,0.0,,0.0
+2012-13,2757152,28,1,Manchester_United,Home,17740,38530,Nani,nani,M,True,,,,,,
+2012-13,2757152,28,1,Manchester_United,Home,17887,27258,Anderson,anderson,M,False,0.0,0.0,74.0,0.0,,0.0
+2012-13,2757152,28,1,Manchester_United,Home,34853,83090,Shinji Kagawa,shinji-kagawa,M,False,0.0,3.0,90.0,0.0,,0.0
+2012-13,2757152,28,1,Manchester_United,Home,46432,43250,Tom Cleverley,tom-cleverley,M,True,0.0,0.0,16.0,0.0,,0.0
+2012-13,3645981,29,1,Manchester_United,Away,754,3,Ryan Giggs,ryan-giggs,M,True,0.0,0.0,19.0,0.0,,0.0
+2012-13,3645981,29,1,Manchester_United,Away,938,2404,Michael Carrick,michael-carrick,M,False,0.0,0.0,90.0,0.0,,0.0
+2012-13,3645981,29,1,Manchester_United,Away,17740,38530,Nani,nani,M,True,,,,,,
+2012-13,3645981,29,1,Manchester_United,Away,34853,83090,Shinji Kagawa,shinji-kagawa,M,False,0.0,0.0,79.0,0.0,,0.0
+2012-13,3645981,29,1,Manchester_United,Away,46432,43250,Tom Cleverley,tom-cleverley,M,True,,,,,,
+2012-13,2757514,30,1,Manchester_United,Home,754,3,Ryan Giggs,ryan-giggs,M,False,0.0,0.0,90.0,0.0,,0.0
+2012-13,2757514,30,1,Manchester_United,Home,938,2404,Michael Carrick,michael-carrick,M,True,0.0,0.0,16.0,0.0,,0.0
+2012-13,2757514,30,1,Manchester_United,Home,17887,27258,Anderson,anderson,M,False,0.0,0.0,85.0,0.0,,0.0
+2012-13,2757514,30,1,Manchester_United,Home,34853,83090,Shinji Kagawa,shinji-kagawa,M,True,0.0,0.0,5.0,0.0,,0.0
+2012-13,2757514,30,1,Manchester_United,Home,123778,82205,Nick Powell,nick-powell,M,True,,,,,,
+2012-13,2757228,31,1,Manchester_United,Away,938,2404,Michael Carrick,michael-carrick,M,False,0.0,0.0,90.0,0.0,,0.0
+2012-13,2757228,31,1,Manchester_United,Away,17740,38530,Nani,nani,M,True,,,,,,
+2012-13,2757228,31,1,Manchester_United,Away,17887,27258,Anderson,anderson,M,False,0.0,0.0,84.0,0.0,,0.0
+2012-13,2757228,31,1,Manchester_United,Away,34853,83090,Shinji Kagawa,shinji-kagawa,M,False,0.0,0.0,78.0,0.0,,0.0
+2012-13,2757228,31,1,Manchester_United,Away,46432,43250,Tom Cleverley,tom-cleverley,M,True,0.0,0.0,6.0,0.0,,0.0
+2012-13,2757228,31,1,Manchester_United,Away,123778,82205,Nick Powell,nick-powell,M,True,,,,,,
+2012-13,2757240,32,1,Manchester_United,Home,754,3,Ryan Giggs,ryan-giggs,M,False,0.0,0.0,90.0,0.0,,0.0
+2012-13,2757240,32,1,Manchester_United,Home,938,2404,Michael Carrick,michael-carrick,M,False,0.0,0.0,90.0,0.0,,0.0
+2012-13,2757240,32,1,Manchester_United,Home,17740,38530,Nani,nani,M,True,,,,,,
+2012-13,2757240,32,1,Manchester_United,Home,34853,83090,Shinji Kagawa,shinji-kagawa,M,True,0.0,0.0,1.0,0.0,,0.0
+2012-13,2757240,32,1,Manchester_United,Home,46432,43250,Tom Cleverley,tom-cleverley,M,True,,,,,,
+2012-13,2757270,33,1,Manchester_United,Away,754,3,Ryan Giggs,ryan-giggs,M,True,,,,,,
+2012-13,2757270,33,1,Manchester_United,Away,938,2404,Michael Carrick,michael-carrick,M,False,0.0,1.0,90.0,0.0,,0.0
+2012-13,2757270,33,1,Manchester_United,Away,34853,83090,Shinji Kagawa,shinji-kagawa,M,False,0.0,0.0,90.0,0.0,,0.0
+2012-13,2757270,33,1,Manchester_United,Away,46432,43250,Tom Cleverley,tom-cleverley,M,True,,,,,,
+2012-13,2757298,34,1,Manchester_United,Home,754,3,Ryan Giggs,ryan-giggs,M,False,0.0,0.0,90.0,0.0,,0.0
+2012-13,2757298,34,1,Manchester_United,Home,938,2404,Michael Carrick,michael-carrick,M,False,0.0,0.0,90.0,0.0,,0.0
+2012-13,2757298,34,1,Manchester_United,Home,17740,38530,Nani,nani,M,True,,,,,,
+2012-13,2757298,34,1,Manchester_United,Home,34853,83090,Shinji Kagawa,shinji-kagawa,M,False,0.0,0.0,90.0,0.0,,0.0
+2012-13,2757298,34,1,Manchester_United,Home,46432,43250,Tom Cleverley,tom-cleverley,M,True,,,,,,
+2012-13,2757314,35,1,Manchester_United,Away,754,3,Ryan Giggs,ryan-giggs,M,True,0.0,0.0,8.0,0.0,,0.0
+2012-13,2757314,35,1,Manchester_United,Away,938,2404,Michael Carrick,michael-carrick,M,False,0.0,0.0,90.0,0.0,,0.0
+2012-13,2757314,35,1,Manchester_United,Away,17740,38530,Nani,nani,M,False,0.0,0.0,82.0,0.0,,0.0
+2012-13,2757314,35,1,Manchester_United,Away,17887,27258,Anderson,anderson,M,True,0.0,0.0,17.0,0.0,,0.0
+2012-13,2757314,35,1,Manchester_United,Away,34853,83090,Shinji Kagawa,shinji-kagawa,M,True,,,,,,
+2012-13,2757314,35,1,Manchester_United,Away,46432,43250,Tom Cleverley,tom-cleverley,M,True,,,,,,
+2012-13,2757336,36,1,Manchester_United,Home,754,3,Ryan Giggs,ryan-giggs,M,False,0.0,0.0,90.0,0.0,,0.0
+2012-13,2757336,36,1,Manchester_United,Home,761,363,Paul Scholes,paul-scholes,M,True,,,,,,
+2012-13,2757336,36,1,Manchester_United,Home,17887,27258,Anderson,anderson,M,False,0.0,0.0,69.0,0.0,,0.0
+2012-13,2757336,36,1,Manchester_United,Home,34853,83090,Shinji Kagawa,shinji-kagawa,M,True,,,,,,
+2012-13,2757336,36,1,Manchester_United,Home,46432,43250,Tom Cleverley,tom-cleverley,M,False,0.0,0.0,68.0,0.0,,0.0
+2012-13,2757378,37,1,Manchester_United,Home,754,3,Ryan Giggs,ryan-giggs,M,True,0.0,0.0,15.0,0.0,,0.0
+2012-13,2757378,37,1,Manchester_United,Home,761,363,Paul Scholes,paul-scholes,M,False,0.0,0.0,66.0,0.0,,0.0
+2012-13,2757378,37,1,Manchester_United,Home,938,2404,Michael Carrick,michael-carrick,M,False,0.0,0.0,90.0,0.0,,0.0
+2012-13,2757378,37,1,Manchester_United,Home,17887,27258,Anderson,anderson,M,True,0.0,0.0,24.0,0.0,,0.0
+2012-13,2757378,37,1,Manchester_United,Home,34853,83090,Shinji Kagawa,shinji-kagawa,M,False,0.0,0.0,90.0,0.0,,0.0
+2012-13,2757378,37,1,Manchester_United,Home,46432,43250,Tom Cleverley,tom-cleverley,M,True,,,,,,
+2012-13,2757402,38,1,Manchester_United,Away,754,3,Ryan Giggs,ryan-giggs,M,True,0.0,0.0,30.0,0.0,,0.0
+2012-13,2757402,38,1,Manchester_United,Away,761,363,Paul Scholes,paul-scholes,M,True,0.0,0.0,21.0,0.0,,0.0
+2012-13,2757402,38,1,Manchester_United,Away,938,2404,Michael Carrick,michael-carrick,M,False,0.0,0.0,90.0,0.0,,0.0
+2012-13,2757402,38,1,Manchester_United,Away,17887,27258,Anderson,anderson,M,False,0.0,0.0,90.0,0.0,,0.0
+2012-13,2757402,38,1,Manchester_United,Away,34853,83090,Shinji Kagawa,shinji-kagawa,M,False,0.0,1.0,69.0,0.0,,0.0
+2012-13,2757402,38,1,Manchester_United,Away,46432,43250,Tom Cleverley,tom-cleverley,M,False,0.0,0.0,60.0,0.0,,0.0
+2012-13,2757402,38,1,Manchester_United,Away,328145,154976,Adnan Januzaj,adnan-januzaj,M,True,,,,,,

@@ -1,0 +1,4 @@
+season,matchId,gameweek,team_id,team,venue,playerId,pl_code,playerName,slug,position,substitute,goalAssist,goals,minutesPlayed,ownGoals,substitute.1,totalShots
+2011-12,1769148,20,52,Queens_Park_Rangers,Home,10207,5692,Rob Hulse,rob-hulse,Unknown,True,,,,,,
+2011-12,1769180,23,52,Queens_Park_Rangers,Away,10207,5692,Rob Hulse,rob-hulse,Unknown,False,0.0,0.0,54.0,0.0,,0.0
+2011-12,1769190,24,52,Queens_Park_Rangers,Home,10207,5692,Rob Hulse,rob-hulse,Unknown,True,0.0,0.0,16.0,0.0,,0.0

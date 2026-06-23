@@ -1,685 +1,685 @@
-season,matchId,gameweek,team_id,team,venue,playerId,pl_code,playerName,slug,position,substitute,goalAssist,goals,minutesPlayed,ownGoals,totalShots
-2009-10,1062466,1,30,Bolton_Wanderers,Home,541,3754,Jlloyd Samuel,jlloyd-samuel,M,True,,,,,
-2009-10,1062466,1,30,Bolton_Wanderers,Home,546,1999,Gavin McCann,gavin-mccann,,False,0.0,0.0,68.0,0.0,0.0
-2009-10,1062466,1,30,Bolton_Wanderers,Home,666,1587,Zat Knight,zat-knight,D,False,0.0,0.0,90.0,0.0,0.0
-2009-10,1062466,1,30,Bolton_Wanderers,Home,864,3289,Matthew Taylor,matthew-taylor,D,False,0.0,0.0,90.0,0.0,0.0
-2009-10,1062466,1,30,Bolton_Wanderers,Home,933,1589,Sean Davis,sean-davis,M,False,0.0,0.0,90.0,0.0,0.0
-2009-10,1062466,1,30,Bolton_Wanderers,Home,1005,2004,Paul Robinson,paul-robinson,D,False,0.0,0.0,90.0,0.0,0.0
-2009-10,1062466,1,30,Bolton_Wanderers,Home,1244,3630,Kevin Davies,kevin-davies,F,False,0.0,0.0,90.0,0.0,0.0
-2009-10,1062466,1,30,Bolton_Wanderers,Home,1253,1344,Jussi Jääskeläinen,jussi-jaaskelainen,G,False,0.0,0.0,90.0,0.0,0.0
-2009-10,1062466,1,30,Bolton_Wanderers,Home,9628,19419,Gary Cahill,gary-cahill,D,False,0.0,0.0,90.0,0.0,0.0
-2009-10,1062466,1,30,Bolton_Wanderers,Home,10673,19930,Mark Davies,mark-davies,M,True,,,,,
-2009-10,1062466,1,30,Bolton_Wanderers,Home,11095,7712,Sam Ricketts,sam-ricketts,D,False,0.0,0.0,90.0,0.0,0.0
-2009-10,1062466,1,30,Bolton_Wanderers,Home,14051,27696,Fabrice Muamba,fabrice-muamba,M,False,0.0,0.0,90.0,0.0,0.0
-2009-10,1062466,1,30,Bolton_Wanderers,Home,38639,75773,Chung-yong Lee,chung-yong-lee,M,True,0.0,0.0,22.0,0.0,0.0
-2009-10,1062466,1,30,Bolton_Wanderers,Home,78609,75826,Daniel Ward,daniel-ward,F,True,0.0,0.0,7.0,0.0,0.0
-2009-10,1062466,1,30,Bolton_Wanderers,Home,761412,28491,Ali Al-Habsi,ali-al-habsi,G,True,,,,,
-2009-10,1062466,1,30,Bolton_Wanderers,Home,1422131,1629,Andy O'Brien,andy-obrien,D,True,,,,,
-2009-10,1062466,1,30,Bolton_Wanderers,Home,1422568,4739,Johan Elmander,johan-elmander,F,False,0.0,0.0,83.0,0.0,0.0
-2009-10,1062466,1,30,Bolton_Wanderers,Home,2272736,18621,Tamir Cohen,tamir-cohen,M,True,,,,,
-2009-10,1276637,2,30,Bolton_Wanderers,Away,495,9765,Ivan Klasnić,ivan-klasnic,F,True,0.0,0.0,9.0,0.0,0.0
-2009-10,1276637,2,30,Bolton_Wanderers,Away,541,3754,Jlloyd Samuel,jlloyd-samuel,M,True,,,,,
-2009-10,1276637,2,30,Bolton_Wanderers,Away,546,1999,Gavin McCann,gavin-mccann,,True,0.0,0.0,34.0,0.0,0.0
-2009-10,1276637,2,30,Bolton_Wanderers,Away,666,1587,Zat Knight,zat-knight,D,False,0.0,0.0,90.0,0.0,0.0
-2009-10,1276637,2,30,Bolton_Wanderers,Away,864,3289,Matthew Taylor,matthew-taylor,D,False,0.0,1.0,90.0,0.0,0.0
-2009-10,1276637,2,30,Bolton_Wanderers,Away,1005,2004,Paul Robinson,paul-robinson,D,False,0.0,0.0,90.0,0.0,0.0
-2009-10,1276637,2,30,Bolton_Wanderers,Away,1244,3630,Kevin Davies,kevin-davies,F,False,1.0,0.0,90.0,0.0,0.0
-2009-10,1276637,2,30,Bolton_Wanderers,Away,1253,1344,Jussi Jääskeläinen,jussi-jaaskelainen,G,False,0.0,0.0,90.0,0.0,0.0
-2009-10,1276637,2,30,Bolton_Wanderers,Away,4503,28183,Gretar Rafn Steinsson,gretar-rafn-steinsson,D,False,0.0,0.0,90.0,0.0,0.0
-2009-10,1276637,2,30,Bolton_Wanderers,Away,9628,19419,Gary Cahill,gary-cahill,D,False,0.0,1.0,90.0,0.0,0.0
-2009-10,1276637,2,30,Bolton_Wanderers,Away,10673,19930,Mark Davies,mark-davies,M,False,0.0,0.0,56.0,0.0,0.0
-2009-10,1276637,2,30,Bolton_Wanderers,Away,11095,7712,Sam Ricketts,sam-ricketts,D,True,0.0,0.0,1.0,0.0,0.0
-2009-10,1276637,2,30,Bolton_Wanderers,Away,14051,27696,Fabrice Muamba,fabrice-muamba,M,False,0.0,0.0,90.0,0.0,0.0
-2009-10,1276637,2,30,Bolton_Wanderers,Away,38639,75773,Chung-yong Lee,chung-yong-lee,M,False,0.0,0.0,81.0,0.0,0.0
-2009-10,1276637,2,30,Bolton_Wanderers,Away,761412,28491,Ali Al-Habsi,ali-al-habsi,G,True,,,,,
-2009-10,1276637,2,30,Bolton_Wanderers,Away,1422131,1629,Andy O'Brien,andy-obrien,D,True,,,,,
-2009-10,1276637,2,30,Bolton_Wanderers,Away,1422568,4739,Johan Elmander,johan-elmander,F,True,,,,,
-2009-10,1276637,2,30,Bolton_Wanderers,Away,2272736,18621,Tamir Cohen,tamir-cohen,M,False,0.0,0.0,90.0,0.0,0.0
-2009-10,1062488,3,30,Bolton_Wanderers,Away,541,3754,Jlloyd Samuel,jlloyd-samuel,M,True,0.0,0.0,12.0,0.0,0.0
-2009-10,1062488,3,30,Bolton_Wanderers,Away,546,1999,Gavin McCann,gavin-mccann,,True,,,,,
-2009-10,1062488,3,30,Bolton_Wanderers,Away,666,1587,Zat Knight,zat-knight,D,False,0.0,0.0,90.0,0.0,0.0
-2009-10,1062488,3,30,Bolton_Wanderers,Away,864,3289,Matthew Taylor,matthew-taylor,D,False,0.0,0.0,90.0,0.0,0.0
-2009-10,1062488,3,30,Bolton_Wanderers,Away,933,1589,Sean Davis,sean-davis,M,False,0.0,0.0,90.0,0.0,0.0
-2009-10,1062488,3,30,Bolton_Wanderers,Away,1005,2004,Paul Robinson,paul-robinson,D,False,0.0,0.0,78.0,0.0,0.0
-2009-10,1062488,3,30,Bolton_Wanderers,Away,1244,3630,Kevin Davies,kevin-davies,F,False,0.0,0.0,90.0,0.0,0.0
-2009-10,1062488,3,30,Bolton_Wanderers,Away,1253,1344,Jussi Jääskeläinen,jussi-jaaskelainen,G,False,0.0,0.0,90.0,0.0,0.0
-2009-10,1062488,3,30,Bolton_Wanderers,Away,4503,28183,Gretar Rafn Steinsson,gretar-rafn-steinsson,D,True,,,,,
-2009-10,1062488,3,30,Bolton_Wanderers,Away,9628,19419,Gary Cahill,gary-cahill,D,False,0.0,0.0,90.0,0.0,0.0
-2009-10,1062488,3,30,Bolton_Wanderers,Away,10673,19930,Mark Davies,mark-davies,M,False,0.0,0.0,81.0,0.0,0.0
-2009-10,1062488,3,30,Bolton_Wanderers,Away,11095,7712,Sam Ricketts,sam-ricketts,D,False,0.0,0.0,90.0,0.0,0.0
-2009-10,1062488,3,30,Bolton_Wanderers,Away,14051,27696,Fabrice Muamba,fabrice-muamba,M,False,0.0,0.0,90.0,0.0,0.0
-2009-10,1062488,3,30,Bolton_Wanderers,Away,38639,75773,Chung-yong Lee,chung-yong-lee,M,True,0.0,0.0,19.0,0.0,0.0
-2009-10,1062488,3,30,Bolton_Wanderers,Away,78609,75826,Daniel Ward,daniel-ward,F,True,0.0,0.0,9.0,0.0,0.0
-2009-10,1062488,3,30,Bolton_Wanderers,Away,761412,28491,Ali Al-Habsi,ali-al-habsi,G,True,,,,,
-2009-10,1062488,3,30,Bolton_Wanderers,Away,1422568,4739,Johan Elmander,johan-elmander,F,False,0.0,0.0,71.0,0.0,0.0
-2009-10,1062488,3,30,Bolton_Wanderers,Away,1422750,5539,Danny Shittu,danny-shittu,D,True,,,,,
-2009-10,1062496,4,30,Bolton_Wanderers,Home,541,3754,Jlloyd Samuel,jlloyd-samuel,M,False,0.0,0.0,90.0,0.0,0.0
-2009-10,1062496,4,30,Bolton_Wanderers,Home,666,1587,Zat Knight,zat-knight,D,False,0.0,0.0,90.0,0.0,0.0
-2009-10,1062496,4,30,Bolton_Wanderers,Home,864,3289,Matthew Taylor,matthew-taylor,D,False,0.0,0.0,90.0,0.0,0.0
-2009-10,1062496,4,30,Bolton_Wanderers,Home,933,1589,Sean Davis,sean-davis,M,False,0.0,0.0,54.0,0.0,0.0
-2009-10,1062496,4,30,Bolton_Wanderers,Home,1005,2004,Paul Robinson,paul-robinson,D,True,,,,,
-2009-10,1062496,4,30,Bolton_Wanderers,Home,1244,3630,Kevin Davies,kevin-davies,F,False,1.0,1.0,90.0,0.0,0.0
-2009-10,1062496,4,30,Bolton_Wanderers,Home,1253,1344,Jussi Jääskeläinen,jussi-jaaskelainen,G,False,0.0,0.0,90.0,0.0,0.0
-2009-10,1062496,4,30,Bolton_Wanderers,Home,4503,28183,Gretar Rafn Steinsson,gretar-rafn-steinsson,D,True,0.0,0.0,12.0,0.0,0.0
-2009-10,1062496,4,30,Bolton_Wanderers,Home,9628,19419,Gary Cahill,gary-cahill,D,False,0.0,0.0,90.0,0.0,0.0
-2009-10,1062496,4,30,Bolton_Wanderers,Home,11095,7712,Sam Ricketts,sam-ricketts,D,False,0.0,0.0,90.0,0.0,0.0
-2009-10,1062496,4,30,Bolton_Wanderers,Home,14051,27696,Fabrice Muamba,fabrice-muamba,M,False,0.0,0.0,90.0,0.0,0.0
-2009-10,1062496,4,30,Bolton_Wanderers,Home,17604,38157,Rahamat Riga Mustapha,rahamat-riga-mustapha,,True,0.0,0.0,1.0,0.0,0.0
-2009-10,1062496,4,30,Bolton_Wanderers,Home,33854,40386,Chris Basham,chris-basham,D,True,0.0,0.0,31.0,0.0,0.0
-2009-10,1062496,4,30,Bolton_Wanderers,Home,38639,75773,Chung-yong Lee,chung-yong-lee,M,True,,,,,
-2009-10,1062496,4,30,Bolton_Wanderers,Home,761412,28491,Ali Al-Habsi,ali-al-habsi,G,True,,,,,
-2009-10,1062496,4,30,Bolton_Wanderers,Home,1422131,1629,Andy O'Brien,andy-obrien,D,True,,,,,
-2009-10,1062496,4,30,Bolton_Wanderers,Home,1422568,4739,Johan Elmander,johan-elmander,F,False,1.0,0.0,59.0,0.0,0.0
-2009-10,1062496,4,30,Bolton_Wanderers,Home,2272736,18621,Tamir Cohen,tamir-cohen,M,False,0.0,1.0,78.0,0.0,0.0
-2009-10,1062509,5,30,Bolton_Wanderers,Away,495,9765,Ivan Klasnić,ivan-klasnic,F,True,0.0,0.0,19.0,0.0,0.0
-2009-10,1062509,5,30,Bolton_Wanderers,Away,541,3754,Jlloyd Samuel,jlloyd-samuel,M,False,0.0,0.0,90.0,0.0,0.0
-2009-10,1062509,5,30,Bolton_Wanderers,Away,546,1999,Gavin McCann,gavin-mccann,,True,0.0,0.0,13.0,0.0,0.0
-2009-10,1062509,5,30,Bolton_Wanderers,Away,666,1587,Zat Knight,zat-knight,D,False,0.0,0.0,90.0,0.0,0.0
-2009-10,1062509,5,30,Bolton_Wanderers,Away,864,3289,Matthew Taylor,matthew-taylor,D,False,0.0,1.0,90.0,0.0,0.0
-2009-10,1062509,5,30,Bolton_Wanderers,Away,1005,2004,Paul Robinson,paul-robinson,D,True,,,,,
-2009-10,1062509,5,30,Bolton_Wanderers,Away,1244,3630,Kevin Davies,kevin-davies,F,False,0.0,0.0,90.0,0.0,0.0
-2009-10,1062509,5,30,Bolton_Wanderers,Away,1253,1344,Jussi Jääskeläinen,jussi-jaaskelainen,G,False,0.0,0.0,90.0,0.0,0.0
-2009-10,1062509,5,30,Bolton_Wanderers,Away,4503,28183,Gretar Rafn Steinsson,gretar-rafn-steinsson,D,False,1.0,0.0,90.0,0.0,0.0
-2009-10,1062509,5,30,Bolton_Wanderers,Away,9628,19419,Gary Cahill,gary-cahill,D,False,0.0,1.0,90.0,0.0,0.0
-2009-10,1062509,5,30,Bolton_Wanderers,Away,10673,19930,Mark Davies,mark-davies,M,False,0.0,0.0,71.0,0.0,0.0
-2009-10,1062509,5,30,Bolton_Wanderers,Away,11095,7712,Sam Ricketts,sam-ricketts,D,False,0.0,0.0,71.0,0.0,0.0
-2009-10,1062509,5,30,Bolton_Wanderers,Away,13175,19575,Joey O'Brien,joey-obrien,M,True,,,,,
-2009-10,1062509,5,30,Bolton_Wanderers,Away,14051,27696,Fabrice Muamba,fabrice-muamba,M,False,0.0,0.0,90.0,0.0,0.0
-2009-10,1062509,5,30,Bolton_Wanderers,Away,33854,40386,Chris Basham,chris-basham,D,True,1.0,0.0,19.0,0.0,0.0
-2009-10,1062509,5,30,Bolton_Wanderers,Away,38639,75773,Chung-yong Lee,chung-yong-lee,M,True,,,,,
-2009-10,1062509,5,30,Bolton_Wanderers,Away,761412,28491,Ali Al-Habsi,ali-al-habsi,G,True,,,,,
-2009-10,1062509,5,30,Bolton_Wanderers,Away,2272736,18621,Tamir Cohen,tamir-cohen,M,False,0.0,1.0,77.0,0.0,0.0
-2009-10,1062516,6,30,Bolton_Wanderers,Home,495,9765,Ivan Klasnić,ivan-klasnic,F,True,0.0,0.0,44.0,0.0,0.0
-2009-10,1062516,6,30,Bolton_Wanderers,Home,541,3754,Jlloyd Samuel,jlloyd-samuel,M,False,0.0,0.0,90.0,0.0,0.0
-2009-10,1062516,6,30,Bolton_Wanderers,Home,546,1999,Gavin McCann,gavin-mccann,,False,0.0,0.0,90.0,0.0,0.0
-2009-10,1062516,6,30,Bolton_Wanderers,Home,666,1587,Zat Knight,zat-knight,D,False,0.0,0.0,90.0,0.0,0.0
-2009-10,1062516,6,30,Bolton_Wanderers,Home,864,3289,Matthew Taylor,matthew-taylor,D,False,0.0,1.0,90.0,0.0,0.0
-2009-10,1062516,6,30,Bolton_Wanderers,Home,933,1589,Sean Davis,sean-davis,M,True,,,,,
-2009-10,1062516,6,30,Bolton_Wanderers,Home,1242,1307,Ricardo Wayne Gardner,ricardo-wayne-gardner,D,True,0.0,0.0,44.0,0.0,0.0
-2009-10,1062516,6,30,Bolton_Wanderers,Home,1244,3630,Kevin Davies,kevin-davies,F,False,0.0,0.0,90.0,0.0,0.0
-2009-10,1062516,6,30,Bolton_Wanderers,Home,1253,1344,Jussi Jääskeläinen,jussi-jaaskelainen,G,False,0.0,0.0,90.0,0.0,0.0
-2009-10,1062516,6,30,Bolton_Wanderers,Home,4503,28183,Gretar Rafn Steinsson,gretar-rafn-steinsson,D,False,0.0,0.0,46.0,0.0,0.0
-2009-10,1062516,6,30,Bolton_Wanderers,Home,9628,19419,Gary Cahill,gary-cahill,D,False,0.0,0.0,90.0,0.0,0.0
-2009-10,1062516,6,30,Bolton_Wanderers,Home,11095,7712,Sam Ricketts,sam-ricketts,D,False,0.0,0.0,90.0,0.0,0.0
-2009-10,1062516,6,30,Bolton_Wanderers,Home,13175,19575,Joey O'Brien,joey-obrien,M,True,,,,,
-2009-10,1062516,6,30,Bolton_Wanderers,Home,14051,27696,Fabrice Muamba,fabrice-muamba,M,False,0.0,0.0,46.0,0.0,0.0
-2009-10,1062516,6,30,Bolton_Wanderers,Home,38639,75773,Chung-yong Lee,chung-yong-lee,M,True,,,,,
-2009-10,1062516,6,30,Bolton_Wanderers,Home,761412,28491,Ali Al-Habsi,ali-al-habsi,G,True,,,,,
-2009-10,1062516,6,30,Bolton_Wanderers,Home,1422568,4739,Johan Elmander,johan-elmander,F,True,,,,,
-2009-10,1062516,6,30,Bolton_Wanderers,Home,2272736,18621,Tamir Cohen,tamir-cohen,M,False,0.0,0.0,90.0,0.0,0.0
-2009-10,1062524,7,30,Bolton_Wanderers,Away,495,9765,Ivan Klasnić,ivan-klasnic,F,False,0.0,0.0,54.0,0.0,0.0
-2009-10,1062524,7,30,Bolton_Wanderers,Away,541,3754,Jlloyd Samuel,jlloyd-samuel,M,False,0.0,0.0,90.0,0.0,0.0
-2009-10,1062524,7,30,Bolton_Wanderers,Away,546,1999,Gavin McCann,gavin-mccann,,True,0.0,0.0,19.0,0.0,0.0
-2009-10,1062524,7,30,Bolton_Wanderers,Away,666,1587,Zat Knight,zat-knight,D,False,0.0,0.0,90.0,0.0,0.0
-2009-10,1062524,7,30,Bolton_Wanderers,Away,864,3289,Matthew Taylor,matthew-taylor,D,False,1.0,0.0,90.0,0.0,0.0
-2009-10,1062524,7,30,Bolton_Wanderers,Away,1242,1307,Ricardo Wayne Gardner,ricardo-wayne-gardner,D,False,0.0,0.0,71.0,0.0,0.0
-2009-10,1062524,7,30,Bolton_Wanderers,Away,1244,3630,Kevin Davies,kevin-davies,F,False,1.0,0.0,90.0,0.0,0.0
-2009-10,1062524,7,30,Bolton_Wanderers,Away,1253,1344,Jussi Jääskeläinen,jussi-jaaskelainen,G,False,0.0,0.0,90.0,0.0,0.0
-2009-10,1062524,7,30,Bolton_Wanderers,Away,4503,28183,Gretar Rafn Steinsson,gretar-rafn-steinsson,D,True,,,,,
-2009-10,1062524,7,30,Bolton_Wanderers,Away,9628,19419,Gary Cahill,gary-cahill,D,False,0.0,0.0,90.0,0.0,0.0
-2009-10,1062524,7,30,Bolton_Wanderers,Away,10673,19930,Mark Davies,mark-davies,M,True,,,,,
-2009-10,1062524,7,30,Bolton_Wanderers,Away,11095,7712,Sam Ricketts,sam-ricketts,D,False,0.0,0.0,90.0,0.0,0.0
-2009-10,1062524,7,30,Bolton_Wanderers,Away,14051,27696,Fabrice Muamba,fabrice-muamba,M,False,0.0,0.0,90.0,0.0,0.0
-2009-10,1062524,7,30,Bolton_Wanderers,Away,38639,75773,Chung-yong Lee,chung-yong-lee,M,True,0.0,1.0,36.0,0.0,0.0
-2009-10,1062524,7,30,Bolton_Wanderers,Away,761412,28491,Ali Al-Habsi,ali-al-habsi,G,True,,,,,
-2009-10,1062524,7,30,Bolton_Wanderers,Away,1422131,1629,Andy O'Brien,andy-obrien,D,True,,,,,
-2009-10,1062524,7,30,Bolton_Wanderers,Away,1422568,4739,Johan Elmander,johan-elmander,F,True,,,,,
-2009-10,1062524,7,30,Bolton_Wanderers,Away,2272736,18621,Tamir Cohen,tamir-cohen,M,False,0.0,1.0,90.0,0.0,0.0
-2009-10,1062536,8,30,Bolton_Wanderers,Home,495,9765,Ivan Klasnić,ivan-klasnic,F,True,0.0,0.0,3.0,0.0,0.0
-2009-10,1062536,8,30,Bolton_Wanderers,Home,541,3754,Jlloyd Samuel,jlloyd-samuel,M,False,0.0,0.0,90.0,0.0,0.0
-2009-10,1062536,8,30,Bolton_Wanderers,Home,546,1999,Gavin McCann,gavin-mccann,,True,0.0,0.0,16.0,0.0,0.0
-2009-10,1062536,8,30,Bolton_Wanderers,Home,666,1587,Zat Knight,zat-knight,D,False,0.0,0.0,90.0,0.0,0.0
-2009-10,1062536,8,30,Bolton_Wanderers,Home,864,3289,Matthew Taylor,matthew-taylor,D,False,0.0,0.0,81.0,0.0,0.0
-2009-10,1062536,8,30,Bolton_Wanderers,Home,1005,2004,Paul Robinson,paul-robinson,D,True,,,,,
-2009-10,1062536,8,30,Bolton_Wanderers,Home,1242,1307,Ricardo Wayne Gardner,ricardo-wayne-gardner,D,False,0.0,1.0,90.0,0.0,0.0
-2009-10,1062536,8,30,Bolton_Wanderers,Home,1244,3630,Kevin Davies,kevin-davies,F,False,0.0,1.0,90.0,0.0,0.0
-2009-10,1062536,8,30,Bolton_Wanderers,Home,1253,1344,Jussi Jääskeläinen,jussi-jaaskelainen,G,False,0.0,0.0,90.0,0.0,0.0
-2009-10,1062536,8,30,Bolton_Wanderers,Home,4503,28183,Gretar Rafn Steinsson,gretar-rafn-steinsson,D,True,,,,,
-2009-10,1062536,8,30,Bolton_Wanderers,Home,9628,19419,Gary Cahill,gary-cahill,D,False,0.0,0.0,90.0,0.0,0.0
-2009-10,1062536,8,30,Bolton_Wanderers,Home,10673,19930,Mark Davies,mark-davies,M,True,0.0,0.0,9.0,0.0,0.0
-2009-10,1062536,8,30,Bolton_Wanderers,Home,11095,7712,Sam Ricketts,sam-ricketts,D,False,0.0,0.0,90.0,0.0,0.0
-2009-10,1062536,8,30,Bolton_Wanderers,Home,14051,27696,Fabrice Muamba,fabrice-muamba,M,False,0.0,0.0,74.0,0.0,0.0
-2009-10,1062536,8,30,Bolton_Wanderers,Home,38639,75773,Chung-yong Lee,chung-yong-lee,M,False,1.0,0.0,87.0,0.0,0.0
-2009-10,1062536,8,30,Bolton_Wanderers,Home,761412,28491,Ali Al-Habsi,ali-al-habsi,G,True,,,,,
-2009-10,1062536,8,30,Bolton_Wanderers,Home,1422750,5539,Danny Shittu,danny-shittu,D,True,,,,,
-2009-10,1062536,8,30,Bolton_Wanderers,Home,2272736,18621,Tamir Cohen,tamir-cohen,M,False,1.0,0.0,90.0,0.0,0.0
-2009-10,1062549,9,30,Bolton_Wanderers,Away,495,9765,Ivan Klasnić,ivan-klasnic,F,True,0.0,0.0,37.0,0.0,0.0
-2009-10,1062549,9,30,Bolton_Wanderers,Away,541,3754,Jlloyd Samuel,jlloyd-samuel,M,False,0.0,0.0,90.0,0.0,0.0
-2009-10,1062549,9,30,Bolton_Wanderers,Away,546,1999,Gavin McCann,gavin-mccann,,True,,,,,
-2009-10,1062549,9,30,Bolton_Wanderers,Away,666,1587,Zat Knight,zat-knight,D,False,0.0,0.0,90.0,1.0,0.0
-2009-10,1062549,9,30,Bolton_Wanderers,Away,864,3289,Matthew Taylor,matthew-taylor,D,False,0.0,1.0,90.0,0.0,0.0
-2009-10,1062549,9,30,Bolton_Wanderers,Away,1005,2004,Paul Robinson,paul-robinson,D,True,,,,,
-2009-10,1062549,9,30,Bolton_Wanderers,Away,1242,1307,Ricardo Wayne Gardner,ricardo-wayne-gardner,D,False,0.0,0.0,90.0,0.0,0.0
-2009-10,1062549,9,30,Bolton_Wanderers,Away,1244,3630,Kevin Davies,kevin-davies,F,False,1.0,0.0,90.0,0.0,0.0
-2009-10,1062549,9,30,Bolton_Wanderers,Away,1253,1344,Jussi Jääskeläinen,jussi-jaaskelainen,G,False,0.0,0.0,90.0,0.0,0.0
-2009-10,1062549,9,30,Bolton_Wanderers,Away,4503,28183,Gretar Rafn Steinsson,gretar-rafn-steinsson,D,True,,,,,
-2009-10,1062549,9,30,Bolton_Wanderers,Away,9628,19419,Gary Cahill,gary-cahill,D,False,0.0,0.0,90.0,0.0,0.0
-2009-10,1062549,9,30,Bolton_Wanderers,Away,10673,19930,Mark Davies,mark-davies,M,True,0.0,0.0,27.0,0.0,0.0
-2009-10,1062549,9,30,Bolton_Wanderers,Away,11095,7712,Sam Ricketts,sam-ricketts,D,False,0.0,0.0,90.0,0.0,0.0
-2009-10,1062549,9,30,Bolton_Wanderers,Away,14051,27696,Fabrice Muamba,fabrice-muamba,M,False,0.0,0.0,77.0,0.0,0.0
-2009-10,1062549,9,30,Bolton_Wanderers,Away,33854,40386,Chris Basham,chris-basham,D,True,0.0,0.0,13.0,0.0,0.0
-2009-10,1062549,9,30,Bolton_Wanderers,Away,38639,75773,Chung-yong Lee,chung-yong-lee,M,False,0.0,0.0,53.0,0.0,0.0
-2009-10,1062549,9,30,Bolton_Wanderers,Away,761412,28491,Ali Al-Habsi,ali-al-habsi,G,True,,,,,
-2009-10,1062549,9,30,Bolton_Wanderers,Away,2272736,18621,Tamir Cohen,tamir-cohen,M,False,0.0,0.0,63.0,0.0,0.0
-2009-10,1062555,10,30,Bolton_Wanderers,Home,495,9765,Ivan Klasnić,ivan-klasnic,F,True,0.0,1.0,26.0,0.0,0.0
-2009-10,1062555,10,30,Bolton_Wanderers,Home,541,3754,Jlloyd Samuel,jlloyd-samuel,M,False,0.0,0.0,90.0,0.0,0.0
-2009-10,1062555,10,30,Bolton_Wanderers,Home,666,1587,Zat Knight,zat-knight,D,False,0.0,0.0,90.0,0.0,0.0
-2009-10,1062555,10,30,Bolton_Wanderers,Home,864,3289,Matthew Taylor,matthew-taylor,D,False,1.0,0.0,90.0,0.0,0.0
-2009-10,1062555,10,30,Bolton_Wanderers,Home,1005,2004,Paul Robinson,paul-robinson,D,True,,,,,
-2009-10,1062555,10,30,Bolton_Wanderers,Home,1242,1307,Ricardo Wayne Gardner,ricardo-wayne-gardner,D,False,0.0,0.0,64.0,0.0,0.0
-2009-10,1062555,10,30,Bolton_Wanderers,Home,1244,3630,Kevin Davies,kevin-davies,F,False,1.0,0.0,90.0,0.0,0.0
-2009-10,1062555,10,30,Bolton_Wanderers,Home,1253,1344,Jussi Jääskeläinen,jussi-jaaskelainen,G,False,0.0,0.0,90.0,0.0,0.0
-2009-10,1062555,10,30,Bolton_Wanderers,Home,4503,28183,Gretar Rafn Steinsson,gretar-rafn-steinsson,D,True,,,,,
-2009-10,1062555,10,30,Bolton_Wanderers,Home,9628,19419,Gary Cahill,gary-cahill,D,False,0.0,1.0,90.0,0.0,0.0
-2009-10,1062555,10,30,Bolton_Wanderers,Home,10673,19930,Mark Davies,mark-davies,M,True,,,,,
-2009-10,1062555,10,30,Bolton_Wanderers,Home,11095,7712,Sam Ricketts,sam-ricketts,D,False,1.0,0.0,90.0,0.0,0.0
-2009-10,1062555,10,30,Bolton_Wanderers,Home,13175,19575,Joey O'Brien,joey-obrien,M,True,,,,,
-2009-10,1062555,10,30,Bolton_Wanderers,Home,14051,27696,Fabrice Muamba,fabrice-muamba,M,False,0.0,0.0,90.0,0.0,0.0
-2009-10,1062555,10,30,Bolton_Wanderers,Home,33854,40386,Chris Basham,chris-basham,D,True,0.0,0.0,2.0,0.0,0.0
-2009-10,1062555,10,30,Bolton_Wanderers,Home,38639,75773,Chung-yong Lee,chung-yong-lee,M,False,0.0,1.0,88.0,0.0,0.0
-2009-10,1062555,10,30,Bolton_Wanderers,Home,761412,28491,Ali Al-Habsi,ali-al-habsi,G,True,,,,,
-2009-10,1062555,10,30,Bolton_Wanderers,Home,2272736,18621,Tamir Cohen,tamir-cohen,M,False,0.0,0.0,90.0,0.0,0.0
-2009-10,1062566,11,30,Bolton_Wanderers,Home,541,3754,Jlloyd Samuel,jlloyd-samuel,M,False,0.0,0.0,45.0,0.0,0.0
-2009-10,1062566,11,30,Bolton_Wanderers,Home,666,1587,Zat Knight,zat-knight,D,False,0.0,0.0,90.0,0.0,0.0
-2009-10,1062566,11,30,Bolton_Wanderers,Home,864,3289,Matthew Taylor,matthew-taylor,D,True,,,,,
-2009-10,1062566,11,30,Bolton_Wanderers,Home,1005,2004,Paul Robinson,paul-robinson,D,True,0.0,0.0,44.0,0.0,0.0
-2009-10,1062566,11,30,Bolton_Wanderers,Home,1242,1307,Ricardo Wayne Gardner,ricardo-wayne-gardner,D,True,0.0,0.0,44.0,0.0,0.0
-2009-10,1062566,11,30,Bolton_Wanderers,Home,1244,3630,Kevin Davies,kevin-davies,F,False,0.0,0.0,90.0,0.0,0.0
-2009-10,1062566,11,30,Bolton_Wanderers,Home,1253,1344,Jussi Jääskeläinen,jussi-jaaskelainen,G,False,0.0,0.0,90.0,0.0,0.0
-2009-10,1062566,11,30,Bolton_Wanderers,Home,4503,28183,Gretar Rafn Steinsson,gretar-rafn-steinsson,D,True,,,,,
-2009-10,1062566,11,30,Bolton_Wanderers,Home,9628,19419,Gary Cahill,gary-cahill,D,False,0.0,0.0,90.0,0.0,0.0
-2009-10,1062566,11,30,Bolton_Wanderers,Home,10673,19930,Mark Davies,mark-davies,M,True,0.0,0.0,25.0,0.0,0.0
-2009-10,1062566,11,30,Bolton_Wanderers,Home,11095,7712,Sam Ricketts,sam-ricketts,D,False,0.0,0.0,90.0,0.0,0.0
-2009-10,1062566,11,30,Bolton_Wanderers,Home,14051,27696,Fabrice Muamba,fabrice-muamba,M,False,0.0,0.0,65.0,0.0,0.0
-2009-10,1062566,11,30,Bolton_Wanderers,Home,33854,40386,Chris Basham,chris-basham,D,False,0.0,0.0,46.0,0.0,0.0
-2009-10,1062566,11,30,Bolton_Wanderers,Home,38639,75773,Chung-yong Lee,chung-yong-lee,M,False,0.0,0.0,46.0,0.0,0.0
-2009-10,1062566,11,30,Bolton_Wanderers,Home,761412,28491,Ali Al-Habsi,ali-al-habsi,G,True,,,,,
-2009-10,1062566,11,30,Bolton_Wanderers,Home,1422131,1629,Andy O'Brien,andy-obrien,D,True,,,,,
-2009-10,1062566,11,30,Bolton_Wanderers,Home,1422568,4739,Johan Elmander,johan-elmander,F,False,0.0,0.0,90.0,0.0,0.0
-2009-10,1062566,11,30,Bolton_Wanderers,Home,2272736,18621,Tamir Cohen,tamir-cohen,M,False,0.0,0.0,90.0,0.0,0.0
-2009-10,1062574,12,30,Bolton_Wanderers,Away,495,9765,Ivan Klasnić,ivan-klasnic,F,True,,,,,
-2009-10,1062574,12,30,Bolton_Wanderers,Away,666,1587,Zat Knight,zat-knight,D,False,0.0,0.0,90.0,0.0,0.0
-2009-10,1062574,12,30,Bolton_Wanderers,Away,864,3289,Matthew Taylor,matthew-taylor,D,False,0.0,0.0,90.0,0.0,0.0
-2009-10,1062574,12,30,Bolton_Wanderers,Away,1005,2004,Paul Robinson,paul-robinson,D,False,0.0,0.0,90.0,0.0,0.0
-2009-10,1062574,12,30,Bolton_Wanderers,Away,1242,1307,Ricardo Wayne Gardner,ricardo-wayne-gardner,D,False,0.0,0.0,90.0,0.0,0.0
-2009-10,1062574,12,30,Bolton_Wanderers,Away,1244,3630,Kevin Davies,kevin-davies,F,False,0.0,0.0,90.0,0.0,0.0
-2009-10,1062574,12,30,Bolton_Wanderers,Away,1253,1344,Jussi Jääskeläinen,jussi-jaaskelainen,G,False,0.0,0.0,90.0,0.0,0.0
-2009-10,1062574,12,30,Bolton_Wanderers,Away,4503,28183,Gretar Rafn Steinsson,gretar-rafn-steinsson,D,True,0.0,0.0,21.0,0.0,0.0
-2009-10,1062574,12,30,Bolton_Wanderers,Away,9628,19419,Gary Cahill,gary-cahill,D,False,1.0,0.0,90.0,0.0,0.0
-2009-10,1062574,12,30,Bolton_Wanderers,Away,10673,19930,Mark Davies,mark-davies,M,True,,,,,
-2009-10,1062574,12,30,Bolton_Wanderers,Away,11095,7712,Sam Ricketts,sam-ricketts,D,False,0.0,0.0,69.0,0.0,0.0
-2009-10,1062574,12,30,Bolton_Wanderers,Away,14051,27696,Fabrice Muamba,fabrice-muamba,M,False,0.0,0.0,90.0,0.0,0.0
-2009-10,1062574,12,30,Bolton_Wanderers,Away,33854,40386,Chris Basham,chris-basham,D,True,,,,,
-2009-10,1062574,12,30,Bolton_Wanderers,Away,38639,75773,Chung-yong Lee,chung-yong-lee,M,False,0.0,0.0,90.0,0.0,0.0
-2009-10,1062574,12,30,Bolton_Wanderers,Away,761412,28491,Ali Al-Habsi,ali-al-habsi,G,True,,,,,
-2009-10,1062574,12,30,Bolton_Wanderers,Away,1422131,1629,Andy O'Brien,andy-obrien,D,True,,,,,
-2009-10,1062574,12,30,Bolton_Wanderers,Away,1422568,4739,Johan Elmander,johan-elmander,F,True,0.0,1.0,61.0,0.0,0.0
-2009-10,1062574,12,30,Bolton_Wanderers,Away,2272736,18621,Tamir Cohen,tamir-cohen,M,False,0.0,0.0,29.0,0.0,0.0
-2009-10,1062585,13,30,Bolton_Wanderers,Home,495,9765,Ivan Klasnić,ivan-klasnic,F,True,0.0,0.0,24.0,0.0,0.0
-2009-10,1062585,13,30,Bolton_Wanderers,Home,541,3754,Jlloyd Samuel,jlloyd-samuel,M,False,0.0,0.0,90.0,0.0,0.0
-2009-10,1062585,13,30,Bolton_Wanderers,Home,546,1999,Gavin McCann,gavin-mccann,,False,0.0,0.0,69.0,0.0,0.0
-2009-10,1062585,13,30,Bolton_Wanderers,Home,666,1587,Zat Knight,zat-knight,D,True,,,,,
-2009-10,1062585,13,30,Bolton_Wanderers,Home,864,3289,Matthew Taylor,matthew-taylor,D,False,0.0,0.0,90.0,0.0,0.0
-2009-10,1062585,13,30,Bolton_Wanderers,Home,1242,1307,Ricardo Wayne Gardner,ricardo-wayne-gardner,D,False,0.0,0.0,69.0,0.0,0.0
-2009-10,1062585,13,30,Bolton_Wanderers,Home,1244,3630,Kevin Davies,kevin-davies,F,False,0.0,0.0,90.0,0.0,0.0
-2009-10,1062585,13,30,Bolton_Wanderers,Home,1253,1344,Jussi Jääskeläinen,jussi-jaaskelainen,G,False,0.0,0.0,90.0,0.0,0.0
-2009-10,1062585,13,30,Bolton_Wanderers,Home,4503,28183,Gretar Rafn Steinsson,gretar-rafn-steinsson,D,True,,,,,
-2009-10,1062585,13,30,Bolton_Wanderers,Home,9628,19419,Gary Cahill,gary-cahill,D,False,0.0,0.0,90.0,0.0,0.0
-2009-10,1062585,13,30,Bolton_Wanderers,Home,10673,19930,Mark Davies,mark-davies,M,True,0.0,0.0,21.0,0.0,0.0
-2009-10,1062585,13,30,Bolton_Wanderers,Home,11095,7712,Sam Ricketts,sam-ricketts,D,False,0.0,0.0,90.0,1.0,0.0
-2009-10,1062585,13,30,Bolton_Wanderers,Home,14051,27696,Fabrice Muamba,fabrice-muamba,M,False,0.0,0.0,90.0,0.0,0.0
-2009-10,1062585,13,30,Bolton_Wanderers,Home,33854,40386,Chris Basham,chris-basham,D,True,,,,,
-2009-10,1062585,13,30,Bolton_Wanderers,Home,38639,75773,Chung-yong Lee,chung-yong-lee,M,True,0.0,0.0,21.0,0.0,0.0
-2009-10,1062585,13,30,Bolton_Wanderers,Home,761412,28491,Ali Al-Habsi,ali-al-habsi,G,True,,,,,
-2009-10,1062585,13,30,Bolton_Wanderers,Home,1422131,1629,Andy O'Brien,andy-obrien,D,False,0.0,0.0,90.0,0.0,0.0
-2009-10,1062585,13,30,Bolton_Wanderers,Home,1422568,4739,Johan Elmander,johan-elmander,F,False,0.0,0.0,66.0,0.0,0.0
-2009-10,1062598,14,30,Bolton_Wanderers,Away,495,9765,Ivan Klasnić,ivan-klasnic,F,False,0.0,1.0,60.0,0.0,0.0
-2009-10,1062598,14,30,Bolton_Wanderers,Away,541,3754,Jlloyd Samuel,jlloyd-samuel,M,False,0.0,0.0,90.0,0.0,0.0
-2009-10,1062598,14,30,Bolton_Wanderers,Away,546,1999,Gavin McCann,gavin-mccann,,False,0.0,0.0,90.0,0.0,0.0
-2009-10,1062598,14,30,Bolton_Wanderers,Away,666,1587,Zat Knight,zat-knight,D,True,,,,,
-2009-10,1062598,14,30,Bolton_Wanderers,Away,864,3289,Matthew Taylor,matthew-taylor,D,False,0.0,0.0,90.0,0.0,0.0
-2009-10,1062598,14,30,Bolton_Wanderers,Away,1242,1307,Ricardo Wayne Gardner,ricardo-wayne-gardner,D,False,0.0,0.0,90.0,0.0,0.0
-2009-10,1062598,14,30,Bolton_Wanderers,Away,1244,3630,Kevin Davies,kevin-davies,F,False,0.0,0.0,90.0,0.0,0.0
-2009-10,1062598,14,30,Bolton_Wanderers,Away,1253,1344,Jussi Jääskeläinen,jussi-jaaskelainen,G,False,0.0,0.0,90.0,0.0,0.0
-2009-10,1062598,14,30,Bolton_Wanderers,Away,4503,28183,Gretar Rafn Steinsson,gretar-rafn-steinsson,D,False,0.0,0.0,90.0,0.0,0.0
-2009-10,1062598,14,30,Bolton_Wanderers,Away,9628,19419,Gary Cahill,gary-cahill,D,False,1.0,0.0,90.0,0.0,0.0
-2009-10,1062598,14,30,Bolton_Wanderers,Away,10673,19930,Mark Davies,mark-davies,M,True,0.0,0.0,13.0,0.0,0.0
-2009-10,1062598,14,30,Bolton_Wanderers,Away,11095,7712,Sam Ricketts,sam-ricketts,D,True,,,,,
-2009-10,1062598,14,30,Bolton_Wanderers,Away,14051,27696,Fabrice Muamba,fabrice-muamba,M,True,0.0,0.0,30.0,0.0,0.0
-2009-10,1062598,14,30,Bolton_Wanderers,Away,38639,75773,Chung-yong Lee,chung-yong-lee,M,True,,,,,
-2009-10,1062598,14,30,Bolton_Wanderers,Away,761412,28491,Ali Al-Habsi,ali-al-habsi,G,True,,,,,
-2009-10,1062598,14,30,Bolton_Wanderers,Away,1422131,1629,Andy O'Brien,andy-obrien,D,False,0.0,0.0,90.0,0.0,0.0
-2009-10,1062598,14,30,Bolton_Wanderers,Away,1422568,4739,Johan Elmander,johan-elmander,F,True,,,,,
-2009-10,1062598,14,30,Bolton_Wanderers,Away,2272736,18621,Tamir Cohen,tamir-cohen,M,False,0.0,0.0,77.0,0.0,0.0
-2009-10,1062613,15,30,Bolton_Wanderers,Away,495,9765,Ivan Klasnić,ivan-klasnic,F,False,0.0,0.0,90.0,0.0,0.0
-2009-10,1062613,15,30,Bolton_Wanderers,Away,541,3754,Jlloyd Samuel,jlloyd-samuel,M,False,0.0,0.0,90.0,0.0,0.0
-2009-10,1062613,15,30,Bolton_Wanderers,Away,546,1999,Gavin McCann,gavin-mccann,,False,0.0,0.0,90.0,0.0,0.0
-2009-10,1062613,15,30,Bolton_Wanderers,Away,666,1587,Zat Knight,zat-knight,D,True,,,,,
-2009-10,1062613,15,30,Bolton_Wanderers,Away,864,3289,Matthew Taylor,matthew-taylor,D,False,0.0,0.0,90.0,0.0,0.0
-2009-10,1062613,15,30,Bolton_Wanderers,Away,1242,1307,Ricardo Wayne Gardner,ricardo-wayne-gardner,D,False,0.0,0.0,71.0,0.0,0.0
-2009-10,1062613,15,30,Bolton_Wanderers,Away,1253,1344,Jussi Jääskeläinen,jussi-jaaskelainen,G,False,0.0,0.0,90.0,0.0,0.0
-2009-10,1062613,15,30,Bolton_Wanderers,Away,4503,28183,Gretar Rafn Steinsson,gretar-rafn-steinsson,D,False,0.0,0.0,90.0,0.0,0.0
-2009-10,1062613,15,30,Bolton_Wanderers,Away,9628,19419,Gary Cahill,gary-cahill,D,False,0.0,0.0,90.0,0.0,0.0
-2009-10,1062613,15,30,Bolton_Wanderers,Away,10673,19930,Mark Davies,mark-davies,M,True,,,,,
-2009-10,1062613,15,30,Bolton_Wanderers,Away,11095,7712,Sam Ricketts,sam-ricketts,D,True,,,,,
-2009-10,1062613,15,30,Bolton_Wanderers,Away,14051,27696,Fabrice Muamba,fabrice-muamba,M,True,,,,,
-2009-10,1062613,15,30,Bolton_Wanderers,Away,38639,75773,Chung-yong Lee,chung-yong-lee,M,False,0.0,0.0,90.0,0.0,0.0
-2009-10,1062613,15,30,Bolton_Wanderers,Away,43765,51929,Tope Obadeyi,tope-obadeyi,F,True,,,,,
-2009-10,1062613,15,30,Bolton_Wanderers,Away,761412,28491,Ali Al-Habsi,ali-al-habsi,G,True,,,,,
-2009-10,1062613,15,30,Bolton_Wanderers,Away,1422131,1629,Andy O'Brien,andy-obrien,D,False,0.0,0.0,90.0,0.0,0.0
-2009-10,1062613,15,30,Bolton_Wanderers,Away,1422568,4739,Johan Elmander,johan-elmander,F,True,0.0,1.0,19.0,0.0,0.0
-2009-10,1062613,15,30,Bolton_Wanderers,Away,2272736,18621,Tamir Cohen,tamir-cohen,M,False,1.0,0.0,90.0,0.0,0.0
-2009-10,1062615,16,30,Bolton_Wanderers,Home,495,9765,Ivan Klasnić,ivan-klasnic,F,False,0.0,2.0,72.0,0.0,0.0
-2009-10,1062615,16,30,Bolton_Wanderers,Home,541,3754,Jlloyd Samuel,jlloyd-samuel,M,True,,,,,
-2009-10,1062615,16,30,Bolton_Wanderers,Home,666,1587,Zat Knight,zat-knight,D,False,0.0,0.0,90.0,0.0,0.0
-2009-10,1062615,16,30,Bolton_Wanderers,Home,864,3289,Matthew Taylor,matthew-taylor,D,False,1.0,0.0,90.0,0.0,0.0
-2009-10,1062615,16,30,Bolton_Wanderers,Home,1005,2004,Paul Robinson,paul-robinson,D,False,0.0,0.0,90.0,0.0,0.0
-2009-10,1062615,16,30,Bolton_Wanderers,Home,1244,3630,Kevin Davies,kevin-davies,F,False,0.0,0.0,90.0,0.0,0.0
-2009-10,1062615,16,30,Bolton_Wanderers,Home,1253,1344,Jussi Jääskeläinen,jussi-jaaskelainen,G,False,0.0,0.0,90.0,0.0,0.0
-2009-10,1062615,16,30,Bolton_Wanderers,Home,4503,28183,Gretar Rafn Steinsson,gretar-rafn-steinsson,D,False,1.0,0.0,90.0,0.0,0.0
-2009-10,1062615,16,30,Bolton_Wanderers,Home,9628,19419,Gary Cahill,gary-cahill,D,False,0.0,1.0,90.0,0.0,0.0
-2009-10,1062615,16,30,Bolton_Wanderers,Home,10673,19930,Mark Davies,mark-davies,M,True,0.0,0.0,10.0,0.0,0.0
-2009-10,1062615,16,30,Bolton_Wanderers,Home,11095,7712,Sam Ricketts,sam-ricketts,D,True,,,,,
-2009-10,1062615,16,30,Bolton_Wanderers,Home,14051,27696,Fabrice Muamba,fabrice-muamba,M,False,0.0,0.0,80.0,0.0,0.0
-2009-10,1062615,16,30,Bolton_Wanderers,Home,33854,40386,Chris Basham,chris-basham,D,True,,,,,
-2009-10,1062615,16,30,Bolton_Wanderers,Home,38639,75773,Chung-yong Lee,chung-yong-lee,M,False,1.0,0.0,90.0,0.0,0.0
-2009-10,1062615,16,30,Bolton_Wanderers,Home,761412,28491,Ali Al-Habsi,ali-al-habsi,G,True,,,,,
-2009-10,1062615,16,30,Bolton_Wanderers,Home,1422131,1629,Andy O'Brien,andy-obrien,D,True,,,,,
-2009-10,1062615,16,30,Bolton_Wanderers,Home,1422568,4739,Johan Elmander,johan-elmander,F,True,0.0,0.0,18.0,0.0,0.0
-2009-10,1062615,16,30,Bolton_Wanderers,Home,2272736,18621,Tamir Cohen,tamir-cohen,M,False,0.0,0.0,90.0,0.0,0.0
-2009-10,1062625,17,30,Bolton_Wanderers,Home,495,9765,Ivan Klasnić,ivan-klasnic,F,False,1.0,1.0,82.0,0.0,0.0
-2009-10,1062625,17,30,Bolton_Wanderers,Home,541,3754,Jlloyd Samuel,jlloyd-samuel,M,True,,,,,
-2009-10,1062625,17,30,Bolton_Wanderers,Home,666,1587,Zat Knight,zat-knight,D,False,0.0,0.0,90.0,0.0,0.0
-2009-10,1062625,17,30,Bolton_Wanderers,Home,864,3289,Matthew Taylor,matthew-taylor,D,False,0.0,0.0,76.0,0.0,0.0
-2009-10,1062625,17,30,Bolton_Wanderers,Home,1005,2004,Paul Robinson,paul-robinson,D,False,0.0,0.0,90.0,0.0,0.0
-2009-10,1062625,17,30,Bolton_Wanderers,Home,1242,1307,Ricardo Wayne Gardner,ricardo-wayne-gardner,D,True,1.0,0.0,14.0,0.0,0.0
-2009-10,1062625,17,30,Bolton_Wanderers,Home,1244,3630,Kevin Davies,kevin-davies,F,False,0.0,0.0,90.0,0.0,0.0
-2009-10,1062625,17,30,Bolton_Wanderers,Home,1253,1344,Jussi Jääskeläinen,jussi-jaaskelainen,G,False,0.0,0.0,90.0,0.0,0.0
-2009-10,1062625,17,30,Bolton_Wanderers,Home,4503,28183,Gretar Rafn Steinsson,gretar-rafn-steinsson,D,False,0.0,0.0,90.0,0.0,0.0
-2009-10,1062625,17,30,Bolton_Wanderers,Home,9628,19419,Gary Cahill,gary-cahill,D,False,0.0,1.0,90.0,0.0,0.0
-2009-10,1062625,17,30,Bolton_Wanderers,Home,11095,7712,Sam Ricketts,sam-ricketts,D,True,,,,,
-2009-10,1062625,17,30,Bolton_Wanderers,Home,14051,27696,Fabrice Muamba,fabrice-muamba,M,False,0.0,0.0,90.0,0.0,0.0
-2009-10,1062625,17,30,Bolton_Wanderers,Home,33854,40386,Chris Basham,chris-basham,D,True,0.0,0.0,8.0,0.0,0.0
-2009-10,1062625,17,30,Bolton_Wanderers,Home,38639,75773,Chung-yong Lee,chung-yong-lee,M,False,0.0,1.0,90.0,0.0,0.0
-2009-10,1062625,17,30,Bolton_Wanderers,Home,761412,28491,Ali Al-Habsi,ali-al-habsi,G,True,,,,,
-2009-10,1062625,17,30,Bolton_Wanderers,Home,1422131,1629,Andy O'Brien,andy-obrien,D,True,,,,,
-2009-10,1062625,17,30,Bolton_Wanderers,Home,1422568,4739,Johan Elmander,johan-elmander,F,True,,,,,
-2009-10,1062625,17,30,Bolton_Wanderers,Home,2272736,18621,Tamir Cohen,tamir-cohen,M,False,0.0,0.0,90.0,0.0,0.0
-2009-10,1278399,18,30,Bolton_Wanderers,Away,541,3754,Jlloyd Samuel,jlloyd-samuel,M,True,,,,,
-2009-10,1278399,18,30,Bolton_Wanderers,Away,666,1587,Zat Knight,zat-knight,D,False,0.0,0.0,90.0,0.0,0.0
-2009-10,1278399,18,30,Bolton_Wanderers,Away,864,3289,Matthew Taylor,matthew-taylor,D,False,0.0,0.0,87.0,0.0,0.0
-2009-10,1278399,18,30,Bolton_Wanderers,Away,1005,2004,Paul Robinson,paul-robinson,D,False,0.0,0.0,90.0,0.0,0.0
-2009-10,1278399,18,30,Bolton_Wanderers,Away,1242,1307,Ricardo Wayne Gardner,ricardo-wayne-gardner,D,False,0.0,0.0,84.0,0.0,0.0
-2009-10,1278399,18,30,Bolton_Wanderers,Away,1244,3630,Kevin Davies,kevin-davies,F,False,0.0,0.0,90.0,0.0,0.0
-2009-10,1278399,18,30,Bolton_Wanderers,Away,1253,1344,Jussi Jääskeläinen,jussi-jaaskelainen,G,False,0.0,0.0,90.0,0.0,0.0
-2009-10,1278399,18,30,Bolton_Wanderers,Away,4503,28183,Gretar Rafn Steinsson,gretar-rafn-steinsson,D,False,0.0,0.0,90.0,0.0,0.0
-2009-10,1278399,18,30,Bolton_Wanderers,Away,10673,19930,Mark Davies,mark-davies,M,True,,,,,
-2009-10,1278399,18,30,Bolton_Wanderers,Away,11095,7712,Sam Ricketts,sam-ricketts,D,False,0.0,0.0,90.0,0.0,0.0
-2009-10,1278399,18,30,Bolton_Wanderers,Away,14051,27696,Fabrice Muamba,fabrice-muamba,M,False,0.0,0.0,90.0,0.0,0.0
-2009-10,1278399,18,30,Bolton_Wanderers,Away,38094,54102,Jack Wilshere,jack-wilshere,M,True,0.0,0.0,3.0,0.0,0.0
-2009-10,1278399,18,30,Bolton_Wanderers,Away,38639,75773,Chung-yong Lee,chung-yong-lee,M,False,0.0,0.0,70.0,0.0,0.0
-2009-10,1278399,18,30,Bolton_Wanderers,Away,46357,59306,Vladimír Weiss,vladimir-weiss,M,True,0.0,0.0,20.0,0.0,0.0
-2009-10,1278399,18,30,Bolton_Wanderers,Away,761412,28491,Ali Al-Habsi,ali-al-habsi,G,True,,,,,
-2009-10,1278399,18,30,Bolton_Wanderers,Away,1422131,1629,Andy O'Brien,andy-obrien,D,True,,,,,
-2009-10,1278399,18,30,Bolton_Wanderers,Away,1422568,4739,Johan Elmander,johan-elmander,F,False,0.0,0.0,90.0,0.0,0.0
-2009-10,1278399,18,30,Bolton_Wanderers,Away,2272736,18621,Tamir Cohen,tamir-cohen,M,True,0.0,0.0,6.0,0.0,0.0
-2009-10,1062646,19,30,Bolton_Wanderers,Away,495,9765,Ivan Klasnić,ivan-klasnic,F,False,0.0,0.0,67.0,0.0,0.0
-2009-10,1062646,19,30,Bolton_Wanderers,Away,541,3754,Jlloyd Samuel,jlloyd-samuel,M,True,,,,,
-2009-10,1062646,19,30,Bolton_Wanderers,Away,666,1587,Zat Knight,zat-knight,D,False,0.0,0.0,90.0,0.0,0.0
-2009-10,1062646,19,30,Bolton_Wanderers,Away,864,3289,Matthew Taylor,matthew-taylor,D,False,0.0,1.0,90.0,0.0,0.0
-2009-10,1062646,19,30,Bolton_Wanderers,Away,1005,2004,Paul Robinson,paul-robinson,D,False,0.0,0.0,90.0,0.0,0.0
-2009-10,1062646,19,30,Bolton_Wanderers,Away,1242,1307,Ricardo Wayne Gardner,ricardo-wayne-gardner,D,True,0.0,0.0,17.0,0.0,0.0
-2009-10,1062646,19,30,Bolton_Wanderers,Away,1244,3630,Kevin Davies,kevin-davies,F,False,0.0,0.0,90.0,0.0,0.0
-2009-10,1062646,19,30,Bolton_Wanderers,Away,1253,1344,Jussi Jääskeläinen,jussi-jaaskelainen,G,False,0.0,0.0,90.0,0.0,0.0
-2009-10,1062646,19,30,Bolton_Wanderers,Away,4503,28183,Gretar Rafn Steinsson,gretar-rafn-steinsson,D,False,0.0,0.0,90.0,0.0,0.0
-2009-10,1062646,19,30,Bolton_Wanderers,Away,9628,19419,Gary Cahill,gary-cahill,D,False,0.0,0.0,90.0,0.0,0.0
-2009-10,1062646,19,30,Bolton_Wanderers,Away,10673,19930,Mark Davies,mark-davies,M,True,0.0,0.0,23.0,0.0,0.0
-2009-10,1062646,19,30,Bolton_Wanderers,Away,11095,7712,Sam Ricketts,sam-ricketts,D,True,,,,,
-2009-10,1062646,19,30,Bolton_Wanderers,Away,33854,40386,Chris Basham,chris-basham,D,False,0.0,0.0,90.0,0.0,0.0
-2009-10,1062646,19,30,Bolton_Wanderers,Away,38639,75773,Chung-yong Lee,chung-yong-lee,M,False,0.0,0.0,73.0,0.0,0.0
-2009-10,1062646,19,30,Bolton_Wanderers,Away,761412,28491,Ali Al-Habsi,ali-al-habsi,G,True,,,,,
-2009-10,1062646,19,30,Bolton_Wanderers,Away,1422131,1629,Andy O'Brien,andy-obrien,D,True,,,,,
-2009-10,1062646,19,30,Bolton_Wanderers,Away,1422568,4739,Johan Elmander,johan-elmander,F,True,,,,,
-2009-10,1062646,19,30,Bolton_Wanderers,Away,2272736,18621,Tamir Cohen,tamir-cohen,M,False,0.0,0.0,90.0,0.0,0.0
-2009-10,1062656,20,30,Bolton_Wanderers,Home,495,9765,Ivan Klasnić,ivan-klasnic,F,False,0.0,1.0,75.0,0.0,0.0
-2009-10,1062656,20,30,Bolton_Wanderers,Home,546,1999,Gavin McCann,gavin-mccann,,True,0.0,0.0,15.0,0.0,0.0
-2009-10,1062656,20,30,Bolton_Wanderers,Home,666,1587,Zat Knight,zat-knight,D,False,0.0,0.0,90.0,0.0,0.0
-2009-10,1062656,20,30,Bolton_Wanderers,Home,864,3289,Matthew Taylor,matthew-taylor,D,False,0.0,0.0,90.0,0.0,0.0
-2009-10,1062656,20,30,Bolton_Wanderers,Home,1005,2004,Paul Robinson,paul-robinson,D,False,1.0,0.0,90.0,0.0,0.0
-2009-10,1062656,20,30,Bolton_Wanderers,Home,1242,1307,Ricardo Wayne Gardner,ricardo-wayne-gardner,D,True,,,,,
-2009-10,1062656,20,30,Bolton_Wanderers,Home,1244,3630,Kevin Davies,kevin-davies,F,False,0.0,1.0,90.0,0.0,0.0
-2009-10,1062656,20,30,Bolton_Wanderers,Home,1253,1344,Jussi Jääskeläinen,jussi-jaaskelainen,G,False,0.0,0.0,90.0,0.0,0.0
-2009-10,1062656,20,30,Bolton_Wanderers,Home,4503,28183,Gretar Rafn Steinsson,gretar-rafn-steinsson,D,False,0.0,0.0,90.0,0.0,0.0
-2009-10,1062656,20,30,Bolton_Wanderers,Home,9628,19419,Gary Cahill,gary-cahill,D,False,0.0,0.0,90.0,0.0,0.0
-2009-10,1062656,20,30,Bolton_Wanderers,Home,10673,19930,Mark Davies,mark-davies,M,True,,,,,
-2009-10,1062656,20,30,Bolton_Wanderers,Home,11095,7712,Sam Ricketts,sam-ricketts,D,True,,,,,
-2009-10,1062656,20,30,Bolton_Wanderers,Home,14051,27696,Fabrice Muamba,fabrice-muamba,M,False,0.0,0.0,90.0,0.0,0.0
-2009-10,1062656,20,30,Bolton_Wanderers,Home,38639,75773,Chung-yong Lee,chung-yong-lee,M,False,0.0,0.0,90.0,0.0,0.0
-2009-10,1062656,20,30,Bolton_Wanderers,Home,761412,28491,Ali Al-Habsi,ali-al-habsi,G,True,,,,,
-2009-10,1062656,20,30,Bolton_Wanderers,Home,1422131,1629,Andy O'Brien,andy-obrien,D,True,,,,,
-2009-10,1062656,20,30,Bolton_Wanderers,Home,1422568,4739,Johan Elmander,johan-elmander,F,True,,,,,
-2009-10,1062656,20,30,Bolton_Wanderers,Home,2272736,18621,Tamir Cohen,tamir-cohen,M,False,0.0,0.0,90.0,0.0,0.0
-2009-10,1296870,21,30,Bolton_Wanderers,Away,495,9765,Ivan Klasnić,ivan-klasnic,F,True,0.0,0.0,25.0,0.0,0.0
-2009-10,1296870,21,30,Bolton_Wanderers,Away,541,3754,Jlloyd Samuel,jlloyd-samuel,M,True,,,,,
-2009-10,1296870,21,30,Bolton_Wanderers,Away,666,1587,Zat Knight,zat-knight,D,False,0.0,0.0,90.0,0.0,0.0
-2009-10,1296870,21,30,Bolton_Wanderers,Away,864,3289,Matthew Taylor,matthew-taylor,D,True,0.0,0.0,17.0,0.0,0.0
-2009-10,1296870,21,30,Bolton_Wanderers,Away,1005,2004,Paul Robinson,paul-robinson,D,False,0.0,0.0,90.0,0.0,0.0
-2009-10,1296870,21,30,Bolton_Wanderers,Away,1242,1307,Ricardo Wayne Gardner,ricardo-wayne-gardner,D,False,0.0,0.0,73.0,0.0,0.0
-2009-10,1296870,21,30,Bolton_Wanderers,Away,1244,3630,Kevin Davies,kevin-davies,F,False,0.0,0.0,90.0,0.0,0.0
-2009-10,1296870,21,30,Bolton_Wanderers,Away,1253,1344,Jussi Jääskeläinen,jussi-jaaskelainen,G,False,0.0,0.0,90.0,0.0,0.0
-2009-10,1296870,21,30,Bolton_Wanderers,Away,4503,28183,Gretar Rafn Steinsson,gretar-rafn-steinsson,D,False,0.0,0.0,90.0,0.0,0.0
-2009-10,1296870,21,30,Bolton_Wanderers,Away,11095,7712,Sam Ricketts,sam-ricketts,D,False,0.0,0.0,74.0,0.0,0.0
-2009-10,1296870,21,30,Bolton_Wanderers,Away,14051,27696,Fabrice Muamba,fabrice-muamba,M,False,0.0,0.0,57.0,0.0,0.0
-2009-10,1296870,21,30,Bolton_Wanderers,Away,17604,38157,Rahamat Riga Mustapha,rahamat-riga-mustapha,,True,,,,,
-2009-10,1296870,21,30,Bolton_Wanderers,Away,38094,54102,Jack Wilshere,jack-wilshere,M,False,0.0,0.0,90.0,0.0,0.0
-2009-10,1296870,21,30,Bolton_Wanderers,Away,38639,75773,Chung-yong Lee,chung-yong-lee,M,False,0.0,0.0,90.0,0.0,0.0
-2009-10,1296870,21,30,Bolton_Wanderers,Away,46357,59306,Vladimír Weiss,vladimir-weiss,M,True,0.0,0.0,33.0,0.0,0.0
-2009-10,1296870,21,30,Bolton_Wanderers,Away,761412,28491,Ali Al-Habsi,ali-al-habsi,G,True,,,,,
-2009-10,1296870,21,30,Bolton_Wanderers,Away,1422131,1629,Andy O'Brien,andy-obrien,D,True,,,,,
-2009-10,1296870,21,30,Bolton_Wanderers,Away,1422568,4739,Johan Elmander,johan-elmander,F,False,0.0,0.0,65.0,0.0,0.0
-2009-10,1062676,22,30,Bolton_Wanderers,Home,495,9765,Ivan Klasnić,ivan-klasnic,F,False,0.0,0.0,80.0,0.0,0.0
-2009-10,1062676,22,30,Bolton_Wanderers,Home,546,1999,Gavin McCann,gavin-mccann,,True,0.0,0.0,29.0,0.0,0.0
-2009-10,1062676,22,30,Bolton_Wanderers,Home,666,1587,Zat Knight,zat-knight,D,False,0.0,0.0,90.0,0.0,0.0
-2009-10,1062676,22,30,Bolton_Wanderers,Home,864,3289,Matthew Taylor,matthew-taylor,D,False,0.0,0.0,90.0,0.0,0.0
-2009-10,1062676,22,30,Bolton_Wanderers,Home,1005,2004,Paul Robinson,paul-robinson,D,False,0.0,0.0,90.0,0.0,0.0
-2009-10,1062676,22,30,Bolton_Wanderers,Home,1242,1307,Ricardo Wayne Gardner,ricardo-wayne-gardner,D,True,0.0,0.0,10.0,0.0,0.0
-2009-10,1062676,22,30,Bolton_Wanderers,Home,1244,3630,Kevin Davies,kevin-davies,F,False,0.0,0.0,90.0,0.0,0.0
-2009-10,1062676,22,30,Bolton_Wanderers,Home,1253,1344,Jussi Jääskeläinen,jussi-jaaskelainen,G,False,0.0,0.0,90.0,0.0,0.0
-2009-10,1062676,22,30,Bolton_Wanderers,Home,4503,28183,Gretar Rafn Steinsson,gretar-rafn-steinsson,D,False,0.0,0.0,90.0,0.0,0.0
-2009-10,1062676,22,30,Bolton_Wanderers,Home,9628,19419,Gary Cahill,gary-cahill,D,False,0.0,0.0,90.0,0.0,0.0
-2009-10,1062676,22,30,Bolton_Wanderers,Home,10673,19930,Mark Davies,mark-davies,M,True,,,,,
-2009-10,1062676,22,30,Bolton_Wanderers,Home,11095,7712,Sam Ricketts,sam-ricketts,D,True,,,,,
-2009-10,1062676,22,30,Bolton_Wanderers,Home,14051,27696,Fabrice Muamba,fabrice-muamba,M,False,0.0,0.0,61.0,0.0,0.0
-2009-10,1062676,22,30,Bolton_Wanderers,Home,38639,75773,Chung-yong Lee,chung-yong-lee,M,False,0.0,0.0,90.0,0.0,0.0
-2009-10,1062676,22,30,Bolton_Wanderers,Home,761412,28491,Ali Al-Habsi,ali-al-habsi,G,True,,,,,
-2009-10,1062676,22,30,Bolton_Wanderers,Home,1422131,1629,Andy O'Brien,andy-obrien,D,True,,,,,
-2009-10,1062676,22,30,Bolton_Wanderers,Home,1422568,4739,Johan Elmander,johan-elmander,F,True,0.0,0.0,10.0,0.0,0.0
-2009-10,1062676,22,30,Bolton_Wanderers,Home,2272736,18621,Tamir Cohen,tamir-cohen,M,False,0.0,0.0,80.0,0.0,0.0
-2009-10,1062684,23,30,Bolton_Wanderers,Home,495,9765,Ivan Klasnić,ivan-klasnic,F,False,0.0,0.0,52.0,0.0,0.0
-2009-10,1062684,23,30,Bolton_Wanderers,Home,541,3754,Jlloyd Samuel,jlloyd-samuel,M,True,,,,,
-2009-10,1062684,23,30,Bolton_Wanderers,Home,666,1587,Zat Knight,zat-knight,D,False,0.0,0.0,90.0,0.0,0.0
-2009-10,1062684,23,30,Bolton_Wanderers,Home,864,3289,Matthew Taylor,matthew-taylor,D,False,0.0,0.0,77.0,0.0,0.0
-2009-10,1062684,23,30,Bolton_Wanderers,Home,1005,2004,Paul Robinson,paul-robinson,D,True,,,,,
-2009-10,1062684,23,30,Bolton_Wanderers,Home,1242,1307,Ricardo Wayne Gardner,ricardo-wayne-gardner,D,True,0.0,0.0,13.0,0.0,0.0
-2009-10,1062684,23,30,Bolton_Wanderers,Home,1244,3630,Kevin Davies,kevin-davies,F,False,1.0,0.0,90.0,0.0,0.0
-2009-10,1062684,23,30,Bolton_Wanderers,Home,1253,1344,Jussi Jääskeläinen,jussi-jaaskelainen,G,False,0.0,0.0,90.0,0.0,0.0
-2009-10,1062684,23,30,Bolton_Wanderers,Home,4503,28183,Gretar Rafn Steinsson,gretar-rafn-steinsson,D,False,0.0,0.0,90.0,0.0,0.0
-2009-10,1062684,23,30,Bolton_Wanderers,Home,9628,19419,Gary Cahill,gary-cahill,D,False,0.0,0.0,90.0,0.0,0.0
-2009-10,1062684,23,30,Bolton_Wanderers,Home,11095,7712,Sam Ricketts,sam-ricketts,D,False,0.0,0.0,90.0,0.0,0.0
-2009-10,1062684,23,30,Bolton_Wanderers,Home,14051,27696,Fabrice Muamba,fabrice-muamba,M,False,0.0,0.0,90.0,0.0,0.0
-2009-10,1062684,23,30,Bolton_Wanderers,Home,38639,75773,Chung-yong Lee,chung-yong-lee,M,False,0.0,1.0,90.0,0.0,0.0
-2009-10,1062684,23,30,Bolton_Wanderers,Home,46357,59306,Vladimír Weiss,vladimir-weiss,M,True,0.0,0.0,1.0,0.0,0.0
-2009-10,1062684,23,30,Bolton_Wanderers,Home,761412,28491,Ali Al-Habsi,ali-al-habsi,G,True,,,,,
-2009-10,1062684,23,30,Bolton_Wanderers,Home,1422131,1629,Andy O'Brien,andy-obrien,D,True,,,,,
-2009-10,1062684,23,30,Bolton_Wanderers,Home,1422568,4739,Johan Elmander,johan-elmander,F,True,0.0,0.0,38.0,0.0,0.0
-2009-10,1062684,23,30,Bolton_Wanderers,Home,2272736,18621,Tamir Cohen,tamir-cohen,M,False,0.0,0.0,90.0,0.0,0.0
-2009-10,1062699,24,30,Bolton_Wanderers,Away,666,1587,Zat Knight,zat-knight,D,False,0.0,0.0,90.0,0.0,0.0
-2009-10,1062699,24,30,Bolton_Wanderers,Away,864,3289,Matthew Taylor,matthew-taylor,D,False,0.0,0.0,66.0,0.0,0.0
-2009-10,1062699,24,30,Bolton_Wanderers,Away,1005,2004,Paul Robinson,paul-robinson,D,True,,,,,
-2009-10,1062699,24,30,Bolton_Wanderers,Away,1242,1307,Ricardo Wayne Gardner,ricardo-wayne-gardner,D,True,0.0,0.0,30.0,0.0,0.0
-2009-10,1062699,24,30,Bolton_Wanderers,Away,1244,3630,Kevin Davies,kevin-davies,F,False,0.0,0.0,90.0,1.0,0.0
-2009-10,1062699,24,30,Bolton_Wanderers,Away,1253,1344,Jussi Jääskeläinen,jussi-jaaskelainen,G,False,0.0,0.0,90.0,0.0,0.0
-2009-10,1062699,24,30,Bolton_Wanderers,Away,4503,28183,Gretar Rafn Steinsson,gretar-rafn-steinsson,D,False,0.0,0.0,90.0,0.0,0.0
-2009-10,1062699,24,30,Bolton_Wanderers,Away,9628,19419,Gary Cahill,gary-cahill,D,False,0.0,0.0,90.0,0.0,0.0
-2009-10,1062699,24,30,Bolton_Wanderers,Away,10673,19930,Mark Davies,mark-davies,M,False,0.0,0.0,90.0,0.0,0.0
-2009-10,1062699,24,30,Bolton_Wanderers,Away,11095,7712,Sam Ricketts,sam-ricketts,D,False,0.0,0.0,90.0,0.0,0.0
-2009-10,1062699,24,30,Bolton_Wanderers,Away,14051,27696,Fabrice Muamba,fabrice-muamba,M,False,0.0,0.0,78.0,0.0,0.0
-2009-10,1062699,24,30,Bolton_Wanderers,Away,38094,54102,Jack Wilshere,jack-wilshere,M,True,,,,,
-2009-10,1062699,24,30,Bolton_Wanderers,Away,38639,75773,Chung-yong Lee,chung-yong-lee,M,False,0.0,0.0,90.0,0.0,0.0
-2009-10,1062699,24,30,Bolton_Wanderers,Away,46357,59306,Vladimír Weiss,vladimir-weiss,M,True,0.0,0.0,24.0,0.0,0.0
-2009-10,1062699,24,30,Bolton_Wanderers,Away,761412,28491,Ali Al-Habsi,ali-al-habsi,G,True,,,,,
-2009-10,1062699,24,30,Bolton_Wanderers,Away,1422131,1629,Andy O'Brien,andy-obrien,D,True,,,,,
-2009-10,1062699,24,30,Bolton_Wanderers,Away,1422568,4739,Johan Elmander,johan-elmander,F,True,0.0,0.0,12.0,0.0,0.0
-2009-10,1062699,24,30,Bolton_Wanderers,Away,2272736,18621,Tamir Cohen,tamir-cohen,M,False,0.0,0.0,60.0,0.0,0.0
-2009-10,1062705,25,30,Bolton_Wanderers,Home,541,3754,Jlloyd Samuel,jlloyd-samuel,M,True,,,,,
-2009-10,1062705,25,30,Bolton_Wanderers,Home,666,1587,Zat Knight,zat-knight,D,False,0.0,0.0,90.0,0.0,0.0
-2009-10,1062705,25,30,Bolton_Wanderers,Home,864,3289,Matthew Taylor,matthew-taylor,D,False,0.0,0.0,71.0,0.0,0.0
-2009-10,1062705,25,30,Bolton_Wanderers,Home,1005,2004,Paul Robinson,paul-robinson,D,False,0.0,0.0,90.0,0.0,0.0
-2009-10,1062705,25,30,Bolton_Wanderers,Home,1242,1307,Ricardo Wayne Gardner,ricardo-wayne-gardner,D,True,,,,,
-2009-10,1062705,25,30,Bolton_Wanderers,Home,1244,3630,Kevin Davies,kevin-davies,F,False,0.0,0.0,90.0,0.0,0.0
-2009-10,1062705,25,30,Bolton_Wanderers,Home,1253,1344,Jussi Jääskeläinen,jussi-jaaskelainen,G,False,0.0,0.0,90.0,0.0,0.0
-2009-10,1062705,25,30,Bolton_Wanderers,Home,10673,19930,Mark Davies,mark-davies,M,False,0.0,0.0,57.0,0.0,0.0
-2009-10,1062705,25,30,Bolton_Wanderers,Home,11095,7712,Sam Ricketts,sam-ricketts,D,False,0.0,0.0,90.0,0.0,0.0
-2009-10,1062705,25,30,Bolton_Wanderers,Home,14051,27696,Fabrice Muamba,fabrice-muamba,M,False,0.0,0.0,90.0,0.0,0.0
-2009-10,1062705,25,30,Bolton_Wanderers,Home,33854,40386,Chris Basham,chris-basham,D,True,0.0,0.0,27.0,0.0,0.0
-2009-10,1062705,25,30,Bolton_Wanderers,Home,38094,54102,Jack Wilshere,jack-wilshere,M,True,,,,,
-2009-10,1062705,25,30,Bolton_Wanderers,Home,38639,75773,Chung-yong Lee,chung-yong-lee,M,False,0.0,0.0,90.0,0.0,0.0
-2009-10,1062705,25,30,Bolton_Wanderers,Home,46357,59306,Vladimír Weiss,vladimir-weiss,M,True,0.0,0.0,19.0,0.0,0.0
-2009-10,1062705,25,30,Bolton_Wanderers,Home,761412,28491,Ali Al-Habsi,ali-al-habsi,G,True,,,,,
-2009-10,1062705,25,30,Bolton_Wanderers,Home,1422131,1629,Andy O'Brien,andy-obrien,D,False,0.0,0.0,63.0,0.0,0.0
-2009-10,1062705,25,30,Bolton_Wanderers,Home,1422568,4739,Johan Elmander,johan-elmander,F,True,0.0,0.0,33.0,0.0,0.0
-2009-10,1062705,25,30,Bolton_Wanderers,Home,2272736,18621,Tamir Cohen,tamir-cohen,M,False,0.0,0.0,90.0,0.0,0.0
-2009-10,1062723,26,30,Bolton_Wanderers,Away,541,3754,Jlloyd Samuel,jlloyd-samuel,M,True,,,,,
-2009-10,1062723,26,30,Bolton_Wanderers,Away,666,1587,Zat Knight,zat-knight,D,False,0.0,0.0,90.0,0.0,0.0
-2009-10,1062723,26,30,Bolton_Wanderers,Away,864,3289,Matthew Taylor,matthew-taylor,D,True,0.0,0.0,12.0,0.0,0.0
-2009-10,1062723,26,30,Bolton_Wanderers,Away,1005,2004,Paul Robinson,paul-robinson,D,False,0.0,0.0,90.0,0.0,0.0
-2009-10,1062723,26,30,Bolton_Wanderers,Away,1242,1307,Ricardo Wayne Gardner,ricardo-wayne-gardner,D,True,,,,,
-2009-10,1062723,26,30,Bolton_Wanderers,Away,1244,3630,Kevin Davies,kevin-davies,F,False,0.0,0.0,90.0,0.0,0.0
-2009-10,1062723,26,30,Bolton_Wanderers,Away,1253,1344,Jussi Jääskeläinen,jussi-jaaskelainen,G,False,0.0,0.0,90.0,0.0,0.0
-2009-10,1062723,26,30,Bolton_Wanderers,Away,4503,28183,Gretar Rafn Steinsson,gretar-rafn-steinsson,D,False,0.0,0.0,90.0,0.0,0.0
-2009-10,1062723,26,30,Bolton_Wanderers,Away,10673,19930,Mark Davies,mark-davies,M,True,0.0,0.0,16.0,0.0,0.0
-2009-10,1062723,26,30,Bolton_Wanderers,Away,11095,7712,Sam Ricketts,sam-ricketts,D,False,0.0,0.0,90.0,0.0,0.0
-2009-10,1062723,26,30,Bolton_Wanderers,Away,14051,27696,Fabrice Muamba,fabrice-muamba,M,False,0.0,0.0,90.0,0.0,0.0
-2009-10,1062723,26,30,Bolton_Wanderers,Away,33854,40386,Chris Basham,chris-basham,D,True,,,,,
-2009-10,1062723,26,30,Bolton_Wanderers,Away,38094,54102,Jack Wilshere,jack-wilshere,M,False,0.0,0.0,78.0,0.0,0.0
-2009-10,1062723,26,30,Bolton_Wanderers,Away,38639,75773,Chung-yong Lee,chung-yong-lee,M,False,0.0,0.0,90.0,0.0,0.0
-2009-10,1062723,26,30,Bolton_Wanderers,Away,761412,28491,Ali Al-Habsi,ali-al-habsi,G,True,,,,,
-2009-10,1062723,26,30,Bolton_Wanderers,Away,1422131,1629,Andy O'Brien,andy-obrien,D,True,,,,,
-2009-10,1062723,26,30,Bolton_Wanderers,Away,1422568,4739,Johan Elmander,johan-elmander,F,False,0.0,0.0,90.0,0.0,0.0
-2009-10,1062723,26,30,Bolton_Wanderers,Away,2272736,18621,Tamir Cohen,tamir-cohen,M,False,0.0,0.0,74.0,0.0,0.0
-2009-10,1062726,27,30,Bolton_Wanderers,Away,495,9765,Ivan Klasnić,ivan-klasnic,F,True,0.0,0.0,21.0,0.0,0.0
-2009-10,1062726,27,30,Bolton_Wanderers,Away,666,1587,Zat Knight,zat-knight,D,False,0.0,0.0,90.0,0.0,0.0
-2009-10,1062726,27,30,Bolton_Wanderers,Away,864,3289,Matthew Taylor,matthew-taylor,D,False,0.0,0.0,59.0,0.0,0.0
-2009-10,1062726,27,30,Bolton_Wanderers,Away,1005,2004,Paul Robinson,paul-robinson,D,False,0.0,0.0,90.0,0.0,0.0
-2009-10,1062726,27,30,Bolton_Wanderers,Away,1242,1307,Ricardo Wayne Gardner,ricardo-wayne-gardner,D,False,0.0,0.0,90.0,0.0,0.0
-2009-10,1062726,27,30,Bolton_Wanderers,Away,1244,3630,Kevin Davies,kevin-davies,F,False,0.0,0.0,90.0,0.0,0.0
-2009-10,1062726,27,30,Bolton_Wanderers,Away,1253,1344,Jussi Jääskeläinen,jussi-jaaskelainen,G,False,0.0,0.0,90.0,0.0,0.0
-2009-10,1062726,27,30,Bolton_Wanderers,Away,4503,28183,Gretar Rafn Steinsson,gretar-rafn-steinsson,D,False,0.0,0.0,90.0,0.0,0.0
-2009-10,1062726,27,30,Bolton_Wanderers,Away,10673,19930,Mark Davies,mark-davies,M,True,0.0,0.0,31.0,0.0,0.0
-2009-10,1062726,27,30,Bolton_Wanderers,Away,11095,7712,Sam Ricketts,sam-ricketts,D,False,0.0,0.0,90.0,0.0,0.0
-2009-10,1062726,27,30,Bolton_Wanderers,Away,14051,27696,Fabrice Muamba,fabrice-muamba,M,False,0.0,0.0,59.0,0.0,0.0
-2009-10,1062726,27,30,Bolton_Wanderers,Away,38094,54102,Jack Wilshere,jack-wilshere,M,True,,,,,
-2009-10,1062726,27,30,Bolton_Wanderers,Away,38639,75773,Chung-yong Lee,chung-yong-lee,M,False,0.0,0.0,90.0,0.0,0.0
-2009-10,1062726,27,30,Bolton_Wanderers,Away,46357,59306,Vladimír Weiss,vladimir-weiss,M,True,0.0,0.0,31.0,0.0,0.0
-2009-10,1062726,27,30,Bolton_Wanderers,Away,761412,28491,Ali Al-Habsi,ali-al-habsi,G,True,,,,,
-2009-10,1062726,27,30,Bolton_Wanderers,Away,1422131,1629,Andy O'Brien,andy-obrien,D,True,,,,,
-2009-10,1062726,27,30,Bolton_Wanderers,Away,1422568,4739,Johan Elmander,johan-elmander,F,False,0.0,0.0,69.0,0.0,0.0
-2009-10,1062726,27,30,Bolton_Wanderers,Away,2272736,18621,Tamir Cohen,tamir-cohen,M,True,,,,,
-2009-10,1062735,28,30,Bolton_Wanderers,Home,495,9765,Ivan Klasnić,ivan-klasnic,F,True,0.0,0.0,26.0,0.0,0.0
-2009-10,1062735,28,30,Bolton_Wanderers,Home,666,1587,Zat Knight,zat-knight,D,False,0.0,1.0,90.0,0.0,0.0
-2009-10,1062735,28,30,Bolton_Wanderers,Home,864,3289,Matthew Taylor,matthew-taylor,D,True,0.0,0.0,9.0,0.0,0.0
-2009-10,1062735,28,30,Bolton_Wanderers,Home,1005,2004,Paul Robinson,paul-robinson,D,False,0.0,0.0,90.0,0.0,0.0
-2009-10,1062735,28,30,Bolton_Wanderers,Home,1244,3630,Kevin Davies,kevin-davies,F,False,0.0,0.0,90.0,0.0,0.0
-2009-10,1062735,28,30,Bolton_Wanderers,Home,1253,1344,Jussi Jääskeläinen,jussi-jaaskelainen,G,False,0.0,0.0,90.0,0.0,0.0
-2009-10,1062735,28,30,Bolton_Wanderers,Home,4503,28183,Gretar Rafn Steinsson,gretar-rafn-steinsson,D,False,0.0,0.0,90.0,0.0,0.0
-2009-10,1062735,28,30,Bolton_Wanderers,Home,11095,7712,Sam Ricketts,sam-ricketts,D,False,0.0,0.0,90.0,0.0,0.0
-2009-10,1062735,28,30,Bolton_Wanderers,Home,14051,27696,Fabrice Muamba,fabrice-muamba,M,False,0.0,0.0,90.0,0.0,0.0
-2009-10,1062735,28,30,Bolton_Wanderers,Home,17604,38157,Rahamat Riga Mustapha,rahamat-riga-mustapha,,True,,,,,
-2009-10,1062735,28,30,Bolton_Wanderers,Home,38094,54102,Jack Wilshere,jack-wilshere,M,False,0.0,0.0,81.0,0.0,0.0
-2009-10,1062735,28,30,Bolton_Wanderers,Home,38534,19948,Stuart Holden,stuart-holden,M,False,0.0,0.0,90.0,0.0,0.0
-2009-10,1062735,28,30,Bolton_Wanderers,Home,38639,75773,Chung-yong Lee,chung-yong-lee,M,False,1.0,0.0,90.0,0.0,0.0
-2009-10,1062735,28,30,Bolton_Wanderers,Home,46357,59306,Vladimír Weiss,vladimir-weiss,M,True,0.0,0.0,1.0,0.0,0.0
-2009-10,1062735,28,30,Bolton_Wanderers,Home,761412,28491,Ali Al-Habsi,ali-al-habsi,G,True,,,,,
-2009-10,1062735,28,30,Bolton_Wanderers,Home,1422131,1629,Andy O'Brien,andy-obrien,D,True,,,,,
-2009-10,1062735,28,30,Bolton_Wanderers,Home,1422568,4739,Johan Elmander,johan-elmander,F,False,0.0,0.0,64.0,0.0,0.0
-2009-10,1062735,28,30,Bolton_Wanderers,Home,2272736,18621,Tamir Cohen,tamir-cohen,M,True,,,,,
-2009-10,1062751,29,30,Bolton_Wanderers,Away,495,9765,Ivan Klasnić,ivan-klasnic,F,True,,,,,
-2009-10,1062751,29,30,Bolton_Wanderers,Away,666,1587,Zat Knight,zat-knight,D,False,0.0,0.0,90.0,0.0,0.0
-2009-10,1062751,29,30,Bolton_Wanderers,Away,864,3289,Matthew Taylor,matthew-taylor,D,True,0.0,0.0,12.0,0.0,0.0
-2009-10,1062751,29,30,Bolton_Wanderers,Away,1005,2004,Paul Robinson,paul-robinson,D,False,0.0,0.0,90.0,0.0,0.0
-2009-10,1062751,29,30,Bolton_Wanderers,Away,1242,1307,Ricardo Wayne Gardner,ricardo-wayne-gardner,D,True,0.0,0.0,16.0,0.0,0.0
-2009-10,1062751,29,30,Bolton_Wanderers,Away,1244,3630,Kevin Davies,kevin-davies,F,False,0.0,1.0,90.0,0.0,0.0
-2009-10,1062751,29,30,Bolton_Wanderers,Away,1253,1344,Jussi Jääskeläinen,jussi-jaaskelainen,G,False,0.0,0.0,90.0,0.0,0.0
-2009-10,1062751,29,30,Bolton_Wanderers,Away,4503,28183,Gretar Rafn Steinsson,gretar-rafn-steinsson,D,False,0.0,0.0,90.0,0.0,0.0
-2009-10,1062751,29,30,Bolton_Wanderers,Away,11095,7712,Sam Ricketts,sam-ricketts,D,False,0.0,0.0,90.0,0.0,0.0
-2009-10,1062751,29,30,Bolton_Wanderers,Away,14051,27696,Fabrice Muamba,fabrice-muamba,M,False,0.0,0.0,90.0,0.0,0.0
-2009-10,1062751,29,30,Bolton_Wanderers,Away,17604,38157,Rahamat Riga Mustapha,rahamat-riga-mustapha,,True,,,,,
-2009-10,1062751,29,30,Bolton_Wanderers,Away,38094,54102,Jack Wilshere,jack-wilshere,M,False,0.0,1.0,78.0,0.0,0.0
-2009-10,1062751,29,30,Bolton_Wanderers,Away,38639,75773,Chung-yong Lee,chung-yong-lee,M,False,1.0,0.0,90.0,0.0,0.0
-2009-10,1062751,29,30,Bolton_Wanderers,Away,46357,59306,Vladimír Weiss,vladimir-weiss,M,True,,,,,
-2009-10,1062751,29,30,Bolton_Wanderers,Away,761412,28491,Ali Al-Habsi,ali-al-habsi,G,True,,,,,
-2009-10,1062751,29,30,Bolton_Wanderers,Away,1422131,1629,Andy O'Brien,andy-obrien,D,True,,,,,
-2009-10,1062751,29,30,Bolton_Wanderers,Away,1422568,4739,Johan Elmander,johan-elmander,F,False,0.0,0.0,74.0,0.0,0.0
-2009-10,1062751,29,30,Bolton_Wanderers,Away,2272736,18621,Tamir Cohen,tamir-cohen,M,False,1.0,0.0,72.0,0.0,0.0
-2009-10,1062755,30,30,Bolton_Wanderers,Home,495,9765,Ivan Klasnić,ivan-klasnic,F,True,0.0,0.0,14.0,0.0,0.0
-2009-10,1062755,30,30,Bolton_Wanderers,Home,666,1587,Zat Knight,zat-knight,D,False,0.0,0.0,90.0,0.0,0.0
-2009-10,1062755,30,30,Bolton_Wanderers,Home,864,3289,Matthew Taylor,matthew-taylor,D,True,0.0,1.0,23.0,0.0,0.0
-2009-10,1062755,30,30,Bolton_Wanderers,Home,1005,2004,Paul Robinson,paul-robinson,D,False,0.0,0.0,90.0,0.0,0.0
-2009-10,1062755,30,30,Bolton_Wanderers,Home,1242,1307,Ricardo Wayne Gardner,ricardo-wayne-gardner,D,True,,,,,
-2009-10,1062755,30,30,Bolton_Wanderers,Home,1244,3630,Kevin Davies,kevin-davies,F,False,1.0,1.0,76.0,0.0,0.0
-2009-10,1062755,30,30,Bolton_Wanderers,Home,1253,1344,Jussi Jääskeläinen,jussi-jaaskelainen,G,False,0.0,0.0,90.0,0.0,0.0
-2009-10,1062755,30,30,Bolton_Wanderers,Home,4503,28183,Gretar Rafn Steinsson,gretar-rafn-steinsson,D,False,0.0,0.0,90.0,0.0,0.0
-2009-10,1062755,30,30,Bolton_Wanderers,Home,14051,27696,Fabrice Muamba,fabrice-muamba,M,False,0.0,1.0,90.0,0.0,0.0
-2009-10,1062755,30,30,Bolton_Wanderers,Home,17604,38157,Rahamat Riga Mustapha,rahamat-riga-mustapha,,True,,,,,
-2009-10,1062755,30,30,Bolton_Wanderers,Home,38094,54102,Jack Wilshere,jack-wilshere,M,False,0.0,0.0,67.0,0.0,0.0
-2009-10,1062755,30,30,Bolton_Wanderers,Home,38639,75773,Chung-yong Lee,chung-yong-lee,M,False,1.0,0.0,72.0,0.0,0.0
-2009-10,1062755,30,30,Bolton_Wanderers,Home,46357,59306,Vladimír Weiss,vladimir-weiss,M,True,0.0,0.0,18.0,0.0,0.0
-2009-10,1062755,30,30,Bolton_Wanderers,Home,761412,28491,Ali Al-Habsi,ali-al-habsi,G,True,,,,,
-2009-10,1062755,30,30,Bolton_Wanderers,Home,1422131,1629,Andy O'Brien,andy-obrien,D,False,0.0,0.0,90.0,0.0,0.0
-2009-10,1062755,30,30,Bolton_Wanderers,Home,1422568,4739,Johan Elmander,johan-elmander,F,False,0.0,1.0,90.0,0.0,0.0
-2009-10,1062755,30,30,Bolton_Wanderers,Home,1422750,5539,Danny Shittu,danny-shittu,D,True,,,,,
-2009-10,1062755,30,30,Bolton_Wanderers,Home,2272736,18621,Tamir Cohen,tamir-cohen,M,False,0.0,0.0,90.0,0.0,0.0
-2009-10,1062767,31,30,Bolton_Wanderers,Away,666,1587,Zat Knight,zat-knight,D,False,0.0,0.0,90.0,0.0,0.0
-2009-10,1062767,31,30,Bolton_Wanderers,Away,864,3289,Matthew Taylor,matthew-taylor,D,True,0.0,0.0,9.0,0.0,0.0
-2009-10,1062767,31,30,Bolton_Wanderers,Away,1005,2004,Paul Robinson,paul-robinson,D,False,0.0,0.0,90.0,0.0,0.0
-2009-10,1062767,31,30,Bolton_Wanderers,Away,1244,3630,Kevin Davies,kevin-davies,F,False,0.0,0.0,90.0,0.0,0.0
-2009-10,1062767,31,30,Bolton_Wanderers,Away,1253,1344,Jussi Jääskeläinen,jussi-jaaskelainen,G,False,0.0,0.0,90.0,0.0,0.0
-2009-10,1062767,31,30,Bolton_Wanderers,Away,4503,28183,Gretar Rafn Steinsson,gretar-rafn-steinsson,D,False,0.0,0.0,70.0,0.0,0.0
-2009-10,1062767,31,30,Bolton_Wanderers,Away,9628,19419,Gary Cahill,gary-cahill,D,True,,,,,
-2009-10,1062767,31,30,Bolton_Wanderers,Away,10673,19930,Mark Davies,mark-davies,M,True,0.0,0.0,6.0,0.0,0.0
-2009-10,1062767,31,30,Bolton_Wanderers,Away,11095,7712,Sam Ricketts,sam-ricketts,D,True,0.0,0.0,19.0,0.0,0.0
-2009-10,1062767,31,30,Bolton_Wanderers,Away,14051,27696,Fabrice Muamba,fabrice-muamba,M,False,0.0,0.0,90.0,0.0,0.0
-2009-10,1062767,31,30,Bolton_Wanderers,Away,17604,38157,Rahamat Riga Mustapha,rahamat-riga-mustapha,,True,,,,,
-2009-10,1062767,31,30,Bolton_Wanderers,Away,38094,54102,Jack Wilshere,jack-wilshere,M,False,0.0,0.0,81.0,0.0,0.0
-2009-10,1062767,31,30,Bolton_Wanderers,Away,38639,75773,Chung-yong Lee,chung-yong-lee,M,False,0.0,0.0,90.0,0.0,0.0
-2009-10,1062767,31,30,Bolton_Wanderers,Away,46357,59306,Vladimír Weiss,vladimir-weiss,M,True,,,,,
-2009-10,1062767,31,30,Bolton_Wanderers,Away,761412,28491,Ali Al-Habsi,ali-al-habsi,G,True,,,,,
-2009-10,1062767,31,30,Bolton_Wanderers,Away,1422131,1629,Andy O'Brien,andy-obrien,D,False,0.0,0.0,90.0,0.0,0.0
-2009-10,1062767,31,30,Bolton_Wanderers,Away,1422568,4739,Johan Elmander,johan-elmander,F,False,0.0,0.0,71.0,0.0,0.0
-2009-10,1062767,31,30,Bolton_Wanderers,Away,2272736,18621,Tamir Cohen,tamir-cohen,M,False,0.0,0.0,84.0,0.0,0.0
-2009-10,1062775,32,30,Bolton_Wanderers,Home,495,9765,Ivan Klasnić,ivan-klasnic,F,True,0.0,0.0,17.0,0.0,0.0
-2009-10,1062775,32,30,Bolton_Wanderers,Home,541,3754,Jlloyd Samuel,jlloyd-samuel,M,False,0.0,0.0,90.0,0.0,0.0
-2009-10,1062775,32,30,Bolton_Wanderers,Home,666,1587,Zat Knight,zat-knight,D,False,0.0,0.0,90.0,0.0,0.0
-2009-10,1062775,32,30,Bolton_Wanderers,Home,864,3289,Matthew Taylor,matthew-taylor,D,True,0.0,0.0,17.0,0.0,0.0
-2009-10,1062775,32,30,Bolton_Wanderers,Home,1244,3630,Kevin Davies,kevin-davies,F,False,0.0,0.0,90.0,0.0,0.0
-2009-10,1062775,32,30,Bolton_Wanderers,Home,1253,1344,Jussi Jääskeläinen,jussi-jaaskelainen,G,False,0.0,0.0,90.0,0.0,0.0
-2009-10,1062775,32,30,Bolton_Wanderers,Home,9628,19419,Gary Cahill,gary-cahill,D,False,0.0,0.0,90.0,0.0,0.0
-2009-10,1062775,32,30,Bolton_Wanderers,Home,10673,19930,Mark Davies,mark-davies,M,True,,,,,
-2009-10,1062775,32,30,Bolton_Wanderers,Home,11095,7712,Sam Ricketts,sam-ricketts,D,False,0.0,0.0,90.0,1.0,0.0
-2009-10,1062775,32,30,Bolton_Wanderers,Home,14051,27696,Fabrice Muamba,fabrice-muamba,M,False,0.0,0.0,90.0,0.0,0.0
-2009-10,1062775,32,30,Bolton_Wanderers,Home,17604,38157,Rahamat Riga Mustapha,rahamat-riga-mustapha,,True,,,,,
-2009-10,1062775,32,30,Bolton_Wanderers,Home,38094,54102,Jack Wilshere,jack-wilshere,M,False,0.0,0.0,90.0,0.0,0.0
-2009-10,1062775,32,30,Bolton_Wanderers,Home,38639,75773,Chung-yong Lee,chung-yong-lee,M,False,0.0,0.0,90.0,0.0,0.0
-2009-10,1062775,32,30,Bolton_Wanderers,Home,46357,59306,Vladimír Weiss,vladimir-weiss,M,True,,,,,
-2009-10,1062775,32,30,Bolton_Wanderers,Home,761412,28491,Ali Al-Habsi,ali-al-habsi,G,True,,,,,
-2009-10,1062775,32,30,Bolton_Wanderers,Home,1422131,1629,Andy O'Brien,andy-obrien,D,True,,,,,
-2009-10,1062775,32,30,Bolton_Wanderers,Home,1422568,4739,Johan Elmander,johan-elmander,F,False,0.0,0.0,73.0,0.0,0.0
-2009-10,1062775,32,30,Bolton_Wanderers,Home,2272736,18621,Tamir Cohen,tamir-cohen,M,False,0.0,0.0,73.0,0.0,0.0
-2009-10,1062786,33,30,Bolton_Wanderers,Home,495,9765,Ivan Klasnić,ivan-klasnic,F,True,0.0,0.0,33.0,0.0,0.0
-2009-10,1062786,33,30,Bolton_Wanderers,Home,541,3754,Jlloyd Samuel,jlloyd-samuel,M,True,,,,,
-2009-10,1062786,33,30,Bolton_Wanderers,Home,666,1587,Zat Knight,zat-knight,D,False,0.0,0.0,90.0,0.0,0.0
-2009-10,1062786,33,30,Bolton_Wanderers,Home,864,3289,Matthew Taylor,matthew-taylor,D,True,0.0,0.0,12.0,0.0,0.0
-2009-10,1062786,33,30,Bolton_Wanderers,Home,1005,2004,Paul Robinson,paul-robinson,D,False,0.0,0.0,90.0,0.0,0.0
-2009-10,1062786,33,30,Bolton_Wanderers,Home,1244,3630,Kevin Davies,kevin-davies,F,False,0.0,0.0,90.0,0.0,0.0
-2009-10,1062786,33,30,Bolton_Wanderers,Home,1253,1344,Jussi Jääskeläinen,jussi-jaaskelainen,G,False,0.0,0.0,90.0,0.0,0.0
-2009-10,1062786,33,30,Bolton_Wanderers,Home,4503,28183,Gretar Rafn Steinsson,gretar-rafn-steinsson,D,True,,,,,
-2009-10,1062786,33,30,Bolton_Wanderers,Home,9628,19419,Gary Cahill,gary-cahill,D,False,0.0,0.0,90.0,0.0,0.0
-2009-10,1062786,33,30,Bolton_Wanderers,Home,11095,7712,Sam Ricketts,sam-ricketts,D,False,0.0,0.0,90.0,0.0,0.0
-2009-10,1062786,33,30,Bolton_Wanderers,Home,14051,27696,Fabrice Muamba,fabrice-muamba,M,False,0.0,0.0,90.0,0.0,0.0
-2009-10,1062786,33,30,Bolton_Wanderers,Home,38094,54102,Jack Wilshere,jack-wilshere,M,False,0.0,0.0,90.0,0.0,0.0
-2009-10,1062786,33,30,Bolton_Wanderers,Home,38639,75773,Chung-yong Lee,chung-yong-lee,M,False,0.0,0.0,78.0,0.0,0.0
-2009-10,1062786,33,30,Bolton_Wanderers,Home,46357,59306,Vladimír Weiss,vladimir-weiss,M,True,0.0,0.0,24.0,0.0,0.0
-2009-10,1062786,33,30,Bolton_Wanderers,Home,761412,28491,Ali Al-Habsi,ali-al-habsi,G,True,,,,,
-2009-10,1062786,33,30,Bolton_Wanderers,Home,1422131,1629,Andy O'Brien,andy-obrien,D,True,,,,,
-2009-10,1062786,33,30,Bolton_Wanderers,Home,1422568,4739,Johan Elmander,johan-elmander,F,False,0.0,0.0,57.0,0.0,0.0
-2009-10,1062786,33,30,Bolton_Wanderers,Home,2272736,18621,Tamir Cohen,tamir-cohen,M,False,0.0,0.0,66.0,0.0,0.0
-2009-10,1062796,34,30,Bolton_Wanderers,Away,495,9765,Ivan Klasnić,ivan-klasnic,F,True,0.0,0.0,8.0,0.0,0.0
-2009-10,1062796,34,30,Bolton_Wanderers,Away,541,3754,Jlloyd Samuel,jlloyd-samuel,M,True,,,,,
-2009-10,1062796,34,30,Bolton_Wanderers,Away,666,1587,Zat Knight,zat-knight,D,False,0.0,0.0,90.0,0.0,0.0
-2009-10,1062796,34,30,Bolton_Wanderers,Away,864,3289,Matthew Taylor,matthew-taylor,D,False,0.0,0.0,90.0,0.0,0.0
-2009-10,1062796,34,30,Bolton_Wanderers,Away,1005,2004,Paul Robinson,paul-robinson,D,False,0.0,0.0,90.0,0.0,0.0
-2009-10,1062796,34,30,Bolton_Wanderers,Away,1244,3630,Kevin Davies,kevin-davies,F,False,0.0,0.0,90.0,0.0,0.0
-2009-10,1062796,34,30,Bolton_Wanderers,Away,1253,1344,Jussi Jääskeläinen,jussi-jaaskelainen,G,False,0.0,0.0,90.0,0.0,0.0
-2009-10,1062796,34,30,Bolton_Wanderers,Away,4503,28183,Gretar Rafn Steinsson,gretar-rafn-steinsson,D,False,0.0,0.0,90.0,0.0,0.0
-2009-10,1062796,34,30,Bolton_Wanderers,Away,9628,19419,Gary Cahill,gary-cahill,D,False,0.0,0.0,90.0,0.0,0.0
-2009-10,1062796,34,30,Bolton_Wanderers,Away,10673,19930,Mark Davies,mark-davies,M,True,,,,,
-2009-10,1062796,34,30,Bolton_Wanderers,Away,11095,7712,Sam Ricketts,sam-ricketts,D,False,0.0,0.0,90.0,0.0,0.0
-2009-10,1062796,34,30,Bolton_Wanderers,Away,14051,27696,Fabrice Muamba,fabrice-muamba,M,False,0.0,0.0,90.0,0.0,0.0
-2009-10,1062796,34,30,Bolton_Wanderers,Away,38094,54102,Jack Wilshere,jack-wilshere,M,False,0.0,0.0,82.0,0.0,0.0
-2009-10,1062796,34,30,Bolton_Wanderers,Away,38639,75773,Chung-yong Lee,chung-yong-lee,M,False,0.0,0.0,82.0,0.0,0.0
-2009-10,1062796,34,30,Bolton_Wanderers,Away,46357,59306,Vladimír Weiss,vladimir-weiss,M,True,,,,,
-2009-10,1062796,34,30,Bolton_Wanderers,Away,761412,28491,Ali Al-Habsi,ali-al-habsi,G,True,,,,,
-2009-10,1062796,34,30,Bolton_Wanderers,Away,1422568,4739,Johan Elmander,johan-elmander,F,True,0.0,0.0,8.0,0.0,0.0
-2009-10,1062796,34,30,Bolton_Wanderers,Away,2272736,18621,Tamir Cohen,tamir-cohen,M,True,,,,,
-2009-10,1062810,35,30,Bolton_Wanderers,Away,495,9765,Ivan Klasnić,ivan-klasnic,F,True,0.0,0.0,44.0,0.0,0.0
-2009-10,1062810,35,30,Bolton_Wanderers,Away,541,3754,Jlloyd Samuel,jlloyd-samuel,M,True,,,,,
-2009-10,1062810,35,30,Bolton_Wanderers,Away,666,1587,Zat Knight,zat-knight,D,False,0.0,0.0,90.0,0.0,0.0
-2009-10,1062810,35,30,Bolton_Wanderers,Away,864,3289,Matthew Taylor,matthew-taylor,D,False,0.0,2.0,90.0,0.0,0.0
-2009-10,1062810,35,30,Bolton_Wanderers,Away,1005,2004,Paul Robinson,paul-robinson,D,False,0.0,0.0,90.0,0.0,0.0
-2009-10,1062810,35,30,Bolton_Wanderers,Away,1244,3630,Kevin Davies,kevin-davies,F,False,0.0,0.0,90.0,0.0,0.0
-2009-10,1062810,35,30,Bolton_Wanderers,Away,1253,1344,Jussi Jääskeläinen,jussi-jaaskelainen,G,False,0.0,0.0,90.0,0.0,0.0
-2009-10,1062810,35,30,Bolton_Wanderers,Away,4503,28183,Gretar Rafn Steinsson,gretar-rafn-steinsson,D,False,0.0,0.0,90.0,0.0,0.0
-2009-10,1062810,35,30,Bolton_Wanderers,Away,9628,19419,Gary Cahill,gary-cahill,D,False,0.0,0.0,90.0,0.0,0.0
-2009-10,1062810,35,30,Bolton_Wanderers,Away,10673,19930,Mark Davies,mark-davies,M,True,0.0,0.0,8.0,0.0,0.0
-2009-10,1062810,35,30,Bolton_Wanderers,Away,11095,7712,Sam Ricketts,sam-ricketts,D,False,0.0,0.0,46.0,0.0,0.0
-2009-10,1062810,35,30,Bolton_Wanderers,Away,14051,27696,Fabrice Muamba,fabrice-muamba,M,False,0.0,0.0,82.0,0.0,0.0
-2009-10,1062810,35,30,Bolton_Wanderers,Away,38094,54102,Jack Wilshere,jack-wilshere,M,False,0.0,0.0,90.0,0.0,0.0
-2009-10,1062810,35,30,Bolton_Wanderers,Away,38639,75773,Chung-yong Lee,chung-yong-lee,M,False,0.0,0.0,71.0,0.0,0.0
-2009-10,1062810,35,30,Bolton_Wanderers,Away,46357,59306,Vladimír Weiss,vladimir-weiss,M,True,1.0,0.0,19.0,0.0,0.0
-2009-10,1062810,35,30,Bolton_Wanderers,Away,761412,28491,Ali Al-Habsi,ali-al-habsi,G,True,,,,,
-2009-10,1062810,35,30,Bolton_Wanderers,Away,1422568,4739,Johan Elmander,johan-elmander,F,True,,,,,
-2009-10,1062810,35,30,Bolton_Wanderers,Away,2272736,18621,Tamir Cohen,tamir-cohen,M,True,,,,,
-2009-10,1062816,36,30,Bolton_Wanderers,Home,495,9765,Ivan Klasnić,ivan-klasnic,F,False,0.0,1.0,75.0,0.0,0.0
-2009-10,1062816,36,30,Bolton_Wanderers,Home,541,3754,Jlloyd Samuel,jlloyd-samuel,M,True,,,,,
-2009-10,1062816,36,30,Bolton_Wanderers,Home,666,1587,Zat Knight,zat-knight,D,False,0.0,0.0,90.0,0.0,0.0
-2009-10,1062816,36,30,Bolton_Wanderers,Home,864,3289,Matthew Taylor,matthew-taylor,D,False,0.0,0.0,90.0,0.0,0.0
-2009-10,1062816,36,30,Bolton_Wanderers,Home,1005,2004,Paul Robinson,paul-robinson,D,False,0.0,0.0,90.0,0.0,0.0
-2009-10,1062816,36,30,Bolton_Wanderers,Home,1244,3630,Kevin Davies,kevin-davies,F,False,0.0,1.0,90.0,0.0,0.0
-2009-10,1062816,36,30,Bolton_Wanderers,Home,1253,1344,Jussi Jääskeläinen,jussi-jaaskelainen,G,False,0.0,0.0,90.0,0.0,0.0
-2009-10,1062816,36,30,Bolton_Wanderers,Home,4503,28183,Gretar Rafn Steinsson,gretar-rafn-steinsson,D,False,0.0,0.0,90.0,0.0,0.0
-2009-10,1062816,36,30,Bolton_Wanderers,Home,9628,19419,Gary Cahill,gary-cahill,D,False,0.0,0.0,90.0,0.0,0.0
-2009-10,1062816,36,30,Bolton_Wanderers,Home,10673,19930,Mark Davies,mark-davies,M,True,0.0,0.0,9.0,0.0,0.0
-2009-10,1062816,36,30,Bolton_Wanderers,Home,11095,7712,Sam Ricketts,sam-ricketts,D,True,,,,,
-2009-10,1062816,36,30,Bolton_Wanderers,Home,14051,27696,Fabrice Muamba,fabrice-muamba,M,False,0.0,0.0,90.0,0.0,0.0
-2009-10,1062816,36,30,Bolton_Wanderers,Home,38094,54102,Jack Wilshere,jack-wilshere,M,False,1.0,0.0,81.0,0.0,0.0
-2009-10,1062816,36,30,Bolton_Wanderers,Home,38639,75773,Chung-yong Lee,chung-yong-lee,M,True,0.0,0.0,20.0,0.0,0.0
-2009-10,1062816,36,30,Bolton_Wanderers,Home,46357,59306,Vladimír Weiss,vladimir-weiss,M,False,1.0,0.0,70.0,0.0,0.0
-2009-10,1062816,36,30,Bolton_Wanderers,Home,761412,28491,Ali Al-Habsi,ali-al-habsi,G,True,,,,,
-2009-10,1062816,36,30,Bolton_Wanderers,Home,1422568,4739,Johan Elmander,johan-elmander,F,True,0.0,0.0,15.0,0.0,0.0
-2009-10,1062816,36,30,Bolton_Wanderers,Home,2272736,18621,Tamir Cohen,tamir-cohen,M,True,,,,,
-2009-10,1062832,37,30,Bolton_Wanderers,Away,495,9765,Ivan Klasnić,ivan-klasnic,F,False,0.0,0.0,60.0,0.0,0.0
-2009-10,1062832,37,30,Bolton_Wanderers,Away,541,3754,Jlloyd Samuel,jlloyd-samuel,M,True,,,,,
-2009-10,1062832,37,30,Bolton_Wanderers,Away,666,1587,Zat Knight,zat-knight,D,False,0.0,0.0,90.0,0.0,0.0
-2009-10,1062832,37,30,Bolton_Wanderers,Away,864,3289,Matthew Taylor,matthew-taylor,D,False,0.0,0.0,90.0,0.0,0.0
-2009-10,1062832,37,30,Bolton_Wanderers,Away,1005,2004,Paul Robinson,paul-robinson,D,False,0.0,0.0,90.0,0.0,0.0
-2009-10,1062832,37,30,Bolton_Wanderers,Away,1242,1307,Ricardo Wayne Gardner,ricardo-wayne-gardner,D,True,0.0,0.0,12.0,0.0,0.0
-2009-10,1062832,37,30,Bolton_Wanderers,Away,1244,3630,Kevin Davies,kevin-davies,F,False,0.0,0.0,90.0,0.0,0.0
-2009-10,1062832,37,30,Bolton_Wanderers,Away,1253,1344,Jussi Jääskeläinen,jussi-jaaskelainen,G,False,0.0,0.0,90.0,0.0,0.0
-2009-10,1062832,37,30,Bolton_Wanderers,Away,4503,28183,Gretar Rafn Steinsson,gretar-rafn-steinsson,D,False,0.0,0.0,90.0,0.0,0.0
-2009-10,1062832,37,30,Bolton_Wanderers,Away,9628,19419,Gary Cahill,gary-cahill,D,False,0.0,0.0,90.0,0.0,0.0
-2009-10,1062832,37,30,Bolton_Wanderers,Away,10673,19930,Mark Davies,mark-davies,M,True,,,,,
-2009-10,1062832,37,30,Bolton_Wanderers,Away,11095,7712,Sam Ricketts,sam-ricketts,D,True,,,,,
-2009-10,1062832,37,30,Bolton_Wanderers,Away,14051,27696,Fabrice Muamba,fabrice-muamba,M,False,0.0,0.0,78.0,0.0,0.0
-2009-10,1062832,37,30,Bolton_Wanderers,Away,38094,54102,Jack Wilshere,jack-wilshere,M,False,0.0,0.0,90.0,0.0,0.0
-2009-10,1062832,37,30,Bolton_Wanderers,Away,38639,75773,Chung-yong Lee,chung-yong-lee,M,True,0.0,0.0,29.0,0.0,0.0
-2009-10,1062832,37,30,Bolton_Wanderers,Away,46357,59306,Vladimír Weiss,vladimir-weiss,M,False,0.0,0.0,61.0,0.0,0.0
-2009-10,1062832,37,30,Bolton_Wanderers,Away,761412,28491,Ali Al-Habsi,ali-al-habsi,G,True,,,,,
-2009-10,1062832,37,30,Bolton_Wanderers,Away,1422568,4739,Johan Elmander,johan-elmander,F,True,0.0,0.0,30.0,0.0,0.0
-2009-10,1062836,38,30,Bolton_Wanderers,Home,495,9765,Ivan Klasnić,ivan-klasnic,F,False,0.0,1.0,90.0,0.0,0.0
-2009-10,1062836,38,30,Bolton_Wanderers,Home,541,3754,Jlloyd Samuel,jlloyd-samuel,M,True,,,,,
-2009-10,1062836,38,30,Bolton_Wanderers,Home,666,1587,Zat Knight,zat-knight,D,False,0.0,0.0,90.0,0.0,0.0
-2009-10,1062836,38,30,Bolton_Wanderers,Home,864,3289,Matthew Taylor,matthew-taylor,D,False,0.0,0.0,66.0,0.0,0.0
-2009-10,1062836,38,30,Bolton_Wanderers,Home,1005,2004,Paul Robinson,paul-robinson,D,False,1.0,0.0,90.0,0.0,0.0
-2009-10,1062836,38,30,Bolton_Wanderers,Home,1242,1307,Ricardo Wayne Gardner,ricardo-wayne-gardner,D,True,0.0,0.0,1.0,0.0,0.0
-2009-10,1062836,38,30,Bolton_Wanderers,Home,1244,3630,Kevin Davies,kevin-davies,F,False,0.0,1.0,90.0,0.0,0.0
-2009-10,1062836,38,30,Bolton_Wanderers,Home,1253,1344,Jussi Jääskeläinen,jussi-jaaskelainen,G,False,0.0,0.0,90.0,0.0,0.0
-2009-10,1062836,38,30,Bolton_Wanderers,Home,4503,28183,Gretar Rafn Steinsson,gretar-rafn-steinsson,D,False,0.0,0.0,90.0,0.0,0.0
-2009-10,1062836,38,30,Bolton_Wanderers,Home,9628,19419,Gary Cahill,gary-cahill,D,False,0.0,0.0,90.0,0.0,0.0
-2009-10,1062836,38,30,Bolton_Wanderers,Home,10673,19930,Mark Davies,mark-davies,M,True,,,,,
-2009-10,1062836,38,30,Bolton_Wanderers,Home,11095,7712,Sam Ricketts,sam-ricketts,D,True,,,,,
-2009-10,1062836,38,30,Bolton_Wanderers,Home,14051,27696,Fabrice Muamba,fabrice-muamba,M,False,0.0,0.0,90.0,0.0,0.0
-2009-10,1062836,38,30,Bolton_Wanderers,Home,38094,54102,Jack Wilshere,jack-wilshere,M,False,0.0,0.0,90.0,0.0,0.0
-2009-10,1062836,38,30,Bolton_Wanderers,Home,38534,19948,Stuart Holden,stuart-holden,M,True,0.0,0.0,24.0,0.0,0.0
-2009-10,1062836,38,30,Bolton_Wanderers,Home,38639,75773,Chung-yong Lee,chung-yong-lee,M,True,0.0,0.0,25.0,0.0,0.0
-2009-10,1062836,38,30,Bolton_Wanderers,Home,46357,59306,Vladimír Weiss,vladimir-weiss,M,False,1.0,0.0,65.0,0.0,0.0
-2009-10,1062836,38,30,Bolton_Wanderers,Home,761412,28491,Ali Al-Habsi,ali-al-habsi,G,True,,,,,
+season,matchId,gameweek,team_id,team,venue,playerId,pl_code,playerName,slug,position,substitute,goalAssist,goals,minutesPlayed,ownGoals,substitute.1,totalShots
+2009-10,1062466,1,30,Bolton_Wanderers,Home,541,3754,Jlloyd Samuel,jlloyd-samuel,M,True,,,,,,
+2009-10,1062466,1,30,Bolton_Wanderers,Home,546,1999,Gavin McCann,gavin-mccann,Unknown,False,0.0,0.0,68.0,0.0,,0.0
+2009-10,1062466,1,30,Bolton_Wanderers,Home,666,1587,Zat Knight,zat-knight,D,False,0.0,0.0,90.0,0.0,,0.0
+2009-10,1062466,1,30,Bolton_Wanderers,Home,864,3289,Matthew Taylor,matthew-taylor,D,False,0.0,0.0,90.0,0.0,,0.0
+2009-10,1062466,1,30,Bolton_Wanderers,Home,933,1589,Sean Davis,sean-davis,M,False,0.0,0.0,90.0,0.0,,0.0
+2009-10,1062466,1,30,Bolton_Wanderers,Home,1005,2004,Paul Robinson,paul-robinson,D,False,0.0,0.0,90.0,0.0,,0.0
+2009-10,1062466,1,30,Bolton_Wanderers,Home,1244,3630,Kevin Davies,kevin-davies,F,False,0.0,0.0,90.0,0.0,,0.0
+2009-10,1062466,1,30,Bolton_Wanderers,Home,1253,1344,Jussi Jääskeläinen,jussi-jaaskelainen,G,False,0.0,0.0,90.0,0.0,,0.0
+2009-10,1062466,1,30,Bolton_Wanderers,Home,9628,19419,Gary Cahill,gary-cahill,D,False,0.0,0.0,90.0,0.0,,0.0
+2009-10,1062466,1,30,Bolton_Wanderers,Home,10673,19930,Mark Davies,mark-davies,M,True,,,,,,
+2009-10,1062466,1,30,Bolton_Wanderers,Home,11095,7712,Sam Ricketts,sam-ricketts,D,False,0.0,0.0,90.0,0.0,,0.0
+2009-10,1062466,1,30,Bolton_Wanderers,Home,14051,27696,Fabrice Muamba,fabrice-muamba,M,False,0.0,0.0,90.0,0.0,,0.0
+2009-10,1062466,1,30,Bolton_Wanderers,Home,38639,75773,Chung-yong Lee,chung-yong-lee,M,True,0.0,0.0,22.0,0.0,,0.0
+2009-10,1062466,1,30,Bolton_Wanderers,Home,78609,75826,Daniel Ward,daniel-ward,F,True,0.0,0.0,7.0,0.0,,0.0
+2009-10,1062466,1,30,Bolton_Wanderers,Home,761412,28491,Ali Al-Habsi,ali-al-habsi,G,True,,,,,,
+2009-10,1062466,1,30,Bolton_Wanderers,Home,1422131,1629,Andy O'Brien,andy-obrien,D,True,,,,,,
+2009-10,1062466,1,30,Bolton_Wanderers,Home,1422568,4739,Johan Elmander,johan-elmander,F,False,0.0,0.0,83.0,0.0,,0.0
+2009-10,1062466,1,30,Bolton_Wanderers,Home,2272736,18621,Tamir Cohen,tamir-cohen,M,True,,,,,,
+2009-10,1276637,2,30,Bolton_Wanderers,Away,495,9765,Ivan Klasnić,ivan-klasnic,F,True,0.0,0.0,9.0,0.0,,0.0
+2009-10,1276637,2,30,Bolton_Wanderers,Away,541,3754,Jlloyd Samuel,jlloyd-samuel,M,True,,,,,,
+2009-10,1276637,2,30,Bolton_Wanderers,Away,546,1999,Gavin McCann,gavin-mccann,Unknown,True,0.0,0.0,34.0,0.0,,0.0
+2009-10,1276637,2,30,Bolton_Wanderers,Away,666,1587,Zat Knight,zat-knight,D,False,0.0,0.0,90.0,0.0,,0.0
+2009-10,1276637,2,30,Bolton_Wanderers,Away,864,3289,Matthew Taylor,matthew-taylor,D,False,0.0,1.0,90.0,0.0,,0.0
+2009-10,1276637,2,30,Bolton_Wanderers,Away,1005,2004,Paul Robinson,paul-robinson,D,False,0.0,0.0,90.0,0.0,,0.0
+2009-10,1276637,2,30,Bolton_Wanderers,Away,1244,3630,Kevin Davies,kevin-davies,F,False,1.0,0.0,90.0,0.0,,0.0
+2009-10,1276637,2,30,Bolton_Wanderers,Away,1253,1344,Jussi Jääskeläinen,jussi-jaaskelainen,G,False,0.0,0.0,90.0,0.0,,0.0
+2009-10,1276637,2,30,Bolton_Wanderers,Away,4503,28183,Gretar Rafn Steinsson,gretar-rafn-steinsson,D,False,0.0,0.0,90.0,0.0,,0.0
+2009-10,1276637,2,30,Bolton_Wanderers,Away,9628,19419,Gary Cahill,gary-cahill,D,False,0.0,1.0,90.0,0.0,,0.0
+2009-10,1276637,2,30,Bolton_Wanderers,Away,10673,19930,Mark Davies,mark-davies,M,False,0.0,0.0,56.0,0.0,,0.0
+2009-10,1276637,2,30,Bolton_Wanderers,Away,11095,7712,Sam Ricketts,sam-ricketts,D,True,0.0,0.0,1.0,0.0,,0.0
+2009-10,1276637,2,30,Bolton_Wanderers,Away,14051,27696,Fabrice Muamba,fabrice-muamba,M,False,0.0,0.0,90.0,0.0,,0.0
+2009-10,1276637,2,30,Bolton_Wanderers,Away,38639,75773,Chung-yong Lee,chung-yong-lee,M,False,0.0,0.0,81.0,0.0,,0.0
+2009-10,1276637,2,30,Bolton_Wanderers,Away,761412,28491,Ali Al-Habsi,ali-al-habsi,G,True,,,,,,
+2009-10,1276637,2,30,Bolton_Wanderers,Away,1422131,1629,Andy O'Brien,andy-obrien,D,True,,,,,,
+2009-10,1276637,2,30,Bolton_Wanderers,Away,1422568,4739,Johan Elmander,johan-elmander,F,True,,,,,,
+2009-10,1276637,2,30,Bolton_Wanderers,Away,2272736,18621,Tamir Cohen,tamir-cohen,M,False,0.0,0.0,90.0,0.0,,0.0
+2009-10,1062488,3,30,Bolton_Wanderers,Away,541,3754,Jlloyd Samuel,jlloyd-samuel,M,True,0.0,0.0,12.0,0.0,,0.0
+2009-10,1062488,3,30,Bolton_Wanderers,Away,546,1999,Gavin McCann,gavin-mccann,Unknown,True,,,,,,
+2009-10,1062488,3,30,Bolton_Wanderers,Away,666,1587,Zat Knight,zat-knight,D,False,0.0,0.0,90.0,0.0,,0.0
+2009-10,1062488,3,30,Bolton_Wanderers,Away,864,3289,Matthew Taylor,matthew-taylor,D,False,0.0,0.0,90.0,0.0,,0.0
+2009-10,1062488,3,30,Bolton_Wanderers,Away,933,1589,Sean Davis,sean-davis,M,False,0.0,0.0,90.0,0.0,,0.0
+2009-10,1062488,3,30,Bolton_Wanderers,Away,1005,2004,Paul Robinson,paul-robinson,D,False,0.0,0.0,78.0,0.0,,0.0
+2009-10,1062488,3,30,Bolton_Wanderers,Away,1244,3630,Kevin Davies,kevin-davies,F,False,0.0,0.0,90.0,0.0,,0.0
+2009-10,1062488,3,30,Bolton_Wanderers,Away,1253,1344,Jussi Jääskeläinen,jussi-jaaskelainen,G,False,0.0,0.0,90.0,0.0,,0.0
+2009-10,1062488,3,30,Bolton_Wanderers,Away,4503,28183,Gretar Rafn Steinsson,gretar-rafn-steinsson,D,True,,,,,,
+2009-10,1062488,3,30,Bolton_Wanderers,Away,9628,19419,Gary Cahill,gary-cahill,D,False,0.0,0.0,90.0,0.0,,0.0
+2009-10,1062488,3,30,Bolton_Wanderers,Away,10673,19930,Mark Davies,mark-davies,M,False,0.0,0.0,81.0,0.0,,0.0
+2009-10,1062488,3,30,Bolton_Wanderers,Away,11095,7712,Sam Ricketts,sam-ricketts,D,False,0.0,0.0,90.0,0.0,,0.0
+2009-10,1062488,3,30,Bolton_Wanderers,Away,14051,27696,Fabrice Muamba,fabrice-muamba,M,False,0.0,0.0,90.0,0.0,,0.0
+2009-10,1062488,3,30,Bolton_Wanderers,Away,38639,75773,Chung-yong Lee,chung-yong-lee,M,True,0.0,0.0,19.0,0.0,,0.0
+2009-10,1062488,3,30,Bolton_Wanderers,Away,78609,75826,Daniel Ward,daniel-ward,F,True,0.0,0.0,9.0,0.0,,0.0
+2009-10,1062488,3,30,Bolton_Wanderers,Away,761412,28491,Ali Al-Habsi,ali-al-habsi,G,True,,,,,,
+2009-10,1062488,3,30,Bolton_Wanderers,Away,1422568,4739,Johan Elmander,johan-elmander,F,False,0.0,0.0,71.0,0.0,,0.0
+2009-10,1062488,3,30,Bolton_Wanderers,Away,1422750,5539,Danny Shittu,danny-shittu,D,True,,,,,,
+2009-10,1062496,4,30,Bolton_Wanderers,Home,541,3754,Jlloyd Samuel,jlloyd-samuel,M,False,0.0,0.0,90.0,0.0,,0.0
+2009-10,1062496,4,30,Bolton_Wanderers,Home,666,1587,Zat Knight,zat-knight,D,False,0.0,0.0,90.0,0.0,,0.0
+2009-10,1062496,4,30,Bolton_Wanderers,Home,864,3289,Matthew Taylor,matthew-taylor,D,False,0.0,0.0,90.0,0.0,,0.0
+2009-10,1062496,4,30,Bolton_Wanderers,Home,933,1589,Sean Davis,sean-davis,M,False,0.0,0.0,54.0,0.0,,0.0
+2009-10,1062496,4,30,Bolton_Wanderers,Home,1005,2004,Paul Robinson,paul-robinson,D,True,,,,,,
+2009-10,1062496,4,30,Bolton_Wanderers,Home,1244,3630,Kevin Davies,kevin-davies,F,False,1.0,1.0,90.0,0.0,,0.0
+2009-10,1062496,4,30,Bolton_Wanderers,Home,1253,1344,Jussi Jääskeläinen,jussi-jaaskelainen,G,False,0.0,0.0,90.0,0.0,,0.0
+2009-10,1062496,4,30,Bolton_Wanderers,Home,4503,28183,Gretar Rafn Steinsson,gretar-rafn-steinsson,D,True,0.0,0.0,12.0,0.0,,0.0
+2009-10,1062496,4,30,Bolton_Wanderers,Home,9628,19419,Gary Cahill,gary-cahill,D,False,0.0,0.0,90.0,0.0,,0.0
+2009-10,1062496,4,30,Bolton_Wanderers,Home,11095,7712,Sam Ricketts,sam-ricketts,D,False,0.0,0.0,90.0,0.0,,0.0
+2009-10,1062496,4,30,Bolton_Wanderers,Home,14051,27696,Fabrice Muamba,fabrice-muamba,M,False,0.0,0.0,90.0,0.0,,0.0
+2009-10,1062496,4,30,Bolton_Wanderers,Home,17604,38157,Rahamat Riga Mustapha,rahamat-riga-mustapha,Unknown,True,0.0,0.0,1.0,0.0,,0.0
+2009-10,1062496,4,30,Bolton_Wanderers,Home,33854,40386,Chris Basham,chris-basham,D,True,0.0,0.0,31.0,0.0,,0.0
+2009-10,1062496,4,30,Bolton_Wanderers,Home,38639,75773,Chung-yong Lee,chung-yong-lee,M,True,,,,,,
+2009-10,1062496,4,30,Bolton_Wanderers,Home,761412,28491,Ali Al-Habsi,ali-al-habsi,G,True,,,,,,
+2009-10,1062496,4,30,Bolton_Wanderers,Home,1422131,1629,Andy O'Brien,andy-obrien,D,True,,,,,,
+2009-10,1062496,4,30,Bolton_Wanderers,Home,1422568,4739,Johan Elmander,johan-elmander,F,False,1.0,0.0,59.0,0.0,,0.0
+2009-10,1062496,4,30,Bolton_Wanderers,Home,2272736,18621,Tamir Cohen,tamir-cohen,M,False,0.0,1.0,78.0,0.0,,0.0
+2009-10,1062509,5,30,Bolton_Wanderers,Away,495,9765,Ivan Klasnić,ivan-klasnic,F,True,0.0,0.0,19.0,0.0,,0.0
+2009-10,1062509,5,30,Bolton_Wanderers,Away,541,3754,Jlloyd Samuel,jlloyd-samuel,M,False,0.0,0.0,90.0,0.0,,0.0
+2009-10,1062509,5,30,Bolton_Wanderers,Away,546,1999,Gavin McCann,gavin-mccann,Unknown,True,0.0,0.0,13.0,0.0,,0.0
+2009-10,1062509,5,30,Bolton_Wanderers,Away,666,1587,Zat Knight,zat-knight,D,False,0.0,0.0,90.0,0.0,,0.0
+2009-10,1062509,5,30,Bolton_Wanderers,Away,864,3289,Matthew Taylor,matthew-taylor,D,False,0.0,1.0,90.0,0.0,,0.0
+2009-10,1062509,5,30,Bolton_Wanderers,Away,1005,2004,Paul Robinson,paul-robinson,D,True,,,,,,
+2009-10,1062509,5,30,Bolton_Wanderers,Away,1244,3630,Kevin Davies,kevin-davies,F,False,0.0,0.0,90.0,0.0,,0.0
+2009-10,1062509,5,30,Bolton_Wanderers,Away,1253,1344,Jussi Jääskeläinen,jussi-jaaskelainen,G,False,0.0,0.0,90.0,0.0,,0.0
+2009-10,1062509,5,30,Bolton_Wanderers,Away,4503,28183,Gretar Rafn Steinsson,gretar-rafn-steinsson,D,False,1.0,0.0,90.0,0.0,,0.0
+2009-10,1062509,5,30,Bolton_Wanderers,Away,9628,19419,Gary Cahill,gary-cahill,D,False,0.0,1.0,90.0,0.0,,0.0
+2009-10,1062509,5,30,Bolton_Wanderers,Away,10673,19930,Mark Davies,mark-davies,M,False,0.0,0.0,71.0,0.0,,0.0
+2009-10,1062509,5,30,Bolton_Wanderers,Away,11095,7712,Sam Ricketts,sam-ricketts,D,False,0.0,0.0,71.0,0.0,,0.0
+2009-10,1062509,5,30,Bolton_Wanderers,Away,13175,19575,Joey O'Brien,joey-obrien,M,True,,,,,,
+2009-10,1062509,5,30,Bolton_Wanderers,Away,14051,27696,Fabrice Muamba,fabrice-muamba,M,False,0.0,0.0,90.0,0.0,,0.0
+2009-10,1062509,5,30,Bolton_Wanderers,Away,33854,40386,Chris Basham,chris-basham,D,True,1.0,0.0,19.0,0.0,,0.0
+2009-10,1062509,5,30,Bolton_Wanderers,Away,38639,75773,Chung-yong Lee,chung-yong-lee,M,True,,,,,,
+2009-10,1062509,5,30,Bolton_Wanderers,Away,761412,28491,Ali Al-Habsi,ali-al-habsi,G,True,,,,,,
+2009-10,1062509,5,30,Bolton_Wanderers,Away,2272736,18621,Tamir Cohen,tamir-cohen,M,False,0.0,1.0,77.0,0.0,,0.0
+2009-10,1062516,6,30,Bolton_Wanderers,Home,495,9765,Ivan Klasnić,ivan-klasnic,F,True,0.0,0.0,44.0,0.0,,0.0
+2009-10,1062516,6,30,Bolton_Wanderers,Home,541,3754,Jlloyd Samuel,jlloyd-samuel,M,False,0.0,0.0,90.0,0.0,,0.0
+2009-10,1062516,6,30,Bolton_Wanderers,Home,546,1999,Gavin McCann,gavin-mccann,Unknown,False,0.0,0.0,90.0,0.0,,0.0
+2009-10,1062516,6,30,Bolton_Wanderers,Home,666,1587,Zat Knight,zat-knight,D,False,0.0,0.0,90.0,0.0,,0.0
+2009-10,1062516,6,30,Bolton_Wanderers,Home,864,3289,Matthew Taylor,matthew-taylor,D,False,0.0,1.0,90.0,0.0,,0.0
+2009-10,1062516,6,30,Bolton_Wanderers,Home,933,1589,Sean Davis,sean-davis,M,True,,,,,,
+2009-10,1062516,6,30,Bolton_Wanderers,Home,1242,1307,Ricardo Wayne Gardner,ricardo-wayne-gardner,D,True,0.0,0.0,44.0,0.0,,0.0
+2009-10,1062516,6,30,Bolton_Wanderers,Home,1244,3630,Kevin Davies,kevin-davies,F,False,0.0,0.0,90.0,0.0,,0.0
+2009-10,1062516,6,30,Bolton_Wanderers,Home,1253,1344,Jussi Jääskeläinen,jussi-jaaskelainen,G,False,0.0,0.0,90.0,0.0,,0.0
+2009-10,1062516,6,30,Bolton_Wanderers,Home,4503,28183,Gretar Rafn Steinsson,gretar-rafn-steinsson,D,False,0.0,0.0,46.0,0.0,,0.0
+2009-10,1062516,6,30,Bolton_Wanderers,Home,9628,19419,Gary Cahill,gary-cahill,D,False,0.0,0.0,90.0,0.0,,0.0
+2009-10,1062516,6,30,Bolton_Wanderers,Home,11095,7712,Sam Ricketts,sam-ricketts,D,False,0.0,0.0,90.0,0.0,,0.0
+2009-10,1062516,6,30,Bolton_Wanderers,Home,13175,19575,Joey O'Brien,joey-obrien,M,True,,,,,,
+2009-10,1062516,6,30,Bolton_Wanderers,Home,14051,27696,Fabrice Muamba,fabrice-muamba,M,False,0.0,0.0,46.0,0.0,,0.0
+2009-10,1062516,6,30,Bolton_Wanderers,Home,38639,75773,Chung-yong Lee,chung-yong-lee,M,True,,,,,,
+2009-10,1062516,6,30,Bolton_Wanderers,Home,761412,28491,Ali Al-Habsi,ali-al-habsi,G,True,,,,,,
+2009-10,1062516,6,30,Bolton_Wanderers,Home,1422568,4739,Johan Elmander,johan-elmander,F,True,,,,,,
+2009-10,1062516,6,30,Bolton_Wanderers,Home,2272736,18621,Tamir Cohen,tamir-cohen,M,False,0.0,0.0,90.0,0.0,,0.0
+2009-10,1062524,7,30,Bolton_Wanderers,Away,495,9765,Ivan Klasnić,ivan-klasnic,F,False,0.0,0.0,54.0,0.0,,0.0
+2009-10,1062524,7,30,Bolton_Wanderers,Away,541,3754,Jlloyd Samuel,jlloyd-samuel,M,False,0.0,0.0,90.0,0.0,,0.0
+2009-10,1062524,7,30,Bolton_Wanderers,Away,546,1999,Gavin McCann,gavin-mccann,Unknown,True,0.0,0.0,19.0,0.0,,0.0
+2009-10,1062524,7,30,Bolton_Wanderers,Away,666,1587,Zat Knight,zat-knight,D,False,0.0,0.0,90.0,0.0,,0.0
+2009-10,1062524,7,30,Bolton_Wanderers,Away,864,3289,Matthew Taylor,matthew-taylor,D,False,1.0,0.0,90.0,0.0,,0.0
+2009-10,1062524,7,30,Bolton_Wanderers,Away,1242,1307,Ricardo Wayne Gardner,ricardo-wayne-gardner,D,False,0.0,0.0,71.0,0.0,,0.0
+2009-10,1062524,7,30,Bolton_Wanderers,Away,1244,3630,Kevin Davies,kevin-davies,F,False,1.0,0.0,90.0,0.0,,0.0
+2009-10,1062524,7,30,Bolton_Wanderers,Away,1253,1344,Jussi Jääskeläinen,jussi-jaaskelainen,G,False,0.0,0.0,90.0,0.0,,0.0
+2009-10,1062524,7,30,Bolton_Wanderers,Away,4503,28183,Gretar Rafn Steinsson,gretar-rafn-steinsson,D,True,,,,,,
+2009-10,1062524,7,30,Bolton_Wanderers,Away,9628,19419,Gary Cahill,gary-cahill,D,False,0.0,0.0,90.0,0.0,,0.0
+2009-10,1062524,7,30,Bolton_Wanderers,Away,10673,19930,Mark Davies,mark-davies,M,True,,,,,,
+2009-10,1062524,7,30,Bolton_Wanderers,Away,11095,7712,Sam Ricketts,sam-ricketts,D,False,0.0,0.0,90.0,0.0,,0.0
+2009-10,1062524,7,30,Bolton_Wanderers,Away,14051,27696,Fabrice Muamba,fabrice-muamba,M,False,0.0,0.0,90.0,0.0,,0.0
+2009-10,1062524,7,30,Bolton_Wanderers,Away,38639,75773,Chung-yong Lee,chung-yong-lee,M,True,0.0,1.0,36.0,0.0,,0.0
+2009-10,1062524,7,30,Bolton_Wanderers,Away,761412,28491,Ali Al-Habsi,ali-al-habsi,G,True,,,,,,
+2009-10,1062524,7,30,Bolton_Wanderers,Away,1422131,1629,Andy O'Brien,andy-obrien,D,True,,,,,,
+2009-10,1062524,7,30,Bolton_Wanderers,Away,1422568,4739,Johan Elmander,johan-elmander,F,True,,,,,,
+2009-10,1062524,7,30,Bolton_Wanderers,Away,2272736,18621,Tamir Cohen,tamir-cohen,M,False,0.0,1.0,90.0,0.0,,0.0
+2009-10,1062536,8,30,Bolton_Wanderers,Home,495,9765,Ivan Klasnić,ivan-klasnic,F,True,0.0,0.0,3.0,0.0,,0.0
+2009-10,1062536,8,30,Bolton_Wanderers,Home,541,3754,Jlloyd Samuel,jlloyd-samuel,M,False,0.0,0.0,90.0,0.0,,0.0
+2009-10,1062536,8,30,Bolton_Wanderers,Home,546,1999,Gavin McCann,gavin-mccann,Unknown,True,0.0,0.0,16.0,0.0,,0.0
+2009-10,1062536,8,30,Bolton_Wanderers,Home,666,1587,Zat Knight,zat-knight,D,False,0.0,0.0,90.0,0.0,,0.0
+2009-10,1062536,8,30,Bolton_Wanderers,Home,864,3289,Matthew Taylor,matthew-taylor,D,False,0.0,0.0,81.0,0.0,,0.0
+2009-10,1062536,8,30,Bolton_Wanderers,Home,1005,2004,Paul Robinson,paul-robinson,D,True,,,,,,
+2009-10,1062536,8,30,Bolton_Wanderers,Home,1242,1307,Ricardo Wayne Gardner,ricardo-wayne-gardner,D,False,0.0,1.0,90.0,0.0,,0.0
+2009-10,1062536,8,30,Bolton_Wanderers,Home,1244,3630,Kevin Davies,kevin-davies,F,False,0.0,1.0,90.0,0.0,,0.0
+2009-10,1062536,8,30,Bolton_Wanderers,Home,1253,1344,Jussi Jääskeläinen,jussi-jaaskelainen,G,False,0.0,0.0,90.0,0.0,,0.0
+2009-10,1062536,8,30,Bolton_Wanderers,Home,4503,28183,Gretar Rafn Steinsson,gretar-rafn-steinsson,D,True,,,,,,
+2009-10,1062536,8,30,Bolton_Wanderers,Home,9628,19419,Gary Cahill,gary-cahill,D,False,0.0,0.0,90.0,0.0,,0.0
+2009-10,1062536,8,30,Bolton_Wanderers,Home,10673,19930,Mark Davies,mark-davies,M,True,0.0,0.0,9.0,0.0,,0.0
+2009-10,1062536,8,30,Bolton_Wanderers,Home,11095,7712,Sam Ricketts,sam-ricketts,D,False,0.0,0.0,90.0,0.0,,0.0
+2009-10,1062536,8,30,Bolton_Wanderers,Home,14051,27696,Fabrice Muamba,fabrice-muamba,M,False,0.0,0.0,74.0,0.0,,0.0
+2009-10,1062536,8,30,Bolton_Wanderers,Home,38639,75773,Chung-yong Lee,chung-yong-lee,M,False,1.0,0.0,87.0,0.0,,0.0
+2009-10,1062536,8,30,Bolton_Wanderers,Home,761412,28491,Ali Al-Habsi,ali-al-habsi,G,True,,,,,,
+2009-10,1062536,8,30,Bolton_Wanderers,Home,1422750,5539,Danny Shittu,danny-shittu,D,True,,,,,,
+2009-10,1062536,8,30,Bolton_Wanderers,Home,2272736,18621,Tamir Cohen,tamir-cohen,M,False,1.0,0.0,90.0,0.0,,0.0
+2009-10,1062549,9,30,Bolton_Wanderers,Away,495,9765,Ivan Klasnić,ivan-klasnic,F,True,0.0,0.0,37.0,0.0,,0.0
+2009-10,1062549,9,30,Bolton_Wanderers,Away,541,3754,Jlloyd Samuel,jlloyd-samuel,M,False,0.0,0.0,90.0,0.0,,0.0
+2009-10,1062549,9,30,Bolton_Wanderers,Away,546,1999,Gavin McCann,gavin-mccann,Unknown,True,,,,,,
+2009-10,1062549,9,30,Bolton_Wanderers,Away,666,1587,Zat Knight,zat-knight,D,False,0.0,0.0,90.0,1.0,,0.0
+2009-10,1062549,9,30,Bolton_Wanderers,Away,864,3289,Matthew Taylor,matthew-taylor,D,False,0.0,1.0,90.0,0.0,,0.0
+2009-10,1062549,9,30,Bolton_Wanderers,Away,1005,2004,Paul Robinson,paul-robinson,D,True,,,,,,
+2009-10,1062549,9,30,Bolton_Wanderers,Away,1242,1307,Ricardo Wayne Gardner,ricardo-wayne-gardner,D,False,0.0,0.0,90.0,0.0,,0.0
+2009-10,1062549,9,30,Bolton_Wanderers,Away,1244,3630,Kevin Davies,kevin-davies,F,False,1.0,0.0,90.0,0.0,,0.0
+2009-10,1062549,9,30,Bolton_Wanderers,Away,1253,1344,Jussi Jääskeläinen,jussi-jaaskelainen,G,False,0.0,0.0,90.0,0.0,,0.0
+2009-10,1062549,9,30,Bolton_Wanderers,Away,4503,28183,Gretar Rafn Steinsson,gretar-rafn-steinsson,D,True,,,,,,
+2009-10,1062549,9,30,Bolton_Wanderers,Away,9628,19419,Gary Cahill,gary-cahill,D,False,0.0,0.0,90.0,0.0,,0.0
+2009-10,1062549,9,30,Bolton_Wanderers,Away,10673,19930,Mark Davies,mark-davies,M,True,0.0,0.0,27.0,0.0,,0.0
+2009-10,1062549,9,30,Bolton_Wanderers,Away,11095,7712,Sam Ricketts,sam-ricketts,D,False,0.0,0.0,90.0,0.0,,0.0
+2009-10,1062549,9,30,Bolton_Wanderers,Away,14051,27696,Fabrice Muamba,fabrice-muamba,M,False,0.0,0.0,77.0,0.0,,0.0
+2009-10,1062549,9,30,Bolton_Wanderers,Away,33854,40386,Chris Basham,chris-basham,D,True,0.0,0.0,13.0,0.0,,0.0
+2009-10,1062549,9,30,Bolton_Wanderers,Away,38639,75773,Chung-yong Lee,chung-yong-lee,M,False,0.0,0.0,53.0,0.0,,0.0
+2009-10,1062549,9,30,Bolton_Wanderers,Away,761412,28491,Ali Al-Habsi,ali-al-habsi,G,True,,,,,,
+2009-10,1062549,9,30,Bolton_Wanderers,Away,2272736,18621,Tamir Cohen,tamir-cohen,M,False,0.0,0.0,63.0,0.0,,0.0
+2009-10,1062555,10,30,Bolton_Wanderers,Home,495,9765,Ivan Klasnić,ivan-klasnic,F,True,0.0,1.0,26.0,0.0,,0.0
+2009-10,1062555,10,30,Bolton_Wanderers,Home,541,3754,Jlloyd Samuel,jlloyd-samuel,M,False,0.0,0.0,90.0,0.0,,0.0
+2009-10,1062555,10,30,Bolton_Wanderers,Home,666,1587,Zat Knight,zat-knight,D,False,0.0,0.0,90.0,0.0,,0.0
+2009-10,1062555,10,30,Bolton_Wanderers,Home,864,3289,Matthew Taylor,matthew-taylor,D,False,1.0,0.0,90.0,0.0,,0.0
+2009-10,1062555,10,30,Bolton_Wanderers,Home,1005,2004,Paul Robinson,paul-robinson,D,True,,,,,,
+2009-10,1062555,10,30,Bolton_Wanderers,Home,1242,1307,Ricardo Wayne Gardner,ricardo-wayne-gardner,D,False,0.0,0.0,64.0,0.0,,0.0
+2009-10,1062555,10,30,Bolton_Wanderers,Home,1244,3630,Kevin Davies,kevin-davies,F,False,1.0,0.0,90.0,0.0,,0.0
+2009-10,1062555,10,30,Bolton_Wanderers,Home,1253,1344,Jussi Jääskeläinen,jussi-jaaskelainen,G,False,0.0,0.0,90.0,0.0,,0.0
+2009-10,1062555,10,30,Bolton_Wanderers,Home,4503,28183,Gretar Rafn Steinsson,gretar-rafn-steinsson,D,True,,,,,,
+2009-10,1062555,10,30,Bolton_Wanderers,Home,9628,19419,Gary Cahill,gary-cahill,D,False,0.0,1.0,90.0,0.0,,0.0
+2009-10,1062555,10,30,Bolton_Wanderers,Home,10673,19930,Mark Davies,mark-davies,M,True,,,,,,
+2009-10,1062555,10,30,Bolton_Wanderers,Home,11095,7712,Sam Ricketts,sam-ricketts,D,False,1.0,0.0,90.0,0.0,,0.0
+2009-10,1062555,10,30,Bolton_Wanderers,Home,13175,19575,Joey O'Brien,joey-obrien,M,True,,,,,,
+2009-10,1062555,10,30,Bolton_Wanderers,Home,14051,27696,Fabrice Muamba,fabrice-muamba,M,False,0.0,0.0,90.0,0.0,,0.0
+2009-10,1062555,10,30,Bolton_Wanderers,Home,33854,40386,Chris Basham,chris-basham,D,True,0.0,0.0,2.0,0.0,,0.0
+2009-10,1062555,10,30,Bolton_Wanderers,Home,38639,75773,Chung-yong Lee,chung-yong-lee,M,False,0.0,1.0,88.0,0.0,,0.0
+2009-10,1062555,10,30,Bolton_Wanderers,Home,761412,28491,Ali Al-Habsi,ali-al-habsi,G,True,,,,,,
+2009-10,1062555,10,30,Bolton_Wanderers,Home,2272736,18621,Tamir Cohen,tamir-cohen,M,False,0.0,0.0,90.0,0.0,,0.0
+2009-10,1062566,11,30,Bolton_Wanderers,Home,541,3754,Jlloyd Samuel,jlloyd-samuel,M,False,0.0,0.0,45.0,0.0,,0.0
+2009-10,1062566,11,30,Bolton_Wanderers,Home,666,1587,Zat Knight,zat-knight,D,False,0.0,0.0,90.0,0.0,,0.0
+2009-10,1062566,11,30,Bolton_Wanderers,Home,864,3289,Matthew Taylor,matthew-taylor,D,True,,,,,,
+2009-10,1062566,11,30,Bolton_Wanderers,Home,1005,2004,Paul Robinson,paul-robinson,D,True,0.0,0.0,44.0,0.0,,0.0
+2009-10,1062566,11,30,Bolton_Wanderers,Home,1242,1307,Ricardo Wayne Gardner,ricardo-wayne-gardner,D,True,0.0,0.0,44.0,0.0,,0.0
+2009-10,1062566,11,30,Bolton_Wanderers,Home,1244,3630,Kevin Davies,kevin-davies,F,False,0.0,0.0,90.0,0.0,,0.0
+2009-10,1062566,11,30,Bolton_Wanderers,Home,1253,1344,Jussi Jääskeläinen,jussi-jaaskelainen,G,False,0.0,0.0,90.0,0.0,,0.0
+2009-10,1062566,11,30,Bolton_Wanderers,Home,4503,28183,Gretar Rafn Steinsson,gretar-rafn-steinsson,D,True,,,,,,
+2009-10,1062566,11,30,Bolton_Wanderers,Home,9628,19419,Gary Cahill,gary-cahill,D,False,0.0,0.0,90.0,0.0,,0.0
+2009-10,1062566,11,30,Bolton_Wanderers,Home,10673,19930,Mark Davies,mark-davies,M,True,0.0,0.0,25.0,0.0,,0.0
+2009-10,1062566,11,30,Bolton_Wanderers,Home,11095,7712,Sam Ricketts,sam-ricketts,D,False,0.0,0.0,90.0,0.0,,0.0
+2009-10,1062566,11,30,Bolton_Wanderers,Home,14051,27696,Fabrice Muamba,fabrice-muamba,M,False,0.0,0.0,65.0,0.0,,0.0
+2009-10,1062566,11,30,Bolton_Wanderers,Home,33854,40386,Chris Basham,chris-basham,D,False,0.0,0.0,46.0,0.0,,0.0
+2009-10,1062566,11,30,Bolton_Wanderers,Home,38639,75773,Chung-yong Lee,chung-yong-lee,M,False,0.0,0.0,46.0,0.0,,0.0
+2009-10,1062566,11,30,Bolton_Wanderers,Home,761412,28491,Ali Al-Habsi,ali-al-habsi,G,True,,,,,,
+2009-10,1062566,11,30,Bolton_Wanderers,Home,1422131,1629,Andy O'Brien,andy-obrien,D,True,,,,,,
+2009-10,1062566,11,30,Bolton_Wanderers,Home,1422568,4739,Johan Elmander,johan-elmander,F,False,0.0,0.0,90.0,0.0,,0.0
+2009-10,1062566,11,30,Bolton_Wanderers,Home,2272736,18621,Tamir Cohen,tamir-cohen,M,False,0.0,0.0,90.0,0.0,,0.0
+2009-10,1062574,12,30,Bolton_Wanderers,Away,495,9765,Ivan Klasnić,ivan-klasnic,F,True,,,,,,
+2009-10,1062574,12,30,Bolton_Wanderers,Away,666,1587,Zat Knight,zat-knight,D,False,0.0,0.0,90.0,0.0,,0.0
+2009-10,1062574,12,30,Bolton_Wanderers,Away,864,3289,Matthew Taylor,matthew-taylor,D,False,0.0,0.0,90.0,0.0,,0.0
+2009-10,1062574,12,30,Bolton_Wanderers,Away,1005,2004,Paul Robinson,paul-robinson,D,False,0.0,0.0,90.0,0.0,,0.0
+2009-10,1062574,12,30,Bolton_Wanderers,Away,1242,1307,Ricardo Wayne Gardner,ricardo-wayne-gardner,D,False,0.0,0.0,90.0,0.0,,0.0
+2009-10,1062574,12,30,Bolton_Wanderers,Away,1244,3630,Kevin Davies,kevin-davies,F,False,0.0,0.0,90.0,0.0,,0.0
+2009-10,1062574,12,30,Bolton_Wanderers,Away,1253,1344,Jussi Jääskeläinen,jussi-jaaskelainen,G,False,0.0,0.0,90.0,0.0,,0.0
+2009-10,1062574,12,30,Bolton_Wanderers,Away,4503,28183,Gretar Rafn Steinsson,gretar-rafn-steinsson,D,True,0.0,0.0,21.0,0.0,,0.0
+2009-10,1062574,12,30,Bolton_Wanderers,Away,9628,19419,Gary Cahill,gary-cahill,D,False,1.0,0.0,90.0,0.0,,0.0
+2009-10,1062574,12,30,Bolton_Wanderers,Away,10673,19930,Mark Davies,mark-davies,M,True,,,,,,
+2009-10,1062574,12,30,Bolton_Wanderers,Away,11095,7712,Sam Ricketts,sam-ricketts,D,False,0.0,0.0,69.0,0.0,,0.0
+2009-10,1062574,12,30,Bolton_Wanderers,Away,14051,27696,Fabrice Muamba,fabrice-muamba,M,False,0.0,0.0,90.0,0.0,,0.0
+2009-10,1062574,12,30,Bolton_Wanderers,Away,33854,40386,Chris Basham,chris-basham,D,True,,,,,,
+2009-10,1062574,12,30,Bolton_Wanderers,Away,38639,75773,Chung-yong Lee,chung-yong-lee,M,False,0.0,0.0,90.0,0.0,,0.0
+2009-10,1062574,12,30,Bolton_Wanderers,Away,761412,28491,Ali Al-Habsi,ali-al-habsi,G,True,,,,,,
+2009-10,1062574,12,30,Bolton_Wanderers,Away,1422131,1629,Andy O'Brien,andy-obrien,D,True,,,,,,
+2009-10,1062574,12,30,Bolton_Wanderers,Away,1422568,4739,Johan Elmander,johan-elmander,F,True,0.0,1.0,61.0,0.0,,0.0
+2009-10,1062574,12,30,Bolton_Wanderers,Away,2272736,18621,Tamir Cohen,tamir-cohen,M,False,0.0,0.0,29.0,0.0,,0.0
+2009-10,1062585,13,30,Bolton_Wanderers,Home,495,9765,Ivan Klasnić,ivan-klasnic,F,True,0.0,0.0,24.0,0.0,,0.0
+2009-10,1062585,13,30,Bolton_Wanderers,Home,541,3754,Jlloyd Samuel,jlloyd-samuel,M,False,0.0,0.0,90.0,0.0,,0.0
+2009-10,1062585,13,30,Bolton_Wanderers,Home,546,1999,Gavin McCann,gavin-mccann,Unknown,False,0.0,0.0,69.0,0.0,,0.0
+2009-10,1062585,13,30,Bolton_Wanderers,Home,666,1587,Zat Knight,zat-knight,D,True,,,,,,
+2009-10,1062585,13,30,Bolton_Wanderers,Home,864,3289,Matthew Taylor,matthew-taylor,D,False,0.0,0.0,90.0,0.0,,0.0
+2009-10,1062585,13,30,Bolton_Wanderers,Home,1242,1307,Ricardo Wayne Gardner,ricardo-wayne-gardner,D,False,0.0,0.0,69.0,0.0,,0.0
+2009-10,1062585,13,30,Bolton_Wanderers,Home,1244,3630,Kevin Davies,kevin-davies,F,False,0.0,0.0,90.0,0.0,,0.0
+2009-10,1062585,13,30,Bolton_Wanderers,Home,1253,1344,Jussi Jääskeläinen,jussi-jaaskelainen,G,False,0.0,0.0,90.0,0.0,,0.0
+2009-10,1062585,13,30,Bolton_Wanderers,Home,4503,28183,Gretar Rafn Steinsson,gretar-rafn-steinsson,D,True,,,,,,
+2009-10,1062585,13,30,Bolton_Wanderers,Home,9628,19419,Gary Cahill,gary-cahill,D,False,0.0,0.0,90.0,0.0,,0.0
+2009-10,1062585,13,30,Bolton_Wanderers,Home,10673,19930,Mark Davies,mark-davies,M,True,0.0,0.0,21.0,0.0,,0.0
+2009-10,1062585,13,30,Bolton_Wanderers,Home,11095,7712,Sam Ricketts,sam-ricketts,D,False,0.0,0.0,90.0,1.0,,0.0
+2009-10,1062585,13,30,Bolton_Wanderers,Home,14051,27696,Fabrice Muamba,fabrice-muamba,M,False,0.0,0.0,90.0,0.0,,0.0
+2009-10,1062585,13,30,Bolton_Wanderers,Home,33854,40386,Chris Basham,chris-basham,D,True,,,,,,
+2009-10,1062585,13,30,Bolton_Wanderers,Home,38639,75773,Chung-yong Lee,chung-yong-lee,M,True,0.0,0.0,21.0,0.0,,0.0
+2009-10,1062585,13,30,Bolton_Wanderers,Home,761412,28491,Ali Al-Habsi,ali-al-habsi,G,True,,,,,,
+2009-10,1062585,13,30,Bolton_Wanderers,Home,1422131,1629,Andy O'Brien,andy-obrien,D,False,0.0,0.0,90.0,0.0,,0.0
+2009-10,1062585,13,30,Bolton_Wanderers,Home,1422568,4739,Johan Elmander,johan-elmander,F,False,0.0,0.0,66.0,0.0,,0.0
+2009-10,1062598,14,30,Bolton_Wanderers,Away,495,9765,Ivan Klasnić,ivan-klasnic,F,False,0.0,1.0,60.0,0.0,,0.0
+2009-10,1062598,14,30,Bolton_Wanderers,Away,541,3754,Jlloyd Samuel,jlloyd-samuel,M,False,0.0,0.0,90.0,0.0,,0.0
+2009-10,1062598,14,30,Bolton_Wanderers,Away,546,1999,Gavin McCann,gavin-mccann,Unknown,False,0.0,0.0,90.0,0.0,,0.0
+2009-10,1062598,14,30,Bolton_Wanderers,Away,666,1587,Zat Knight,zat-knight,D,True,,,,,,
+2009-10,1062598,14,30,Bolton_Wanderers,Away,864,3289,Matthew Taylor,matthew-taylor,D,False,0.0,0.0,90.0,0.0,,0.0
+2009-10,1062598,14,30,Bolton_Wanderers,Away,1242,1307,Ricardo Wayne Gardner,ricardo-wayne-gardner,D,False,0.0,0.0,90.0,0.0,,0.0
+2009-10,1062598,14,30,Bolton_Wanderers,Away,1244,3630,Kevin Davies,kevin-davies,F,False,0.0,0.0,90.0,0.0,,0.0
+2009-10,1062598,14,30,Bolton_Wanderers,Away,1253,1344,Jussi Jääskeläinen,jussi-jaaskelainen,G,False,0.0,0.0,90.0,0.0,,0.0
+2009-10,1062598,14,30,Bolton_Wanderers,Away,4503,28183,Gretar Rafn Steinsson,gretar-rafn-steinsson,D,False,0.0,0.0,90.0,0.0,,0.0
+2009-10,1062598,14,30,Bolton_Wanderers,Away,9628,19419,Gary Cahill,gary-cahill,D,False,1.0,0.0,90.0,0.0,,0.0
+2009-10,1062598,14,30,Bolton_Wanderers,Away,10673,19930,Mark Davies,mark-davies,M,True,0.0,0.0,13.0,0.0,,0.0
+2009-10,1062598,14,30,Bolton_Wanderers,Away,11095,7712,Sam Ricketts,sam-ricketts,D,True,,,,,,
+2009-10,1062598,14,30,Bolton_Wanderers,Away,14051,27696,Fabrice Muamba,fabrice-muamba,M,True,0.0,0.0,30.0,0.0,,0.0
+2009-10,1062598,14,30,Bolton_Wanderers,Away,38639,75773,Chung-yong Lee,chung-yong-lee,M,True,,,,,,
+2009-10,1062598,14,30,Bolton_Wanderers,Away,761412,28491,Ali Al-Habsi,ali-al-habsi,G,True,,,,,,
+2009-10,1062598,14,30,Bolton_Wanderers,Away,1422131,1629,Andy O'Brien,andy-obrien,D,False,0.0,0.0,90.0,0.0,,0.0
+2009-10,1062598,14,30,Bolton_Wanderers,Away,1422568,4739,Johan Elmander,johan-elmander,F,True,,,,,,
+2009-10,1062598,14,30,Bolton_Wanderers,Away,2272736,18621,Tamir Cohen,tamir-cohen,M,False,0.0,0.0,77.0,0.0,,0.0
+2009-10,1062613,15,30,Bolton_Wanderers,Away,495,9765,Ivan Klasnić,ivan-klasnic,F,False,0.0,0.0,90.0,0.0,,0.0
+2009-10,1062613,15,30,Bolton_Wanderers,Away,541,3754,Jlloyd Samuel,jlloyd-samuel,M,False,0.0,0.0,90.0,0.0,,0.0
+2009-10,1062613,15,30,Bolton_Wanderers,Away,546,1999,Gavin McCann,gavin-mccann,Unknown,False,0.0,0.0,90.0,0.0,,0.0
+2009-10,1062613,15,30,Bolton_Wanderers,Away,666,1587,Zat Knight,zat-knight,D,True,,,,,,
+2009-10,1062613,15,30,Bolton_Wanderers,Away,864,3289,Matthew Taylor,matthew-taylor,D,False,0.0,0.0,90.0,0.0,,0.0
+2009-10,1062613,15,30,Bolton_Wanderers,Away,1242,1307,Ricardo Wayne Gardner,ricardo-wayne-gardner,D,False,0.0,0.0,71.0,0.0,,0.0
+2009-10,1062613,15,30,Bolton_Wanderers,Away,1253,1344,Jussi Jääskeläinen,jussi-jaaskelainen,G,False,0.0,0.0,90.0,0.0,,0.0
+2009-10,1062613,15,30,Bolton_Wanderers,Away,4503,28183,Gretar Rafn Steinsson,gretar-rafn-steinsson,D,False,0.0,0.0,90.0,0.0,,0.0
+2009-10,1062613,15,30,Bolton_Wanderers,Away,9628,19419,Gary Cahill,gary-cahill,D,False,0.0,0.0,90.0,0.0,,0.0
+2009-10,1062613,15,30,Bolton_Wanderers,Away,10673,19930,Mark Davies,mark-davies,M,True,,,,,,
+2009-10,1062613,15,30,Bolton_Wanderers,Away,11095,7712,Sam Ricketts,sam-ricketts,D,True,,,,,,
+2009-10,1062613,15,30,Bolton_Wanderers,Away,14051,27696,Fabrice Muamba,fabrice-muamba,M,True,,,,,,
+2009-10,1062613,15,30,Bolton_Wanderers,Away,38639,75773,Chung-yong Lee,chung-yong-lee,M,False,0.0,0.0,90.0,0.0,,0.0
+2009-10,1062613,15,30,Bolton_Wanderers,Away,43765,51929,Tope Obadeyi,tope-obadeyi,F,True,,,,,,
+2009-10,1062613,15,30,Bolton_Wanderers,Away,761412,28491,Ali Al-Habsi,ali-al-habsi,G,True,,,,,,
+2009-10,1062613,15,30,Bolton_Wanderers,Away,1422131,1629,Andy O'Brien,andy-obrien,D,False,0.0,0.0,90.0,0.0,,0.0
+2009-10,1062613,15,30,Bolton_Wanderers,Away,1422568,4739,Johan Elmander,johan-elmander,F,True,0.0,1.0,19.0,0.0,,0.0
+2009-10,1062613,15,30,Bolton_Wanderers,Away,2272736,18621,Tamir Cohen,tamir-cohen,M,False,1.0,0.0,90.0,0.0,,0.0
+2009-10,1062615,16,30,Bolton_Wanderers,Home,495,9765,Ivan Klasnić,ivan-klasnic,F,False,0.0,2.0,72.0,0.0,,0.0
+2009-10,1062615,16,30,Bolton_Wanderers,Home,541,3754,Jlloyd Samuel,jlloyd-samuel,M,True,,,,,,
+2009-10,1062615,16,30,Bolton_Wanderers,Home,666,1587,Zat Knight,zat-knight,D,False,0.0,0.0,90.0,0.0,,0.0
+2009-10,1062615,16,30,Bolton_Wanderers,Home,864,3289,Matthew Taylor,matthew-taylor,D,False,1.0,0.0,90.0,0.0,,0.0
+2009-10,1062615,16,30,Bolton_Wanderers,Home,1005,2004,Paul Robinson,paul-robinson,D,False,0.0,0.0,90.0,0.0,,0.0
+2009-10,1062615,16,30,Bolton_Wanderers,Home,1244,3630,Kevin Davies,kevin-davies,F,False,0.0,0.0,90.0,0.0,,0.0
+2009-10,1062615,16,30,Bolton_Wanderers,Home,1253,1344,Jussi Jääskeläinen,jussi-jaaskelainen,G,False,0.0,0.0,90.0,0.0,,0.0
+2009-10,1062615,16,30,Bolton_Wanderers,Home,4503,28183,Gretar Rafn Steinsson,gretar-rafn-steinsson,D,False,1.0,0.0,90.0,0.0,,0.0
+2009-10,1062615,16,30,Bolton_Wanderers,Home,9628,19419,Gary Cahill,gary-cahill,D,False,0.0,1.0,90.0,0.0,,0.0
+2009-10,1062615,16,30,Bolton_Wanderers,Home,10673,19930,Mark Davies,mark-davies,M,True,0.0,0.0,10.0,0.0,,0.0
+2009-10,1062615,16,30,Bolton_Wanderers,Home,11095,7712,Sam Ricketts,sam-ricketts,D,True,,,,,,
+2009-10,1062615,16,30,Bolton_Wanderers,Home,14051,27696,Fabrice Muamba,fabrice-muamba,M,False,0.0,0.0,80.0,0.0,,0.0
+2009-10,1062615,16,30,Bolton_Wanderers,Home,33854,40386,Chris Basham,chris-basham,D,True,,,,,,
+2009-10,1062615,16,30,Bolton_Wanderers,Home,38639,75773,Chung-yong Lee,chung-yong-lee,M,False,1.0,0.0,90.0,0.0,,0.0
+2009-10,1062615,16,30,Bolton_Wanderers,Home,761412,28491,Ali Al-Habsi,ali-al-habsi,G,True,,,,,,
+2009-10,1062615,16,30,Bolton_Wanderers,Home,1422131,1629,Andy O'Brien,andy-obrien,D,True,,,,,,
+2009-10,1062615,16,30,Bolton_Wanderers,Home,1422568,4739,Johan Elmander,johan-elmander,F,True,0.0,0.0,18.0,0.0,,0.0
+2009-10,1062615,16,30,Bolton_Wanderers,Home,2272736,18621,Tamir Cohen,tamir-cohen,M,False,0.0,0.0,90.0,0.0,,0.0
+2009-10,1062625,17,30,Bolton_Wanderers,Home,495,9765,Ivan Klasnić,ivan-klasnic,F,False,1.0,1.0,82.0,0.0,,0.0
+2009-10,1062625,17,30,Bolton_Wanderers,Home,541,3754,Jlloyd Samuel,jlloyd-samuel,M,True,,,,,,
+2009-10,1062625,17,30,Bolton_Wanderers,Home,666,1587,Zat Knight,zat-knight,D,False,0.0,0.0,90.0,0.0,,0.0
+2009-10,1062625,17,30,Bolton_Wanderers,Home,864,3289,Matthew Taylor,matthew-taylor,D,False,0.0,0.0,76.0,0.0,,0.0
+2009-10,1062625,17,30,Bolton_Wanderers,Home,1005,2004,Paul Robinson,paul-robinson,D,False,0.0,0.0,90.0,0.0,,0.0
+2009-10,1062625,17,30,Bolton_Wanderers,Home,1242,1307,Ricardo Wayne Gardner,ricardo-wayne-gardner,D,True,1.0,0.0,14.0,0.0,,0.0
+2009-10,1062625,17,30,Bolton_Wanderers,Home,1244,3630,Kevin Davies,kevin-davies,F,False,0.0,0.0,90.0,0.0,,0.0
+2009-10,1062625,17,30,Bolton_Wanderers,Home,1253,1344,Jussi Jääskeläinen,jussi-jaaskelainen,G,False,0.0,0.0,90.0,0.0,,0.0
+2009-10,1062625,17,30,Bolton_Wanderers,Home,4503,28183,Gretar Rafn Steinsson,gretar-rafn-steinsson,D,False,0.0,0.0,90.0,0.0,,0.0
+2009-10,1062625,17,30,Bolton_Wanderers,Home,9628,19419,Gary Cahill,gary-cahill,D,False,0.0,1.0,90.0,0.0,,0.0
+2009-10,1062625,17,30,Bolton_Wanderers,Home,11095,7712,Sam Ricketts,sam-ricketts,D,True,,,,,,
+2009-10,1062625,17,30,Bolton_Wanderers,Home,14051,27696,Fabrice Muamba,fabrice-muamba,M,False,0.0,0.0,90.0,0.0,,0.0
+2009-10,1062625,17,30,Bolton_Wanderers,Home,33854,40386,Chris Basham,chris-basham,D,True,0.0,0.0,8.0,0.0,,0.0
+2009-10,1062625,17,30,Bolton_Wanderers,Home,38639,75773,Chung-yong Lee,chung-yong-lee,M,False,0.0,1.0,90.0,0.0,,0.0
+2009-10,1062625,17,30,Bolton_Wanderers,Home,761412,28491,Ali Al-Habsi,ali-al-habsi,G,True,,,,,,
+2009-10,1062625,17,30,Bolton_Wanderers,Home,1422131,1629,Andy O'Brien,andy-obrien,D,True,,,,,,
+2009-10,1062625,17,30,Bolton_Wanderers,Home,1422568,4739,Johan Elmander,johan-elmander,F,True,,,,,,
+2009-10,1062625,17,30,Bolton_Wanderers,Home,2272736,18621,Tamir Cohen,tamir-cohen,M,False,0.0,0.0,90.0,0.0,,0.0
+2009-10,1278399,18,30,Bolton_Wanderers,Away,541,3754,Jlloyd Samuel,jlloyd-samuel,M,True,,,,,,
+2009-10,1278399,18,30,Bolton_Wanderers,Away,666,1587,Zat Knight,zat-knight,D,False,0.0,0.0,90.0,0.0,,0.0
+2009-10,1278399,18,30,Bolton_Wanderers,Away,864,3289,Matthew Taylor,matthew-taylor,D,False,0.0,0.0,87.0,0.0,,0.0
+2009-10,1278399,18,30,Bolton_Wanderers,Away,1005,2004,Paul Robinson,paul-robinson,D,False,0.0,0.0,90.0,0.0,,0.0
+2009-10,1278399,18,30,Bolton_Wanderers,Away,1242,1307,Ricardo Wayne Gardner,ricardo-wayne-gardner,D,False,0.0,0.0,84.0,0.0,,0.0
+2009-10,1278399,18,30,Bolton_Wanderers,Away,1244,3630,Kevin Davies,kevin-davies,F,False,0.0,0.0,90.0,0.0,,0.0
+2009-10,1278399,18,30,Bolton_Wanderers,Away,1253,1344,Jussi Jääskeläinen,jussi-jaaskelainen,G,False,0.0,0.0,90.0,0.0,,0.0
+2009-10,1278399,18,30,Bolton_Wanderers,Away,4503,28183,Gretar Rafn Steinsson,gretar-rafn-steinsson,D,False,0.0,0.0,90.0,0.0,,0.0
+2009-10,1278399,18,30,Bolton_Wanderers,Away,10673,19930,Mark Davies,mark-davies,M,True,,,,,,
+2009-10,1278399,18,30,Bolton_Wanderers,Away,11095,7712,Sam Ricketts,sam-ricketts,D,False,0.0,0.0,90.0,0.0,,0.0
+2009-10,1278399,18,30,Bolton_Wanderers,Away,14051,27696,Fabrice Muamba,fabrice-muamba,M,False,0.0,0.0,90.0,0.0,,0.0
+2009-10,1278399,18,30,Bolton_Wanderers,Away,38094,54102,Jack Wilshere,jack-wilshere,M,True,0.0,0.0,3.0,0.0,,0.0
+2009-10,1278399,18,30,Bolton_Wanderers,Away,38639,75773,Chung-yong Lee,chung-yong-lee,M,False,0.0,0.0,70.0,0.0,,0.0
+2009-10,1278399,18,30,Bolton_Wanderers,Away,46357,59306,Vladimír Weiss,vladimir-weiss,M,True,0.0,0.0,20.0,0.0,,0.0
+2009-10,1278399,18,30,Bolton_Wanderers,Away,761412,28491,Ali Al-Habsi,ali-al-habsi,G,True,,,,,,
+2009-10,1278399,18,30,Bolton_Wanderers,Away,1422131,1629,Andy O'Brien,andy-obrien,D,True,,,,,,
+2009-10,1278399,18,30,Bolton_Wanderers,Away,1422568,4739,Johan Elmander,johan-elmander,F,False,0.0,0.0,90.0,0.0,,0.0
+2009-10,1278399,18,30,Bolton_Wanderers,Away,2272736,18621,Tamir Cohen,tamir-cohen,M,True,0.0,0.0,6.0,0.0,,0.0
+2009-10,1062646,19,30,Bolton_Wanderers,Away,495,9765,Ivan Klasnić,ivan-klasnic,F,False,0.0,0.0,67.0,0.0,,0.0
+2009-10,1062646,19,30,Bolton_Wanderers,Away,541,3754,Jlloyd Samuel,jlloyd-samuel,M,True,,,,,,
+2009-10,1062646,19,30,Bolton_Wanderers,Away,666,1587,Zat Knight,zat-knight,D,False,0.0,0.0,90.0,0.0,,0.0
+2009-10,1062646,19,30,Bolton_Wanderers,Away,864,3289,Matthew Taylor,matthew-taylor,D,False,0.0,1.0,90.0,0.0,,0.0
+2009-10,1062646,19,30,Bolton_Wanderers,Away,1005,2004,Paul Robinson,paul-robinson,D,False,0.0,0.0,90.0,0.0,,0.0
+2009-10,1062646,19,30,Bolton_Wanderers,Away,1242,1307,Ricardo Wayne Gardner,ricardo-wayne-gardner,D,True,0.0,0.0,17.0,0.0,,0.0
+2009-10,1062646,19,30,Bolton_Wanderers,Away,1244,3630,Kevin Davies,kevin-davies,F,False,0.0,0.0,90.0,0.0,,0.0
+2009-10,1062646,19,30,Bolton_Wanderers,Away,1253,1344,Jussi Jääskeläinen,jussi-jaaskelainen,G,False,0.0,0.0,90.0,0.0,,0.0
+2009-10,1062646,19,30,Bolton_Wanderers,Away,4503,28183,Gretar Rafn Steinsson,gretar-rafn-steinsson,D,False,0.0,0.0,90.0,0.0,,0.0
+2009-10,1062646,19,30,Bolton_Wanderers,Away,9628,19419,Gary Cahill,gary-cahill,D,False,0.0,0.0,90.0,0.0,,0.0
+2009-10,1062646,19,30,Bolton_Wanderers,Away,10673,19930,Mark Davies,mark-davies,M,True,0.0,0.0,23.0,0.0,,0.0
+2009-10,1062646,19,30,Bolton_Wanderers,Away,11095,7712,Sam Ricketts,sam-ricketts,D,True,,,,,,
+2009-10,1062646,19,30,Bolton_Wanderers,Away,33854,40386,Chris Basham,chris-basham,D,False,0.0,0.0,90.0,0.0,,0.0
+2009-10,1062646,19,30,Bolton_Wanderers,Away,38639,75773,Chung-yong Lee,chung-yong-lee,M,False,0.0,0.0,73.0,0.0,,0.0
+2009-10,1062646,19,30,Bolton_Wanderers,Away,761412,28491,Ali Al-Habsi,ali-al-habsi,G,True,,,,,,
+2009-10,1062646,19,30,Bolton_Wanderers,Away,1422131,1629,Andy O'Brien,andy-obrien,D,True,,,,,,
+2009-10,1062646,19,30,Bolton_Wanderers,Away,1422568,4739,Johan Elmander,johan-elmander,F,True,,,,,,
+2009-10,1062646,19,30,Bolton_Wanderers,Away,2272736,18621,Tamir Cohen,tamir-cohen,M,False,0.0,0.0,90.0,0.0,,0.0
+2009-10,1062656,20,30,Bolton_Wanderers,Home,495,9765,Ivan Klasnić,ivan-klasnic,F,False,0.0,1.0,75.0,0.0,,0.0
+2009-10,1062656,20,30,Bolton_Wanderers,Home,546,1999,Gavin McCann,gavin-mccann,Unknown,True,0.0,0.0,15.0,0.0,,0.0
+2009-10,1062656,20,30,Bolton_Wanderers,Home,666,1587,Zat Knight,zat-knight,D,False,0.0,0.0,90.0,0.0,,0.0
+2009-10,1062656,20,30,Bolton_Wanderers,Home,864,3289,Matthew Taylor,matthew-taylor,D,False,0.0,0.0,90.0,0.0,,0.0
+2009-10,1062656,20,30,Bolton_Wanderers,Home,1005,2004,Paul Robinson,paul-robinson,D,False,1.0,0.0,90.0,0.0,,0.0
+2009-10,1062656,20,30,Bolton_Wanderers,Home,1242,1307,Ricardo Wayne Gardner,ricardo-wayne-gardner,D,True,,,,,,
+2009-10,1062656,20,30,Bolton_Wanderers,Home,1244,3630,Kevin Davies,kevin-davies,F,False,0.0,1.0,90.0,0.0,,0.0
+2009-10,1062656,20,30,Bolton_Wanderers,Home,1253,1344,Jussi Jääskeläinen,jussi-jaaskelainen,G,False,0.0,0.0,90.0,0.0,,0.0
+2009-10,1062656,20,30,Bolton_Wanderers,Home,4503,28183,Gretar Rafn Steinsson,gretar-rafn-steinsson,D,False,0.0,0.0,90.0,0.0,,0.0
+2009-10,1062656,20,30,Bolton_Wanderers,Home,9628,19419,Gary Cahill,gary-cahill,D,False,0.0,0.0,90.0,0.0,,0.0
+2009-10,1062656,20,30,Bolton_Wanderers,Home,10673,19930,Mark Davies,mark-davies,M,True,,,,,,
+2009-10,1062656,20,30,Bolton_Wanderers,Home,11095,7712,Sam Ricketts,sam-ricketts,D,True,,,,,,
+2009-10,1062656,20,30,Bolton_Wanderers,Home,14051,27696,Fabrice Muamba,fabrice-muamba,M,False,0.0,0.0,90.0,0.0,,0.0
+2009-10,1062656,20,30,Bolton_Wanderers,Home,38639,75773,Chung-yong Lee,chung-yong-lee,M,False,0.0,0.0,90.0,0.0,,0.0
+2009-10,1062656,20,30,Bolton_Wanderers,Home,761412,28491,Ali Al-Habsi,ali-al-habsi,G,True,,,,,,
+2009-10,1062656,20,30,Bolton_Wanderers,Home,1422131,1629,Andy O'Brien,andy-obrien,D,True,,,,,,
+2009-10,1062656,20,30,Bolton_Wanderers,Home,1422568,4739,Johan Elmander,johan-elmander,F,True,,,,,,
+2009-10,1062656,20,30,Bolton_Wanderers,Home,2272736,18621,Tamir Cohen,tamir-cohen,M,False,0.0,0.0,90.0,0.0,,0.0
+2009-10,1296870,21,30,Bolton_Wanderers,Away,495,9765,Ivan Klasnić,ivan-klasnic,F,True,0.0,0.0,25.0,0.0,,0.0
+2009-10,1296870,21,30,Bolton_Wanderers,Away,541,3754,Jlloyd Samuel,jlloyd-samuel,M,True,,,,,,
+2009-10,1296870,21,30,Bolton_Wanderers,Away,666,1587,Zat Knight,zat-knight,D,False,0.0,0.0,90.0,0.0,,0.0
+2009-10,1296870,21,30,Bolton_Wanderers,Away,864,3289,Matthew Taylor,matthew-taylor,D,True,0.0,0.0,17.0,0.0,,0.0
+2009-10,1296870,21,30,Bolton_Wanderers,Away,1005,2004,Paul Robinson,paul-robinson,D,False,0.0,0.0,90.0,0.0,,0.0
+2009-10,1296870,21,30,Bolton_Wanderers,Away,1242,1307,Ricardo Wayne Gardner,ricardo-wayne-gardner,D,False,0.0,0.0,73.0,0.0,,0.0
+2009-10,1296870,21,30,Bolton_Wanderers,Away,1244,3630,Kevin Davies,kevin-davies,F,False,0.0,0.0,90.0,0.0,,0.0
+2009-10,1296870,21,30,Bolton_Wanderers,Away,1253,1344,Jussi Jääskeläinen,jussi-jaaskelainen,G,False,0.0,0.0,90.0,0.0,,0.0
+2009-10,1296870,21,30,Bolton_Wanderers,Away,4503,28183,Gretar Rafn Steinsson,gretar-rafn-steinsson,D,False,0.0,0.0,90.0,0.0,,0.0
+2009-10,1296870,21,30,Bolton_Wanderers,Away,11095,7712,Sam Ricketts,sam-ricketts,D,False,0.0,0.0,74.0,0.0,,0.0
+2009-10,1296870,21,30,Bolton_Wanderers,Away,14051,27696,Fabrice Muamba,fabrice-muamba,M,False,0.0,0.0,57.0,0.0,,0.0
+2009-10,1296870,21,30,Bolton_Wanderers,Away,17604,38157,Rahamat Riga Mustapha,rahamat-riga-mustapha,Unknown,True,,,,,,
+2009-10,1296870,21,30,Bolton_Wanderers,Away,38094,54102,Jack Wilshere,jack-wilshere,M,False,0.0,0.0,90.0,0.0,,0.0
+2009-10,1296870,21,30,Bolton_Wanderers,Away,38639,75773,Chung-yong Lee,chung-yong-lee,M,False,0.0,0.0,90.0,0.0,,0.0
+2009-10,1296870,21,30,Bolton_Wanderers,Away,46357,59306,Vladimír Weiss,vladimir-weiss,M,True,0.0,0.0,33.0,0.0,,0.0
+2009-10,1296870,21,30,Bolton_Wanderers,Away,761412,28491,Ali Al-Habsi,ali-al-habsi,G,True,,,,,,
+2009-10,1296870,21,30,Bolton_Wanderers,Away,1422131,1629,Andy O'Brien,andy-obrien,D,True,,,,,,
+2009-10,1296870,21,30,Bolton_Wanderers,Away,1422568,4739,Johan Elmander,johan-elmander,F,False,0.0,0.0,65.0,0.0,,0.0
+2009-10,1062676,22,30,Bolton_Wanderers,Home,495,9765,Ivan Klasnić,ivan-klasnic,F,False,0.0,0.0,80.0,0.0,,0.0
+2009-10,1062676,22,30,Bolton_Wanderers,Home,546,1999,Gavin McCann,gavin-mccann,Unknown,True,0.0,0.0,29.0,0.0,,0.0
+2009-10,1062676,22,30,Bolton_Wanderers,Home,666,1587,Zat Knight,zat-knight,D,False,0.0,0.0,90.0,0.0,,0.0
+2009-10,1062676,22,30,Bolton_Wanderers,Home,864,3289,Matthew Taylor,matthew-taylor,D,False,0.0,0.0,90.0,0.0,,0.0
+2009-10,1062676,22,30,Bolton_Wanderers,Home,1005,2004,Paul Robinson,paul-robinson,D,False,0.0,0.0,90.0,0.0,,0.0
+2009-10,1062676,22,30,Bolton_Wanderers,Home,1242,1307,Ricardo Wayne Gardner,ricardo-wayne-gardner,D,True,0.0,0.0,10.0,0.0,,0.0
+2009-10,1062676,22,30,Bolton_Wanderers,Home,1244,3630,Kevin Davies,kevin-davies,F,False,0.0,0.0,90.0,0.0,,0.0
+2009-10,1062676,22,30,Bolton_Wanderers,Home,1253,1344,Jussi Jääskeläinen,jussi-jaaskelainen,G,False,0.0,0.0,90.0,0.0,,0.0
+2009-10,1062676,22,30,Bolton_Wanderers,Home,4503,28183,Gretar Rafn Steinsson,gretar-rafn-steinsson,D,False,0.0,0.0,90.0,0.0,,0.0
+2009-10,1062676,22,30,Bolton_Wanderers,Home,9628,19419,Gary Cahill,gary-cahill,D,False,0.0,0.0,90.0,0.0,,0.0
+2009-10,1062676,22,30,Bolton_Wanderers,Home,10673,19930,Mark Davies,mark-davies,M,True,,,,,,
+2009-10,1062676,22,30,Bolton_Wanderers,Home,11095,7712,Sam Ricketts,sam-ricketts,D,True,,,,,,
+2009-10,1062676,22,30,Bolton_Wanderers,Home,14051,27696,Fabrice Muamba,fabrice-muamba,M,False,0.0,0.0,61.0,0.0,,0.0
+2009-10,1062676,22,30,Bolton_Wanderers,Home,38639,75773,Chung-yong Lee,chung-yong-lee,M,False,0.0,0.0,90.0,0.0,,0.0
+2009-10,1062676,22,30,Bolton_Wanderers,Home,761412,28491,Ali Al-Habsi,ali-al-habsi,G,True,,,,,,
+2009-10,1062676,22,30,Bolton_Wanderers,Home,1422131,1629,Andy O'Brien,andy-obrien,D,True,,,,,,
+2009-10,1062676,22,30,Bolton_Wanderers,Home,1422568,4739,Johan Elmander,johan-elmander,F,True,0.0,0.0,10.0,0.0,,0.0
+2009-10,1062676,22,30,Bolton_Wanderers,Home,2272736,18621,Tamir Cohen,tamir-cohen,M,False,0.0,0.0,80.0,0.0,,0.0
+2009-10,1062684,23,30,Bolton_Wanderers,Home,495,9765,Ivan Klasnić,ivan-klasnic,F,False,0.0,0.0,52.0,0.0,,0.0
+2009-10,1062684,23,30,Bolton_Wanderers,Home,541,3754,Jlloyd Samuel,jlloyd-samuel,M,True,,,,,,
+2009-10,1062684,23,30,Bolton_Wanderers,Home,666,1587,Zat Knight,zat-knight,D,False,0.0,0.0,90.0,0.0,,0.0
+2009-10,1062684,23,30,Bolton_Wanderers,Home,864,3289,Matthew Taylor,matthew-taylor,D,False,0.0,0.0,77.0,0.0,,0.0
+2009-10,1062684,23,30,Bolton_Wanderers,Home,1005,2004,Paul Robinson,paul-robinson,D,True,,,,,,
+2009-10,1062684,23,30,Bolton_Wanderers,Home,1242,1307,Ricardo Wayne Gardner,ricardo-wayne-gardner,D,True,0.0,0.0,13.0,0.0,,0.0
+2009-10,1062684,23,30,Bolton_Wanderers,Home,1244,3630,Kevin Davies,kevin-davies,F,False,1.0,0.0,90.0,0.0,,0.0
+2009-10,1062684,23,30,Bolton_Wanderers,Home,1253,1344,Jussi Jääskeläinen,jussi-jaaskelainen,G,False,0.0,0.0,90.0,0.0,,0.0
+2009-10,1062684,23,30,Bolton_Wanderers,Home,4503,28183,Gretar Rafn Steinsson,gretar-rafn-steinsson,D,False,0.0,0.0,90.0,0.0,,0.0
+2009-10,1062684,23,30,Bolton_Wanderers,Home,9628,19419,Gary Cahill,gary-cahill,D,False,0.0,0.0,90.0,0.0,,0.0
+2009-10,1062684,23,30,Bolton_Wanderers,Home,11095,7712,Sam Ricketts,sam-ricketts,D,False,0.0,0.0,90.0,0.0,,0.0
+2009-10,1062684,23,30,Bolton_Wanderers,Home,14051,27696,Fabrice Muamba,fabrice-muamba,M,False,0.0,0.0,90.0,0.0,,0.0
+2009-10,1062684,23,30,Bolton_Wanderers,Home,38639,75773,Chung-yong Lee,chung-yong-lee,M,False,0.0,1.0,90.0,0.0,,0.0
+2009-10,1062684,23,30,Bolton_Wanderers,Home,46357,59306,Vladimír Weiss,vladimir-weiss,M,True,0.0,0.0,1.0,0.0,,0.0
+2009-10,1062684,23,30,Bolton_Wanderers,Home,761412,28491,Ali Al-Habsi,ali-al-habsi,G,True,,,,,,
+2009-10,1062684,23,30,Bolton_Wanderers,Home,1422131,1629,Andy O'Brien,andy-obrien,D,True,,,,,,
+2009-10,1062684,23,30,Bolton_Wanderers,Home,1422568,4739,Johan Elmander,johan-elmander,F,True,0.0,0.0,38.0,0.0,,0.0
+2009-10,1062684,23,30,Bolton_Wanderers,Home,2272736,18621,Tamir Cohen,tamir-cohen,M,False,0.0,0.0,90.0,0.0,,0.0
+2009-10,1062699,24,30,Bolton_Wanderers,Away,666,1587,Zat Knight,zat-knight,D,False,0.0,0.0,90.0,0.0,,0.0
+2009-10,1062699,24,30,Bolton_Wanderers,Away,864,3289,Matthew Taylor,matthew-taylor,D,False,0.0,0.0,66.0,0.0,,0.0
+2009-10,1062699,24,30,Bolton_Wanderers,Away,1005,2004,Paul Robinson,paul-robinson,D,True,,,,,,
+2009-10,1062699,24,30,Bolton_Wanderers,Away,1242,1307,Ricardo Wayne Gardner,ricardo-wayne-gardner,D,True,0.0,0.0,30.0,0.0,,0.0
+2009-10,1062699,24,30,Bolton_Wanderers,Away,1244,3630,Kevin Davies,kevin-davies,F,False,0.0,0.0,90.0,1.0,,0.0
+2009-10,1062699,24,30,Bolton_Wanderers,Away,1253,1344,Jussi Jääskeläinen,jussi-jaaskelainen,G,False,0.0,0.0,90.0,0.0,,0.0
+2009-10,1062699,24,30,Bolton_Wanderers,Away,4503,28183,Gretar Rafn Steinsson,gretar-rafn-steinsson,D,False,0.0,0.0,90.0,0.0,,0.0
+2009-10,1062699,24,30,Bolton_Wanderers,Away,9628,19419,Gary Cahill,gary-cahill,D,False,0.0,0.0,90.0,0.0,,0.0
+2009-10,1062699,24,30,Bolton_Wanderers,Away,10673,19930,Mark Davies,mark-davies,M,False,0.0,0.0,90.0,0.0,,0.0
+2009-10,1062699,24,30,Bolton_Wanderers,Away,11095,7712,Sam Ricketts,sam-ricketts,D,False,0.0,0.0,90.0,0.0,,0.0
+2009-10,1062699,24,30,Bolton_Wanderers,Away,14051,27696,Fabrice Muamba,fabrice-muamba,M,False,0.0,0.0,78.0,0.0,,0.0
+2009-10,1062699,24,30,Bolton_Wanderers,Away,38094,54102,Jack Wilshere,jack-wilshere,M,True,,,,,,
+2009-10,1062699,24,30,Bolton_Wanderers,Away,38639,75773,Chung-yong Lee,chung-yong-lee,M,False,0.0,0.0,90.0,0.0,,0.0
+2009-10,1062699,24,30,Bolton_Wanderers,Away,46357,59306,Vladimír Weiss,vladimir-weiss,M,True,0.0,0.0,24.0,0.0,,0.0
+2009-10,1062699,24,30,Bolton_Wanderers,Away,761412,28491,Ali Al-Habsi,ali-al-habsi,G,True,,,,,,
+2009-10,1062699,24,30,Bolton_Wanderers,Away,1422131,1629,Andy O'Brien,andy-obrien,D,True,,,,,,
+2009-10,1062699,24,30,Bolton_Wanderers,Away,1422568,4739,Johan Elmander,johan-elmander,F,True,0.0,0.0,12.0,0.0,,0.0
+2009-10,1062699,24,30,Bolton_Wanderers,Away,2272736,18621,Tamir Cohen,tamir-cohen,M,False,0.0,0.0,60.0,0.0,,0.0
+2009-10,1062705,25,30,Bolton_Wanderers,Home,541,3754,Jlloyd Samuel,jlloyd-samuel,M,True,,,,,,
+2009-10,1062705,25,30,Bolton_Wanderers,Home,666,1587,Zat Knight,zat-knight,D,False,0.0,0.0,90.0,0.0,,0.0
+2009-10,1062705,25,30,Bolton_Wanderers,Home,864,3289,Matthew Taylor,matthew-taylor,D,False,0.0,0.0,71.0,0.0,,0.0
+2009-10,1062705,25,30,Bolton_Wanderers,Home,1005,2004,Paul Robinson,paul-robinson,D,False,0.0,0.0,90.0,0.0,,0.0
+2009-10,1062705,25,30,Bolton_Wanderers,Home,1242,1307,Ricardo Wayne Gardner,ricardo-wayne-gardner,D,True,,,,,,
+2009-10,1062705,25,30,Bolton_Wanderers,Home,1244,3630,Kevin Davies,kevin-davies,F,False,0.0,0.0,90.0,0.0,,0.0
+2009-10,1062705,25,30,Bolton_Wanderers,Home,1253,1344,Jussi Jääskeläinen,jussi-jaaskelainen,G,False,0.0,0.0,90.0,0.0,,0.0
+2009-10,1062705,25,30,Bolton_Wanderers,Home,10673,19930,Mark Davies,mark-davies,M,False,0.0,0.0,57.0,0.0,,0.0
+2009-10,1062705,25,30,Bolton_Wanderers,Home,11095,7712,Sam Ricketts,sam-ricketts,D,False,0.0,0.0,90.0,0.0,,0.0
+2009-10,1062705,25,30,Bolton_Wanderers,Home,14051,27696,Fabrice Muamba,fabrice-muamba,M,False,0.0,0.0,90.0,0.0,,0.0
+2009-10,1062705,25,30,Bolton_Wanderers,Home,33854,40386,Chris Basham,chris-basham,D,True,0.0,0.0,27.0,0.0,,0.0
+2009-10,1062705,25,30,Bolton_Wanderers,Home,38094,54102,Jack Wilshere,jack-wilshere,M,True,,,,,,
+2009-10,1062705,25,30,Bolton_Wanderers,Home,38639,75773,Chung-yong Lee,chung-yong-lee,M,False,0.0,0.0,90.0,0.0,,0.0
+2009-10,1062705,25,30,Bolton_Wanderers,Home,46357,59306,Vladimír Weiss,vladimir-weiss,M,True,0.0,0.0,19.0,0.0,,0.0
+2009-10,1062705,25,30,Bolton_Wanderers,Home,761412,28491,Ali Al-Habsi,ali-al-habsi,G,True,,,,,,
+2009-10,1062705,25,30,Bolton_Wanderers,Home,1422131,1629,Andy O'Brien,andy-obrien,D,False,0.0,0.0,63.0,0.0,,0.0
+2009-10,1062705,25,30,Bolton_Wanderers,Home,1422568,4739,Johan Elmander,johan-elmander,F,True,0.0,0.0,33.0,0.0,,0.0
+2009-10,1062705,25,30,Bolton_Wanderers,Home,2272736,18621,Tamir Cohen,tamir-cohen,M,False,0.0,0.0,90.0,0.0,,0.0
+2009-10,1062723,26,30,Bolton_Wanderers,Away,541,3754,Jlloyd Samuel,jlloyd-samuel,M,True,,,,,,
+2009-10,1062723,26,30,Bolton_Wanderers,Away,666,1587,Zat Knight,zat-knight,D,False,0.0,0.0,90.0,0.0,,0.0
+2009-10,1062723,26,30,Bolton_Wanderers,Away,864,3289,Matthew Taylor,matthew-taylor,D,True,0.0,0.0,12.0,0.0,,0.0
+2009-10,1062723,26,30,Bolton_Wanderers,Away,1005,2004,Paul Robinson,paul-robinson,D,False,0.0,0.0,90.0,0.0,,0.0
+2009-10,1062723,26,30,Bolton_Wanderers,Away,1242,1307,Ricardo Wayne Gardner,ricardo-wayne-gardner,D,True,,,,,,
+2009-10,1062723,26,30,Bolton_Wanderers,Away,1244,3630,Kevin Davies,kevin-davies,F,False,0.0,0.0,90.0,0.0,,0.0
+2009-10,1062723,26,30,Bolton_Wanderers,Away,1253,1344,Jussi Jääskeläinen,jussi-jaaskelainen,G,False,0.0,0.0,90.0,0.0,,0.0
+2009-10,1062723,26,30,Bolton_Wanderers,Away,4503,28183,Gretar Rafn Steinsson,gretar-rafn-steinsson,D,False,0.0,0.0,90.0,0.0,,0.0
+2009-10,1062723,26,30,Bolton_Wanderers,Away,10673,19930,Mark Davies,mark-davies,M,True,0.0,0.0,16.0,0.0,,0.0
+2009-10,1062723,26,30,Bolton_Wanderers,Away,11095,7712,Sam Ricketts,sam-ricketts,D,False,0.0,0.0,90.0,0.0,,0.0
+2009-10,1062723,26,30,Bolton_Wanderers,Away,14051,27696,Fabrice Muamba,fabrice-muamba,M,False,0.0,0.0,90.0,0.0,,0.0
+2009-10,1062723,26,30,Bolton_Wanderers,Away,33854,40386,Chris Basham,chris-basham,D,True,,,,,,
+2009-10,1062723,26,30,Bolton_Wanderers,Away,38094,54102,Jack Wilshere,jack-wilshere,M,False,0.0,0.0,78.0,0.0,,0.0
+2009-10,1062723,26,30,Bolton_Wanderers,Away,38639,75773,Chung-yong Lee,chung-yong-lee,M,False,0.0,0.0,90.0,0.0,,0.0
+2009-10,1062723,26,30,Bolton_Wanderers,Away,761412,28491,Ali Al-Habsi,ali-al-habsi,G,True,,,,,,
+2009-10,1062723,26,30,Bolton_Wanderers,Away,1422131,1629,Andy O'Brien,andy-obrien,D,True,,,,,,
+2009-10,1062723,26,30,Bolton_Wanderers,Away,1422568,4739,Johan Elmander,johan-elmander,F,False,0.0,0.0,90.0,0.0,,0.0
+2009-10,1062723,26,30,Bolton_Wanderers,Away,2272736,18621,Tamir Cohen,tamir-cohen,M,False,0.0,0.0,74.0,0.0,,0.0
+2009-10,1062726,27,30,Bolton_Wanderers,Away,495,9765,Ivan Klasnić,ivan-klasnic,F,True,0.0,0.0,21.0,0.0,,0.0
+2009-10,1062726,27,30,Bolton_Wanderers,Away,666,1587,Zat Knight,zat-knight,D,False,0.0,0.0,90.0,0.0,,0.0
+2009-10,1062726,27,30,Bolton_Wanderers,Away,864,3289,Matthew Taylor,matthew-taylor,D,False,0.0,0.0,59.0,0.0,,0.0
+2009-10,1062726,27,30,Bolton_Wanderers,Away,1005,2004,Paul Robinson,paul-robinson,D,False,0.0,0.0,90.0,0.0,,0.0
+2009-10,1062726,27,30,Bolton_Wanderers,Away,1242,1307,Ricardo Wayne Gardner,ricardo-wayne-gardner,D,False,0.0,0.0,90.0,0.0,,0.0
+2009-10,1062726,27,30,Bolton_Wanderers,Away,1244,3630,Kevin Davies,kevin-davies,F,False,0.0,0.0,90.0,0.0,,0.0
+2009-10,1062726,27,30,Bolton_Wanderers,Away,1253,1344,Jussi Jääskeläinen,jussi-jaaskelainen,G,False,0.0,0.0,90.0,0.0,,0.0
+2009-10,1062726,27,30,Bolton_Wanderers,Away,4503,28183,Gretar Rafn Steinsson,gretar-rafn-steinsson,D,False,0.0,0.0,90.0,0.0,,0.0
+2009-10,1062726,27,30,Bolton_Wanderers,Away,10673,19930,Mark Davies,mark-davies,M,True,0.0,0.0,31.0,0.0,,0.0
+2009-10,1062726,27,30,Bolton_Wanderers,Away,11095,7712,Sam Ricketts,sam-ricketts,D,False,0.0,0.0,90.0,0.0,,0.0
+2009-10,1062726,27,30,Bolton_Wanderers,Away,14051,27696,Fabrice Muamba,fabrice-muamba,M,False,0.0,0.0,59.0,0.0,,0.0
+2009-10,1062726,27,30,Bolton_Wanderers,Away,38094,54102,Jack Wilshere,jack-wilshere,M,True,,,,,,
+2009-10,1062726,27,30,Bolton_Wanderers,Away,38639,75773,Chung-yong Lee,chung-yong-lee,M,False,0.0,0.0,90.0,0.0,,0.0
+2009-10,1062726,27,30,Bolton_Wanderers,Away,46357,59306,Vladimír Weiss,vladimir-weiss,M,True,0.0,0.0,31.0,0.0,,0.0
+2009-10,1062726,27,30,Bolton_Wanderers,Away,761412,28491,Ali Al-Habsi,ali-al-habsi,G,True,,,,,,
+2009-10,1062726,27,30,Bolton_Wanderers,Away,1422131,1629,Andy O'Brien,andy-obrien,D,True,,,,,,
+2009-10,1062726,27,30,Bolton_Wanderers,Away,1422568,4739,Johan Elmander,johan-elmander,F,False,0.0,0.0,69.0,0.0,,0.0
+2009-10,1062726,27,30,Bolton_Wanderers,Away,2272736,18621,Tamir Cohen,tamir-cohen,M,True,,,,,,
+2009-10,1062735,28,30,Bolton_Wanderers,Home,495,9765,Ivan Klasnić,ivan-klasnic,F,True,0.0,0.0,26.0,0.0,,0.0
+2009-10,1062735,28,30,Bolton_Wanderers,Home,666,1587,Zat Knight,zat-knight,D,False,0.0,1.0,90.0,0.0,,0.0
+2009-10,1062735,28,30,Bolton_Wanderers,Home,864,3289,Matthew Taylor,matthew-taylor,D,True,0.0,0.0,9.0,0.0,,0.0
+2009-10,1062735,28,30,Bolton_Wanderers,Home,1005,2004,Paul Robinson,paul-robinson,D,False,0.0,0.0,90.0,0.0,,0.0
+2009-10,1062735,28,30,Bolton_Wanderers,Home,1244,3630,Kevin Davies,kevin-davies,F,False,0.0,0.0,90.0,0.0,,0.0
+2009-10,1062735,28,30,Bolton_Wanderers,Home,1253,1344,Jussi Jääskeläinen,jussi-jaaskelainen,G,False,0.0,0.0,90.0,0.0,,0.0
+2009-10,1062735,28,30,Bolton_Wanderers,Home,4503,28183,Gretar Rafn Steinsson,gretar-rafn-steinsson,D,False,0.0,0.0,90.0,0.0,,0.0
+2009-10,1062735,28,30,Bolton_Wanderers,Home,11095,7712,Sam Ricketts,sam-ricketts,D,False,0.0,0.0,90.0,0.0,,0.0
+2009-10,1062735,28,30,Bolton_Wanderers,Home,14051,27696,Fabrice Muamba,fabrice-muamba,M,False,0.0,0.0,90.0,0.0,,0.0
+2009-10,1062735,28,30,Bolton_Wanderers,Home,17604,38157,Rahamat Riga Mustapha,rahamat-riga-mustapha,Unknown,True,,,,,,
+2009-10,1062735,28,30,Bolton_Wanderers,Home,38094,54102,Jack Wilshere,jack-wilshere,M,False,0.0,0.0,81.0,0.0,,0.0
+2009-10,1062735,28,30,Bolton_Wanderers,Home,38534,19948,Stuart Holden,stuart-holden,M,False,0.0,0.0,90.0,0.0,,0.0
+2009-10,1062735,28,30,Bolton_Wanderers,Home,38639,75773,Chung-yong Lee,chung-yong-lee,M,False,1.0,0.0,90.0,0.0,,0.0
+2009-10,1062735,28,30,Bolton_Wanderers,Home,46357,59306,Vladimír Weiss,vladimir-weiss,M,True,0.0,0.0,1.0,0.0,,0.0
+2009-10,1062735,28,30,Bolton_Wanderers,Home,761412,28491,Ali Al-Habsi,ali-al-habsi,G,True,,,,,,
+2009-10,1062735,28,30,Bolton_Wanderers,Home,1422131,1629,Andy O'Brien,andy-obrien,D,True,,,,,,
+2009-10,1062735,28,30,Bolton_Wanderers,Home,1422568,4739,Johan Elmander,johan-elmander,F,False,0.0,0.0,64.0,0.0,,0.0
+2009-10,1062735,28,30,Bolton_Wanderers,Home,2272736,18621,Tamir Cohen,tamir-cohen,M,True,,,,,,
+2009-10,1062751,29,30,Bolton_Wanderers,Away,495,9765,Ivan Klasnić,ivan-klasnic,F,True,,,,,,
+2009-10,1062751,29,30,Bolton_Wanderers,Away,666,1587,Zat Knight,zat-knight,D,False,0.0,0.0,90.0,0.0,,0.0
+2009-10,1062751,29,30,Bolton_Wanderers,Away,864,3289,Matthew Taylor,matthew-taylor,D,True,0.0,0.0,12.0,0.0,,0.0
+2009-10,1062751,29,30,Bolton_Wanderers,Away,1005,2004,Paul Robinson,paul-robinson,D,False,0.0,0.0,90.0,0.0,,0.0
+2009-10,1062751,29,30,Bolton_Wanderers,Away,1242,1307,Ricardo Wayne Gardner,ricardo-wayne-gardner,D,True,0.0,0.0,16.0,0.0,,0.0
+2009-10,1062751,29,30,Bolton_Wanderers,Away,1244,3630,Kevin Davies,kevin-davies,F,False,0.0,1.0,90.0,0.0,,0.0
+2009-10,1062751,29,30,Bolton_Wanderers,Away,1253,1344,Jussi Jääskeläinen,jussi-jaaskelainen,G,False,0.0,0.0,90.0,0.0,,0.0
+2009-10,1062751,29,30,Bolton_Wanderers,Away,4503,28183,Gretar Rafn Steinsson,gretar-rafn-steinsson,D,False,0.0,0.0,90.0,0.0,,0.0
+2009-10,1062751,29,30,Bolton_Wanderers,Away,11095,7712,Sam Ricketts,sam-ricketts,D,False,0.0,0.0,90.0,0.0,,0.0
+2009-10,1062751,29,30,Bolton_Wanderers,Away,14051,27696,Fabrice Muamba,fabrice-muamba,M,False,0.0,0.0,90.0,0.0,,0.0
+2009-10,1062751,29,30,Bolton_Wanderers,Away,17604,38157,Rahamat Riga Mustapha,rahamat-riga-mustapha,Unknown,True,,,,,,
+2009-10,1062751,29,30,Bolton_Wanderers,Away,38094,54102,Jack Wilshere,jack-wilshere,M,False,0.0,1.0,78.0,0.0,,0.0
+2009-10,1062751,29,30,Bolton_Wanderers,Away,38639,75773,Chung-yong Lee,chung-yong-lee,M,False,1.0,0.0,90.0,0.0,,0.0
+2009-10,1062751,29,30,Bolton_Wanderers,Away,46357,59306,Vladimír Weiss,vladimir-weiss,M,True,,,,,,
+2009-10,1062751,29,30,Bolton_Wanderers,Away,761412,28491,Ali Al-Habsi,ali-al-habsi,G,True,,,,,,
+2009-10,1062751,29,30,Bolton_Wanderers,Away,1422131,1629,Andy O'Brien,andy-obrien,D,True,,,,,,
+2009-10,1062751,29,30,Bolton_Wanderers,Away,1422568,4739,Johan Elmander,johan-elmander,F,False,0.0,0.0,74.0,0.0,,0.0
+2009-10,1062751,29,30,Bolton_Wanderers,Away,2272736,18621,Tamir Cohen,tamir-cohen,M,False,1.0,0.0,72.0,0.0,,0.0
+2009-10,1062755,30,30,Bolton_Wanderers,Home,495,9765,Ivan Klasnić,ivan-klasnic,F,True,0.0,0.0,14.0,0.0,,0.0
+2009-10,1062755,30,30,Bolton_Wanderers,Home,666,1587,Zat Knight,zat-knight,D,False,0.0,0.0,90.0,0.0,,0.0
+2009-10,1062755,30,30,Bolton_Wanderers,Home,864,3289,Matthew Taylor,matthew-taylor,D,True,0.0,1.0,23.0,0.0,,0.0
+2009-10,1062755,30,30,Bolton_Wanderers,Home,1005,2004,Paul Robinson,paul-robinson,D,False,0.0,0.0,90.0,0.0,,0.0
+2009-10,1062755,30,30,Bolton_Wanderers,Home,1242,1307,Ricardo Wayne Gardner,ricardo-wayne-gardner,D,True,,,,,,
+2009-10,1062755,30,30,Bolton_Wanderers,Home,1244,3630,Kevin Davies,kevin-davies,F,False,1.0,1.0,76.0,0.0,,0.0
+2009-10,1062755,30,30,Bolton_Wanderers,Home,1253,1344,Jussi Jääskeläinen,jussi-jaaskelainen,G,False,0.0,0.0,90.0,0.0,,0.0
+2009-10,1062755,30,30,Bolton_Wanderers,Home,4503,28183,Gretar Rafn Steinsson,gretar-rafn-steinsson,D,False,0.0,0.0,90.0,0.0,,0.0
+2009-10,1062755,30,30,Bolton_Wanderers,Home,14051,27696,Fabrice Muamba,fabrice-muamba,M,False,0.0,1.0,90.0,0.0,,0.0
+2009-10,1062755,30,30,Bolton_Wanderers,Home,17604,38157,Rahamat Riga Mustapha,rahamat-riga-mustapha,Unknown,True,,,,,,
+2009-10,1062755,30,30,Bolton_Wanderers,Home,38094,54102,Jack Wilshere,jack-wilshere,M,False,0.0,0.0,67.0,0.0,,0.0
+2009-10,1062755,30,30,Bolton_Wanderers,Home,38639,75773,Chung-yong Lee,chung-yong-lee,M,False,1.0,0.0,72.0,0.0,,0.0
+2009-10,1062755,30,30,Bolton_Wanderers,Home,46357,59306,Vladimír Weiss,vladimir-weiss,M,True,0.0,0.0,18.0,0.0,,0.0
+2009-10,1062755,30,30,Bolton_Wanderers,Home,761412,28491,Ali Al-Habsi,ali-al-habsi,G,True,,,,,,
+2009-10,1062755,30,30,Bolton_Wanderers,Home,1422131,1629,Andy O'Brien,andy-obrien,D,False,0.0,0.0,90.0,0.0,,0.0
+2009-10,1062755,30,30,Bolton_Wanderers,Home,1422568,4739,Johan Elmander,johan-elmander,F,False,0.0,1.0,90.0,0.0,,0.0
+2009-10,1062755,30,30,Bolton_Wanderers,Home,1422750,5539,Danny Shittu,danny-shittu,D,True,,,,,,
+2009-10,1062755,30,30,Bolton_Wanderers,Home,2272736,18621,Tamir Cohen,tamir-cohen,M,False,0.0,0.0,90.0,0.0,,0.0
+2009-10,1062767,31,30,Bolton_Wanderers,Away,666,1587,Zat Knight,zat-knight,D,False,0.0,0.0,90.0,0.0,,0.0
+2009-10,1062767,31,30,Bolton_Wanderers,Away,864,3289,Matthew Taylor,matthew-taylor,D,True,0.0,0.0,9.0,0.0,,0.0
+2009-10,1062767,31,30,Bolton_Wanderers,Away,1005,2004,Paul Robinson,paul-robinson,D,False,0.0,0.0,90.0,0.0,,0.0
+2009-10,1062767,31,30,Bolton_Wanderers,Away,1244,3630,Kevin Davies,kevin-davies,F,False,0.0,0.0,90.0,0.0,,0.0
+2009-10,1062767,31,30,Bolton_Wanderers,Away,1253,1344,Jussi Jääskeläinen,jussi-jaaskelainen,G,False,0.0,0.0,90.0,0.0,,0.0
+2009-10,1062767,31,30,Bolton_Wanderers,Away,4503,28183,Gretar Rafn Steinsson,gretar-rafn-steinsson,D,False,0.0,0.0,70.0,0.0,,0.0
+2009-10,1062767,31,30,Bolton_Wanderers,Away,9628,19419,Gary Cahill,gary-cahill,D,True,,,,,,
+2009-10,1062767,31,30,Bolton_Wanderers,Away,10673,19930,Mark Davies,mark-davies,M,True,0.0,0.0,6.0,0.0,,0.0
+2009-10,1062767,31,30,Bolton_Wanderers,Away,11095,7712,Sam Ricketts,sam-ricketts,D,True,0.0,0.0,19.0,0.0,,0.0
+2009-10,1062767,31,30,Bolton_Wanderers,Away,14051,27696,Fabrice Muamba,fabrice-muamba,M,False,0.0,0.0,90.0,0.0,,0.0
+2009-10,1062767,31,30,Bolton_Wanderers,Away,17604,38157,Rahamat Riga Mustapha,rahamat-riga-mustapha,Unknown,True,,,,,,
+2009-10,1062767,31,30,Bolton_Wanderers,Away,38094,54102,Jack Wilshere,jack-wilshere,M,False,0.0,0.0,81.0,0.0,,0.0
+2009-10,1062767,31,30,Bolton_Wanderers,Away,38639,75773,Chung-yong Lee,chung-yong-lee,M,False,0.0,0.0,90.0,0.0,,0.0
+2009-10,1062767,31,30,Bolton_Wanderers,Away,46357,59306,Vladimír Weiss,vladimir-weiss,M,True,,,,,,
+2009-10,1062767,31,30,Bolton_Wanderers,Away,761412,28491,Ali Al-Habsi,ali-al-habsi,G,True,,,,,,
+2009-10,1062767,31,30,Bolton_Wanderers,Away,1422131,1629,Andy O'Brien,andy-obrien,D,False,0.0,0.0,90.0,0.0,,0.0
+2009-10,1062767,31,30,Bolton_Wanderers,Away,1422568,4739,Johan Elmander,johan-elmander,F,False,0.0,0.0,71.0,0.0,,0.0
+2009-10,1062767,31,30,Bolton_Wanderers,Away,2272736,18621,Tamir Cohen,tamir-cohen,M,False,0.0,0.0,84.0,0.0,,0.0
+2009-10,1062775,32,30,Bolton_Wanderers,Home,495,9765,Ivan Klasnić,ivan-klasnic,F,True,0.0,0.0,17.0,0.0,,0.0
+2009-10,1062775,32,30,Bolton_Wanderers,Home,541,3754,Jlloyd Samuel,jlloyd-samuel,M,False,0.0,0.0,90.0,0.0,,0.0
+2009-10,1062775,32,30,Bolton_Wanderers,Home,666,1587,Zat Knight,zat-knight,D,False,0.0,0.0,90.0,0.0,,0.0
+2009-10,1062775,32,30,Bolton_Wanderers,Home,864,3289,Matthew Taylor,matthew-taylor,D,True,0.0,0.0,17.0,0.0,,0.0
+2009-10,1062775,32,30,Bolton_Wanderers,Home,1244,3630,Kevin Davies,kevin-davies,F,False,0.0,0.0,90.0,0.0,,0.0
+2009-10,1062775,32,30,Bolton_Wanderers,Home,1253,1344,Jussi Jääskeläinen,jussi-jaaskelainen,G,False,0.0,0.0,90.0,0.0,,0.0
+2009-10,1062775,32,30,Bolton_Wanderers,Home,9628,19419,Gary Cahill,gary-cahill,D,False,0.0,0.0,90.0,0.0,,0.0
+2009-10,1062775,32,30,Bolton_Wanderers,Home,10673,19930,Mark Davies,mark-davies,M,True,,,,,,
+2009-10,1062775,32,30,Bolton_Wanderers,Home,11095,7712,Sam Ricketts,sam-ricketts,D,False,0.0,0.0,90.0,1.0,,0.0
+2009-10,1062775,32,30,Bolton_Wanderers,Home,14051,27696,Fabrice Muamba,fabrice-muamba,M,False,0.0,0.0,90.0,0.0,,0.0
+2009-10,1062775,32,30,Bolton_Wanderers,Home,17604,38157,Rahamat Riga Mustapha,rahamat-riga-mustapha,Unknown,True,,,,,,
+2009-10,1062775,32,30,Bolton_Wanderers,Home,38094,54102,Jack Wilshere,jack-wilshere,M,False,0.0,0.0,90.0,0.0,,0.0
+2009-10,1062775,32,30,Bolton_Wanderers,Home,38639,75773,Chung-yong Lee,chung-yong-lee,M,False,0.0,0.0,90.0,0.0,,0.0
+2009-10,1062775,32,30,Bolton_Wanderers,Home,46357,59306,Vladimír Weiss,vladimir-weiss,M,True,,,,,,
+2009-10,1062775,32,30,Bolton_Wanderers,Home,761412,28491,Ali Al-Habsi,ali-al-habsi,G,True,,,,,,
+2009-10,1062775,32,30,Bolton_Wanderers,Home,1422131,1629,Andy O'Brien,andy-obrien,D,True,,,,,,
+2009-10,1062775,32,30,Bolton_Wanderers,Home,1422568,4739,Johan Elmander,johan-elmander,F,False,0.0,0.0,73.0,0.0,,0.0
+2009-10,1062775,32,30,Bolton_Wanderers,Home,2272736,18621,Tamir Cohen,tamir-cohen,M,False,0.0,0.0,73.0,0.0,,0.0
+2009-10,1062786,33,30,Bolton_Wanderers,Home,495,9765,Ivan Klasnić,ivan-klasnic,F,True,0.0,0.0,33.0,0.0,,0.0
+2009-10,1062786,33,30,Bolton_Wanderers,Home,541,3754,Jlloyd Samuel,jlloyd-samuel,M,True,,,,,,
+2009-10,1062786,33,30,Bolton_Wanderers,Home,666,1587,Zat Knight,zat-knight,D,False,0.0,0.0,90.0,0.0,,0.0
+2009-10,1062786,33,30,Bolton_Wanderers,Home,864,3289,Matthew Taylor,matthew-taylor,D,True,0.0,0.0,12.0,0.0,,0.0
+2009-10,1062786,33,30,Bolton_Wanderers,Home,1005,2004,Paul Robinson,paul-robinson,D,False,0.0,0.0,90.0,0.0,,0.0
+2009-10,1062786,33,30,Bolton_Wanderers,Home,1244,3630,Kevin Davies,kevin-davies,F,False,0.0,0.0,90.0,0.0,,0.0
+2009-10,1062786,33,30,Bolton_Wanderers,Home,1253,1344,Jussi Jääskeläinen,jussi-jaaskelainen,G,False,0.0,0.0,90.0,0.0,,0.0
+2009-10,1062786,33,30,Bolton_Wanderers,Home,4503,28183,Gretar Rafn Steinsson,gretar-rafn-steinsson,D,True,,,,,,
+2009-10,1062786,33,30,Bolton_Wanderers,Home,9628,19419,Gary Cahill,gary-cahill,D,False,0.0,0.0,90.0,0.0,,0.0
+2009-10,1062786,33,30,Bolton_Wanderers,Home,11095,7712,Sam Ricketts,sam-ricketts,D,False,0.0,0.0,90.0,0.0,,0.0
+2009-10,1062786,33,30,Bolton_Wanderers,Home,14051,27696,Fabrice Muamba,fabrice-muamba,M,False,0.0,0.0,90.0,0.0,,0.0
+2009-10,1062786,33,30,Bolton_Wanderers,Home,38094,54102,Jack Wilshere,jack-wilshere,M,False,0.0,0.0,90.0,0.0,,0.0
+2009-10,1062786,33,30,Bolton_Wanderers,Home,38639,75773,Chung-yong Lee,chung-yong-lee,M,False,0.0,0.0,78.0,0.0,,0.0
+2009-10,1062786,33,30,Bolton_Wanderers,Home,46357,59306,Vladimír Weiss,vladimir-weiss,M,True,0.0,0.0,24.0,0.0,,0.0
+2009-10,1062786,33,30,Bolton_Wanderers,Home,761412,28491,Ali Al-Habsi,ali-al-habsi,G,True,,,,,,
+2009-10,1062786,33,30,Bolton_Wanderers,Home,1422131,1629,Andy O'Brien,andy-obrien,D,True,,,,,,
+2009-10,1062786,33,30,Bolton_Wanderers,Home,1422568,4739,Johan Elmander,johan-elmander,F,False,0.0,0.0,57.0,0.0,,0.0
+2009-10,1062786,33,30,Bolton_Wanderers,Home,2272736,18621,Tamir Cohen,tamir-cohen,M,False,0.0,0.0,66.0,0.0,,0.0
+2009-10,1062796,34,30,Bolton_Wanderers,Away,495,9765,Ivan Klasnić,ivan-klasnic,F,True,0.0,0.0,8.0,0.0,,0.0
+2009-10,1062796,34,30,Bolton_Wanderers,Away,541,3754,Jlloyd Samuel,jlloyd-samuel,M,True,,,,,,
+2009-10,1062796,34,30,Bolton_Wanderers,Away,666,1587,Zat Knight,zat-knight,D,False,0.0,0.0,90.0,0.0,,0.0
+2009-10,1062796,34,30,Bolton_Wanderers,Away,864,3289,Matthew Taylor,matthew-taylor,D,False,0.0,0.0,90.0,0.0,,0.0
+2009-10,1062796,34,30,Bolton_Wanderers,Away,1005,2004,Paul Robinson,paul-robinson,D,False,0.0,0.0,90.0,0.0,,0.0
+2009-10,1062796,34,30,Bolton_Wanderers,Away,1244,3630,Kevin Davies,kevin-davies,F,False,0.0,0.0,90.0,0.0,,0.0
+2009-10,1062796,34,30,Bolton_Wanderers,Away,1253,1344,Jussi Jääskeläinen,jussi-jaaskelainen,G,False,0.0,0.0,90.0,0.0,,0.0
+2009-10,1062796,34,30,Bolton_Wanderers,Away,4503,28183,Gretar Rafn Steinsson,gretar-rafn-steinsson,D,False,0.0,0.0,90.0,0.0,,0.0
+2009-10,1062796,34,30,Bolton_Wanderers,Away,9628,19419,Gary Cahill,gary-cahill,D,False,0.0,0.0,90.0,0.0,,0.0
+2009-10,1062796,34,30,Bolton_Wanderers,Away,10673,19930,Mark Davies,mark-davies,M,True,,,,,,
+2009-10,1062796,34,30,Bolton_Wanderers,Away,11095,7712,Sam Ricketts,sam-ricketts,D,False,0.0,0.0,90.0,0.0,,0.0
+2009-10,1062796,34,30,Bolton_Wanderers,Away,14051,27696,Fabrice Muamba,fabrice-muamba,M,False,0.0,0.0,90.0,0.0,,0.0
+2009-10,1062796,34,30,Bolton_Wanderers,Away,38094,54102,Jack Wilshere,jack-wilshere,M,False,0.0,0.0,82.0,0.0,,0.0
+2009-10,1062796,34,30,Bolton_Wanderers,Away,38639,75773,Chung-yong Lee,chung-yong-lee,M,False,0.0,0.0,82.0,0.0,,0.0
+2009-10,1062796,34,30,Bolton_Wanderers,Away,46357,59306,Vladimír Weiss,vladimir-weiss,M,True,,,,,,
+2009-10,1062796,34,30,Bolton_Wanderers,Away,761412,28491,Ali Al-Habsi,ali-al-habsi,G,True,,,,,,
+2009-10,1062796,34,30,Bolton_Wanderers,Away,1422568,4739,Johan Elmander,johan-elmander,F,True,0.0,0.0,8.0,0.0,,0.0
+2009-10,1062796,34,30,Bolton_Wanderers,Away,2272736,18621,Tamir Cohen,tamir-cohen,M,True,,,,,,
+2009-10,1062810,35,30,Bolton_Wanderers,Away,495,9765,Ivan Klasnić,ivan-klasnic,F,True,0.0,0.0,44.0,0.0,,0.0
+2009-10,1062810,35,30,Bolton_Wanderers,Away,541,3754,Jlloyd Samuel,jlloyd-samuel,M,True,,,,,,
+2009-10,1062810,35,30,Bolton_Wanderers,Away,666,1587,Zat Knight,zat-knight,D,False,0.0,0.0,90.0,0.0,,0.0
+2009-10,1062810,35,30,Bolton_Wanderers,Away,864,3289,Matthew Taylor,matthew-taylor,D,False,0.0,2.0,90.0,0.0,,0.0
+2009-10,1062810,35,30,Bolton_Wanderers,Away,1005,2004,Paul Robinson,paul-robinson,D,False,0.0,0.0,90.0,0.0,,0.0
+2009-10,1062810,35,30,Bolton_Wanderers,Away,1244,3630,Kevin Davies,kevin-davies,F,False,0.0,0.0,90.0,0.0,,0.0
+2009-10,1062810,35,30,Bolton_Wanderers,Away,1253,1344,Jussi Jääskeläinen,jussi-jaaskelainen,G,False,0.0,0.0,90.0,0.0,,0.0
+2009-10,1062810,35,30,Bolton_Wanderers,Away,4503,28183,Gretar Rafn Steinsson,gretar-rafn-steinsson,D,False,0.0,0.0,90.0,0.0,,0.0
+2009-10,1062810,35,30,Bolton_Wanderers,Away,9628,19419,Gary Cahill,gary-cahill,D,False,0.0,0.0,90.0,0.0,,0.0
+2009-10,1062810,35,30,Bolton_Wanderers,Away,10673,19930,Mark Davies,mark-davies,M,True,0.0,0.0,8.0,0.0,,0.0
+2009-10,1062810,35,30,Bolton_Wanderers,Away,11095,7712,Sam Ricketts,sam-ricketts,D,False,0.0,0.0,46.0,0.0,,0.0
+2009-10,1062810,35,30,Bolton_Wanderers,Away,14051,27696,Fabrice Muamba,fabrice-muamba,M,False,0.0,0.0,82.0,0.0,,0.0
+2009-10,1062810,35,30,Bolton_Wanderers,Away,38094,54102,Jack Wilshere,jack-wilshere,M,False,0.0,0.0,90.0,0.0,,0.0
+2009-10,1062810,35,30,Bolton_Wanderers,Away,38639,75773,Chung-yong Lee,chung-yong-lee,M,False,0.0,0.0,71.0,0.0,,0.0
+2009-10,1062810,35,30,Bolton_Wanderers,Away,46357,59306,Vladimír Weiss,vladimir-weiss,M,True,1.0,0.0,19.0,0.0,,0.0
+2009-10,1062810,35,30,Bolton_Wanderers,Away,761412,28491,Ali Al-Habsi,ali-al-habsi,G,True,,,,,,
+2009-10,1062810,35,30,Bolton_Wanderers,Away,1422568,4739,Johan Elmander,johan-elmander,F,True,,,,,,
+2009-10,1062810,35,30,Bolton_Wanderers,Away,2272736,18621,Tamir Cohen,tamir-cohen,M,True,,,,,,
+2009-10,1062816,36,30,Bolton_Wanderers,Home,495,9765,Ivan Klasnić,ivan-klasnic,F,False,0.0,1.0,75.0,0.0,,0.0
+2009-10,1062816,36,30,Bolton_Wanderers,Home,541,3754,Jlloyd Samuel,jlloyd-samuel,M,True,,,,,,
+2009-10,1062816,36,30,Bolton_Wanderers,Home,666,1587,Zat Knight,zat-knight,D,False,0.0,0.0,90.0,0.0,,0.0
+2009-10,1062816,36,30,Bolton_Wanderers,Home,864,3289,Matthew Taylor,matthew-taylor,D,False,0.0,0.0,90.0,0.0,,0.0
+2009-10,1062816,36,30,Bolton_Wanderers,Home,1005,2004,Paul Robinson,paul-robinson,D,False,0.0,0.0,90.0,0.0,,0.0
+2009-10,1062816,36,30,Bolton_Wanderers,Home,1244,3630,Kevin Davies,kevin-davies,F,False,0.0,1.0,90.0,0.0,,0.0
+2009-10,1062816,36,30,Bolton_Wanderers,Home,1253,1344,Jussi Jääskeläinen,jussi-jaaskelainen,G,False,0.0,0.0,90.0,0.0,,0.0
+2009-10,1062816,36,30,Bolton_Wanderers,Home,4503,28183,Gretar Rafn Steinsson,gretar-rafn-steinsson,D,False,0.0,0.0,90.0,0.0,,0.0
+2009-10,1062816,36,30,Bolton_Wanderers,Home,9628,19419,Gary Cahill,gary-cahill,D,False,0.0,0.0,90.0,0.0,,0.0
+2009-10,1062816,36,30,Bolton_Wanderers,Home,10673,19930,Mark Davies,mark-davies,M,True,0.0,0.0,9.0,0.0,,0.0
+2009-10,1062816,36,30,Bolton_Wanderers,Home,11095,7712,Sam Ricketts,sam-ricketts,D,True,,,,,,
+2009-10,1062816,36,30,Bolton_Wanderers,Home,14051,27696,Fabrice Muamba,fabrice-muamba,M,False,0.0,0.0,90.0,0.0,,0.0
+2009-10,1062816,36,30,Bolton_Wanderers,Home,38094,54102,Jack Wilshere,jack-wilshere,M,False,1.0,0.0,81.0,0.0,,0.0
+2009-10,1062816,36,30,Bolton_Wanderers,Home,38639,75773,Chung-yong Lee,chung-yong-lee,M,True,0.0,0.0,20.0,0.0,,0.0
+2009-10,1062816,36,30,Bolton_Wanderers,Home,46357,59306,Vladimír Weiss,vladimir-weiss,M,False,1.0,0.0,70.0,0.0,,0.0
+2009-10,1062816,36,30,Bolton_Wanderers,Home,761412,28491,Ali Al-Habsi,ali-al-habsi,G,True,,,,,,
+2009-10,1062816,36,30,Bolton_Wanderers,Home,1422568,4739,Johan Elmander,johan-elmander,F,True,0.0,0.0,15.0,0.0,,0.0
+2009-10,1062816,36,30,Bolton_Wanderers,Home,2272736,18621,Tamir Cohen,tamir-cohen,M,True,,,,,,
+2009-10,1062832,37,30,Bolton_Wanderers,Away,495,9765,Ivan Klasnić,ivan-klasnic,F,False,0.0,0.0,60.0,0.0,,0.0
+2009-10,1062832,37,30,Bolton_Wanderers,Away,541,3754,Jlloyd Samuel,jlloyd-samuel,M,True,,,,,,
+2009-10,1062832,37,30,Bolton_Wanderers,Away,666,1587,Zat Knight,zat-knight,D,False,0.0,0.0,90.0,0.0,,0.0
+2009-10,1062832,37,30,Bolton_Wanderers,Away,864,3289,Matthew Taylor,matthew-taylor,D,False,0.0,0.0,90.0,0.0,,0.0
+2009-10,1062832,37,30,Bolton_Wanderers,Away,1005,2004,Paul Robinson,paul-robinson,D,False,0.0,0.0,90.0,0.0,,0.0
+2009-10,1062832,37,30,Bolton_Wanderers,Away,1242,1307,Ricardo Wayne Gardner,ricardo-wayne-gardner,D,True,0.0,0.0,12.0,0.0,,0.0
+2009-10,1062832,37,30,Bolton_Wanderers,Away,1244,3630,Kevin Davies,kevin-davies,F,False,0.0,0.0,90.0,0.0,,0.0
+2009-10,1062832,37,30,Bolton_Wanderers,Away,1253,1344,Jussi Jääskeläinen,jussi-jaaskelainen,G,False,0.0,0.0,90.0,0.0,,0.0
+2009-10,1062832,37,30,Bolton_Wanderers,Away,4503,28183,Gretar Rafn Steinsson,gretar-rafn-steinsson,D,False,0.0,0.0,90.0,0.0,,0.0
+2009-10,1062832,37,30,Bolton_Wanderers,Away,9628,19419,Gary Cahill,gary-cahill,D,False,0.0,0.0,90.0,0.0,,0.0
+2009-10,1062832,37,30,Bolton_Wanderers,Away,10673,19930,Mark Davies,mark-davies,M,True,,,,,,
+2009-10,1062832,37,30,Bolton_Wanderers,Away,11095,7712,Sam Ricketts,sam-ricketts,D,True,,,,,,
+2009-10,1062832,37,30,Bolton_Wanderers,Away,14051,27696,Fabrice Muamba,fabrice-muamba,M,False,0.0,0.0,78.0,0.0,,0.0
+2009-10,1062832,37,30,Bolton_Wanderers,Away,38094,54102,Jack Wilshere,jack-wilshere,M,False,0.0,0.0,90.0,0.0,,0.0
+2009-10,1062832,37,30,Bolton_Wanderers,Away,38639,75773,Chung-yong Lee,chung-yong-lee,M,True,0.0,0.0,29.0,0.0,,0.0
+2009-10,1062832,37,30,Bolton_Wanderers,Away,46357,59306,Vladimír Weiss,vladimir-weiss,M,False,0.0,0.0,61.0,0.0,,0.0
+2009-10,1062832,37,30,Bolton_Wanderers,Away,761412,28491,Ali Al-Habsi,ali-al-habsi,G,True,,,,,,
+2009-10,1062832,37,30,Bolton_Wanderers,Away,1422568,4739,Johan Elmander,johan-elmander,F,True,0.0,0.0,30.0,0.0,,0.0
+2009-10,1062836,38,30,Bolton_Wanderers,Home,495,9765,Ivan Klasnić,ivan-klasnic,F,False,0.0,1.0,90.0,0.0,,0.0
+2009-10,1062836,38,30,Bolton_Wanderers,Home,541,3754,Jlloyd Samuel,jlloyd-samuel,M,True,,,,,,
+2009-10,1062836,38,30,Bolton_Wanderers,Home,666,1587,Zat Knight,zat-knight,D,False,0.0,0.0,90.0,0.0,,0.0
+2009-10,1062836,38,30,Bolton_Wanderers,Home,864,3289,Matthew Taylor,matthew-taylor,D,False,0.0,0.0,66.0,0.0,,0.0
+2009-10,1062836,38,30,Bolton_Wanderers,Home,1005,2004,Paul Robinson,paul-robinson,D,False,1.0,0.0,90.0,0.0,,0.0
+2009-10,1062836,38,30,Bolton_Wanderers,Home,1242,1307,Ricardo Wayne Gardner,ricardo-wayne-gardner,D,True,0.0,0.0,1.0,0.0,,0.0
+2009-10,1062836,38,30,Bolton_Wanderers,Home,1244,3630,Kevin Davies,kevin-davies,F,False,0.0,1.0,90.0,0.0,,0.0
+2009-10,1062836,38,30,Bolton_Wanderers,Home,1253,1344,Jussi Jääskeläinen,jussi-jaaskelainen,G,False,0.0,0.0,90.0,0.0,,0.0
+2009-10,1062836,38,30,Bolton_Wanderers,Home,4503,28183,Gretar Rafn Steinsson,gretar-rafn-steinsson,D,False,0.0,0.0,90.0,0.0,,0.0
+2009-10,1062836,38,30,Bolton_Wanderers,Home,9628,19419,Gary Cahill,gary-cahill,D,False,0.0,0.0,90.0,0.0,,0.0
+2009-10,1062836,38,30,Bolton_Wanderers,Home,10673,19930,Mark Davies,mark-davies,M,True,,,,,,
+2009-10,1062836,38,30,Bolton_Wanderers,Home,11095,7712,Sam Ricketts,sam-ricketts,D,True,,,,,,
+2009-10,1062836,38,30,Bolton_Wanderers,Home,14051,27696,Fabrice Muamba,fabrice-muamba,M,False,0.0,0.0,90.0,0.0,,0.0
+2009-10,1062836,38,30,Bolton_Wanderers,Home,38094,54102,Jack Wilshere,jack-wilshere,M,False,0.0,0.0,90.0,0.0,,0.0
+2009-10,1062836,38,30,Bolton_Wanderers,Home,38534,19948,Stuart Holden,stuart-holden,M,True,0.0,0.0,24.0,0.0,,0.0
+2009-10,1062836,38,30,Bolton_Wanderers,Home,38639,75773,Chung-yong Lee,chung-yong-lee,M,True,0.0,0.0,25.0,0.0,,0.0
+2009-10,1062836,38,30,Bolton_Wanderers,Home,46357,59306,Vladimír Weiss,vladimir-weiss,M,False,1.0,0.0,65.0,0.0,,0.0
+2009-10,1062836,38,30,Bolton_Wanderers,Home,761412,28491,Ali Al-Habsi,ali-al-habsi,G,True,,,,,,

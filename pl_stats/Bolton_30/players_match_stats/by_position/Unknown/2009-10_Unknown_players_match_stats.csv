@@ -1,0 +1,21 @@
+season,matchId,gameweek,team_id,team,venue,playerId,pl_code,playerName,slug,position,substitute,goalAssist,goals,minutesPlayed,ownGoals,substitute.1,totalShots
+2009-10,1062466,1,30,Bolton_Wanderers,Home,546,1999,Gavin McCann,gavin-mccann,Unknown,False,0.0,0.0,68.0,0.0,,0.0
+2009-10,1276637,2,30,Bolton_Wanderers,Away,546,1999,Gavin McCann,gavin-mccann,Unknown,True,0.0,0.0,34.0,0.0,,0.0
+2009-10,1062488,3,30,Bolton_Wanderers,Away,546,1999,Gavin McCann,gavin-mccann,Unknown,True,,,,,,
+2009-10,1062496,4,30,Bolton_Wanderers,Home,17604,38157,Rahamat Riga Mustapha,rahamat-riga-mustapha,Unknown,True,0.0,0.0,1.0,0.0,,0.0
+2009-10,1062509,5,30,Bolton_Wanderers,Away,546,1999,Gavin McCann,gavin-mccann,Unknown,True,0.0,0.0,13.0,0.0,,0.0
+2009-10,1062516,6,30,Bolton_Wanderers,Home,546,1999,Gavin McCann,gavin-mccann,Unknown,False,0.0,0.0,90.0,0.0,,0.0
+2009-10,1062524,7,30,Bolton_Wanderers,Away,546,1999,Gavin McCann,gavin-mccann,Unknown,True,0.0,0.0,19.0,0.0,,0.0
+2009-10,1062536,8,30,Bolton_Wanderers,Home,546,1999,Gavin McCann,gavin-mccann,Unknown,True,0.0,0.0,16.0,0.0,,0.0
+2009-10,1062549,9,30,Bolton_Wanderers,Away,546,1999,Gavin McCann,gavin-mccann,Unknown,True,,,,,,
+2009-10,1062585,13,30,Bolton_Wanderers,Home,546,1999,Gavin McCann,gavin-mccann,Unknown,False,0.0,0.0,69.0,0.0,,0.0
+2009-10,1062598,14,30,Bolton_Wanderers,Away,546,1999,Gavin McCann,gavin-mccann,Unknown,False,0.0,0.0,90.0,0.0,,0.0
+2009-10,1062613,15,30,Bolton_Wanderers,Away,546,1999,Gavin McCann,gavin-mccann,Unknown,False,0.0,0.0,90.0,0.0,,0.0
+2009-10,1062656,20,30,Bolton_Wanderers,Home,546,1999,Gavin McCann,gavin-mccann,Unknown,True,0.0,0.0,15.0,0.0,,0.0
+2009-10,1296870,21,30,Bolton_Wanderers,Away,17604,38157,Rahamat Riga Mustapha,rahamat-riga-mustapha,Unknown,True,,,,,,
+2009-10,1062676,22,30,Bolton_Wanderers,Home,546,1999,Gavin McCann,gavin-mccann,Unknown,True,0.0,0.0,29.0,0.0,,0.0
+2009-10,1062735,28,30,Bolton_Wanderers,Home,17604,38157,Rahamat Riga Mustapha,rahamat-riga-mustapha,Unknown,True,,,,,,
+2009-10,1062751,29,30,Bolton_Wanderers,Away,17604,38157,Rahamat Riga Mustapha,rahamat-riga-mustapha,Unknown,True,,,,,,
+2009-10,1062755,30,30,Bolton_Wanderers,Home,17604,38157,Rahamat Riga Mustapha,rahamat-riga-mustapha,Unknown,True,,,,,,
+2009-10,1062767,31,30,Bolton_Wanderers,Away,17604,38157,Rahamat Riga Mustapha,rahamat-riga-mustapha,Unknown,True,,,,,,
+2009-10,1062775,32,30,Bolton_Wanderers,Home,17604,38157,Rahamat Riga Mustapha,rahamat-riga-mustapha,Unknown,True,,,,,,

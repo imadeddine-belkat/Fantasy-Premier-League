@@ -1,0 +1,213 @@
+season,matchId,gameweek,team_id,team,venue,playerId,pl_code,playerName,slug,position,substitute,goalAssist,goals,minutesPlayed,ownGoals,penaltyMiss,substitute.1,totalShots
+2010-11,1379602,1,43,Manchester_City,Away,3,1593,Patrick Vieira,patrick-vieira,M,True,,,,,,,
+2010-11,1379602,1,43,Manchester_City,Away,544,1632,Gareth Barry,gareth-barry,M,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1379602,1,43,Manchester_City,Away,1879,15076,Nigel de Jong,nigel-de-jong,M,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1379602,1,43,Manchester_City,Away,11781,20664,David Silva,david-silva,M,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1379602,1,43,Manchester_City,Away,14468,14664,Yaya Touré,yaya-toure,M,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1379608,2,43,Manchester_City,Home,3,1593,Patrick Vieira,patrick-vieira,M,True,,,,,,,
+2010-11,1379608,2,43,Manchester_City,Home,544,1632,Gareth Barry,gareth-barry,M,False,0.0,1.0,90.0,0.0,,,0.0
+2010-11,1379608,2,43,Manchester_City,Home,791,15157,James Milner,james-milner,M,False,1.0,0.0,90.0,0.0,,,0.0
+2010-11,1379608,2,43,Manchester_City,Home,1879,15076,Nigel de Jong,nigel-de-jong,M,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1379608,2,43,Manchester_City,Home,11781,20664,David Silva,david-silva,M,True,,,,,,,
+2010-11,1379608,2,43,Manchester_City,Home,14468,14664,Yaya Touré,yaya-toure,M,False,0.0,0.0,84.0,0.0,,,0.0
+2010-11,1379621,3,43,Manchester_City,Away,3,1593,Patrick Vieira,patrick-vieira,M,True,,,,,,,
+2010-11,1379621,3,43,Manchester_City,Away,544,1632,Gareth Barry,gareth-barry,M,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1379621,3,43,Manchester_City,Away,791,15157,James Milner,james-milner,M,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1379621,3,43,Manchester_City,Away,1879,15076,Nigel de Jong,nigel-de-jong,M,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1379621,3,43,Manchester_City,Away,11781,20664,David Silva,david-silva,M,True,0.0,0.0,9.0,0.0,,,0.0
+2010-11,1379621,3,43,Manchester_City,Away,14468,14664,Yaya Touré,yaya-toure,M,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1379796,4,43,Manchester_City,Home,3,1593,Patrick Vieira,patrick-vieira,M,False,0.0,1.0,66.0,0.0,,,0.0
+2010-11,1379796,4,43,Manchester_City,Home,544,1632,Gareth Barry,gareth-barry,M,True,0.0,0.0,24.0,0.0,,,0.0
+2010-11,1379796,4,43,Manchester_City,Home,791,15157,James Milner,james-milner,M,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1379796,4,43,Manchester_City,Home,11781,20664,David Silva,david-silva,M,True,0.0,0.0,5.0,0.0,,,0.0
+2010-11,1379796,4,43,Manchester_City,Home,14468,14664,Yaya Touré,yaya-toure,M,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1379811,5,43,Manchester_City,Away,3,1593,Patrick Vieira,patrick-vieira,M,True,,,,,,,
+2010-11,1379811,5,43,Manchester_City,Away,544,1632,Gareth Barry,gareth-barry,M,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1379811,5,43,Manchester_City,Away,791,15157,James Milner,james-milner,M,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1379811,5,43,Manchester_City,Away,1879,15076,Nigel de Jong,nigel-de-jong,M,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1379811,5,43,Manchester_City,Away,11781,20664,David Silva,david-silva,M,False,0.0,0.0,72.0,0.0,,,0.0
+2010-11,1379811,5,43,Manchester_City,Away,14468,14664,Yaya Touré,yaya-toure,M,False,0.0,1.0,74.0,0.0,,,0.0
+2010-11,1379818,6,43,Manchester_City,Home,3,1593,Patrick Vieira,patrick-vieira,M,True,,,,,,,
+2010-11,1379818,6,43,Manchester_City,Home,544,1632,Gareth Barry,gareth-barry,M,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1379818,6,43,Manchester_City,Home,791,15157,James Milner,james-milner,M,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1379818,6,43,Manchester_City,Home,1879,15076,Nigel de Jong,nigel-de-jong,M,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1379818,6,43,Manchester_City,Home,11781,20664,David Silva,david-silva,M,False,0.0,0.0,77.0,0.0,,,0.0
+2010-11,1379818,6,43,Manchester_City,Home,14468,14664,Yaya Touré,yaya-toure,M,False,1.0,0.0,90.0,0.0,,,0.0
+2010-11,1379825,7,43,Manchester_City,Home,3,1593,Patrick Vieira,patrick-vieira,M,True,0.0,0.0,4.0,0.0,,,0.0
+2010-11,1379825,7,43,Manchester_City,Home,544,1632,Gareth Barry,gareth-barry,M,False,0.0,0.0,72.0,0.0,,,0.0
+2010-11,1379825,7,43,Manchester_City,Home,791,15157,James Milner,james-milner,M,False,1.0,0.0,90.0,0.0,,,0.0
+2010-11,1379825,7,43,Manchester_City,Home,1879,15076,Nigel de Jong,nigel-de-jong,M,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1379825,7,43,Manchester_City,Home,11781,20664,David Silva,david-silva,M,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1379825,7,43,Manchester_City,Home,14468,14664,Yaya Touré,yaya-toure,M,False,0.0,0.0,56.0,0.0,,,0.0
+2010-11,1379835,8,43,Manchester_City,Away,3,1593,Patrick Vieira,patrick-vieira,M,True,0.0,0.0,5.0,0.0,,,0.0
+2010-11,1379835,8,43,Manchester_City,Away,544,1632,Gareth Barry,gareth-barry,M,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1379835,8,43,Manchester_City,Away,791,15157,James Milner,james-milner,M,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1379835,8,43,Manchester_City,Away,1879,15076,Nigel de Jong,nigel-de-jong,M,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1379835,8,43,Manchester_City,Away,11781,20664,David Silva,david-silva,M,True,0.0,1.0,25.0,0.0,,,0.0
+2010-11,1379845,9,43,Manchester_City,Home,3,1593,Patrick Vieira,patrick-vieira,M,True,,,,,,,
+2010-11,1379845,9,43,Manchester_City,Home,544,1632,Gareth Barry,gareth-barry,M,False,0.0,0.0,72.0,0.0,,,0.0
+2010-11,1379845,9,43,Manchester_City,Home,791,15157,James Milner,james-milner,M,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1379845,9,43,Manchester_City,Home,1879,15076,Nigel de Jong,nigel-de-jong,M,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1379845,9,43,Manchester_City,Home,11781,20664,David Silva,david-silva,M,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1379845,9,43,Manchester_City,Home,14468,14664,Yaya Touré,yaya-toure,M,False,0.0,0.0,45.0,0.0,,,0.0
+2010-11,1379861,10,43,Manchester_City,Away,3,1593,Patrick Vieira,patrick-vieira,M,True,,,,,,,
+2010-11,1379861,10,43,Manchester_City,Away,544,1632,Gareth Barry,gareth-barry,M,False,0.0,0.0,68.0,0.0,,,0.0
+2010-11,1379861,10,43,Manchester_City,Away,791,15157,James Milner,james-milner,M,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1379861,10,43,Manchester_City,Away,11781,20664,David Silva,david-silva,M,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1379861,10,43,Manchester_City,Away,14468,14664,Yaya Touré,yaya-toure,M,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1379871,11,43,Manchester_City,Away,544,1632,Gareth Barry,gareth-barry,M,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1379871,11,43,Manchester_City,Away,791,15157,James Milner,james-milner,M,True,,,,,,,
+2010-11,1379871,11,43,Manchester_City,Away,1879,15076,Nigel de Jong,nigel-de-jong,M,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1379871,11,43,Manchester_City,Away,11781,20664,David Silva,david-silva,M,False,1.0,0.0,68.0,0.0,,,0.0
+2010-11,1379871,11,43,Manchester_City,Away,14468,14664,Yaya Touré,yaya-toure,M,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1379880,12,43,Manchester_City,Home,3,1593,Patrick Vieira,patrick-vieira,M,True,,,,,,,
+2010-11,1379880,12,43,Manchester_City,Home,544,1632,Gareth Barry,gareth-barry,M,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1379880,12,43,Manchester_City,Home,791,15157,James Milner,james-milner,M,False,0.0,0.0,73.0,0.0,,,0.0
+2010-11,1379880,12,43,Manchester_City,Home,1879,15076,Nigel de Jong,nigel-de-jong,M,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1379880,12,43,Manchester_City,Home,11781,20664,David Silva,david-silva,M,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1379880,12,43,Manchester_City,Home,14468,14664,Yaya Touré,yaya-toure,M,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1379885,13,43,Manchester_City,Home,3,1593,Patrick Vieira,patrick-vieira,M,True,,,,,,,
+2010-11,1379885,13,43,Manchester_City,Home,544,1632,Gareth Barry,gareth-barry,M,True,0.0,0.0,7.0,0.0,,,0.0
+2010-11,1379885,13,43,Manchester_City,Home,791,15157,James Milner,james-milner,M,False,0.0,0.0,66.0,0.0,,,0.0
+2010-11,1379885,13,43,Manchester_City,Home,1879,15076,Nigel de Jong,nigel-de-jong,M,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1379885,13,43,Manchester_City,Home,11781,20664,David Silva,david-silva,M,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1379885,13,43,Manchester_City,Home,14468,14664,Yaya Touré,yaya-toure,M,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1379897,14,43,Manchester_City,Away,3,1593,Patrick Vieira,patrick-vieira,M,True,0.0,0.0,9.0,0.0,,,0.0
+2010-11,1379897,14,43,Manchester_City,Away,544,1632,Gareth Barry,gareth-barry,M,False,1.0,0.0,81.0,0.0,,,0.0
+2010-11,1379897,14,43,Manchester_City,Away,791,15157,James Milner,james-milner,M,True,0.0,0.0,2.0,0.0,,,0.0
+2010-11,1379897,14,43,Manchester_City,Away,1879,15076,Nigel de Jong,nigel-de-jong,M,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1379897,14,43,Manchester_City,Away,11781,20664,David Silva,david-silva,M,False,0.0,0.0,88.0,0.0,,,0.0
+2010-11,1379897,14,43,Manchester_City,Away,14468,14664,Yaya Touré,yaya-toure,M,False,0.0,1.0,90.0,0.0,,,0.0
+2010-11,1379908,15,43,Manchester_City,Away,3,1593,Patrick Vieira,patrick-vieira,M,True,,,,,,,
+2010-11,1379908,15,43,Manchester_City,Away,544,1632,Gareth Barry,gareth-barry,M,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1379908,15,43,Manchester_City,Away,791,15157,James Milner,james-milner,M,False,1.0,0.0,82.0,0.0,,,0.0
+2010-11,1379908,15,43,Manchester_City,Away,1879,15076,Nigel de Jong,nigel-de-jong,M,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1379908,15,43,Manchester_City,Away,11781,20664,David Silva,david-silva,M,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1379918,16,43,Manchester_City,Home,3,1593,Patrick Vieira,patrick-vieira,M,True,,,,,,,
+2010-11,1379918,16,43,Manchester_City,Home,544,1632,Gareth Barry,gareth-barry,M,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1379918,16,43,Manchester_City,Home,791,15157,James Milner,james-milner,M,True,0.0,0.0,1.0,0.0,,,0.0
+2010-11,1379918,16,43,Manchester_City,Home,1879,15076,Nigel de Jong,nigel-de-jong,M,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1379918,16,43,Manchester_City,Home,11781,20664,David Silva,david-silva,M,False,0.0,0.0,84.0,0.0,,,0.0
+2010-11,1379918,16,43,Manchester_City,Home,14468,14664,Yaya Touré,yaya-toure,M,False,1.0,0.0,90.0,0.0,,,0.0
+2010-11,1379930,17,43,Manchester_City,Away,3,1593,Patrick Vieira,patrick-vieira,M,True,,,,,,,
+2010-11,1379930,17,43,Manchester_City,Away,544,1632,Gareth Barry,gareth-barry,M,False,1.0,0.0,90.0,0.0,,,0.0
+2010-11,1379930,17,43,Manchester_City,Away,791,15157,James Milner,james-milner,M,True,0.0,0.0,4.0,0.0,,,0.0
+2010-11,1379930,17,43,Manchester_City,Away,1879,15076,Nigel de Jong,nigel-de-jong,M,False,1.0,0.0,90.0,0.0,,,0.0
+2010-11,1379930,17,43,Manchester_City,Away,11781,20664,David Silva,david-silva,M,False,1.0,0.0,86.0,0.0,,,0.0
+2010-11,1379930,17,43,Manchester_City,Away,14468,14664,Yaya Touré,yaya-toure,M,False,0.0,2.0,90.0,0.0,,,0.0
+2010-11,1379938,18,43,Manchester_City,Home,3,1593,Patrick Vieira,patrick-vieira,M,True,,,,,,,
+2010-11,1379938,18,43,Manchester_City,Home,544,1632,Gareth Barry,gareth-barry,M,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1379938,18,43,Manchester_City,Home,791,15157,James Milner,james-milner,M,False,0.0,0.0,46.0,0.0,,,0.0
+2010-11,1379938,18,43,Manchester_City,Home,11781,20664,David Silva,david-silva,M,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1379938,18,43,Manchester_City,Home,14468,14664,Yaya Touré,yaya-toure,M,False,0.0,1.0,90.0,0.0,,,0.0
+2010-11,1379950,19,43,Manchester_City,Away,3,1593,Patrick Vieira,patrick-vieira,M,True,0.0,0.0,8.0,0.0,,,0.0
+2010-11,1379950,19,43,Manchester_City,Away,544,1632,Gareth Barry,gareth-barry,M,False,0.0,1.0,90.0,0.0,,,0.0
+2010-11,1379950,19,43,Manchester_City,Away,791,15157,James Milner,james-milner,M,False,1.0,0.0,90.0,0.0,,,0.0
+2010-11,1379950,19,43,Manchester_City,Away,1879,15076,Nigel de Jong,nigel-de-jong,M,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1379950,19,43,Manchester_City,Away,11781,20664,David Silva,david-silva,M,False,0.0,0.0,70.0,0.0,,,0.0
+2010-11,1379950,19,43,Manchester_City,Away,14468,14664,Yaya Touré,yaya-toure,M,False,0.0,0.0,82.0,0.0,,,0.0
+2010-11,1379955,20,43,Manchester_City,Home,3,1593,Patrick Vieira,patrick-vieira,M,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1379955,20,43,Manchester_City,Home,544,1632,Gareth Barry,gareth-barry,M,True,,,,,,,
+2010-11,1379955,20,43,Manchester_City,Home,791,15157,James Milner,james-milner,M,True,0.0,0.0,32.0,0.0,,,0.0
+2010-11,1379955,20,43,Manchester_City,Home,1879,15076,Nigel de Jong,nigel-de-jong,M,False,0.0,0.0,77.0,0.0,,,0.0
+2010-11,1379955,20,43,Manchester_City,Home,11781,20664,David Silva,david-silva,M,False,0.0,0.0,58.0,0.0,,,0.0
+2010-11,1379955,20,43,Manchester_City,Home,14468,14664,Yaya Touré,yaya-toure,M,False,0.0,0.0,63.0,0.0,,,0.0
+2010-11,1379965,21,43,Manchester_City,Home,3,1593,Patrick Vieira,patrick-vieira,M,True,0.0,0.0,5.0,0.0,,,0.0
+2010-11,1379965,21,43,Manchester_City,Home,544,1632,Gareth Barry,gareth-barry,M,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1379965,21,43,Manchester_City,Home,791,15157,James Milner,james-milner,M,True,0.0,0.0,26.0,0.0,,,0.0
+2010-11,1379965,21,43,Manchester_City,Home,1879,15076,Nigel de Jong,nigel-de-jong,M,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1379965,21,43,Manchester_City,Home,11781,20664,David Silva,david-silva,M,False,0.0,0.0,64.0,0.0,,,0.0
+2010-11,1379965,21,43,Manchester_City,Home,14468,14664,Yaya Touré,yaya-toure,M,False,0.0,0.0,85.0,0.0,,,0.0
+2010-11,1379972,22,43,Manchester_City,Away,3,1593,Patrick Vieira,patrick-vieira,M,True,,,,,,,
+2010-11,1379972,22,43,Manchester_City,Away,544,1632,Gareth Barry,gareth-barry,M,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1379972,22,43,Manchester_City,Away,791,15157,James Milner,james-milner,M,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1379972,22,43,Manchester_City,Away,1879,15076,Nigel de Jong,nigel-de-jong,M,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1379972,22,43,Manchester_City,Away,14468,14664,Yaya Touré,yaya-toure,M,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1379985,23,43,Manchester_City,Home,3,1593,Patrick Vieira,patrick-vieira,M,True,,,,,,,
+2010-11,1379985,23,43,Manchester_City,Home,544,1632,Gareth Barry,gareth-barry,M,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1379985,23,43,Manchester_City,Home,791,15157,James Milner,james-milner,M,True,0.0,0.0,9.0,0.0,,,0.0
+2010-11,1379985,23,43,Manchester_City,Home,1879,15076,Nigel de Jong,nigel-de-jong,M,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1379985,23,43,Manchester_City,Home,11781,20664,David Silva,david-silva,M,True,0.0,0.0,6.0,0.0,,,0.0
+2010-11,1379985,23,43,Manchester_City,Home,14468,14664,Yaya Touré,yaya-toure,M,False,0.0,1.0,90.0,0.0,,,0.0
+2010-11,1379993,24,43,Manchester_City,Away,3,1593,Patrick Vieira,patrick-vieira,M,True,,,,,,,
+2010-11,1379993,24,43,Manchester_City,Away,544,1632,Gareth Barry,gareth-barry,M,False,0.0,0.0,57.0,0.0,,,0.0
+2010-11,1379993,24,43,Manchester_City,Away,791,15157,James Milner,james-milner,M,True,,,,,,,
+2010-11,1379993,24,43,Manchester_City,Away,1879,15076,Nigel de Jong,nigel-de-jong,M,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1379993,24,43,Manchester_City,Away,11781,20664,David Silva,david-silva,M,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1379993,24,43,Manchester_City,Away,14468,14664,Yaya Touré,yaya-toure,M,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1380003,25,43,Manchester_City,Away,3,1593,Patrick Vieira,patrick-vieira,M,True,0.0,0.0,44.0,0.0,,,0.0
+2010-11,1380003,25,43,Manchester_City,Away,544,1632,Gareth Barry,gareth-barry,M,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1380003,25,43,Manchester_City,Away,791,15157,James Milner,james-milner,M,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1380003,25,43,Manchester_City,Away,1879,15076,Nigel de Jong,nigel-de-jong,M,False,0.0,0.0,46.0,0.0,,,0.0
+2010-11,1380003,25,43,Manchester_City,Away,11781,20664,David Silva,david-silva,M,False,1.0,0.0,90.0,0.0,,,0.0
+2010-11,1380015,26,43,Manchester_City,Home,3,1593,Patrick Vieira,patrick-vieira,M,True,,,,,,,
+2010-11,1380015,26,43,Manchester_City,Home,544,1632,Gareth Barry,gareth-barry,M,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1380015,26,43,Manchester_City,Home,791,15157,James Milner,james-milner,M,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1380015,26,43,Manchester_City,Home,11781,20664,David Silva,david-silva,M,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1380015,26,43,Manchester_City,Home,14468,14664,Yaya Touré,yaya-toure,M,False,0.0,0.0,63.0,0.0,,,0.0
+2010-11,1380015,26,43,Manchester_City,Home,146841,93666,Abdul Razak,abdul-razak,M,True,0.0,0.0,1.0,0.0,,,0.0
+2010-11,1380029,27,43,Manchester_City,Away,3,1593,Patrick Vieira,patrick-vieira,M,True,,,,,,,
+2010-11,1380029,27,43,Manchester_City,Away,544,1632,Gareth Barry,gareth-barry,M,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1380029,27,43,Manchester_City,Away,791,15157,James Milner,james-milner,M,False,0.0,0.0,60.0,0.0,,,0.0
+2010-11,1380029,27,43,Manchester_City,Away,11781,20664,David Silva,david-silva,M,False,0.0,1.0,90.0,0.0,,,0.0
+2010-11,1380029,27,43,Manchester_City,Away,14468,14664,Yaya Touré,yaya-toure,M,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1380035,28,43,Manchester_City,Home,3,1593,Patrick Vieira,patrick-vieira,M,True,0.0,0.0,30.0,0.0,,,0.0
+2010-11,1380035,28,43,Manchester_City,Home,544,1632,Gareth Barry,gareth-barry,M,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1380035,28,43,Manchester_City,Home,791,15157,James Milner,james-milner,M,True,0.0,0.0,13.0,0.0,,,0.0
+2010-11,1380035,28,43,Manchester_City,Home,14468,14664,Yaya Touré,yaya-toure,M,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1380048,29,43,Manchester_City,Home,3,1593,Patrick Vieira,patrick-vieira,M,False,1.0,0.0,90.0,0.0,,,0.0
+2010-11,1380048,29,43,Manchester_City,Home,544,1632,Gareth Barry,gareth-barry,M,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1380048,29,43,Manchester_City,Home,1879,15076,Nigel de Jong,nigel-de-jong,M,True,0.0,0.0,7.0,0.0,,,0.0
+2010-11,1380048,29,43,Manchester_City,Home,11781,20664,David Silva,david-silva,M,False,0.0,1.0,83.0,0.0,,,0.0
+2010-11,1380048,29,43,Manchester_City,Home,14468,14664,Yaya Touré,yaya-toure,M,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1380054,30,43,Manchester_City,Away,3,1593,Patrick Vieira,patrick-vieira,M,True,,,,,,,
+2010-11,1380054,30,43,Manchester_City,Away,544,1632,Gareth Barry,gareth-barry,M,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1380054,30,43,Manchester_City,Away,791,15157,James Milner,james-milner,M,False,0.0,0.0,81.0,0.0,,,0.0
+2010-11,1380054,30,43,Manchester_City,Away,1879,15076,Nigel de Jong,nigel-de-jong,M,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1380054,30,43,Manchester_City,Away,11781,20664,David Silva,david-silva,M,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1380054,30,43,Manchester_City,Away,14468,14664,Yaya Touré,yaya-toure,M,False,0.0,0.0,80.0,0.0,,,0.0
+2010-11,1380066,31,43,Manchester_City,Home,3,1593,Patrick Vieira,patrick-vieira,M,True,0.0,1.0,24.0,0.0,,,0.0
+2010-11,1380066,31,43,Manchester_City,Home,544,1632,Gareth Barry,gareth-barry,M,True,,,,,,,
+2010-11,1380066,31,43,Manchester_City,Home,791,15157,James Milner,james-milner,M,True,,,,,,,
+2010-11,1380066,31,43,Manchester_City,Home,1879,15076,Nigel de Jong,nigel-de-jong,M,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1380066,31,43,Manchester_City,Home,11781,20664,David Silva,david-silva,M,False,0.0,1.0,78.0,0.0,,,0.0
+2010-11,1380066,31,43,Manchester_City,Home,14468,14664,Yaya Touré,yaya-toure,M,False,1.0,1.0,90.0,0.0,,,0.0
+2010-11,1380077,32,43,Manchester_City,Away,544,1632,Gareth Barry,gareth-barry,M,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1380077,32,43,Manchester_City,Away,791,15157,James Milner,james-milner,M,False,0.0,0.0,59.0,0.0,,,0.0
+2010-11,1380077,32,43,Manchester_City,Away,1879,15076,Nigel de Jong,nigel-de-jong,M,True,0.0,0.0,7.0,0.0,,,0.0
+2010-11,1380077,32,43,Manchester_City,Away,11781,20664,David Silva,david-silva,M,True,0.0,0.0,31.0,0.0,,,0.0
+2010-11,1380077,32,43,Manchester_City,Away,14468,14664,Yaya Touré,yaya-toure,M,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1380086,33,43,Manchester_City,Home,3,1593,Patrick Vieira,patrick-vieira,M,True,0.0,0.0,24.0,0.0,,,0.0
+2010-11,1380086,33,43,Manchester_City,Home,791,15157,James Milner,james-milner,M,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1380086,33,43,Manchester_City,Home,1879,15076,Nigel de Jong,nigel-de-jong,M,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1380086,33,43,Manchester_City,Home,11781,20664,David Silva,david-silva,M,False,0.0,0.0,83.0,0.0,,,0.0
+2010-11,1380086,33,43,Manchester_City,Home,14468,14664,Yaya Touré,yaya-toure,M,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1380093,34,43,Manchester_City,Away,3,1593,Patrick Vieira,patrick-vieira,M,True,0.0,0.0,7.0,0.0,,,0.0
+2010-11,1380093,34,43,Manchester_City,Away,544,1632,Gareth Barry,gareth-barry,M,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1380093,34,43,Manchester_City,Away,791,15157,James Milner,james-milner,M,True,,,,,,,
+2010-11,1380093,34,43,Manchester_City,Away,1879,15076,Nigel de Jong,nigel-de-jong,M,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1380093,34,43,Manchester_City,Away,11781,20664,David Silva,david-silva,M,False,1.0,0.0,90.0,0.0,,,0.0
+2010-11,1380093,34,43,Manchester_City,Away,14468,14664,Yaya Touré,yaya-toure,M,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1380108,35,43,Manchester_City,Home,3,1593,Patrick Vieira,patrick-vieira,M,True,0.0,0.0,4.0,0.0,,,0.0
+2010-11,1380108,35,43,Manchester_City,Home,544,1632,Gareth Barry,gareth-barry,M,False,0.0,0.0,74.0,0.0,,,0.0
+2010-11,1380108,35,43,Manchester_City,Home,791,15157,James Milner,james-milner,M,True,0.0,0.0,44.0,0.0,,,0.0
+2010-11,1380108,35,43,Manchester_City,Home,1879,15076,Nigel de Jong,nigel-de-jong,M,False,0.0,1.0,46.0,0.0,,,0.0
+2010-11,1380108,35,43,Manchester_City,Home,11781,20664,David Silva,david-silva,M,False,1.0,0.0,90.0,0.0,,,0.0
+2010-11,1380108,35,43,Manchester_City,Home,14468,14664,Yaya Touré,yaya-toure,M,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1380114,36,43,Manchester_City,Away,3,1593,Patrick Vieira,patrick-vieira,M,False,0.0,0.0,78.0,0.0,,,0.0
+2010-11,1380114,36,43,Manchester_City,Away,791,15157,James Milner,james-milner,M,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1380114,36,43,Manchester_City,Away,1879,15076,Nigel de Jong,nigel-de-jong,M,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1380114,36,43,Manchester_City,Away,11781,20664,David Silva,david-silva,M,False,1.0,0.0,90.0,0.0,,,0.0
+2010-11,1380114,36,43,Manchester_City,Away,14468,14664,Yaya Touré,yaya-toure,M,False,0.0,1.0,90.0,0.0,,,0.0
+2010-11,1380128,37,43,Manchester_City,Home,3,1593,Patrick Vieira,patrick-vieira,M,True,,,,,,,
+2010-11,1380128,37,43,Manchester_City,Home,544,1632,Gareth Barry,gareth-barry,M,True,,,,,,,
+2010-11,1380128,37,43,Manchester_City,Home,791,15157,James Milner,james-milner,M,False,1.0,0.0,90.0,0.0,,,0.0
+2010-11,1380128,37,43,Manchester_City,Home,1879,15076,Nigel de Jong,nigel-de-jong,M,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1380128,37,43,Manchester_City,Home,11781,20664,David Silva,david-silva,M,False,0.0,0.0,56.0,0.0,,,0.0
+2010-11,1380128,37,43,Manchester_City,Home,14468,14664,Yaya Touré,yaya-toure,M,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1380133,38,43,Manchester_City,Away,3,1593,Patrick Vieira,patrick-vieira,M,True,,,,,,,
+2010-11,1380133,38,43,Manchester_City,Away,544,1632,Gareth Barry,gareth-barry,M,False,1.0,0.0,90.0,0.0,,,0.0
+2010-11,1380133,38,43,Manchester_City,Away,791,15157,James Milner,james-milner,M,True,0.0,0.0,12.0,0.0,,,0.0
+2010-11,1380133,38,43,Manchester_City,Away,1879,15076,Nigel de Jong,nigel-de-jong,M,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1380133,38,43,Manchester_City,Away,11781,20664,David Silva,david-silva,M,False,0.0,0.0,78.0,0.0,,,0.0
+2010-11,1380133,38,43,Manchester_City,Away,14468,14664,Yaya Touré,yaya-toure,M,False,0.0,0.0,90.0,0.0,,,0.0

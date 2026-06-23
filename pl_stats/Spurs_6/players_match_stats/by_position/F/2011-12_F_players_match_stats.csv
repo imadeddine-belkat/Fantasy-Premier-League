@@ -1,0 +1,158 @@
+season,matchId,gameweek,team_id,team,venue,playerId,pl_code,playerName,slug,position,substitute,goalAssist,goals,minutesPlayed,ownGoals,substitute.1,totalShots
+2011-12,2155438,1,6,Tottenham_Hotspur,Home,946,7958,Jermain Defoe,jermain-defoe,F,True,,,,,,
+2011-12,2155438,1,6,Tottenham_Hotspur,Home,3094,17500,Emmanuel Adebayor,emmanuel-adebayor,F,False,0.0,0.0,87.0,0.0,,0.0
+2011-12,2155438,1,6,Tottenham_Hotspur,Home,10936,20298,Roman Pavlyuchenko,roman-pavlyuchenko,F,True,0.0,0.0,3.0,0.0,,0.0
+2011-12,2155438,1,6,Tottenham_Hotspur,Home,15354,36903,Gareth Bale,gareth-bale,F,False,0.0,0.0,90.0,0.0,,0.0
+2011-12,1768344,2,6,Tottenham_Hotspur,Away,946,7958,Jermain Defoe,jermain-defoe,F,False,0.0,0.0,90.0,0.0,,0.0
+2011-12,1768344,2,6,Tottenham_Hotspur,Away,10936,20298,Roman Pavlyuchenko,roman-pavlyuchenko,F,True,0.0,0.0,16.0,0.0,,0.0
+2011-12,1768344,2,6,Tottenham_Hotspur,Away,15354,36903,Gareth Bale,gareth-bale,F,False,0.0,0.0,90.0,0.0,,0.0
+2011-12,1768344,2,6,Tottenham_Hotspur,Away,47992,60252,Andros Townsend,andros-townsend,F,True,,,,,,
+2011-12,1768356,3,6,Tottenham_Hotspur,Home,917,3773,Peter Crouch,peter-crouch,F,False,0.0,0.0,90.0,0.0,,0.0
+2011-12,1768356,3,6,Tottenham_Hotspur,Home,946,7958,Jermain Defoe,jermain-defoe,F,True,0.0,0.0,37.0,0.0,,0.0
+2011-12,1768356,3,6,Tottenham_Hotspur,Home,10936,20298,Roman Pavlyuchenko,roman-pavlyuchenko,F,True,,,,,,
+2011-12,1768356,3,6,Tottenham_Hotspur,Home,15354,36903,Gareth Bale,gareth-bale,F,False,0.0,0.0,90.0,0.0,,0.0
+2011-12,1768982,4,6,Tottenham_Hotspur,Away,946,7958,Jermain Defoe,jermain-defoe,F,False,0.0,1.0,89.0,0.0,,0.0
+2011-12,1768982,4,6,Tottenham_Hotspur,Away,3094,17500,Emmanuel Adebayor,emmanuel-adebayor,F,False,0.0,1.0,90.0,0.0,,0.0
+2011-12,1768982,4,6,Tottenham_Hotspur,Away,10936,20298,Roman Pavlyuchenko,roman-pavlyuchenko,F,True,,,,,,
+2011-12,1768982,4,6,Tottenham_Hotspur,Away,15354,36903,Gareth Bale,gareth-bale,F,False,0.0,0.0,90.0,0.0,,0.0
+2011-12,1768982,4,6,Tottenham_Hotspur,Away,28366,40275,Giovani Dos Santos,giovani-dos-santos,F,True,0.0,0.0,1.0,0.0,,0.0
+2011-12,1768982,4,6,Tottenham_Hotspur,Away,47992,60252,Andros Townsend,andros-townsend,F,True,,,,,,
+2011-12,1768992,5,6,Tottenham_Hotspur,Home,946,7958,Jermain Defoe,jermain-defoe,F,False,0.0,1.0,83.0,0.0,,0.0
+2011-12,1768992,5,6,Tottenham_Hotspur,Home,3094,17500,Emmanuel Adebayor,emmanuel-adebayor,F,False,0.0,2.0,90.0,0.0,,0.0
+2011-12,1768992,5,6,Tottenham_Hotspur,Home,10936,20298,Roman Pavlyuchenko,roman-pavlyuchenko,F,True,,,,,,
+2011-12,1768992,5,6,Tottenham_Hotspur,Home,15354,36903,Gareth Bale,gareth-bale,F,False,0.0,0.0,90.0,0.0,,0.0
+2011-12,1768992,5,6,Tottenham_Hotspur,Home,28366,40275,Giovani Dos Santos,giovani-dos-santos,F,True,0.0,0.0,7.0,0.0,,0.0
+2011-12,1769003,6,6,Tottenham_Hotspur,Away,3094,17500,Emmanuel Adebayor,emmanuel-adebayor,F,False,1.0,0.0,90.0,0.0,,0.0
+2011-12,1769003,6,6,Tottenham_Hotspur,Away,15354,36903,Gareth Bale,gareth-bale,F,False,0.0,1.0,90.0,0.0,,0.0
+2011-12,1769003,6,6,Tottenham_Hotspur,Away,28366,40275,Giovani Dos Santos,giovani-dos-santos,F,True,0.0,0.0,12.0,0.0,,0.0
+2011-12,1769003,6,6,Tottenham_Hotspur,Away,47992,60252,Andros Townsend,andros-townsend,F,True,,,,,,
+2011-12,1769012,7,6,Tottenham_Hotspur,Home,946,7958,Jermain Defoe,jermain-defoe,F,False,0.0,0.0,90.0,0.0,,0.0
+2011-12,1769012,7,6,Tottenham_Hotspur,Home,3094,17500,Emmanuel Adebayor,emmanuel-adebayor,F,False,1.0,0.0,84.0,0.0,,0.0
+2011-12,1769012,7,6,Tottenham_Hotspur,Home,10936,20298,Roman Pavlyuchenko,roman-pavlyuchenko,F,True,,,,,,
+2011-12,1769012,7,6,Tottenham_Hotspur,Home,15354,36903,Gareth Bale,gareth-bale,F,False,0.0,0.0,90.0,0.0,,0.0
+2011-12,1769012,7,6,Tottenham_Hotspur,Home,28366,40275,Giovani Dos Santos,giovani-dos-santos,F,True,,,,,,
+2011-12,1769018,8,6,Tottenham_Hotspur,Away,946,7958,Jermain Defoe,jermain-defoe,F,True,0.0,1.0,26.0,0.0,,0.0
+2011-12,1769018,8,6,Tottenham_Hotspur,Away,3094,17500,Emmanuel Adebayor,emmanuel-adebayor,F,False,0.0,0.0,90.0,0.0,,0.0
+2011-12,1769018,8,6,Tottenham_Hotspur,Away,10936,20298,Roman Pavlyuchenko,roman-pavlyuchenko,F,True,0.0,0.0,1.0,0.0,,0.0
+2011-12,1769018,8,6,Tottenham_Hotspur,Away,15354,36903,Gareth Bale,gareth-bale,F,False,0.0,0.0,90.0,0.0,,0.0
+2011-12,1769018,8,6,Tottenham_Hotspur,Away,28366,40275,Giovani Dos Santos,giovani-dos-santos,F,True,,,,,,
+2011-12,1769018,8,6,Tottenham_Hotspur,Away,47992,60252,Andros Townsend,andros-townsend,F,True,,,,,,
+2011-12,1769026,9,6,Tottenham_Hotspur,Away,946,7958,Jermain Defoe,jermain-defoe,F,True,0.0,0.0,2.0,0.0,,0.0
+2011-12,1769026,9,6,Tottenham_Hotspur,Away,3094,17500,Emmanuel Adebayor,emmanuel-adebayor,F,False,0.0,0.0,90.0,0.0,,0.0
+2011-12,1769026,9,6,Tottenham_Hotspur,Away,10936,20298,Roman Pavlyuchenko,roman-pavlyuchenko,F,True,,,,,,
+2011-12,1769026,9,6,Tottenham_Hotspur,Away,15354,36903,Gareth Bale,gareth-bale,F,False,0.0,0.0,90.0,0.0,,0.0
+2011-12,1769026,9,6,Tottenham_Hotspur,Away,47992,60252,Andros Townsend,andros-townsend,F,True,,,,,,
+2011-12,1769043,10,6,Tottenham_Hotspur,Home,946,7958,Jermain Defoe,jermain-defoe,F,True,,,,,,
+2011-12,1769043,10,6,Tottenham_Hotspur,Home,3094,17500,Emmanuel Adebayor,emmanuel-adebayor,F,False,0.0,0.0,90.0,0.0,,0.0
+2011-12,1769043,10,6,Tottenham_Hotspur,Home,10936,20298,Roman Pavlyuchenko,roman-pavlyuchenko,F,True,,,,,,
+2011-12,1769043,10,6,Tottenham_Hotspur,Home,15354,36903,Gareth Bale,gareth-bale,F,False,0.0,2.0,90.0,0.0,,0.0
+2011-12,1769051,11,6,Tottenham_Hotspur,Away,946,7958,Jermain Defoe,jermain-defoe,F,True,0.0,1.0,24.0,0.0,,0.0
+2011-12,1769051,11,6,Tottenham_Hotspur,Away,3094,17500,Emmanuel Adebayor,emmanuel-adebayor,F,False,1.0,0.0,90.0,0.0,,0.0
+2011-12,1769051,11,6,Tottenham_Hotspur,Away,15354,36903,Gareth Bale,gareth-bale,F,False,1.0,0.0,90.0,0.0,,0.0
+2011-12,1769064,12,6,Tottenham_Hotspur,Home,946,7958,Jermain Defoe,jermain-defoe,F,True,0.0,0.0,20.0,0.0,,0.0
+2011-12,1769064,12,6,Tottenham_Hotspur,Home,3094,17500,Emmanuel Adebayor,emmanuel-adebayor,F,False,0.0,2.0,90.0,0.0,,0.0
+2011-12,1769064,12,6,Tottenham_Hotspur,Home,15354,36903,Gareth Bale,gareth-bale,F,False,2.0,0.0,90.0,0.0,,0.0
+2011-12,1769064,12,6,Tottenham_Hotspur,Home,28366,40275,Giovani Dos Santos,giovani-dos-santos,F,True,,,,,,
+2011-12,1769076,13,6,Tottenham_Hotspur,Away,946,7958,Jermain Defoe,jermain-defoe,F,False,0.0,1.0,90.0,0.0,,0.0
+2011-12,1769076,13,6,Tottenham_Hotspur,Away,3094,17500,Emmanuel Adebayor,emmanuel-adebayor,F,False,1.0,2.0,90.0,0.0,,0.0
+2011-12,1769076,13,6,Tottenham_Hotspur,Away,15354,36903,Gareth Bale,gareth-bale,F,False,1.0,0.0,90.0,0.0,,0.0
+2011-12,1769076,13,6,Tottenham_Hotspur,Away,108579,78830,Harry Kane,harry-kane,F,True,,,,,,
+2011-12,1769085,14,6,Tottenham_Hotspur,Home,946,7958,Jermain Defoe,jermain-defoe,F,False,1.0,1.0,90.0,0.0,,0.0
+2011-12,1769085,14,6,Tottenham_Hotspur,Home,3094,17500,Emmanuel Adebayor,emmanuel-adebayor,F,False,0.0,0.0,90.0,0.0,,0.0
+2011-12,1769085,14,6,Tottenham_Hotspur,Home,10936,20298,Roman Pavlyuchenko,roman-pavlyuchenko,F,True,,,,,,
+2011-12,1769085,14,6,Tottenham_Hotspur,Home,15354,36903,Gareth Bale,gareth-bale,F,False,1.0,1.0,90.0,0.0,,0.0
+2011-12,1769095,15,6,Tottenham_Hotspur,Away,946,7958,Jermain Defoe,jermain-defoe,F,True,0.0,0.0,44.0,0.0,,0.0
+2011-12,1769095,15,6,Tottenham_Hotspur,Away,3094,17500,Emmanuel Adebayor,emmanuel-adebayor,F,False,0.0,1.0,90.0,0.0,,0.0
+2011-12,1769095,15,6,Tottenham_Hotspur,Away,15354,36903,Gareth Bale,gareth-bale,F,False,0.0,0.0,90.0,0.0,,0.0
+2011-12,1769095,15,6,Tottenham_Hotspur,Away,28366,40275,Giovani Dos Santos,giovani-dos-santos,F,True,0.0,0.0,2.0,0.0,,0.0
+2011-12,1769107,16,6,Tottenham_Hotspur,Home,3094,17500,Emmanuel Adebayor,emmanuel-adebayor,F,False,0.0,0.0,90.0,0.0,,0.0
+2011-12,1769107,16,6,Tottenham_Hotspur,Home,10936,20298,Roman Pavlyuchenko,roman-pavlyuchenko,F,True,0.0,1.0,63.0,0.0,,0.0
+2011-12,1769110,17,6,Tottenham_Hotspur,Home,3094,17500,Emmanuel Adebayor,emmanuel-adebayor,F,False,0.0,1.0,90.0,0.0,,0.0
+2011-12,1769110,17,6,Tottenham_Hotspur,Home,10936,20298,Roman Pavlyuchenko,roman-pavlyuchenko,F,True,0.0,0.0,44.0,0.0,,0.0
+2011-12,1769110,17,6,Tottenham_Hotspur,Home,15354,36903,Gareth Bale,gareth-bale,F,False,1.0,0.0,90.0,0.0,,0.0
+2011-12,1769126,18,6,Tottenham_Hotspur,Away,3094,17500,Emmanuel Adebayor,emmanuel-adebayor,F,False,1.0,0.0,90.0,0.0,,0.0
+2011-12,1769126,18,6,Tottenham_Hotspur,Away,10936,20298,Roman Pavlyuchenko,roman-pavlyuchenko,F,True,,,,,,
+2011-12,1769126,18,6,Tottenham_Hotspur,Away,15354,36903,Gareth Bale,gareth-bale,F,False,0.0,2.0,90.0,0.0,,0.0
+2011-12,1769140,19,6,Tottenham_Hotspur,Away,946,7958,Jermain Defoe,jermain-defoe,F,True,0.0,0.0,20.0,0.0,,0.0
+2011-12,1769140,19,6,Tottenham_Hotspur,Away,3094,17500,Emmanuel Adebayor,emmanuel-adebayor,F,False,0.0,0.0,90.0,0.0,,0.0
+2011-12,1769140,19,6,Tottenham_Hotspur,Away,15354,36903,Gareth Bale,gareth-bale,F,False,0.0,0.0,90.0,0.0,,0.0
+2011-12,1769149,20,6,Tottenham_Hotspur,Home,946,7958,Jermain Defoe,jermain-defoe,F,False,0.0,1.0,90.0,0.0,,0.0
+2011-12,1769149,20,6,Tottenham_Hotspur,Home,3094,17500,Emmanuel Adebayor,emmanuel-adebayor,F,False,0.0,0.0,90.0,0.0,,0.0
+2011-12,1769149,20,6,Tottenham_Hotspur,Home,10936,20298,Roman Pavlyuchenko,roman-pavlyuchenko,F,True,,,,,,
+2011-12,1769149,20,6,Tottenham_Hotspur,Home,15354,36903,Gareth Bale,gareth-bale,F,False,1.0,0.0,90.0,0.0,,0.0
+2011-12,1769149,20,6,Tottenham_Hotspur,Home,28366,40275,Giovani Dos Santos,giovani-dos-santos,F,True,,,,,,
+2011-12,1769159,21,6,Tottenham_Hotspur,Home,946,7958,Jermain Defoe,jermain-defoe,F,True,0.0,0.0,16.0,0.0,,0.0
+2011-12,1769159,21,6,Tottenham_Hotspur,Home,3094,17500,Emmanuel Adebayor,emmanuel-adebayor,F,False,0.0,0.0,90.0,0.0,,0.0
+2011-12,1769159,21,6,Tottenham_Hotspur,Home,10936,20298,Roman Pavlyuchenko,roman-pavlyuchenko,F,True,,,,,,
+2011-12,1769159,21,6,Tottenham_Hotspur,Home,15354,36903,Gareth Bale,gareth-bale,F,False,1.0,0.0,90.0,0.0,,0.0
+2011-12,1769167,22,6,Tottenham_Hotspur,Away,946,7958,Jermain Defoe,jermain-defoe,F,False,0.0,1.0,90.0,0.0,,0.0
+2011-12,1769167,22,6,Tottenham_Hotspur,Away,10936,20298,Roman Pavlyuchenko,roman-pavlyuchenko,F,True,,,,,,
+2011-12,1769167,22,6,Tottenham_Hotspur,Away,15354,36903,Gareth Bale,gareth-bale,F,False,0.0,1.0,90.0,0.0,,0.0
+2011-12,1769176,23,6,Tottenham_Hotspur,Home,3094,17500,Emmanuel Adebayor,emmanuel-adebayor,F,False,0.0,0.0,78.0,0.0,,0.0
+2011-12,1769176,23,6,Tottenham_Hotspur,Home,15354,36903,Gareth Bale,gareth-bale,F,False,0.0,2.0,90.0,0.0,,0.0
+2011-12,1769176,23,6,Tottenham_Hotspur,Home,149761,95703,Cameron Lancaster,cameron-lancaster,F,True,0.0,0.0,12.0,0.0,,0.0
+2011-12,1769186,24,6,Tottenham_Hotspur,Away,3094,17500,Emmanuel Adebayor,emmanuel-adebayor,F,False,0.0,0.0,72.0,0.0,,0.0
+2011-12,1769186,24,6,Tottenham_Hotspur,Away,15354,36903,Gareth Bale,gareth-bale,F,False,0.0,0.0,90.0,0.0,,0.0
+2011-12,1769186,24,6,Tottenham_Hotspur,Away,149761,95703,Cameron Lancaster,cameron-lancaster,F,True,,,,,,
+2011-12,1769186,24,6,Tottenham_Hotspur,Away,1422711,4396,Louis Saha,louis-saha,F,True,0.0,0.0,18.0,0.0,,0.0
+2011-12,1769203,25,6,Tottenham_Hotspur,Home,946,7958,Jermain Defoe,jermain-defoe,F,True,0.0,0.0,23.0,0.0,,0.0
+2011-12,1769203,25,6,Tottenham_Hotspur,Home,3094,17500,Emmanuel Adebayor,emmanuel-adebayor,F,False,4.0,1.0,90.0,0.0,,0.0
+2011-12,1769203,25,6,Tottenham_Hotspur,Home,15354,36903,Gareth Bale,gareth-bale,F,False,0.0,0.0,67.0,0.0,,0.0
+2011-12,1769203,25,6,Tottenham_Hotspur,Home,1422711,4396,Louis Saha,louis-saha,F,False,1.0,2.0,67.0,0.0,,0.0
+2011-12,1769205,26,6,Tottenham_Hotspur,Away,946,7958,Jermain Defoe,jermain-defoe,F,True,,,,,,
+2011-12,1769205,26,6,Tottenham_Hotspur,Away,3094,17500,Emmanuel Adebayor,emmanuel-adebayor,F,False,1.0,1.0,90.0,0.0,,0.0
+2011-12,1769205,26,6,Tottenham_Hotspur,Away,15354,36903,Gareth Bale,gareth-bale,F,False,0.0,0.0,90.0,0.0,,0.0
+2011-12,1769205,26,6,Tottenham_Hotspur,Away,1422711,4396,Louis Saha,louis-saha,F,False,0.0,1.0,46.0,0.0,,0.0
+2011-12,1769223,27,6,Tottenham_Hotspur,Home,946,7958,Jermain Defoe,jermain-defoe,F,True,0.0,1.0,10.0,0.0,,0.0
+2011-12,1769223,27,6,Tottenham_Hotspur,Home,3094,17500,Emmanuel Adebayor,emmanuel-adebayor,F,False,0.0,0.0,90.0,0.0,,0.0
+2011-12,1769223,27,6,Tottenham_Hotspur,Home,28366,40275,Giovani Dos Santos,giovani-dos-santos,F,True,,,,,,
+2011-12,1769223,27,6,Tottenham_Hotspur,Home,1422711,4396,Louis Saha,louis-saha,F,False,0.0,0.0,80.0,0.0,,0.0
+2011-12,1769231,28,6,Tottenham_Hotspur,Away,946,7958,Jermain Defoe,jermain-defoe,F,False,0.0,0.0,90.0,0.0,,0.0
+2011-12,1769231,28,6,Tottenham_Hotspur,Away,3094,17500,Emmanuel Adebayor,emmanuel-adebayor,F,False,0.0,0.0,54.0,0.0,,0.0
+2011-12,1769231,28,6,Tottenham_Hotspur,Away,15354,36903,Gareth Bale,gareth-bale,F,False,0.0,0.0,90.0,0.0,,0.0
+2011-12,1769231,28,6,Tottenham_Hotspur,Away,1422711,4396,Louis Saha,louis-saha,F,True,0.0,0.0,36.0,0.0,,0.0
+2011-12,1769245,29,6,Tottenham_Hotspur,Home,946,7958,Jermain Defoe,jermain-defoe,F,True,0.0,0.0,44.0,0.0,,0.0
+2011-12,1769245,29,6,Tottenham_Hotspur,Home,15354,36903,Gareth Bale,gareth-bale,F,False,1.0,0.0,90.0,0.0,,0.0
+2011-12,1769245,29,6,Tottenham_Hotspur,Home,28366,40275,Giovani Dos Santos,giovani-dos-santos,F,True,0.0,0.0,17.0,0.0,,0.0
+2011-12,1769245,29,6,Tottenham_Hotspur,Home,1422711,4396,Louis Saha,louis-saha,F,False,0.0,0.0,73.0,0.0,,0.0
+2011-12,1769250,30,6,Tottenham_Hotspur,Away,946,7958,Jermain Defoe,jermain-defoe,F,True,,,,,,
+2011-12,1769250,30,6,Tottenham_Hotspur,Away,3094,17500,Emmanuel Adebayor,emmanuel-adebayor,F,False,0.0,0.0,90.0,0.0,,0.0
+2011-12,1769250,30,6,Tottenham_Hotspur,Away,15354,36903,Gareth Bale,gareth-bale,F,False,0.0,0.0,90.0,0.0,,0.0
+2011-12,1769250,30,6,Tottenham_Hotspur,Away,28366,40275,Giovani Dos Santos,giovani-dos-santos,F,True,,,,,,
+2011-12,1769250,30,6,Tottenham_Hotspur,Away,1422711,4396,Louis Saha,louis-saha,F,True,0.0,0.0,14.0,0.0,,0.0
+2011-12,1769265,31,6,Tottenham_Hotspur,Home,946,7958,Jermain Defoe,jermain-defoe,F,True,,,,,,
+2011-12,1769265,31,6,Tottenham_Hotspur,Home,3094,17500,Emmanuel Adebayor,emmanuel-adebayor,F,False,0.0,2.0,90.0,0.0,,0.0
+2011-12,1769265,31,6,Tottenham_Hotspur,Home,15354,36903,Gareth Bale,gareth-bale,F,False,1.0,0.0,90.0,0.0,,0.0
+2011-12,1769265,31,6,Tottenham_Hotspur,Home,1422711,4396,Louis Saha,louis-saha,F,True,,,,,,
+2011-12,1769275,32,6,Tottenham_Hotspur,Away,946,7958,Jermain Defoe,jermain-defoe,F,True,0.0,0.0,7.0,0.0,,0.0
+2011-12,1769275,32,6,Tottenham_Hotspur,Away,3094,17500,Emmanuel Adebayor,emmanuel-adebayor,F,False,0.0,0.0,77.0,0.0,,0.0
+2011-12,1769275,32,6,Tottenham_Hotspur,Away,15354,36903,Gareth Bale,gareth-bale,F,False,0.0,0.0,90.0,0.0,,0.0
+2011-12,1769275,32,6,Tottenham_Hotspur,Away,1422711,4396,Louis Saha,louis-saha,F,True,0.0,0.0,13.0,0.0,,0.0
+2011-12,1769285,33,6,Tottenham_Hotspur,Home,946,7958,Jermain Defoe,jermain-defoe,F,False,0.0,1.0,90.0,0.0,,0.0
+2011-12,1769285,33,6,Tottenham_Hotspur,Home,3094,17500,Emmanuel Adebayor,emmanuel-adebayor,F,True,0.0,0.0,44.0,0.0,,0.0
+2011-12,1769285,33,6,Tottenham_Hotspur,Home,15354,36903,Gareth Bale,gareth-bale,F,False,0.0,0.0,90.0,0.0,,0.0
+2011-12,1769285,33,6,Tottenham_Hotspur,Home,1422711,4396,Louis Saha,louis-saha,F,False,0.0,0.0,46.0,0.0,,0.0
+2011-12,1769289,34,6,Tottenham_Hotspur,Away,946,7958,Jermain Defoe,jermain-defoe,F,True,,,,,,
+2011-12,1769289,34,6,Tottenham_Hotspur,Away,3094,17500,Emmanuel Adebayor,emmanuel-adebayor,F,False,0.0,2.0,90.0,0.0,,0.0
+2011-12,1769289,34,6,Tottenham_Hotspur,Away,15354,36903,Gareth Bale,gareth-bale,F,False,2.0,0.0,90.0,0.0,,0.0
+2011-12,1769289,34,6,Tottenham_Hotspur,Away,28366,40275,Giovani Dos Santos,giovani-dos-santos,F,True,,,,,,
+2011-12,1769289,34,6,Tottenham_Hotspur,Away,1422711,4396,Louis Saha,louis-saha,F,True,0.0,0.0,6.0,0.0,,0.0
+2011-12,1769306,35,6,Tottenham_Hotspur,Away,946,7958,Jermain Defoe,jermain-defoe,F,False,0.0,0.0,90.0,0.0,,0.0
+2011-12,1769306,35,6,Tottenham_Hotspur,Away,15354,36903,Gareth Bale,gareth-bale,F,False,0.0,0.0,90.0,0.0,,0.0
+2011-12,1769306,35,6,Tottenham_Hotspur,Away,28366,40275,Giovani Dos Santos,giovani-dos-santos,F,True,0.0,0.0,6.0,0.0,,0.0
+2011-12,1769315,36,6,Tottenham_Hotspur,Home,946,7958,Jermain Defoe,jermain-defoe,F,True,0.0,0.0,2.0,0.0,,0.0
+2011-12,1769315,36,6,Tottenham_Hotspur,Home,3094,17500,Emmanuel Adebayor,emmanuel-adebayor,F,False,0.0,0.0,90.0,0.0,,0.0
+2011-12,1769315,36,6,Tottenham_Hotspur,Home,15354,36903,Gareth Bale,gareth-bale,F,False,1.0,0.0,90.0,0.0,,0.0
+2011-12,1769315,36,6,Tottenham_Hotspur,Home,28366,40275,Giovani Dos Santos,giovani-dos-santos,F,True,0.0,0.0,6.0,0.0,,0.0
+2011-12,1769315,36,6,Tottenham_Hotspur,Home,1422711,4396,Louis Saha,louis-saha,F,True,,,,,,
+2011-12,1769319,37,6,Tottenham_Hotspur,Away,946,7958,Jermain Defoe,jermain-defoe,F,True,,,,,,
+2011-12,1769319,37,6,Tottenham_Hotspur,Away,3094,17500,Emmanuel Adebayor,emmanuel-adebayor,F,False,0.0,1.0,90.0,0.0,,0.0
+2011-12,1769319,37,6,Tottenham_Hotspur,Away,15354,36903,Gareth Bale,gareth-bale,F,False,0.0,0.0,90.0,0.0,,0.0
+2011-12,1769319,37,6,Tottenham_Hotspur,Away,28366,40275,Giovani Dos Santos,giovani-dos-santos,F,True,,,,,,
+2011-12,1769319,37,6,Tottenham_Hotspur,Away,1422711,4396,Louis Saha,louis-saha,F,True,,,,,,
+2011-12,1769337,38,6,Tottenham_Hotspur,Home,946,7958,Jermain Defoe,jermain-defoe,F,True,0.0,1.0,30.0,0.0,,0.0
+2011-12,1769337,38,6,Tottenham_Hotspur,Home,3094,17500,Emmanuel Adebayor,emmanuel-adebayor,F,False,0.0,1.0,90.0,0.0,,0.0
+2011-12,1769337,38,6,Tottenham_Hotspur,Home,15354,36903,Gareth Bale,gareth-bale,F,False,0.0,0.0,90.0,0.0,,0.0
+2011-12,1769337,38,6,Tottenham_Hotspur,Home,28366,40275,Giovani Dos Santos,giovani-dos-santos,F,True,,,,,,
+2011-12,1769337,38,6,Tottenham_Hotspur,Home,108579,78830,Harry Kane,harry-kane,F,True,,,,,,
+2011-12,1769337,38,6,Tottenham_Hotspur,Home,1422711,4396,Louis Saha,louis-saha,F,True,,,,,,

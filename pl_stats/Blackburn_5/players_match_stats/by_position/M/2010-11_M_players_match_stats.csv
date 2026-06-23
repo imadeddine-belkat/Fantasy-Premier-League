@@ -1,0 +1,184 @@
+season,matchId,gameweek,team_id,team,venue,playerId,pl_code,playerName,slug,position,substitute,goalAssist,goals,minutesPlayed,ownGoals,penaltyMiss,substitute.1,totalShots
+2010-11,1379595,1,5,Blackburn_Rovers,Home,573,1274,David Dunn,david-dunn,M,False,0.0,0.0,9.0,0.0,,,0.0
+2010-11,1379595,1,5,Blackburn_Rovers,Home,601,4740,Brett Emerton,brett-emerton,M,True,,,,,,,
+2010-11,1379595,1,5,Blackburn_Rovers,Home,605,16058,Morten Gamst Pedersen,morten-gamst-pedersen,M,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1379595,1,5,Blackburn_Rovers,Home,10039,7670,Keith Andrews,keith-andrews,M,True,,,,,,,
+2010-11,1379595,1,5,Blackburn_Rovers,Home,51652,,Steven​ N'Zonzi,steven-n-zonzi,M,True,0.0,0.0,81.0,0.0,,,0.0
+2010-11,1379605,2,5,Blackburn_Rovers,Away,601,4740,Brett Emerton,brett-emerton,M,True,0.0,0.0,26.0,0.0,,,0.0
+2010-11,1379605,2,5,Blackburn_Rovers,Away,605,16058,Morten Gamst Pedersen,morten-gamst-pedersen,M,False,1.0,0.0,90.0,0.0,1.0,,0.0
+2010-11,1379605,2,5,Blackburn_Rovers,Away,39314,,Alan Judge,alan-judge,M,True,,,,,,,
+2010-11,1379605,2,5,Blackburn_Rovers,Away,51652,,Steven​ N'Zonzi,steven-n-zonzi,M,False,0.0,1.0,90.0,0.0,,,0.0
+2010-11,1379605,2,5,Blackburn_Rovers,Away,127455,87860,Josh Morris,josh-morris,M,True,,,,,,,
+2010-11,1379615,3,5,Blackburn_Rovers,Home,573,1274,David Dunn,david-dunn,M,True,0.0,0.0,34.0,0.0,,,0.0
+2010-11,1379615,3,5,Blackburn_Rovers,Home,601,4740,Brett Emerton,brett-emerton,M,True,,,,,,,
+2010-11,1379615,3,5,Blackburn_Rovers,Home,605,16058,Morten Gamst Pedersen,morten-gamst-pedersen,M,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1379615,3,5,Blackburn_Rovers,Home,2988,13524,Vincenzo Grella,vincenzo-grella,M,False,0.0,0.0,56.0,0.0,,,0.0
+2010-11,1379615,3,5,Blackburn_Rovers,Home,51652,,Steven​ N'Zonzi,steven-n-zonzi,M,True,0.0,0.0,9.0,0.0,,,0.0
+2010-11,1379796,4,5,Blackburn_Rovers,Away,573,1274,David Dunn,david-dunn,M,True,,,,,,,
+2010-11,1379796,4,5,Blackburn_Rovers,Away,601,4740,Brett Emerton,brett-emerton,M,True,,,,,,,
+2010-11,1379796,4,5,Blackburn_Rovers,Away,605,16058,Morten Gamst Pedersen,morten-gamst-pedersen,M,False,1.0,0.0,90.0,0.0,,,0.0
+2010-11,1379796,4,5,Blackburn_Rovers,Away,2988,13524,Vincenzo Grella,vincenzo-grella,M,False,0.0,0.0,58.0,0.0,,,0.0
+2010-11,1379796,4,5,Blackburn_Rovers,Away,51652,,Steven​ N'Zonzi,steven-n-zonzi,M,True,0.0,0.0,32.0,0.0,,,0.0
+2010-11,1379803,5,5,Blackburn_Rovers,Home,601,4740,Brett Emerton,brett-emerton,M,True,0.0,0.0,29.0,0.0,,,0.0
+2010-11,1379803,5,5,Blackburn_Rovers,Home,605,16058,Morten Gamst Pedersen,morten-gamst-pedersen,M,False,0.0,0.0,61.0,0.0,,,0.0
+2010-11,1379803,5,5,Blackburn_Rovers,Home,2988,13524,Vincenzo Grella,vincenzo-grella,M,False,0.0,0.0,76.0,0.0,,,0.0
+2010-11,1379803,5,5,Blackburn_Rovers,Home,42801,56996,Amine Linganzi,amine-linganzi,M,True,,,,,,,
+2010-11,1379803,5,5,Blackburn_Rovers,Home,51652,,Steven​ N'Zonzi,steven-n-zonzi,M,True,0.0,0.0,14.0,0.0,,,0.0
+2010-11,1379814,6,5,Blackburn_Rovers,Away,601,4740,Brett Emerton,brett-emerton,M,True,0.0,1.0,44.0,0.0,,,0.0
+2010-11,1379814,6,5,Blackburn_Rovers,Away,605,16058,Morten Gamst Pedersen,morten-gamst-pedersen,M,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1379814,6,5,Blackburn_Rovers,Away,10039,7670,Keith Andrews,keith-andrews,M,True,0.0,0.0,24.0,0.0,,,0.0
+2010-11,1379814,6,5,Blackburn_Rovers,Away,51652,,Steven​ N'Zonzi,steven-n-zonzi,M,False,0.0,0.0,66.0,0.0,,,0.0
+2010-11,1379826,7,5,Blackburn_Rovers,Away,601,4740,Brett Emerton,brett-emerton,M,False,0.0,0.0,75.0,0.0,,,0.0
+2010-11,1379826,7,5,Blackburn_Rovers,Away,605,16058,Morten Gamst Pedersen,morten-gamst-pedersen,M,False,0.0,0.0,86.0,0.0,,,0.0
+2010-11,1379826,7,5,Blackburn_Rovers,Away,10039,7670,Keith Andrews,keith-andrews,M,True,,,,,,,
+2010-11,1379826,7,5,Blackburn_Rovers,Away,51652,,Steven​ N'Zonzi,steven-n-zonzi,M,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1379834,8,5,Blackburn_Rovers,Home,573,1274,David Dunn,david-dunn,M,True,0.0,0.0,26.0,0.0,,,0.0
+2010-11,1379834,8,5,Blackburn_Rovers,Home,601,4740,Brett Emerton,brett-emerton,M,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1379834,8,5,Blackburn_Rovers,Home,605,16058,Morten Gamst Pedersen,morten-gamst-pedersen,M,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1379834,8,5,Blackburn_Rovers,Home,51652,,Steven​ N'Zonzi,steven-n-zonzi,M,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1379834,8,5,Blackburn_Rovers,Home,127455,87860,Josh Morris,josh-morris,M,True,,,,,,,
+2010-11,1379844,9,5,Blackburn_Rovers,Away,573,1274,David Dunn,david-dunn,M,False,0.0,0.0,68.0,0.0,,,0.0
+2010-11,1379844,9,5,Blackburn_Rovers,Away,601,4740,Brett Emerton,brett-emerton,M,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1379844,9,5,Blackburn_Rovers,Away,605,16058,Morten Gamst Pedersen,morten-gamst-pedersen,M,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1379844,9,5,Blackburn_Rovers,Away,2988,13524,Vincenzo Grella,vincenzo-grella,M,True,0.0,0.0,57.0,0.0,,,0.0
+2010-11,1379844,9,5,Blackburn_Rovers,Away,51652,,Steven​ N'Zonzi,steven-n-zonzi,M,False,0.0,0.0,33.0,0.0,,,0.0
+2010-11,1379844,9,5,Blackburn_Rovers,Away,127455,87860,Josh Morris,josh-morris,M,True,,,,,,,
+2010-11,1379854,10,5,Blackburn_Rovers,Home,573,1274,David Dunn,david-dunn,M,True,0.0,0.0,9.0,0.0,,,0.0
+2010-11,1379854,10,5,Blackburn_Rovers,Home,601,4740,Brett Emerton,brett-emerton,M,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1379854,10,5,Blackburn_Rovers,Home,605,16058,Morten Gamst Pedersen,morten-gamst-pedersen,M,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1379854,10,5,Blackburn_Rovers,Home,2988,13524,Vincenzo Grella,vincenzo-grella,M,True,,,,,,,
+2010-11,1379864,11,5,Blackburn_Rovers,Home,573,1274,David Dunn,david-dunn,M,True,0.0,0.0,44.0,0.0,,,0.0
+2010-11,1379864,11,5,Blackburn_Rovers,Home,601,4740,Brett Emerton,brett-emerton,M,False,1.0,0.0,90.0,0.0,,,0.0
+2010-11,1379864,11,5,Blackburn_Rovers,Home,605,16058,Morten Gamst Pedersen,morten-gamst-pedersen,M,False,0.0,1.0,90.0,0.0,,,0.0
+2010-11,1379881,12,5,Blackburn_Rovers,Away,573,1274,David Dunn,david-dunn,M,True,0.0,0.0,6.0,0.0,,,0.0
+2010-11,1379881,12,5,Blackburn_Rovers,Away,601,4740,Brett Emerton,brett-emerton,M,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1379881,12,5,Blackburn_Rovers,Away,605,16058,Morten Gamst Pedersen,morten-gamst-pedersen,M,False,0.0,1.0,90.0,0.0,,,0.0
+2010-11,1379888,13,5,Blackburn_Rovers,Away,573,1274,David Dunn,david-dunn,M,True,1.0,0.0,30.0,0.0,,,0.0
+2010-11,1379888,13,5,Blackburn_Rovers,Away,601,4740,Brett Emerton,brett-emerton,M,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1379888,13,5,Blackburn_Rovers,Away,605,16058,Morten Gamst Pedersen,morten-gamst-pedersen,M,False,0.0,0.0,60.0,0.0,,,0.0
+2010-11,1379894,14,5,Blackburn_Rovers,Home,573,1274,David Dunn,david-dunn,M,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1379894,14,5,Blackburn_Rovers,Home,605,16058,Morten Gamst Pedersen,morten-gamst-pedersen,M,False,0.0,2.0,72.0,0.0,,,0.0
+2010-11,1379906,15,5,Blackburn_Rovers,Away,573,1274,David Dunn,david-dunn,M,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1379906,15,5,Blackburn_Rovers,Away,601,4740,Brett Emerton,brett-emerton,M,False,0.0,0.0,52.0,0.0,,,0.0
+2010-11,1379906,15,5,Blackburn_Rovers,Away,42801,56996,Amine Linganzi,amine-linganzi,M,True,0.0,0.0,38.0,0.0,,,0.0
+2010-11,1379906,15,5,Blackburn_Rovers,Away,127455,87860,Josh Morris,josh-morris,M,True,1.0,0.0,38.0,0.0,,,0.0
+2010-11,1379914,16,5,Blackburn_Rovers,Home,573,1274,David Dunn,david-dunn,M,False,0.0,1.0,54.0,0.0,,,0.0
+2010-11,1379914,16,5,Blackburn_Rovers,Home,601,4740,Brett Emerton,brett-emerton,M,False,0.0,1.0,90.0,0.0,,,0.0
+2010-11,1379914,16,5,Blackburn_Rovers,Home,605,16058,Morten Gamst Pedersen,morten-gamst-pedersen,M,False,1.0,0.0,90.0,0.0,,,0.0
+2010-11,1379914,16,5,Blackburn_Rovers,Home,127455,87860,Josh Morris,josh-morris,M,True,0.0,0.0,16.0,0.0,,,0.0
+2010-11,1379923,17,5,Blackburn_Rovers,Away,573,1274,David Dunn,david-dunn,M,True,0.0,0.0,18.0,0.0,,,0.0
+2010-11,1379923,17,5,Blackburn_Rovers,Away,601,4740,Brett Emerton,brett-emerton,M,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1379923,17,5,Blackburn_Rovers,Away,605,16058,Morten Gamst Pedersen,morten-gamst-pedersen,M,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1379934,18,5,Blackburn_Rovers,Home,573,1274,David Dunn,david-dunn,M,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1379934,18,5,Blackburn_Rovers,Home,601,4740,Brett Emerton,brett-emerton,M,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1379934,18,5,Blackburn_Rovers,Home,605,16058,Morten Gamst Pedersen,morten-gamst-pedersen,M,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1379944,19,5,Blackburn_Rovers,Home,573,1274,David Dunn,david-dunn,M,False,0.0,0.0,65.0,0.0,,,0.0
+2010-11,1379944,19,5,Blackburn_Rovers,Home,601,4740,Brett Emerton,brett-emerton,M,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1379944,19,5,Blackburn_Rovers,Home,605,16058,Morten Gamst Pedersen,morten-gamst-pedersen,M,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1379944,19,5,Blackburn_Rovers,Home,42801,56996,Amine Linganzi,amine-linganzi,M,True,,,,,,,
+2010-11,1379944,19,5,Blackburn_Rovers,Home,50462,59142,Aaron Doran,aaron-doran,M,True,,,,,,,
+2010-11,1379944,19,5,Blackburn_Rovers,Home,127455,87860,Josh Morris,josh-morris,M,True,,,,,,,
+2010-11,1379959,20,5,Blackburn_Rovers,Away,573,1274,David Dunn,david-dunn,M,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1379959,20,5,Blackburn_Rovers,Away,601,4740,Brett Emerton,brett-emerton,M,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1379959,20,5,Blackburn_Rovers,Away,605,16058,Morten Gamst Pedersen,morten-gamst-pedersen,M,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1379959,20,5,Blackburn_Rovers,Away,42801,56996,Amine Linganzi,amine-linganzi,M,True,,,,,,,
+2010-11,1379959,20,5,Blackburn_Rovers,Away,50462,59142,Aaron Doran,aaron-doran,M,True,,,,,,,
+2010-11,1379959,20,5,Blackburn_Rovers,Away,127455,87860,Josh Morris,josh-morris,M,True,,,,,,,
+2010-11,1379967,21,5,Blackburn_Rovers,Away,573,1274,David Dunn,david-dunn,M,False,0.0,0.0,85.0,0.0,,,0.0
+2010-11,1379967,21,5,Blackburn_Rovers,Away,601,4740,Brett Emerton,brett-emerton,M,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1379967,21,5,Blackburn_Rovers,Away,605,16058,Morten Gamst Pedersen,morten-gamst-pedersen,M,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1379967,21,5,Blackburn_Rovers,Away,42801,56996,Amine Linganzi,amine-linganzi,M,True,,,,,,,
+2010-11,1379967,21,5,Blackburn_Rovers,Away,50462,59142,Aaron Doran,aaron-doran,M,True,,,,,,,
+2010-11,1379967,21,5,Blackburn_Rovers,Away,127455,87860,Josh Morris,josh-morris,M,True,0.0,0.0,12.0,0.0,,,0.0
+2010-11,1379978,22,5,Blackburn_Rovers,Home,573,1274,David Dunn,david-dunn,M,False,0.0,0.0,75.0,0.0,,,0.0
+2010-11,1379978,22,5,Blackburn_Rovers,Home,605,16058,Morten Gamst Pedersen,morten-gamst-pedersen,M,False,1.0,0.0,90.0,0.0,,,0.0
+2010-11,1379978,22,5,Blackburn_Rovers,Home,42801,56996,Amine Linganzi,amine-linganzi,M,True,,,,,,,
+2010-11,1379978,22,5,Blackburn_Rovers,Home,50462,59142,Aaron Doran,aaron-doran,M,True,,,,,,,
+2010-11,1379978,22,5,Blackburn_Rovers,Home,127455,87860,Josh Morris,josh-morris,M,True,0.0,0.0,15.0,0.0,,,0.0
+2010-11,1379983,23,5,Blackburn_Rovers,Away,573,1274,David Dunn,david-dunn,M,False,0.0,0.0,24.0,0.0,,,0.0
+2010-11,1379983,23,5,Blackburn_Rovers,Away,605,16058,Morten Gamst Pedersen,morten-gamst-pedersen,M,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1379994,24,5,Blackburn_Rovers,Home,573,1274,David Dunn,david-dunn,M,False,0.0,0.0,63.0,0.0,,,0.0
+2010-11,1379994,24,5,Blackburn_Rovers,Home,605,16058,Morten Gamst Pedersen,morten-gamst-pedersen,M,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1379994,24,5,Blackburn_Rovers,Home,1477,17152,Jermaine Jones,jermaine-jones,M,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1379994,24,5,Blackburn_Rovers,Home,51652,,Steven​ N'Zonzi,steven-n-zonzi,M,True,0.0,0.0,27.0,0.0,,,0.0
+2010-11,1380009,25,5,Blackburn_Rovers,Home,573,1274,David Dunn,david-dunn,M,False,0.0,0.0,67.0,0.0,,,0.0
+2010-11,1380009,25,5,Blackburn_Rovers,Home,605,16058,Morten Gamst Pedersen,morten-gamst-pedersen,M,True,0.0,0.0,23.0,0.0,,,0.0
+2010-11,1380009,25,5,Blackburn_Rovers,Home,1477,17152,Jermaine Jones,jermaine-jones,M,False,0.0,0.0,64.0,0.0,,,0.0
+2010-11,1380009,25,5,Blackburn_Rovers,Home,2988,13524,Vincenzo Grella,vincenzo-grella,M,True,,,,,,,
+2010-11,1380009,25,5,Blackburn_Rovers,Home,10039,7670,Keith Andrews,keith-andrews,M,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1380009,25,5,Blackburn_Rovers,Home,51652,,Steven​ N'Zonzi,steven-n-zonzi,M,True,0.0,0.0,26.0,0.0,,,0.0
+2010-11,1380020,26,5,Blackburn_Rovers,Away,573,1274,David Dunn,david-dunn,M,True,0.0,1.0,30.0,0.0,,,0.0
+2010-11,1380020,26,5,Blackburn_Rovers,Away,601,4740,Brett Emerton,brett-emerton,M,False,1.0,0.0,60.0,0.0,,,0.0
+2010-11,1380020,26,5,Blackburn_Rovers,Away,605,16058,Morten Gamst Pedersen,morten-gamst-pedersen,M,False,1.0,0.0,90.0,0.0,,,0.0
+2010-11,1380020,26,5,Blackburn_Rovers,Away,1477,17152,Jermaine Jones,jermaine-jones,M,False,0.0,0.0,78.0,0.0,,,0.0
+2010-11,1380020,26,5,Blackburn_Rovers,Away,2988,13524,Vincenzo Grella,vincenzo-grella,M,True,,,,,,,
+2010-11,1380020,26,5,Blackburn_Rovers,Away,10039,7670,Keith Andrews,keith-andrews,M,True,,,,,,,
+2010-11,1380020,26,5,Blackburn_Rovers,Away,51652,,Steven​ N'Zonzi,steven-n-zonzi,M,True,0.0,0.0,12.0,0.0,,,0.0
+2010-11,1380024,27,5,Blackburn_Rovers,Home,573,1274,David Dunn,david-dunn,M,False,0.0,0.0,64.0,0.0,,,0.0
+2010-11,1380024,27,5,Blackburn_Rovers,Home,601,4740,Brett Emerton,brett-emerton,M,True,0.0,0.0,26.0,0.0,,,0.0
+2010-11,1380024,27,5,Blackburn_Rovers,Home,605,16058,Morten Gamst Pedersen,morten-gamst-pedersen,M,True,0.0,0.0,44.0,0.0,,,0.0
+2010-11,1380024,27,5,Blackburn_Rovers,Home,1477,17152,Jermaine Jones,jermaine-jones,M,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1380024,27,5,Blackburn_Rovers,Home,2988,13524,Vincenzo Grella,vincenzo-grella,M,True,,,,,,,
+2010-11,1380024,27,5,Blackburn_Rovers,Home,51652,,Steven​ N'Zonzi,steven-n-zonzi,M,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1380032,28,5,Blackburn_Rovers,Away,601,4740,Brett Emerton,brett-emerton,M,False,1.0,0.0,90.0,0.0,,,0.0
+2010-11,1380032,28,5,Blackburn_Rovers,Away,605,16058,Morten Gamst Pedersen,morten-gamst-pedersen,M,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1380032,28,5,Blackburn_Rovers,Away,1477,17152,Jermaine Jones,jermaine-jones,M,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1380032,28,5,Blackburn_Rovers,Away,2988,13524,Vincenzo Grella,vincenzo-grella,M,False,0.0,0.0,66.0,0.0,,,0.0
+2010-11,1380032,28,5,Blackburn_Rovers,Away,10039,7670,Keith Andrews,keith-andrews,M,False,0.0,0.0,79.0,0.0,,,0.0
+2010-11,1380032,28,5,Blackburn_Rovers,Away,51652,,Steven​ N'Zonzi,steven-n-zonzi,M,True,0.0,0.0,11.0,0.0,,,0.0
+2010-11,1380046,29,5,Blackburn_Rovers,Away,601,4740,Brett Emerton,brett-emerton,M,True,0.0,0.0,1.0,0.0,,,0.0
+2010-11,1380046,29,5,Blackburn_Rovers,Away,605,16058,Morten Gamst Pedersen,morten-gamst-pedersen,M,True,0.0,0.0,14.0,0.0,,,0.0
+2010-11,1380046,29,5,Blackburn_Rovers,Away,1477,17152,Jermaine Jones,jermaine-jones,M,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1380046,29,5,Blackburn_Rovers,Away,10039,7670,Keith Andrews,keith-andrews,M,True,,,,,,,
+2010-11,1380046,29,5,Blackburn_Rovers,Away,51652,,Steven​ N'Zonzi,steven-n-zonzi,M,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1380046,29,5,Blackburn_Rovers,Away,114155,86168,Rubén Rochina,ruben-rochina,M,True,0.0,0.0,9.0,0.0,,,0.0
+2010-11,1380053,30,5,Blackburn_Rovers,Home,601,4740,Brett Emerton,brett-emerton,M,False,0.0,0.0,59.0,0.0,,,0.0
+2010-11,1380053,30,5,Blackburn_Rovers,Home,605,16058,Morten Gamst Pedersen,morten-gamst-pedersen,M,True,0.0,0.0,11.0,0.0,,,0.0
+2010-11,1380053,30,5,Blackburn_Rovers,Home,1477,17152,Jermaine Jones,jermaine-jones,M,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1380053,30,5,Blackburn_Rovers,Home,51652,,Steven​ N'Zonzi,steven-n-zonzi,M,False,0.0,0.0,72.0,0.0,,,0.0
+2010-11,1380053,30,5,Blackburn_Rovers,Home,114155,86168,Rubén Rochina,ruben-rochina,M,True,,,,,,,
+2010-11,1380062,31,5,Blackburn_Rovers,Away,573,1274,David Dunn,david-dunn,M,True,0.0,0.0,1.0,0.0,,,0.0
+2010-11,1380062,31,5,Blackburn_Rovers,Away,601,4740,Brett Emerton,brett-emerton,M,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1380062,31,5,Blackburn_Rovers,Away,1477,17152,Jermaine Jones,jermaine-jones,M,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1380062,31,5,Blackburn_Rovers,Away,51652,,Steven​ N'Zonzi,steven-n-zonzi,M,False,0.0,0.0,76.0,0.0,,,0.0
+2010-11,1380062,31,5,Blackburn_Rovers,Away,114155,86168,Rubén Rochina,ruben-rochina,M,True,,,,,,,
+2010-11,1380073,32,5,Blackburn_Rovers,Home,573,1274,David Dunn,david-dunn,M,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1380073,32,5,Blackburn_Rovers,Home,601,4740,Brett Emerton,brett-emerton,M,True,0.0,0.0,21.0,0.0,,,0.0
+2010-11,1380073,32,5,Blackburn_Rovers,Home,605,16058,Morten Gamst Pedersen,morten-gamst-pedersen,M,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1380073,32,5,Blackburn_Rovers,Home,1477,17152,Jermaine Jones,jermaine-jones,M,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1380073,32,5,Blackburn_Rovers,Home,114155,86168,Rubén Rochina,ruben-rochina,M,True,,,,,,,
+2010-11,1380084,33,5,Blackburn_Rovers,Away,573,1274,David Dunn,david-dunn,M,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1380084,33,5,Blackburn_Rovers,Away,601,4740,Brett Emerton,brett-emerton,M,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1380084,33,5,Blackburn_Rovers,Away,605,16058,Morten Gamst Pedersen,morten-gamst-pedersen,M,True,0.0,0.0,23.0,0.0,,,0.0
+2010-11,1380084,33,5,Blackburn_Rovers,Away,1477,17152,Jermaine Jones,jermaine-jones,M,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1380084,33,5,Blackburn_Rovers,Away,114155,86168,Rubén Rochina,ruben-rochina,M,False,0.0,0.0,81.0,0.0,,,0.0
+2010-11,1380093,34,5,Blackburn_Rovers,Home,573,1274,David Dunn,david-dunn,M,False,0.0,0.0,63.0,0.0,,,0.0
+2010-11,1380093,34,5,Blackburn_Rovers,Home,601,4740,Brett Emerton,brett-emerton,M,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1380093,34,5,Blackburn_Rovers,Home,605,16058,Morten Gamst Pedersen,morten-gamst-pedersen,M,True,,,,,,,
+2010-11,1380093,34,5,Blackburn_Rovers,Home,1477,17152,Jermaine Jones,jermaine-jones,M,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1380093,34,5,Blackburn_Rovers,Home,106109,58900,Mauro Formica,mauro-formica,M,True,,,,,,,
+2010-11,1380093,34,5,Blackburn_Rovers,Home,114155,86168,Rubén Rochina,ruben-rochina,M,True,0.0,0.0,27.0,0.0,,,0.0
+2010-11,1380104,35,5,Blackburn_Rovers,Home,601,4740,Brett Emerton,brett-emerton,M,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1380104,35,5,Blackburn_Rovers,Home,605,16058,Morten Gamst Pedersen,morten-gamst-pedersen,M,True,0.0,0.0,11.0,0.0,,,0.0
+2010-11,1380104,35,5,Blackburn_Rovers,Home,1477,17152,Jermaine Jones,jermaine-jones,M,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1380104,35,5,Blackburn_Rovers,Home,51652,,Steven​ N'Zonzi,steven-n-zonzi,M,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1380104,35,5,Blackburn_Rovers,Home,114155,86168,Rubén Rochina,ruben-rochina,M,True,,,,,,,
+2010-11,1380120,36,5,Blackburn_Rovers,Away,601,4740,Brett Emerton,brett-emerton,M,False,1.0,0.0,90.0,0.0,,,0.0
+2010-11,1380120,36,5,Blackburn_Rovers,Away,605,16058,Morten Gamst Pedersen,morten-gamst-pedersen,M,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1380120,36,5,Blackburn_Rovers,Away,1477,17152,Jermaine Jones,jermaine-jones,M,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1380120,36,5,Blackburn_Rovers,Away,10039,7670,Keith Andrews,keith-andrews,M,True,0.0,0.0,21.0,0.0,,,0.0
+2010-11,1380120,36,5,Blackburn_Rovers,Away,51652,,Steven​ N'Zonzi,steven-n-zonzi,M,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1380120,36,5,Blackburn_Rovers,Away,106109,58900,Mauro Formica,mauro-formica,M,True,,,,,,,
+2010-11,1380120,36,5,Blackburn_Rovers,Away,114155,86168,Rubén Rochina,ruben-rochina,M,True,0.0,0.0,1.0,0.0,,,0.0
+2010-11,1380124,37,5,Blackburn_Rovers,Home,573,1274,David Dunn,david-dunn,M,True,0.0,0.0,17.0,0.0,,,0.0
+2010-11,1380124,37,5,Blackburn_Rovers,Home,601,4740,Brett Emerton,brett-emerton,M,False,0.0,1.0,90.0,0.0,,,0.0
+2010-11,1380124,37,5,Blackburn_Rovers,Home,605,16058,Morten Gamst Pedersen,morten-gamst-pedersen,M,True,0.0,0.0,32.0,0.0,,,0.0
+2010-11,1380124,37,5,Blackburn_Rovers,Home,1477,17152,Jermaine Jones,jermaine-jones,M,False,0.0,0.0,73.0,0.0,,,0.0
+2010-11,1380124,37,5,Blackburn_Rovers,Home,10039,7670,Keith Andrews,keith-andrews,M,True,0.0,0.0,13.0,0.0,,,0.0
+2010-11,1380124,37,5,Blackburn_Rovers,Home,51652,,Steven​ N'Zonzi,steven-n-zonzi,M,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1380141,38,5,Blackburn_Rovers,Away,573,1274,David Dunn,david-dunn,M,True,,,,,,,
+2010-11,1380141,38,5,Blackburn_Rovers,Away,601,4740,Brett Emerton,brett-emerton,M,False,0.0,1.0,90.0,0.0,,,0.0
+2010-11,1380141,38,5,Blackburn_Rovers,Away,605,16058,Morten Gamst Pedersen,morten-gamst-pedersen,M,True,0.0,0.0,11.0,0.0,,,0.0
+2010-11,1380141,38,5,Blackburn_Rovers,Away,1477,17152,Jermaine Jones,jermaine-jones,M,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1380141,38,5,Blackburn_Rovers,Away,10039,7670,Keith Andrews,keith-andrews,M,True,,,,,,,
+2010-11,1380141,38,5,Blackburn_Rovers,Away,51652,,Steven​ N'Zonzi,steven-n-zonzi,M,False,0.0,0.0,90.0,0.0,,,0.0

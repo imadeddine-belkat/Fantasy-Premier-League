@@ -1,0 +1,262 @@
+season,matchId,gameweek,team_id,team,venue,playerId,pl_code,playerName,slug,position,substitute,goalAssist,goals,minutesPlayed,ownGoals,penaltyMiss,substitute.1,totalShots
+2011-12,1768171,1,4,Newcastle_United,Home,1095,15276,Joey Barton,joey-barton,M,False,0.0,0.0,90.0,0.0,,,0.0
+2011-12,1768171,1,4,Newcastle_United,Home,3574,27341,Yohan Cabaye,yohan-cabaye,M,False,0.0,0.0,81.0,0.0,,,0.0
+2011-12,1768171,1,4,Newcastle_United,Home,9773,14775,Ryan Taylor,ryan-taylor,M,False,0.0,0.0,90.0,0.0,,,0.0
+2011-12,1768171,1,4,Newcastle_United,Home,10438,28301,Cheik Tiote,cheik-tiote,M,False,0.0,0.0,90.0,0.0,,,0.0
+2011-12,1768171,1,4,Newcastle_United,Home,12803,21060,Jonás Gutiérrez,jonas-gutierrez,M,False,0.0,0.0,90.0,0.0,,,0.0
+2011-12,1768171,1,4,Newcastle_United,Home,16511,38429,Gabriel Obertan,gabriel-obertan,M,True,0.0,0.0,44.0,0.0,,,0.0
+2011-12,1768171,1,4,Newcastle_United,Home,152417,97612,Sammy Ameobi,sammy-ameobi,M,True,,,,,,,
+2011-12,1768346,2,4,Newcastle_United,Away,1095,15276,Joey Barton,joey-barton,M,False,0.0,0.0,90.0,0.0,,,0.0
+2011-12,1768346,2,4,Newcastle_United,Away,3574,27341,Yohan Cabaye,yohan-cabaye,M,False,0.0,0.0,85.0,0.0,,,0.0
+2011-12,1768346,2,4,Newcastle_United,Away,9773,14775,Ryan Taylor,ryan-taylor,M,False,0.0,1.0,90.0,0.0,,,0.0
+2011-12,1768346,2,4,Newcastle_United,Away,10438,28301,Cheik Tiote,cheik-tiote,M,False,0.0,0.0,90.0,0.0,,,0.0
+2011-12,1768346,2,4,Newcastle_United,Away,12803,21060,Jonás Gutiérrez,jonas-gutierrez,M,False,0.0,0.0,90.0,0.0,,,0.0
+2011-12,1768346,2,4,Newcastle_United,Away,16511,38429,Gabriel Obertan,gabriel-obertan,M,False,0.0,0.0,85.0,0.0,,,0.0
+2011-12,1768354,3,4,Newcastle_United,Home,757,999,Alan Smith,alan-smith,M,True,0.0,0.0,5.0,0.0,,,0.0
+2011-12,1768354,3,4,Newcastle_United,Home,3574,27341,Yohan Cabaye,yohan-cabaye,M,False,1.0,0.0,90.0,0.0,,,0.0
+2011-12,1768354,3,4,Newcastle_United,Home,9773,14775,Ryan Taylor,ryan-taylor,M,False,0.0,0.0,90.0,0.0,,,0.0
+2011-12,1768354,3,4,Newcastle_United,Home,10438,28301,Cheik Tiote,cheik-tiote,M,False,0.0,0.0,90.0,0.0,,,0.0
+2011-12,1768354,3,4,Newcastle_United,Home,12803,21060,Jonás Gutiérrez,jonas-gutierrez,M,False,0.0,0.0,90.0,0.0,,,0.0
+2011-12,1768354,3,4,Newcastle_United,Home,16511,38429,Gabriel Obertan,gabriel-obertan,M,False,0.0,0.0,90.0,0.0,,,0.0
+2011-12,1768354,3,4,Newcastle_United,Home,55581,61944,Shane Ferguson,shane-ferguson,M,True,,,,,,,
+2011-12,1768354,3,4,Newcastle_United,Home,152417,97612,Sammy Ameobi,sammy-ameobi,M,True,,,,,,,
+2011-12,1768978,4,4,Newcastle_United,Away,3574,27341,Yohan Cabaye,yohan-cabaye,M,False,0.0,0.0,90.0,0.0,,,0.0
+2011-12,1768978,4,4,Newcastle_United,Away,9773,14775,Ryan Taylor,ryan-taylor,M,False,0.0,0.0,90.0,0.0,,,0.0
+2011-12,1768978,4,4,Newcastle_United,Away,10438,28301,Cheik Tiote,cheik-tiote,M,False,0.0,0.0,90.0,0.0,,,0.0
+2011-12,1768978,4,4,Newcastle_United,Away,12803,21060,Jonás Gutiérrez,jonas-gutierrez,M,False,0.0,0.0,90.0,0.0,,,0.0
+2011-12,1768978,4,4,Newcastle_United,Away,14222,37639,Danny Guthrie,danny-guthrie,M,True,,,,,,,
+2011-12,1768978,4,4,Newcastle_United,Away,16511,38429,Gabriel Obertan,gabriel-obertan,M,False,0.0,0.0,88.0,0.0,,,0.0
+2011-12,1768978,4,4,Newcastle_United,Away,152417,97612,Sammy Ameobi,sammy-ameobi,M,True,0.0,0.0,2.0,0.0,,,0.0
+2011-12,1768983,5,4,Newcastle_United,Away,3574,27341,Yohan Cabaye,yohan-cabaye,M,False,0.0,0.0,90.0,0.0,,,0.0
+2011-12,1768983,5,4,Newcastle_United,Away,9773,14775,Ryan Taylor,ryan-taylor,M,False,0.0,0.0,90.0,0.0,,,0.0
+2011-12,1768983,5,4,Newcastle_United,Away,10438,28301,Cheik Tiote,cheik-tiote,M,False,1.0,0.0,90.0,0.0,,,0.0
+2011-12,1768983,5,4,Newcastle_United,Away,12803,21060,Jonás Gutiérrez,jonas-gutierrez,M,False,0.0,0.0,85.0,0.0,,,0.0
+2011-12,1768983,5,4,Newcastle_United,Away,14222,37639,Danny Guthrie,danny-guthrie,M,True,,,,,,,
+2011-12,1768983,5,4,Newcastle_United,Away,16511,38429,Gabriel Obertan,gabriel-obertan,M,False,0.0,0.0,90.0,0.0,,,0.0
+2011-12,1768983,5,4,Newcastle_United,Away,152417,97612,Sammy Ameobi,sammy-ameobi,M,True,0.0,0.0,5.0,0.0,,,0.0
+2011-12,1768998,6,4,Newcastle_United,Home,3305,18753,Hatem Ben Arfa,hatem-ben-arfa,M,True,0.0,0.0,16.0,0.0,,,0.0
+2011-12,1768998,6,4,Newcastle_United,Home,3574,27341,Yohan Cabaye,yohan-cabaye,M,False,0.0,0.0,90.0,0.0,,,0.0
+2011-12,1768998,6,4,Newcastle_United,Home,9773,14775,Ryan Taylor,ryan-taylor,M,False,0.0,0.0,90.0,0.0,,,0.0
+2011-12,1768998,6,4,Newcastle_United,Home,10438,28301,Cheik Tiote,cheik-tiote,M,False,1.0,0.0,90.0,0.0,,,0.0
+2011-12,1768998,6,4,Newcastle_United,Home,12803,21060,Jonás Gutiérrez,jonas-gutierrez,M,False,0.0,0.0,84.0,0.0,,,0.0
+2011-12,1768998,6,4,Newcastle_United,Home,14222,37639,Danny Guthrie,danny-guthrie,M,True,,,,,,,
+2011-12,1768998,6,4,Newcastle_United,Home,16511,38429,Gabriel Obertan,gabriel-obertan,M,False,0.0,0.0,90.0,0.0,,,0.0
+2011-12,1768998,6,4,Newcastle_United,Home,152417,97612,Sammy Ameobi,sammy-ameobi,M,True,,,,,,,
+2011-12,1769013,7,4,Newcastle_United,Away,3305,18753,Hatem Ben Arfa,hatem-ben-arfa,M,True,,,,,,,
+2011-12,1769013,7,4,Newcastle_United,Away,3574,27341,Yohan Cabaye,yohan-cabaye,M,False,1.0,0.0,89.0,0.0,,,0.0
+2011-12,1769013,7,4,Newcastle_United,Away,9773,14775,Ryan Taylor,ryan-taylor,M,False,0.0,0.0,90.0,0.0,,,0.0
+2011-12,1769013,7,4,Newcastle_United,Away,10438,28301,Cheik Tiote,cheik-tiote,M,False,0.0,0.0,90.0,0.0,,,0.0
+2011-12,1769013,7,4,Newcastle_United,Away,12803,21060,Jonás Gutiérrez,jonas-gutierrez,M,False,0.0,1.0,90.0,0.0,,,0.0
+2011-12,1769013,7,4,Newcastle_United,Away,14222,37639,Danny Guthrie,danny-guthrie,M,True,0.0,0.0,1.0,0.0,,,0.0
+2011-12,1769013,7,4,Newcastle_United,Away,16511,38429,Gabriel Obertan,gabriel-obertan,M,False,0.0,0.0,90.0,0.0,,,0.0
+2011-12,1769013,7,4,Newcastle_United,Away,152417,97612,Sammy Ameobi,sammy-ameobi,M,True,,,,,,,
+2011-12,1769018,8,4,Newcastle_United,Home,3305,18753,Hatem Ben Arfa,hatem-ben-arfa,M,True,0.0,0.0,19.0,0.0,,,0.0
+2011-12,1769018,8,4,Newcastle_United,Home,3574,27341,Yohan Cabaye,yohan-cabaye,M,False,0.0,0.0,90.0,0.0,,,0.0
+2011-12,1769018,8,4,Newcastle_United,Home,9773,14775,Ryan Taylor,ryan-taylor,M,False,1.0,0.0,90.0,0.0,,,0.0
+2011-12,1769018,8,4,Newcastle_United,Home,10438,28301,Cheik Tiote,cheik-tiote,M,False,0.0,0.0,90.0,0.0,,,0.0
+2011-12,1769018,8,4,Newcastle_United,Home,12803,21060,Jonás Gutiérrez,jonas-gutierrez,M,False,1.0,0.0,90.0,0.0,,,0.0
+2011-12,1769018,8,4,Newcastle_United,Home,14222,37639,Danny Guthrie,danny-guthrie,M,True,,,,,,,
+2011-12,1769018,8,4,Newcastle_United,Home,16511,38429,Gabriel Obertan,gabriel-obertan,M,False,0.0,0.0,90.0,0.0,,,0.0
+2011-12,1769032,9,4,Newcastle_United,Home,757,999,Alan Smith,alan-smith,M,True,,,,,,,
+2011-12,1769032,9,4,Newcastle_United,Home,3305,18753,Hatem Ben Arfa,hatem-ben-arfa,M,True,0.0,0.0,44.0,0.0,,,0.0
+2011-12,1769032,9,4,Newcastle_United,Home,3574,27341,Yohan Cabaye,yohan-cabaye,M,False,0.0,1.0,90.0,0.0,,,0.0
+2011-12,1769032,9,4,Newcastle_United,Home,9773,14775,Ryan Taylor,ryan-taylor,M,False,0.0,0.0,90.0,0.0,,,0.0
+2011-12,1769032,9,4,Newcastle_United,Home,10438,28301,Cheik Tiote,cheik-tiote,M,False,0.0,0.0,90.0,0.0,,,0.0
+2011-12,1769032,9,4,Newcastle_United,Home,12803,21060,Jonás Gutiérrez,jonas-gutierrez,M,False,0.0,0.0,90.0,0.0,,,0.0
+2011-12,1769032,9,4,Newcastle_United,Home,16511,38429,Gabriel Obertan,gabriel-obertan,M,False,0.0,0.0,77.0,0.0,,,0.0
+2011-12,1769040,10,4,Newcastle_United,Away,3305,18753,Hatem Ben Arfa,hatem-ben-arfa,M,True,,,,,,,
+2011-12,1769040,10,4,Newcastle_United,Away,3574,27341,Yohan Cabaye,yohan-cabaye,M,False,0.0,0.0,78.0,0.0,,,0.0
+2011-12,1769040,10,4,Newcastle_United,Away,9773,14775,Ryan Taylor,ryan-taylor,M,False,0.0,0.0,90.0,0.0,,,0.0
+2011-12,1769040,10,4,Newcastle_United,Away,12803,21060,Jonás Gutiérrez,jonas-gutierrez,M,False,0.0,0.0,90.0,0.0,,,0.0
+2011-12,1769040,10,4,Newcastle_United,Away,14222,37639,Danny Guthrie,danny-guthrie,M,False,0.0,0.0,90.0,0.0,,,0.0
+2011-12,1769040,10,4,Newcastle_United,Away,16511,38429,Gabriel Obertan,gabriel-obertan,M,False,1.0,0.0,90.0,0.0,,,0.0
+2011-12,1769040,10,4,Newcastle_United,Away,152417,97612,Sammy Ameobi,sammy-ameobi,M,True,0.0,0.0,4.0,0.0,,,0.0
+2011-12,1769054,11,4,Newcastle_United,Home,3305,18753,Hatem Ben Arfa,hatem-ben-arfa,M,True,0.0,0.0,17.0,0.0,,,0.0
+2011-12,1769054,11,4,Newcastle_United,Home,3574,27341,Yohan Cabaye,yohan-cabaye,M,False,0.0,0.0,37.0,0.0,,,0.0
+2011-12,1769054,11,4,Newcastle_United,Home,9773,14775,Ryan Taylor,ryan-taylor,M,False,0.0,1.0,90.0,0.0,,,0.0
+2011-12,1769054,11,4,Newcastle_United,Home,12803,21060,Jonás Gutiérrez,jonas-gutierrez,M,False,0.0,0.0,90.0,0.0,,,0.0
+2011-12,1769054,11,4,Newcastle_United,Home,14222,37639,Danny Guthrie,danny-guthrie,M,False,0.0,0.0,90.0,0.0,,,0.0
+2011-12,1769059,12,4,Newcastle_United,Away,757,999,Alan Smith,alan-smith,M,True,,,,,,,
+2011-12,1769059,12,4,Newcastle_United,Away,3305,18753,Hatem Ben Arfa,hatem-ben-arfa,M,False,0.0,0.0,76.0,0.0,,,0.0
+2011-12,1769059,12,4,Newcastle_United,Away,3574,27341,Yohan Cabaye,yohan-cabaye,M,False,0.0,0.0,85.0,0.0,,,0.0
+2011-12,1769059,12,4,Newcastle_United,Away,9773,14775,Ryan Taylor,ryan-taylor,M,False,0.0,0.0,90.0,0.0,,,0.0
+2011-12,1769059,12,4,Newcastle_United,Away,12803,21060,Jonás Gutiérrez,jonas-gutierrez,M,False,0.0,0.0,90.0,0.0,,,0.0
+2011-12,1769059,12,4,Newcastle_United,Away,14222,37639,Danny Guthrie,danny-guthrie,M,False,0.0,0.0,90.0,0.0,,,0.0
+2011-12,1769059,12,4,Newcastle_United,Away,152417,97612,Sammy Ameobi,sammy-ameobi,M,False,0.0,0.0,79.0,0.0,,,0.0
+2011-12,1769071,13,4,Newcastle_United,Away,3305,18753,Hatem Ben Arfa,hatem-ben-arfa,M,False,0.0,0.0,81.0,0.0,,,0.0
+2011-12,1769071,13,4,Newcastle_United,Away,3574,27341,Yohan Cabaye,yohan-cabaye,M,False,0.0,0.0,90.0,0.0,,,0.0
+2011-12,1769071,13,4,Newcastle_United,Away,9773,14775,Ryan Taylor,ryan-taylor,M,False,0.0,0.0,90.0,0.0,,,0.0
+2011-12,1769071,13,4,Newcastle_United,Away,12803,21060,Jonás Gutiérrez,jonas-gutierrez,M,False,0.0,0.0,79.0,0.0,,,0.0
+2011-12,1769071,13,4,Newcastle_United,Away,14222,37639,Danny Guthrie,danny-guthrie,M,False,0.0,0.0,74.0,0.0,,,0.0
+2011-12,1769071,13,4,Newcastle_United,Away,16511,38429,Gabriel Obertan,gabriel-obertan,M,False,0.0,0.0,65.0,0.0,,,0.0
+2011-12,1769071,13,4,Newcastle_United,Away,152417,97612,Sammy Ameobi,sammy-ameobi,M,True,0.0,0.0,25.0,0.0,,,0.0
+2011-12,1769083,14,4,Newcastle_United,Home,3305,18753,Hatem Ben Arfa,hatem-ben-arfa,M,False,0.0,0.0,46.0,0.0,,,0.0
+2011-12,1769083,14,4,Newcastle_United,Home,3574,27341,Yohan Cabaye,yohan-cabaye,M,False,0.0,0.0,90.0,0.0,,,0.0
+2011-12,1769083,14,4,Newcastle_United,Home,9773,14775,Ryan Taylor,ryan-taylor,M,False,0.0,0.0,90.0,0.0,,,0.0
+2011-12,1769083,14,4,Newcastle_United,Home,14222,37639,Danny Guthrie,danny-guthrie,M,False,0.0,0.0,90.0,0.0,,,0.0
+2011-12,1769083,14,4,Newcastle_United,Home,16511,38429,Gabriel Obertan,gabriel-obertan,M,False,0.0,0.0,90.0,0.0,,,0.0
+2011-12,1769083,14,4,Newcastle_United,Home,152417,97612,Sammy Ameobi,sammy-ameobi,M,True,0.0,0.0,19.0,0.0,,,0.0
+2011-12,1769094,15,4,Newcastle_United,Away,757,999,Alan Smith,alan-smith,M,True,0.0,0.0,1.0,0.0,,,0.0
+2011-12,1769094,15,4,Newcastle_United,Away,3305,18753,Hatem Ben Arfa,hatem-ben-arfa,M,True,,,,,,,
+2011-12,1769094,15,4,Newcastle_United,Away,3574,27341,Yohan Cabaye,yohan-cabaye,M,False,1.0,0.0,90.0,0.0,,,0.0
+2011-12,1769094,15,4,Newcastle_United,Away,9773,14775,Ryan Taylor,ryan-taylor,M,False,0.0,0.0,90.0,0.0,,,0.0
+2011-12,1769094,15,4,Newcastle_United,Away,12803,21060,Jonás Gutiérrez,jonas-gutierrez,M,False,0.0,0.0,90.0,0.0,,,0.0
+2011-12,1769094,15,4,Newcastle_United,Away,16511,38429,Gabriel Obertan,gabriel-obertan,M,False,0.0,0.0,80.0,0.0,,,0.0
+2011-12,1769094,15,4,Newcastle_United,Away,55581,61944,Shane Ferguson,shane-ferguson,M,True,0.0,0.0,1.0,0.0,,,0.0
+2011-12,1769094,15,4,Newcastle_United,Away,152417,97612,Sammy Ameobi,sammy-ameobi,M,True,0.0,0.0,10.0,0.0,,,0.0
+2011-12,1769105,16,4,Newcastle_United,Home,3305,18753,Hatem Ben Arfa,hatem-ben-arfa,M,True,,,,,,,
+2011-12,1769105,16,4,Newcastle_United,Home,3574,27341,Yohan Cabaye,yohan-cabaye,M,False,0.0,0.0,90.0,0.0,,,0.0
+2011-12,1769105,16,4,Newcastle_United,Home,10438,28301,Cheik Tiote,cheik-tiote,M,False,0.0,0.0,82.0,0.0,,,0.0
+2011-12,1769105,16,4,Newcastle_United,Home,12803,21060,Jonás Gutiérrez,jonas-gutierrez,M,False,0.0,0.0,90.0,0.0,,,0.0
+2011-12,1769105,16,4,Newcastle_United,Home,16511,38429,Gabriel Obertan,gabriel-obertan,M,False,0.0,0.0,82.0,0.0,,,0.0
+2011-12,1769105,16,4,Newcastle_United,Home,73056,98746,Mehdi Abeid,mehdi-abeid,M,True,,,,,,,
+2011-12,1769105,16,4,Newcastle_United,Home,152417,97612,Sammy Ameobi,sammy-ameobi,M,True,0.0,0.0,8.0,0.0,,,0.0
+2011-12,1769116,17,4,Newcastle_United,Home,3305,18753,Hatem Ben Arfa,hatem-ben-arfa,M,True,1.0,0.0,29.0,0.0,,,0.0
+2011-12,1769116,17,4,Newcastle_United,Home,9773,14775,Ryan Taylor,ryan-taylor,M,True,0.0,0.0,44.0,0.0,,,0.0
+2011-12,1769116,17,4,Newcastle_United,Home,10438,28301,Cheik Tiote,cheik-tiote,M,False,0.0,0.0,90.0,0.0,,,0.0
+2011-12,1769116,17,4,Newcastle_United,Home,12803,21060,Jonás Gutiérrez,jonas-gutierrez,M,False,0.0,0.0,90.0,0.0,,,0.0
+2011-12,1769116,17,4,Newcastle_United,Home,16511,38429,Gabriel Obertan,gabriel-obertan,M,False,0.0,0.0,72.0,0.0,,,0.0
+2011-12,1769116,17,4,Newcastle_United,Home,73056,98746,Mehdi Abeid,mehdi-abeid,M,True,,,,,,,
+2011-12,1769116,17,4,Newcastle_United,Home,152417,97612,Sammy Ameobi,sammy-ameobi,M,True,,,,,,,
+2011-12,1769121,18,4,Newcastle_United,Away,3305,18753,Hatem Ben Arfa,hatem-ben-arfa,M,True,0.0,1.0,29.0,0.0,,,0.0
+2011-12,1769121,18,4,Newcastle_United,Away,3574,27341,Yohan Cabaye,yohan-cabaye,M,False,0.0,0.0,88.0,0.0,,,0.0
+2011-12,1769121,18,4,Newcastle_United,Away,9773,14775,Ryan Taylor,ryan-taylor,M,False,1.0,0.0,90.0,0.0,,,0.0
+2011-12,1769121,18,4,Newcastle_United,Away,10438,28301,Cheik Tiote,cheik-tiote,M,False,0.0,0.0,90.0,0.0,,,0.0
+2011-12,1769121,18,4,Newcastle_United,Away,12803,21060,Jonás Gutiérrez,jonas-gutierrez,M,False,0.0,0.0,90.0,0.0,,,0.0
+2011-12,1769121,18,4,Newcastle_United,Away,16511,38429,Gabriel Obertan,gabriel-obertan,M,False,1.0,0.0,84.0,0.0,,,0.0
+2011-12,1769121,18,4,Newcastle_United,Away,55581,61944,Shane Ferguson,shane-ferguson,M,True,,,,,,,
+2011-12,1769121,18,4,Newcastle_United,Away,152417,97612,Sammy Ameobi,sammy-ameobi,M,True,,,,,,,
+2011-12,1769134,19,4,Newcastle_United,Away,3305,18753,Hatem Ben Arfa,hatem-ben-arfa,M,True,0.0,0.0,25.0,0.0,,,0.0
+2011-12,1769134,19,4,Newcastle_United,Away,3574,27341,Yohan Cabaye,yohan-cabaye,M,False,0.0,0.0,90.0,0.0,,,0.0
+2011-12,1769134,19,4,Newcastle_United,Away,9773,14775,Ryan Taylor,ryan-taylor,M,False,0.0,0.0,46.0,0.0,,,0.0
+2011-12,1769134,19,4,Newcastle_United,Away,10438,28301,Cheik Tiote,cheik-tiote,M,False,0.0,0.0,90.0,0.0,,,0.0
+2011-12,1769134,19,4,Newcastle_United,Away,12803,21060,Jonás Gutiérrez,jonas-gutierrez,M,False,0.0,0.0,90.0,0.0,,,0.0
+2011-12,1769134,19,4,Newcastle_United,Away,16511,38429,Gabriel Obertan,gabriel-obertan,M,False,0.0,0.0,84.0,0.0,,,0.0
+2011-12,1769134,19,4,Newcastle_United,Away,152417,97612,Sammy Ameobi,sammy-ameobi,M,True,0.0,0.0,6.0,0.0,,,0.0
+2011-12,1769147,20,4,Newcastle_United,Home,3305,18753,Hatem Ben Arfa,hatem-ben-arfa,M,True,,,,,,,
+2011-12,1769147,20,4,Newcastle_United,Home,3574,27341,Yohan Cabaye,yohan-cabaye,M,False,0.0,1.0,77.0,0.0,,,0.0
+2011-12,1769147,20,4,Newcastle_United,Home,9773,14775,Ryan Taylor,ryan-taylor,M,False,0.0,0.0,90.0,0.0,,,0.0
+2011-12,1769147,20,4,Newcastle_United,Home,10438,28301,Cheik Tiote,cheik-tiote,M,False,0.0,0.0,90.0,0.0,,,0.0
+2011-12,1769147,20,4,Newcastle_United,Home,12803,21060,Jonás Gutiérrez,jonas-gutierrez,M,False,0.0,0.0,90.0,0.0,,,0.0
+2011-12,1769147,20,4,Newcastle_United,Home,16511,38429,Gabriel Obertan,gabriel-obertan,M,True,0.0,0.0,1.0,0.0,,,0.0
+2011-12,1769147,20,4,Newcastle_United,Home,152417,97612,Sammy Ameobi,sammy-ameobi,M,True,,,,,,,
+2011-12,1769157,21,4,Newcastle_United,Home,3305,18753,Hatem Ben Arfa,hatem-ben-arfa,M,True,0.0,0.0,65.0,0.0,,,0.0
+2011-12,1769157,21,4,Newcastle_United,Home,3574,27341,Yohan Cabaye,yohan-cabaye,M,False,0.0,0.0,25.0,0.0,,,0.0
+2011-12,1769157,21,4,Newcastle_United,Home,9773,14775,Ryan Taylor,ryan-taylor,M,False,1.0,0.0,81.0,0.0,,,0.0
+2011-12,1769157,21,4,Newcastle_United,Home,12803,21060,Jonás Gutiérrez,jonas-gutierrez,M,False,0.0,0.0,90.0,0.0,,,0.0
+2011-12,1769157,21,4,Newcastle_United,Home,14222,37639,Danny Guthrie,danny-guthrie,M,False,0.0,0.0,90.0,0.0,,,0.0
+2011-12,1769157,21,4,Newcastle_United,Home,16511,38429,Gabriel Obertan,gabriel-obertan,M,True,,,,,,,
+2011-12,1769157,21,4,Newcastle_United,Home,55581,61944,Shane Ferguson,shane-ferguson,M,True,,,,,,,
+2011-12,1769157,21,4,Newcastle_United,Home,73056,98746,Mehdi Abeid,mehdi-abeid,M,True,,,,,,,
+2011-12,1769166,22,4,Newcastle_United,Away,3305,18753,Hatem Ben Arfa,hatem-ben-arfa,M,False,1.0,1.0,90.0,0.0,,,0.0
+2011-12,1769166,22,4,Newcastle_United,Away,3574,27341,Yohan Cabaye,yohan-cabaye,M,False,0.0,0.0,83.0,0.0,,,0.0
+2011-12,1769166,22,4,Newcastle_United,Away,9773,14775,Ryan Taylor,ryan-taylor,M,True,0.0,0.0,4.0,0.0,,,0.0
+2011-12,1769166,22,4,Newcastle_United,Away,12803,21060,Jonás Gutiérrez,jonas-gutierrez,M,False,0.0,0.0,90.0,0.0,,,0.0
+2011-12,1769166,22,4,Newcastle_United,Away,14222,37639,Danny Guthrie,danny-guthrie,M,False,0.0,1.0,76.0,0.0,,,0.0
+2011-12,1769166,22,4,Newcastle_United,Away,16511,38429,Gabriel Obertan,gabriel-obertan,M,True,,,,,,,
+2011-12,1769166,22,4,Newcastle_United,Away,55581,61944,Shane Ferguson,shane-ferguson,M,True,,,,,,,
+2011-12,1769181,23,4,Newcastle_United,Away,3305,18753,Hatem Ben Arfa,hatem-ben-arfa,M,False,0.0,0.0,46.0,0.0,,,0.0
+2011-12,1769181,23,4,Newcastle_United,Away,9773,14775,Ryan Taylor,ryan-taylor,M,False,0.0,0.0,89.0,0.0,,,0.0
+2011-12,1769181,23,4,Newcastle_United,Away,12803,21060,Jonás Gutiérrez,jonas-gutierrez,M,False,0.0,0.0,90.0,0.0,,,0.0
+2011-12,1769181,23,4,Newcastle_United,Away,14222,37639,Danny Guthrie,danny-guthrie,M,False,0.0,0.0,90.0,0.0,,,0.0
+2011-12,1769181,23,4,Newcastle_United,Away,16511,38429,Gabriel Obertan,gabriel-obertan,M,True,0.0,1.0,1.0,0.0,,,0.0
+2011-12,1769181,23,4,Newcastle_United,Away,55581,61944,Shane Ferguson,shane-ferguson,M,True,,,,,,,
+2011-12,1769181,23,4,Newcastle_United,Away,73056,98746,Mehdi Abeid,mehdi-abeid,M,True,,,,,,,
+2011-12,1769188,24,4,Newcastle_United,Home,3305,18753,Hatem Ben Arfa,hatem-ben-arfa,M,True,,,,,,,
+2011-12,1769188,24,4,Newcastle_United,Home,9773,14775,Ryan Taylor,ryan-taylor,M,False,1.0,0.0,33.0,0.0,,,0.0
+2011-12,1769188,24,4,Newcastle_United,Home,12803,21060,Jonás Gutiérrez,jonas-gutierrez,M,False,1.0,0.0,90.0,0.0,,,0.0
+2011-12,1769188,24,4,Newcastle_United,Home,14222,37639,Danny Guthrie,danny-guthrie,M,False,0.0,0.0,90.0,0.0,,,0.0
+2011-12,1769188,24,4,Newcastle_United,Home,16511,38429,Gabriel Obertan,gabriel-obertan,M,True,0.0,0.0,57.0,0.0,,,0.0
+2011-12,1769188,24,4,Newcastle_United,Home,55581,61944,Shane Ferguson,shane-ferguson,M,True,,,,,,,
+2011-12,1769203,25,4,Newcastle_United,Away,3305,18753,Hatem Ben Arfa,hatem-ben-arfa,M,True,,,,,,,
+2011-12,1769203,25,4,Newcastle_United,Away,12803,21060,Jonás Gutiérrez,jonas-gutierrez,M,False,0.0,0.0,90.0,0.0,,,0.0
+2011-12,1769203,25,4,Newcastle_United,Away,14222,37639,Danny Guthrie,danny-guthrie,M,False,0.0,0.0,86.0,0.0,,,0.0
+2011-12,1769203,25,4,Newcastle_United,Away,16511,38429,Gabriel Obertan,gabriel-obertan,M,False,0.0,0.0,46.0,0.0,,,0.0
+2011-12,1769203,25,4,Newcastle_United,Away,55581,61944,Shane Ferguson,shane-ferguson,M,True,0.0,0.0,44.0,0.0,,,0.0
+2011-12,1769203,25,4,Newcastle_United,Away,73056,98746,Mehdi Abeid,mehdi-abeid,M,True,,,,,,,
+2011-12,1769210,26,4,Newcastle_United,Home,3305,18753,Hatem Ben Arfa,hatem-ben-arfa,M,True,0.0,0.0,25.0,0.0,,,0.0
+2011-12,1769210,26,4,Newcastle_United,Home,3574,27341,Yohan Cabaye,yohan-cabaye,M,False,0.0,0.0,90.0,0.0,,,0.0
+2011-12,1769210,26,4,Newcastle_United,Home,9773,14775,Ryan Taylor,ryan-taylor,M,False,0.0,0.0,65.0,0.0,,,0.0
+2011-12,1769210,26,4,Newcastle_United,Home,10438,28301,Cheik Tiote,cheik-tiote,M,False,1.0,0.0,80.0,0.0,,,0.0
+2011-12,1769210,26,4,Newcastle_United,Home,12803,21060,Jonás Gutiérrez,jonas-gutierrez,M,False,0.0,1.0,90.0,0.0,,,0.0
+2011-12,1769210,26,4,Newcastle_United,Home,14222,37639,Danny Guthrie,danny-guthrie,M,True,0.0,0.0,25.0,0.0,,,0.0
+2011-12,1769210,26,4,Newcastle_United,Home,16511,38429,Gabriel Obertan,gabriel-obertan,M,True,,,,,,,
+2011-12,1769210,26,4,Newcastle_United,Home,55581,61944,Shane Ferguson,shane-ferguson,M,True,,,,,,,
+2011-12,1769220,27,4,Newcastle_United,Home,3305,18753,Hatem Ben Arfa,hatem-ben-arfa,M,True,0.0,0.0,44.0,0.0,,,0.0
+2011-12,1769220,27,4,Newcastle_United,Home,3574,27341,Yohan Cabaye,yohan-cabaye,M,False,0.0,0.0,90.0,0.0,,,0.0
+2011-12,1769220,27,4,Newcastle_United,Home,9773,14775,Ryan Taylor,ryan-taylor,M,False,0.0,0.0,89.0,0.0,,,0.0
+2011-12,1769220,27,4,Newcastle_United,Home,10438,28301,Cheik Tiote,cheik-tiote,M,False,0.0,0.0,90.0,0.0,,,0.0
+2011-12,1769220,27,4,Newcastle_United,Home,12803,21060,Jonás Gutiérrez,jonas-gutierrez,M,False,0.0,0.0,90.0,0.0,,,0.0
+2011-12,1769220,27,4,Newcastle_United,Home,14222,37639,Danny Guthrie,danny-guthrie,M,True,,,,,,,
+2011-12,1769220,27,4,Newcastle_United,Home,16511,38429,Gabriel Obertan,gabriel-obertan,M,True,,,,,,,
+2011-12,1769227,28,4,Newcastle_United,Away,3305,18753,Hatem Ben Arfa,hatem-ben-arfa,M,False,0.0,1.0,90.0,0.0,,,0.0
+2011-12,1769227,28,4,Newcastle_United,Away,3574,27341,Yohan Cabaye,yohan-cabaye,M,False,0.0,0.0,90.0,0.0,,,0.0
+2011-12,1769227,28,4,Newcastle_United,Away,10438,28301,Cheik Tiote,cheik-tiote,M,False,0.0,0.0,81.0,0.0,,,0.0
+2011-12,1769227,28,4,Newcastle_United,Away,12803,21060,Jonás Gutiérrez,jonas-gutierrez,M,False,0.0,0.0,90.0,0.0,,,0.0
+2011-12,1769227,28,4,Newcastle_United,Away,14222,37639,Danny Guthrie,danny-guthrie,M,True,0.0,0.0,9.0,0.0,,,0.0
+2011-12,1769227,28,4,Newcastle_United,Away,16511,38429,Gabriel Obertan,gabriel-obertan,M,False,1.0,0.0,61.0,0.0,,,0.0
+2011-12,1769243,29,4,Newcastle_United,Home,3305,18753,Hatem Ben Arfa,hatem-ben-arfa,M,False,0.0,0.0,63.0,0.0,,,0.0
+2011-12,1769243,29,4,Newcastle_United,Home,3574,27341,Yohan Cabaye,yohan-cabaye,M,False,0.0,0.0,90.0,0.0,,,0.0
+2011-12,1769243,29,4,Newcastle_United,Home,12803,21060,Jonás Gutiérrez,jonas-gutierrez,M,False,1.0,0.0,90.0,0.0,,,0.0
+2011-12,1769243,29,4,Newcastle_United,Home,14222,37639,Danny Guthrie,danny-guthrie,M,False,0.0,0.0,76.0,0.0,,,0.0
+2011-12,1769243,29,4,Newcastle_United,Home,39351,54402,Ryan Donaldson,ryan-donaldson,M,True,,,,,,,
+2011-12,1769243,29,4,Newcastle_United,Home,73056,98746,Mehdi Abeid,mehdi-abeid,M,True,,,,,,,
+2011-12,1769257,30,4,Newcastle_United,Away,3305,18753,Hatem Ben Arfa,hatem-ben-arfa,M,False,2.0,1.0,75.0,0.0,,,0.0
+2011-12,1769257,30,4,Newcastle_United,Away,3574,27341,Yohan Cabaye,yohan-cabaye,M,False,0.0,0.0,90.0,0.0,,,0.0
+2011-12,1769257,30,4,Newcastle_United,Away,12803,21060,Jonás Gutiérrez,jonas-gutierrez,M,False,0.0,0.0,90.0,0.0,,,0.0
+2011-12,1769257,30,4,Newcastle_United,Away,14222,37639,Danny Guthrie,danny-guthrie,M,False,0.0,0.0,90.0,0.0,,,0.0
+2011-12,1769257,30,4,Newcastle_United,Away,55581,61944,Shane Ferguson,shane-ferguson,M,True,0.0,0.0,11.0,0.0,,,0.0
+2011-12,1769257,30,4,Newcastle_United,Away,73056,98746,Mehdi Abeid,mehdi-abeid,M,True,,,,,,,
+2011-12,1769263,31,4,Newcastle_United,Home,3305,18753,Hatem Ben Arfa,hatem-ben-arfa,M,False,2.0,0.0,90.0,0.0,,,0.0
+2011-12,1769263,31,4,Newcastle_United,Home,3574,27341,Yohan Cabaye,yohan-cabaye,M,False,0.0,0.0,90.0,0.0,,,0.0
+2011-12,1769263,31,4,Newcastle_United,Home,9773,14775,Ryan Taylor,ryan-taylor,M,True,,,,,,,
+2011-12,1769263,31,4,Newcastle_United,Home,10438,28301,Cheik Tiote,cheik-tiote,M,False,0.0,0.0,90.0,0.0,,,0.0
+2011-12,1769263,31,4,Newcastle_United,Home,12803,21060,Jonás Gutiérrez,jonas-gutierrez,M,False,0.0,0.0,90.0,0.0,,,0.0
+2011-12,1769263,31,4,Newcastle_United,Home,14222,37639,Danny Guthrie,danny-guthrie,M,False,0.0,0.0,65.0,0.0,,,0.0
+2011-12,1769263,31,4,Newcastle_United,Home,55581,61944,Shane Ferguson,shane-ferguson,M,True,,,,,,,
+2011-12,1769276,32,4,Newcastle_United,Away,3305,18753,Hatem Ben Arfa,hatem-ben-arfa,M,False,0.0,0.0,90.0,0.0,,,0.0
+2011-12,1769276,32,4,Newcastle_United,Away,3574,27341,Yohan Cabaye,yohan-cabaye,M,False,2.0,0.0,73.0,0.0,,,0.0
+2011-12,1769276,32,4,Newcastle_United,Away,9773,14775,Ryan Taylor,ryan-taylor,M,True,0.0,0.0,44.0,0.0,,,0.0
+2011-12,1769276,32,4,Newcastle_United,Away,10438,28301,Cheik Tiote,cheik-tiote,M,False,0.0,0.0,46.0,0.0,,,0.0
+2011-12,1769276,32,4,Newcastle_United,Away,12803,21060,Jonás Gutiérrez,jonas-gutierrez,M,False,0.0,0.0,90.0,0.0,,,0.0
+2011-12,1769276,32,4,Newcastle_United,Away,55581,61944,Shane Ferguson,shane-ferguson,M,True,0.0,0.0,31.0,0.0,,,0.0
+2011-12,1769276,32,4,Newcastle_United,Away,73056,98746,Mehdi Abeid,mehdi-abeid,M,True,,,,,,,
+2011-12,1769283,33,4,Newcastle_United,Home,3305,18753,Hatem Ben Arfa,hatem-ben-arfa,M,False,0.0,1.0,85.0,0.0,,,0.0
+2011-12,1769283,33,4,Newcastle_United,Home,3574,27341,Yohan Cabaye,yohan-cabaye,M,False,0.0,0.0,90.0,0.0,,,0.0
+2011-12,1769283,33,4,Newcastle_United,Home,9773,14775,Ryan Taylor,ryan-taylor,M,True,0.0,0.0,5.0,0.0,,,0.0
+2011-12,1769283,33,4,Newcastle_United,Home,12803,21060,Jonás Gutiérrez,jonas-gutierrez,M,False,0.0,0.0,90.0,0.0,,,0.0
+2011-12,1769283,33,4,Newcastle_United,Home,55581,61944,Shane Ferguson,shane-ferguson,M,True,0.0,0.0,44.0,0.0,,,0.0
+2011-12,1769283,33,4,Newcastle_United,Home,73056,98746,Mehdi Abeid,mehdi-abeid,M,True,,,,,,,
+2011-12,1769290,34,4,Newcastle_United,Away,3305,18753,Hatem Ben Arfa,hatem-ben-arfa,M,False,0.0,0.0,87.0,0.0,,,0.0
+2011-12,1769290,34,4,Newcastle_United,Away,3574,27341,Yohan Cabaye,yohan-cabaye,M,False,0.0,0.0,90.0,0.0,,,0.0
+2011-12,1769290,34,4,Newcastle_United,Away,9773,14775,Ryan Taylor,ryan-taylor,M,True,0.0,0.0,27.0,0.0,,,0.0
+2011-12,1769290,34,4,Newcastle_United,Away,10438,28301,Cheik Tiote,cheik-tiote,M,False,0.0,0.0,63.0,0.0,,,0.0
+2011-12,1769290,34,4,Newcastle_United,Away,12803,21060,Jonás Gutiérrez,jonas-gutierrez,M,False,0.0,0.0,90.0,0.0,,,0.0
+2011-12,1769290,34,4,Newcastle_United,Away,16511,38429,Gabriel Obertan,gabriel-obertan,M,True,0.0,0.0,3.0,0.0,,,0.0
+2011-12,1769290,34,4,Newcastle_United,Away,55581,61944,Shane Ferguson,shane-ferguson,M,True,,,,,,,
+2011-12,1769305,35,4,Newcastle_United,Home,3305,18753,Hatem Ben Arfa,hatem-ben-arfa,M,False,0.0,0.0,90.0,0.0,,,0.0
+2011-12,1769305,35,4,Newcastle_United,Home,3574,27341,Yohan Cabaye,yohan-cabaye,M,False,1.0,2.0,60.0,0.0,,,0.0
+2011-12,1769305,35,4,Newcastle_United,Home,9773,14775,Ryan Taylor,ryan-taylor,M,True,,,,,,,
+2011-12,1769305,35,4,Newcastle_United,Home,10438,28301,Cheik Tiote,cheik-tiote,M,False,0.0,0.0,90.0,0.0,,,0.0
+2011-12,1769305,35,4,Newcastle_United,Home,12803,21060,Jonás Gutiérrez,jonas-gutierrez,M,False,0.0,0.0,90.0,0.0,,,0.0
+2011-12,1769305,35,4,Newcastle_United,Home,55581,61944,Shane Ferguson,shane-ferguson,M,True,,,,,,,
+2011-12,1769317,36,4,Newcastle_United,Away,3305,18753,Hatem Ben Arfa,hatem-ben-arfa,M,False,0.0,0.0,73.0,0.0,,,0.0
+2011-12,1769317,36,4,Newcastle_United,Away,3574,27341,Yohan Cabaye,yohan-cabaye,M,False,0.0,0.0,83.0,0.0,,,0.0
+2011-12,1769317,36,4,Newcastle_United,Away,9773,14775,Ryan Taylor,ryan-taylor,M,True,0.0,0.0,17.0,0.0,,,0.0
+2011-12,1769317,36,4,Newcastle_United,Away,10438,28301,Cheik Tiote,cheik-tiote,M,False,0.0,0.0,90.0,0.0,,,0.0
+2011-12,1769317,36,4,Newcastle_United,Away,12803,21060,Jonás Gutiérrez,jonas-gutierrez,M,False,0.0,0.0,90.0,0.0,,,0.0
+2011-12,1769317,36,4,Newcastle_United,Away,55581,61944,Shane Ferguson,shane-ferguson,M,True,0.0,0.0,7.0,0.0,,,0.0
+2011-12,1769326,37,4,Newcastle_United,Home,3305,18753,Hatem Ben Arfa,hatem-ben-arfa,M,False,0.0,0.0,74.0,0.0,,,0.0
+2011-12,1769326,37,4,Newcastle_United,Home,3574,27341,Yohan Cabaye,yohan-cabaye,M,False,0.0,0.0,90.0,0.0,,,0.0
+2011-12,1769326,37,4,Newcastle_United,Home,9773,14775,Ryan Taylor,ryan-taylor,M,True,0.0,0.0,8.0,0.0,,,0.0
+2011-12,1769326,37,4,Newcastle_United,Home,10438,28301,Cheik Tiote,cheik-tiote,M,False,0.0,0.0,82.0,0.0,,,0.0
+2011-12,1769326,37,4,Newcastle_United,Home,12803,21060,Jonás Gutiérrez,jonas-gutierrez,M,False,0.0,0.0,90.0,0.0,,,0.0
+2011-12,1769326,37,4,Newcastle_United,Home,16511,38429,Gabriel Obertan,gabriel-obertan,M,True,,,,,,,
+2011-12,1769326,37,4,Newcastle_United,Home,55581,61944,Shane Ferguson,shane-ferguson,M,True,0.0,0.0,16.0,0.0,,,0.0
+2011-12,1769330,38,4,Newcastle_United,Away,3305,18753,Hatem Ben Arfa,hatem-ben-arfa,M,False,0.0,0.0,90.0,0.0,,,0.0
+2011-12,1769330,38,4,Newcastle_United,Away,3574,27341,Yohan Cabaye,yohan-cabaye,M,False,0.0,0.0,90.0,0.0,,,0.0
+2011-12,1769330,38,4,Newcastle_United,Away,9773,14775,Ryan Taylor,ryan-taylor,M,True,0.0,0.0,44.0,0.0,,,0.0
+2011-12,1769330,38,4,Newcastle_United,Away,10438,28301,Cheik Tiote,cheik-tiote,M,False,0.0,0.0,81.0,0.0,,,0.0
+2011-12,1769330,38,4,Newcastle_United,Away,12803,21060,Jonás Gutiérrez,jonas-gutierrez,M,False,0.0,0.0,90.0,0.0,,,0.0
+2011-12,1769330,38,4,Newcastle_United,Away,16511,38429,Gabriel Obertan,gabriel-obertan,M,True,,,,,,,
+2011-12,1769330,38,4,Newcastle_United,Away,55581,61944,Shane Ferguson,shane-ferguson,M,True,,,,,,,

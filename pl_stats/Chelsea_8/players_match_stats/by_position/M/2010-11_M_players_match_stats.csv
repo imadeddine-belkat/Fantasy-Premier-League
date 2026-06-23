@@ -1,0 +1,202 @@
+season,matchId,gameweek,team_id,team,venue,playerId,pl_code,playerName,slug,position,substitute,goalAssist,goals,minutesPlayed,ownGoals,penaltyMiss,substitute.1,totalShots
+2010-11,1379598,1,8,Chelsea,Home,1216,2051,Frank Lampard,frank-lampard,M,False,0.0,1.0,64.0,0.0,,,0.0
+2010-11,1379598,1,8,Chelsea,Home,3300,8442,Michael Essien,michael-essien,M,False,1.0,0.0,90.0,0.0,,,0.0
+2010-11,1379598,1,8,Chelsea,Home,7311,28495,John Obi Mikel,john-obi-mikel,M,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1379598,1,8,Chelsea,Home,10086,37352,Salomon Kalou,salomon-kalou,M,True,0.0,0.0,20.0,0.0,,,0.0
+2010-11,1379613,2,8,Chelsea,Away,1216,2051,Frank Lampard,frank-lampard,M,False,1.0,0.0,90.0,0.0,,,0.0
+2010-11,1379613,2,8,Chelsea,Away,3300,8442,Michael Essien,michael-essien,M,False,0.0,0.0,80.0,0.0,,,0.0
+2010-11,1379613,2,8,Chelsea,Away,7311,28495,John Obi Mikel,john-obi-mikel,M,False,1.0,0.0,90.0,0.0,,,0.0
+2010-11,1379613,2,8,Chelsea,Away,10086,37352,Salomon Kalou,salomon-kalou,M,True,0.0,2.0,20.0,0.0,,,0.0
+2010-11,1379618,3,8,Chelsea,Home,1216,2051,Frank Lampard,frank-lampard,M,False,0.0,0.0,72.0,0.0,1.0,,0.0
+2010-11,1379618,3,8,Chelsea,Home,3300,8442,Michael Essien,michael-essien,M,False,0.0,0.0,85.0,0.0,,,0.0
+2010-11,1379618,3,8,Chelsea,Home,7311,28495,John Obi Mikel,john-obi-mikel,M,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1379618,3,8,Chelsea,Home,10086,37352,Salomon Kalou,salomon-kalou,M,True,0.0,0.0,18.0,0.0,,,0.0
+2010-11,1379618,3,8,Chelsea,Home,33110,53392,Ramires,ramires,M,True,0.0,0.0,5.0,0.0,,,0.0
+2010-11,1379800,4,8,Chelsea,Away,3300,8442,Michael Essien,michael-essien,M,False,0.0,2.0,90.0,0.0,,,0.0
+2010-11,1379800,4,8,Chelsea,Away,7311,28495,John Obi Mikel,john-obi-mikel,M,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1379800,4,8,Chelsea,Away,10086,37352,Salomon Kalou,salomon-kalou,M,False,0.0,1.0,84.0,0.0,,,0.0
+2010-11,1379800,4,8,Chelsea,Away,33110,53392,Ramires,ramires,M,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1379800,4,8,Chelsea,Away,46387,59325,Gaël Kakuta,gael-kakuta,M,True,0.0,0.0,14.0,0.0,,,0.0
+2010-11,1379804,5,8,Chelsea,Home,3300,8442,Michael Essien,michael-essien,M,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1379804,5,8,Chelsea,Home,7311,28495,John Obi Mikel,john-obi-mikel,M,False,0.0,0.0,77.0,0.0,,,0.0
+2010-11,1379804,5,8,Chelsea,Home,10086,37352,Salomon Kalou,salomon-kalou,M,False,1.0,1.0,90.0,0.0,,,0.0
+2010-11,1379804,5,8,Chelsea,Home,33110,53392,Ramires,ramires,M,False,0.0,0.0,74.0,0.0,,,0.0
+2010-11,1379804,5,8,Chelsea,Home,46387,59325,Gaël Kakuta,gael-kakuta,M,True,,,,,,,
+2010-11,1379818,6,8,Chelsea,Away,3300,8442,Michael Essien,michael-essien,M,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1379818,6,8,Chelsea,Away,7311,28495,John Obi Mikel,john-obi-mikel,M,False,0.0,0.0,68.0,0.0,,,0.0
+2010-11,1379818,6,8,Chelsea,Away,33110,53392,Ramires,ramires,M,False,0.0,0.0,80.0,0.0,,,0.0
+2010-11,1379818,6,8,Chelsea,Away,46387,59325,Gaël Kakuta,gael-kakuta,M,True,,,,,,,
+2010-11,1379818,6,8,Chelsea,Away,98439,88821,Josh McEachran,josh-mceachran,M,True,0.0,0.0,10.0,0.0,,,0.0
+2010-11,1379823,7,8,Chelsea,Home,3300,8442,Michael Essien,michael-essien,M,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1379823,7,8,Chelsea,Home,7311,28495,John Obi Mikel,john-obi-mikel,M,False,0.0,0.0,89.0,0.0,,,0.0
+2010-11,1379823,7,8,Chelsea,Home,33110,53392,Ramires,ramires,M,False,0.0,0.0,83.0,0.0,,,0.0
+2010-11,1379823,7,8,Chelsea,Home,46387,59325,Gaël Kakuta,gael-kakuta,M,True,,,,,,,
+2010-11,1379823,7,8,Chelsea,Home,98439,88821,Josh McEachran,josh-mceachran,M,True,,,,,,,
+2010-11,1379833,8,8,Chelsea,Away,3300,8442,Michael Essien,michael-essien,M,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1379833,8,8,Chelsea,Away,7311,28495,John Obi Mikel,john-obi-mikel,M,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1379833,8,8,Chelsea,Away,33110,53392,Ramires,ramires,M,False,0.0,0.0,76.0,0.0,,,0.0
+2010-11,1379833,8,8,Chelsea,Away,46387,59325,Gaël Kakuta,gael-kakuta,M,False,0.0,0.0,46.0,0.0,,,0.0
+2010-11,1379833,8,8,Chelsea,Away,50877,42559,Jacob Mellis,jacob-mellis,M,True,,,,,,,
+2010-11,1379833,8,8,Chelsea,Away,98439,88821,Josh McEachran,josh-mceachran,M,True,0.0,0.0,14.0,0.0,,,0.0
+2010-11,1379843,9,8,Chelsea,Home,3300,8442,Michael Essien,michael-essien,M,False,1.0,0.0,90.0,0.0,,,0.0
+2010-11,1379843,9,8,Chelsea,Home,7311,28495,John Obi Mikel,john-obi-mikel,M,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1379843,9,8,Chelsea,Home,10086,37352,Salomon Kalou,salomon-kalou,M,True,0.0,1.0,18.0,0.0,,,0.0
+2010-11,1379843,9,8,Chelsea,Home,46387,59325,Gaël Kakuta,gael-kakuta,M,True,,,,,,,
+2010-11,1379843,9,8,Chelsea,Home,98439,88821,Josh McEachran,josh-mceachran,M,True,0.0,0.0,8.0,0.0,,,0.0
+2010-11,1379854,10,8,Chelsea,Away,3300,8442,Michael Essien,michael-essien,M,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1379854,10,8,Chelsea,Away,7311,28495,John Obi Mikel,john-obi-mikel,M,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1379854,10,8,Chelsea,Away,10086,37352,Salomon Kalou,salomon-kalou,M,True,,,,,,,
+2010-11,1379854,10,8,Chelsea,Away,46387,59325,Gaël Kakuta,gael-kakuta,M,True,,,,,,,
+2010-11,1379854,10,8,Chelsea,Away,98439,88821,Josh McEachran,josh-mceachran,M,True,,,,,,,
+2010-11,1379868,11,8,Chelsea,Away,7311,28495,John Obi Mikel,john-obi-mikel,M,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1379868,11,8,Chelsea,Away,10086,37352,Salomon Kalou,salomon-kalou,M,False,0.0,0.0,46.0,0.0,,,0.0
+2010-11,1379868,11,8,Chelsea,Away,33110,53392,Ramires,ramires,M,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1379868,11,8,Chelsea,Away,46387,59325,Gaël Kakuta,gael-kakuta,M,True,,,,,,,
+2010-11,1379868,11,8,Chelsea,Away,98439,88821,Josh McEachran,josh-mceachran,M,True,,,,,,,
+2010-11,1379878,12,8,Chelsea,Home,3300,8442,Michael Essien,michael-essien,M,False,0.0,1.0,90.0,0.0,,,0.0
+2010-11,1379878,12,8,Chelsea,Home,7311,28495,John Obi Mikel,john-obi-mikel,M,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1379878,12,8,Chelsea,Home,10086,37352,Salomon Kalou,salomon-kalou,M,False,1.0,0.0,85.0,0.0,,,0.0
+2010-11,1379878,12,8,Chelsea,Home,33110,53392,Ramires,ramires,M,True,0.0,0.0,13.0,0.0,,,0.0
+2010-11,1379878,12,8,Chelsea,Home,46387,59325,Gaël Kakuta,gael-kakuta,M,True,,,,,,,
+2010-11,1379878,12,8,Chelsea,Home,98439,88821,Josh McEachran,josh-mceachran,M,True,,,,,,,
+2010-11,1379883,13,8,Chelsea,Home,7311,28495,John Obi Mikel,john-obi-mikel,M,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1379883,13,8,Chelsea,Home,10086,37352,Salomon Kalou,salomon-kalou,M,True,0.0,0.0,32.0,0.0,,,0.0
+2010-11,1379883,13,8,Chelsea,Home,33110,53392,Ramires,ramires,M,False,0.0,0.0,69.0,0.0,,,0.0
+2010-11,1379883,13,8,Chelsea,Home,46387,59325,Gaël Kakuta,gael-kakuta,M,True,0.0,0.0,15.0,0.0,,,0.0
+2010-11,1379883,13,8,Chelsea,Home,98439,88821,Josh McEachran,josh-mceachran,M,True,0.0,0.0,21.0,0.0,,,0.0
+2010-11,1379883,13,8,Chelsea,Home,100568,80974,Jacopo Sala,jacopo-sala,M,True,,,,,,,
+2010-11,1379893,14,8,Chelsea,Away,7311,28495,John Obi Mikel,john-obi-mikel,M,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1379893,14,8,Chelsea,Away,10086,37352,Salomon Kalou,salomon-kalou,M,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1379893,14,8,Chelsea,Away,33110,53392,Ramires,ramires,M,False,0.0,0.0,72.0,0.0,,,0.0
+2010-11,1379893,14,8,Chelsea,Away,46387,59325,Gaël Kakuta,gael-kakuta,M,True,,,,,,,
+2010-11,1379893,14,8,Chelsea,Away,98439,88821,Josh McEachran,josh-mceachran,M,True,,,,,,,
+2010-11,1379907,15,8,Chelsea,Away,7311,28495,John Obi Mikel,john-obi-mikel,M,False,0.0,0.0,80.0,0.0,,,0.0
+2010-11,1379907,15,8,Chelsea,Away,10086,37352,Salomon Kalou,salomon-kalou,M,False,0.0,1.0,90.0,0.0,,,0.0
+2010-11,1379907,15,8,Chelsea,Away,33110,53392,Ramires,ramires,M,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1379907,15,8,Chelsea,Away,46387,59325,Gaël Kakuta,gael-kakuta,M,True,,,,,,,
+2010-11,1379907,15,8,Chelsea,Away,98439,88821,Josh McEachran,josh-mceachran,M,True,,,,,,,
+2010-11,1379916,16,8,Chelsea,Home,3300,8442,Michael Essien,michael-essien,M,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1379916,16,8,Chelsea,Home,7311,28495,John Obi Mikel,john-obi-mikel,M,False,0.0,0.0,88.0,0.0,,,0.0
+2010-11,1379916,16,8,Chelsea,Home,10086,37352,Salomon Kalou,salomon-kalou,M,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1379916,16,8,Chelsea,Home,33110,53392,Ramires,ramires,M,True,0.0,0.0,13.0,0.0,,,0.0
+2010-11,1379916,16,8,Chelsea,Home,46387,59325,Gaël Kakuta,gael-kakuta,M,True,,,,,,,
+2010-11,1379916,16,8,Chelsea,Home,98439,88821,Josh McEachran,josh-mceachran,M,True,,,,,,,
+2010-11,1379929,17,8,Chelsea,Away,1216,2051,Frank Lampard,frank-lampard,M,True,0.0,0.0,13.0,0.0,,,0.0
+2010-11,1379929,17,8,Chelsea,Away,3300,8442,Michael Essien,michael-essien,M,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1379929,17,8,Chelsea,Away,7311,28495,John Obi Mikel,john-obi-mikel,M,False,0.0,0.0,46.0,0.0,,,0.0
+2010-11,1379929,17,8,Chelsea,Away,10086,37352,Salomon Kalou,salomon-kalou,M,False,0.0,0.0,68.0,0.0,,,0.0
+2010-11,1379929,17,8,Chelsea,Away,33110,53392,Ramires,ramires,M,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1379929,17,8,Chelsea,Away,98439,88821,Josh McEachran,josh-mceachran,M,True,,,,,,,
+2010-11,1588345,18,8,Chelsea,Home,1216,2051,Frank Lampard,frank-lampard,M,False,0.0,1.0,90.0,0.0,,,0.0
+2010-11,1588345,18,8,Chelsea,Home,3300,8442,Michael Essien,michael-essien,M,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1588345,18,8,Chelsea,Home,10086,37352,Salomon Kalou,salomon-kalou,M,True,,,,,,,
+2010-11,1588345,18,8,Chelsea,Home,33110,53392,Ramires,ramires,M,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1588345,18,8,Chelsea,Home,98439,88821,Josh McEachran,josh-mceachran,M,True,,,,,,,
+2010-11,1379942,19,8,Chelsea,Away,1216,2051,Frank Lampard,frank-lampard,M,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1379942,19,8,Chelsea,Away,3300,8442,Michael Essien,michael-essien,M,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1379942,19,8,Chelsea,Away,7311,28495,John Obi Mikel,john-obi-mikel,M,False,0.0,0.0,46.0,0.0,,,0.0
+2010-11,1379942,19,8,Chelsea,Away,10086,37352,Salomon Kalou,salomon-kalou,M,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1379942,19,8,Chelsea,Away,33110,53392,Ramires,ramires,M,True,0.0,0.0,44.0,0.0,,,0.0
+2010-11,1379942,19,8,Chelsea,Away,46387,59325,Gaël Kakuta,gael-kakuta,M,True,0.0,0.0,34.0,0.0,,,0.0
+2010-11,1379942,19,8,Chelsea,Away,98439,88821,Josh McEachran,josh-mceachran,M,True,,,,,,,
+2010-11,1379953,20,8,Chelsea,Home,1216,2051,Frank Lampard,frank-lampard,M,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1379953,20,8,Chelsea,Home,3300,8442,Michael Essien,michael-essien,M,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1379953,20,8,Chelsea,Home,10086,37352,Salomon Kalou,salomon-kalou,M,True,0.0,0.0,1.0,0.0,,,0.0
+2010-11,1379953,20,8,Chelsea,Home,33110,53392,Ramires,ramires,M,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1379953,20,8,Chelsea,Home,46387,59325,Gaël Kakuta,gael-kakuta,M,True,,,,,,,
+2010-11,1379953,20,8,Chelsea,Home,98439,88821,Josh McEachran,josh-mceachran,M,True,,,,,,,
+2010-11,1379963,21,8,Chelsea,Home,1216,2051,Frank Lampard,frank-lampard,M,False,0.0,1.0,90.0,0.0,,,0.0
+2010-11,1379963,21,8,Chelsea,Home,3300,8442,Michael Essien,michael-essien,M,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1379963,21,8,Chelsea,Home,10086,37352,Salomon Kalou,salomon-kalou,M,True,0.0,0.0,18.0,0.0,,,0.0
+2010-11,1379963,21,8,Chelsea,Home,33110,53392,Ramires,ramires,M,False,0.0,0.0,72.0,0.0,,,0.0
+2010-11,1379963,21,8,Chelsea,Home,50877,42559,Jacob Mellis,jacob-mellis,M,True,,,,,,,
+2010-11,1379963,21,8,Chelsea,Home,98439,88821,Josh McEachran,josh-mceachran,M,True,,,,,,,
+2010-11,1379976,22,8,Chelsea,Away,1216,2051,Frank Lampard,frank-lampard,M,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1379976,22,8,Chelsea,Away,3300,8442,Michael Essien,michael-essien,M,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1379976,22,8,Chelsea,Away,10086,37352,Salomon Kalou,salomon-kalou,M,False,0.0,0.0,66.0,0.0,,,0.0
+2010-11,1379976,22,8,Chelsea,Away,33110,53392,Ramires,ramires,M,False,0.0,0.0,72.0,0.0,,,0.0
+2010-11,1379976,22,8,Chelsea,Away,46387,59325,Gaël Kakuta,gael-kakuta,M,True,0.0,0.0,11.0,0.0,,,0.0
+2010-11,1379976,22,8,Chelsea,Away,98439,88821,Josh McEachran,josh-mceachran,M,True,,,,,,,
+2010-11,1379983,23,8,Chelsea,Home,1216,2051,Frank Lampard,frank-lampard,M,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1379983,23,8,Chelsea,Home,3300,8442,Michael Essien,michael-essien,M,False,0.0,0.0,80.0,0.0,,,0.0
+2010-11,1379983,23,8,Chelsea,Home,7311,28495,John Obi Mikel,john-obi-mikel,M,True,,,,,,,
+2010-11,1379983,23,8,Chelsea,Home,10086,37352,Salomon Kalou,salomon-kalou,M,True,0.0,0.0,11.0,0.0,,,0.0
+2010-11,1379983,23,8,Chelsea,Home,33110,53392,Ramires,ramires,M,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1379983,23,8,Chelsea,Home,98439,88821,Josh McEachran,josh-mceachran,M,True,0.0,0.0,10.0,0.0,,,0.0
+2010-11,1379996,24,8,Chelsea,Away,3300,8442,Michael Essien,michael-essien,M,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1379996,24,8,Chelsea,Away,7311,28495,John Obi Mikel,john-obi-mikel,M,False,0.0,0.0,71.0,0.0,,,0.0
+2010-11,1379996,24,8,Chelsea,Away,10086,37352,Salomon Kalou,salomon-kalou,M,True,0.0,0.0,14.0,0.0,,,0.0
+2010-11,1379996,24,8,Chelsea,Away,33110,53392,Ramires,ramires,M,False,0.0,1.0,76.0,0.0,,,0.0
+2010-11,1379996,24,8,Chelsea,Away,46387,59325,Gaël Kakuta,gael-kakuta,M,True,,,,,,,
+2010-11,1379996,24,8,Chelsea,Away,98439,88821,Josh McEachran,josh-mceachran,M,True,0.0,0.0,19.0,0.0,,,0.0
+2010-11,1380007,25,8,Chelsea,Away,1216,2051,Frank Lampard,frank-lampard,M,False,1.0,1.0,90.0,0.0,,,0.0
+2010-11,1380007,25,8,Chelsea,Away,3300,8442,Michael Essien,michael-essien,M,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1380007,25,8,Chelsea,Away,7311,28495,John Obi Mikel,john-obi-mikel,M,False,0.0,0.0,75.0,0.0,,,0.0
+2010-11,1380007,25,8,Chelsea,Away,10086,37352,Salomon Kalou,salomon-kalou,M,False,0.0,1.0,81.0,0.0,,,0.0
+2010-11,1380007,25,8,Chelsea,Away,33110,53392,Ramires,ramires,M,True,0.0,0.0,15.0,0.0,,,0.0
+2010-11,1380007,25,8,Chelsea,Away,98439,88821,Josh McEachran,josh-mceachran,M,True,,,,,,,
+2010-11,1380007,25,8,Chelsea,Away,100568,80974,Jacopo Sala,jacopo-sala,M,True,,,,,,,
+2010-11,1380013,26,8,Chelsea,Home,1216,2051,Frank Lampard,frank-lampard,M,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1380013,26,8,Chelsea,Home,3300,8442,Michael Essien,michael-essien,M,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1380013,26,8,Chelsea,Home,7311,28495,John Obi Mikel,john-obi-mikel,M,False,0.0,0.0,71.0,0.0,,,0.0
+2010-11,1380013,26,8,Chelsea,Home,10086,37352,Salomon Kalou,salomon-kalou,M,True,0.0,0.0,24.0,0.0,,,0.0
+2010-11,1380013,26,8,Chelsea,Home,98439,88821,Josh McEachran,josh-mceachran,M,True,,,,,,,
+2010-11,1380013,26,8,Chelsea,Home,100568,80974,Jacopo Sala,jacopo-sala,M,True,,,,,,,
+2010-11,1380027,27,8,Chelsea,Away,1216,2051,Frank Lampard,frank-lampard,M,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1380027,27,8,Chelsea,Away,3300,8442,Michael Essien,michael-essien,M,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1380027,27,8,Chelsea,Away,7311,28495,John Obi Mikel,john-obi-mikel,M,True,,,,,,,
+2010-11,1380027,27,8,Chelsea,Away,10086,37352,Salomon Kalou,salomon-kalou,M,True,0.0,0.0,25.0,0.0,,,0.0
+2010-11,1380027,27,8,Chelsea,Away,33110,53392,Ramires,ramires,M,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1380027,27,8,Chelsea,Away,98439,88821,Josh McEachran,josh-mceachran,M,True,,,,,,,
+2010-11,1380027,27,8,Chelsea,Away,100568,80974,Jacopo Sala,jacopo-sala,M,True,,,,,,,
+2010-11,1380033,28,8,Chelsea,Home,1216,2051,Frank Lampard,frank-lampard,M,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1380033,28,8,Chelsea,Home,3300,8442,Michael Essien,michael-essien,M,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1380033,28,8,Chelsea,Home,7311,28495,John Obi Mikel,john-obi-mikel,M,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1380033,28,8,Chelsea,Home,10086,37352,Salomon Kalou,salomon-kalou,M,False,0.0,1.0,67.0,0.0,,,0.0
+2010-11,1380044,29,8,Chelsea,Away,1216,2051,Frank Lampard,frank-lampard,M,False,1.0,2.0,90.0,0.0,,,0.0
+2010-11,1380044,29,8,Chelsea,Away,3300,8442,Michael Essien,michael-essien,M,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1380044,29,8,Chelsea,Away,10086,37352,Salomon Kalou,salomon-kalou,M,True,1.0,0.0,35.0,0.0,,,0.0
+2010-11,1380044,29,8,Chelsea,Away,33110,53392,Ramires,ramires,M,False,0.0,0.0,74.0,0.0,,,0.0
+2010-11,1380044,29,8,Chelsea,Away,98439,88821,Josh McEachran,josh-mceachran,M,True,0.0,0.0,16.0,0.0,,,0.0
+2010-11,1380054,30,8,Chelsea,Home,1216,2051,Frank Lampard,frank-lampard,M,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1380054,30,8,Chelsea,Home,3300,8442,Michael Essien,michael-essien,M,False,1.0,0.0,90.0,0.0,,,0.0
+2010-11,1380054,30,8,Chelsea,Home,7311,28495,John Obi Mikel,john-obi-mikel,M,True,,,,,,,
+2010-11,1380054,30,8,Chelsea,Home,10086,37352,Salomon Kalou,salomon-kalou,M,False,0.0,0.0,77.0,0.0,,,0.0
+2010-11,1380054,30,8,Chelsea,Home,33110,53392,Ramires,ramires,M,False,0.0,1.0,90.0,0.0,,,0.0
+2010-11,1380068,31,8,Chelsea,Away,1216,2051,Frank Lampard,frank-lampard,M,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1380068,31,8,Chelsea,Away,3300,8442,Michael Essien,michael-essien,M,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1380068,31,8,Chelsea,Away,7311,28495,John Obi Mikel,john-obi-mikel,M,True,,,,,,,
+2010-11,1380068,31,8,Chelsea,Away,10086,37352,Salomon Kalou,salomon-kalou,M,True,0.0,0.0,29.0,0.0,,,0.0
+2010-11,1380068,31,8,Chelsea,Away,33110,53392,Ramires,ramires,M,False,0.0,0.0,61.0,0.0,,,0.0
+2010-11,1380076,32,8,Chelsea,Home,1216,2051,Frank Lampard,frank-lampard,M,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1380076,32,8,Chelsea,Home,3300,8442,Michael Essien,michael-essien,M,True,,,,,,,
+2010-11,1380076,32,8,Chelsea,Home,7311,28495,John Obi Mikel,john-obi-mikel,M,False,0.0,0.0,46.0,0.0,,,0.0
+2010-11,1380076,32,8,Chelsea,Home,33110,53392,Ramires,ramires,M,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1380089,33,8,Chelsea,Away,1216,2051,Frank Lampard,frank-lampard,M,False,0.0,1.0,77.0,0.0,,,0.0
+2010-11,1380089,33,8,Chelsea,Away,3300,8442,Michael Essien,michael-essien,M,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1380089,33,8,Chelsea,Away,7311,28495,John Obi Mikel,john-obi-mikel,M,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1380089,33,8,Chelsea,Away,10086,37352,Salomon Kalou,salomon-kalou,M,False,0.0,1.0,90.0,0.0,,,0.0
+2010-11,1380096,34,8,Chelsea,Home,1216,2051,Frank Lampard,frank-lampard,M,False,0.0,1.0,90.0,0.0,,,0.0
+2010-11,1380096,34,8,Chelsea,Home,3300,8442,Michael Essien,michael-essien,M,False,0.0,0.0,56.0,0.0,,,0.0
+2010-11,1380096,34,8,Chelsea,Home,7311,28495,John Obi Mikel,john-obi-mikel,M,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1380096,34,8,Chelsea,Home,10086,37352,Salomon Kalou,salomon-kalou,M,False,0.0,0.0,70.0,0.0,,,0.0
+2010-11,1380106,35,8,Chelsea,Home,1216,2051,Frank Lampard,frank-lampard,M,False,0.0,1.0,90.0,0.0,,,0.0
+2010-11,1380106,35,8,Chelsea,Home,3300,8442,Michael Essien,michael-essien,M,False,0.0,0.0,57.0,0.0,,,0.0
+2010-11,1380106,35,8,Chelsea,Home,7311,28495,John Obi Mikel,john-obi-mikel,M,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1380106,35,8,Chelsea,Home,10086,37352,Salomon Kalou,salomon-kalou,M,True,0.0,1.0,28.0,0.0,,,0.0
+2010-11,1380106,35,8,Chelsea,Home,33110,53392,Ramires,ramires,M,True,0.0,0.0,33.0,0.0,,,0.0
+2010-11,1380116,36,8,Chelsea,Away,1216,2051,Frank Lampard,frank-lampard,M,False,0.0,1.0,90.0,0.0,,,0.0
+2010-11,1380116,36,8,Chelsea,Away,3300,8442,Michael Essien,michael-essien,M,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1380116,36,8,Chelsea,Away,7311,28495,John Obi Mikel,john-obi-mikel,M,False,0.0,0.0,46.0,0.0,,,0.0
+2010-11,1380116,36,8,Chelsea,Away,10086,37352,Salomon Kalou,salomon-kalou,M,False,0.0,0.0,61.0,0.0,,,0.0
+2010-11,1380116,36,8,Chelsea,Away,33110,53392,Ramires,ramires,M,True,0.0,0.0,44.0,0.0,,,0.0
+2010-11,1380126,37,8,Chelsea,Home,1216,2051,Frank Lampard,frank-lampard,M,False,1.0,0.0,90.0,0.0,,,0.0
+2010-11,1380126,37,8,Chelsea,Home,3300,8442,Michael Essien,michael-essien,M,True,0.0,0.0,26.0,0.0,,,0.0
+2010-11,1380126,37,8,Chelsea,Home,7311,28495,John Obi Mikel,john-obi-mikel,M,True,,,,,,,
+2010-11,1380126,37,8,Chelsea,Home,33110,53392,Ramires,ramires,M,False,0.0,0.0,64.0,0.0,,,0.0
+2010-11,1380126,37,8,Chelsea,Home,98439,88821,Josh McEachran,josh-mceachran,M,False,0.0,0.0,64.0,0.0,,,0.0
+2010-11,1380134,38,8,Chelsea,Away,1216,2051,Frank Lampard,frank-lampard,M,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1380134,38,8,Chelsea,Away,3300,8442,Michael Essien,michael-essien,M,False,0.0,0.0,78.0,0.0,,,0.0
+2010-11,1380134,38,8,Chelsea,Away,7311,28495,John Obi Mikel,john-obi-mikel,M,False,0.0,0.0,61.0,0.0,,,0.0
+2010-11,1380134,38,8,Chelsea,Away,10086,37352,Salomon Kalou,salomon-kalou,M,True,0.0,0.0,29.0,0.0,,,0.0
+2010-11,1380134,38,8,Chelsea,Away,98439,88821,Josh McEachran,josh-mceachran,M,True,0.0,0.0,12.0,0.0,,,0.0

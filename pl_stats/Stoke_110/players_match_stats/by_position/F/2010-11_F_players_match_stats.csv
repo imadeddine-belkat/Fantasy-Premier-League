@@ -1,0 +1,134 @@
+season,matchId,gameweek,team_id,team,venue,playerId,pl_code,playerName,slug,position,substitute,goalAssist,goals,minutesPlayed,ownGoals,substitute.1,totalShots
+2010-11,1379603,1,110,Stoke_City,Away,10493,18215,Kenwyne Jones,kenwyne-jones,F,False,0.0,0.0,14.0,0.0,,0.0
+2010-11,1379603,1,110,Stoke_City,Away,10560,10370,Mamady Sidibe,mamady-sidibe,F,True,0.0,0.0,37.0,0.0,,0.0
+2010-11,1379603,1,110,Stoke_City,Away,18169,11721,Ricardo Fuller,ricardo-fuller,F,False,0.0,0.0,90.0,0.0,,0.0
+2010-11,1379610,2,110,Stoke_City,Home,10560,10370,Mamady Sidibe,mamady-sidibe,F,True,0.0,0.0,3.0,0.0,,0.0
+2010-11,1379610,2,110,Stoke_City,Home,18169,11721,Ricardo Fuller,ricardo-fuller,F,False,0.0,1.0,90.0,0.0,,0.0
+2010-11,1379610,2,110,Stoke_City,Home,19524,12813,Jonathan Walters,jonathan-walters,F,False,0.0,0.0,90.0,0.0,,0.0
+2010-11,1379618,3,110,Stoke_City,Away,10493,18215,Kenwyne Jones,kenwyne-jones,F,False,0.0,0.0,68.0,0.0,,0.0
+2010-11,1379618,3,110,Stoke_City,Away,18169,11721,Ricardo Fuller,ricardo-fuller,F,True,0.0,0.0,22.0,0.0,,0.0
+2010-11,1379618,3,110,Stoke_City,Away,19524,12813,Jonathan Walters,jonathan-walters,F,False,0.0,0.0,90.0,0.0,,0.0
+2010-11,1379798,4,110,Stoke_City,Home,1223,1310,Eiður Smári Gudjohnsen,eidur-smari-gudjohnsen,F,True,,,,,,
+2010-11,1379798,4,110,Stoke_City,Home,10493,18215,Kenwyne Jones,kenwyne-jones,F,False,0.0,1.0,90.0,0.0,,0.0
+2010-11,1379798,4,110,Stoke_City,Home,18169,11721,Ricardo Fuller,ricardo-fuller,F,True,0.0,0.0,29.0,0.0,,0.0
+2010-11,1379798,4,110,Stoke_City,Home,19524,12813,Jonathan Walters,jonathan-walters,F,False,0.0,0.0,61.0,0.0,,0.0
+2010-11,1379807,5,110,Stoke_City,Home,1223,1310,Eiður Smári Gudjohnsen,eidur-smari-gudjohnsen,F,True,0.0,0.0,18.0,0.0,,0.0
+2010-11,1379807,5,110,Stoke_City,Home,10493,18215,Kenwyne Jones,kenwyne-jones,F,False,0.0,1.0,72.0,0.0,,0.0
+2010-11,1379807,5,110,Stoke_City,Home,18169,11721,Ricardo Fuller,ricardo-fuller,F,True,0.0,0.0,24.0,0.0,,0.0
+2010-11,1379807,5,110,Stoke_City,Home,19524,12813,Jonathan Walters,jonathan-walters,F,False,0.0,0.0,66.0,0.0,,0.0
+2010-11,1379819,6,110,Stoke_City,Away,1223,1310,Eiður Smári Gudjohnsen,eidur-smari-gudjohnsen,F,True,0.0,0.0,23.0,0.0,,0.0
+2010-11,1379819,6,110,Stoke_City,Away,10493,18215,Kenwyne Jones,kenwyne-jones,F,False,0.0,1.0,90.0,0.0,,0.0
+2010-11,1379819,6,110,Stoke_City,Away,18169,11721,Ricardo Fuller,ricardo-fuller,F,True,0.0,0.0,18.0,0.0,,0.0
+2010-11,1379819,6,110,Stoke_City,Away,19524,12813,Jonathan Walters,jonathan-walters,F,False,0.0,0.0,90.0,0.0,,0.0
+2010-11,1379826,7,110,Stoke_City,Home,1223,1310,Eiður Smári Gudjohnsen,eidur-smari-gudjohnsen,F,True,,,,,,
+2010-11,1379826,7,110,Stoke_City,Home,10493,18215,Kenwyne Jones,kenwyne-jones,F,False,0.0,0.0,90.0,0.0,,0.0
+2010-11,1379826,7,110,Stoke_City,Home,18169,11721,Ricardo Fuller,ricardo-fuller,F,True,0.0,0.0,13.0,0.0,,0.0
+2010-11,1379826,7,110,Stoke_City,Home,19524,12813,Jonathan Walters,jonathan-walters,F,False,0.0,1.0,90.0,0.0,,0.0
+2010-11,1379836,8,110,Stoke_City,Away,1223,1310,Eiður Smári Gudjohnsen,eidur-smari-gudjohnsen,F,True,0.0,0.0,13.0,0.0,,0.0
+2010-11,1379836,8,110,Stoke_City,Away,10493,18215,Kenwyne Jones,kenwyne-jones,F,False,0.0,0.0,90.0,0.0,,0.0
+2010-11,1379836,8,110,Stoke_City,Away,18169,11721,Ricardo Fuller,ricardo-fuller,F,True,0.0,0.0,10.0,0.0,,0.0
+2010-11,1379836,8,110,Stoke_City,Away,19524,12813,Jonathan Walters,jonathan-walters,F,False,0.0,0.0,86.0,0.0,,0.0
+2010-11,1379846,9,110,Stoke_City,Home,1223,1310,Eiður Smári Gudjohnsen,eidur-smari-gudjohnsen,F,True,0.0,0.0,11.0,0.0,,0.0
+2010-11,1379846,9,110,Stoke_City,Home,10493,18215,Kenwyne Jones,kenwyne-jones,F,False,0.0,0.0,90.0,0.0,,0.0
+2010-11,1379846,9,110,Stoke_City,Home,19524,12813,Jonathan Walters,jonathan-walters,F,False,0.0,0.0,66.0,0.0,,0.0
+2010-11,1379857,10,110,Stoke_City,Away,1223,1310,Eiður Smári Gudjohnsen,eidur-smari-gudjohnsen,F,True,,,,,,
+2010-11,1379857,10,110,Stoke_City,Away,10493,18215,Kenwyne Jones,kenwyne-jones,F,False,0.0,0.0,90.0,0.0,,0.0
+2010-11,1379857,10,110,Stoke_City,Away,19524,12813,Jonathan Walters,jonathan-walters,F,False,0.0,0.0,73.0,0.0,,0.0
+2010-11,1379870,11,110,Stoke_City,Away,10493,18215,Kenwyne Jones,kenwyne-jones,F,False,0.0,0.0,90.0,0.0,,0.0
+2010-11,1379870,11,110,Stoke_City,Away,18169,11721,Ricardo Fuller,ricardo-fuller,F,True,0.0,0.0,32.0,0.0,,0.0
+2010-11,1379870,11,110,Stoke_City,Away,19524,12813,Jonathan Walters,jonathan-walters,F,False,0.0,0.0,58.0,0.0,,0.0
+2010-11,1379872,12,110,Stoke_City,Home,1223,1310,Eiður Smári Gudjohnsen,eidur-smari-gudjohnsen,F,True,,,,,,
+2010-11,1379872,12,110,Stoke_City,Home,10493,18215,Kenwyne Jones,kenwyne-jones,F,False,0.0,0.0,90.0,0.0,,0.0
+2010-11,1379872,12,110,Stoke_City,Home,18169,11721,Ricardo Fuller,ricardo-fuller,F,False,1.0,1.0,90.0,0.0,,0.0
+2010-11,1379872,12,110,Stoke_City,Home,19524,12813,Jonathan Walters,jonathan-walters,F,True,0.0,0.0,1.0,0.0,,0.0
+2010-11,1379887,13,110,Stoke_City,Home,1223,1310,Eiður Smári Gudjohnsen,eidur-smari-gudjohnsen,F,True,,,,,,
+2010-11,1379887,13,110,Stoke_City,Home,10493,18215,Kenwyne Jones,kenwyne-jones,F,False,0.0,1.0,90.0,0.0,,0.0
+2010-11,1379887,13,110,Stoke_City,Home,18169,11721,Ricardo Fuller,ricardo-fuller,F,False,0.0,1.0,87.0,0.0,,0.0
+2010-11,1379887,13,110,Stoke_City,Home,19524,12813,Jonathan Walters,jonathan-walters,F,True,0.0,0.0,3.0,0.0,,0.0
+2010-11,1379901,14,110,Stoke_City,Away,1223,1310,Eiður Smári Gudjohnsen,eidur-smari-gudjohnsen,F,True,,,,,,
+2010-11,1379901,14,110,Stoke_City,Away,10493,18215,Kenwyne Jones,kenwyne-jones,F,False,0.0,0.0,90.0,0.0,,0.0
+2010-11,1379901,14,110,Stoke_City,Away,18169,11721,Ricardo Fuller,ricardo-fuller,F,False,0.0,0.0,83.0,0.0,,0.0
+2010-11,1379901,14,110,Stoke_City,Away,19524,12813,Jonathan Walters,jonathan-walters,F,True,0.0,2.0,11.0,0.0,,0.0
+2010-11,1379908,15,110,Stoke_City,Home,1223,1310,Eiður Smári Gudjohnsen,eidur-smari-gudjohnsen,F,True,,,,,,
+2010-11,1379908,15,110,Stoke_City,Home,10493,18215,Kenwyne Jones,kenwyne-jones,F,False,0.0,0.0,90.0,0.0,,0.0
+2010-11,1379908,15,110,Stoke_City,Home,18169,11721,Ricardo Fuller,ricardo-fuller,F,False,0.0,0.0,75.0,0.0,,0.0
+2010-11,1379908,15,110,Stoke_City,Home,19524,12813,Jonathan Walters,jonathan-walters,F,True,0.0,0.0,15.0,0.0,,0.0
+2010-11,1379921,16,110,Stoke_City,Away,1223,1310,Eiður Smári Gudjohnsen,eidur-smari-gudjohnsen,F,True,,,,,,
+2010-11,1379921,16,110,Stoke_City,Away,10493,18215,Kenwyne Jones,kenwyne-jones,F,False,0.0,0.0,90.0,0.0,,0.0
+2010-11,1379921,16,110,Stoke_City,Away,18169,11721,Ricardo Fuller,ricardo-fuller,F,False,1.0,0.0,84.0,0.0,,0.0
+2010-11,1379921,16,110,Stoke_City,Away,19524,12813,Jonathan Walters,jonathan-walters,F,False,0.0,0.0,70.0,0.0,,0.0
+2010-11,1379928,17,110,Stoke_City,Home,1223,1310,Eiður Smári Gudjohnsen,eidur-smari-gudjohnsen,F,True,,,,,,
+2010-11,1379928,17,110,Stoke_City,Home,10493,18215,Kenwyne Jones,kenwyne-jones,F,False,0.0,0.0,70.0,0.0,,0.0
+2010-11,1379928,17,110,Stoke_City,Home,18169,11721,Ricardo Fuller,ricardo-fuller,F,False,0.0,0.0,90.0,0.0,,0.0
+2010-11,1379928,17,110,Stoke_City,Home,19524,12813,Jonathan Walters,jonathan-walters,F,True,0.0,0.0,20.0,0.0,,0.0
+2010-11,1588346,18,110,Stoke_City,Away,9415,4101,John Carew,john-carew,F,False,0.0,0.0,90.0,0.0,,0.0
+2010-11,1588346,18,110,Stoke_City,Away,10493,18215,Kenwyne Jones,kenwyne-jones,F,True,,,,,,
+2010-11,1588346,18,110,Stoke_City,Away,18169,11721,Ricardo Fuller,ricardo-fuller,F,True,0.0,0.0,12.0,0.0,,0.0
+2010-11,1588346,18,110,Stoke_City,Away,19524,12813,Jonathan Walters,jonathan-walters,F,False,0.0,0.0,78.0,0.0,,0.0
+2010-11,1379944,19,110,Stoke_City,Away,1223,1310,Eiður Smári Gudjohnsen,eidur-smari-gudjohnsen,F,True,,,,,,
+2010-11,1379944,19,110,Stoke_City,Away,10493,18215,Kenwyne Jones,kenwyne-jones,F,False,0.0,0.0,89.0,0.0,,0.0
+2010-11,1379944,19,110,Stoke_City,Away,18169,11721,Ricardo Fuller,ricardo-fuller,F,True,1.0,0.0,6.0,0.0,,0.0
+2010-11,1379944,19,110,Stoke_City,Away,19524,12813,Jonathan Walters,jonathan-walters,F,False,0.0,0.0,90.0,0.0,,0.0
+2010-11,1379956,20,110,Stoke_City,Home,1223,1310,Eiður Smári Gudjohnsen,eidur-smari-gudjohnsen,F,True,,,,,,
+2010-11,1379956,20,110,Stoke_City,Home,10493,18215,Kenwyne Jones,kenwyne-jones,F,False,0.0,0.0,90.0,0.0,,0.0
+2010-11,1379956,20,110,Stoke_City,Home,18169,11721,Ricardo Fuller,ricardo-fuller,F,True,0.0,0.0,35.0,0.0,,0.0
+2010-11,1379956,20,110,Stoke_City,Home,19524,12813,Jonathan Walters,jonathan-walters,F,False,0.0,0.0,55.0,0.0,,0.0
+2010-11,1379966,21,110,Stoke_City,Home,1223,1310,Eiður Smári Gudjohnsen,eidur-smari-gudjohnsen,F,True,,,,,,
+2010-11,1379966,21,110,Stoke_City,Home,10493,18215,Kenwyne Jones,kenwyne-jones,F,False,0.0,1.0,90.0,0.0,,0.0
+2010-11,1379966,21,110,Stoke_City,Home,18169,11721,Ricardo Fuller,ricardo-fuller,F,False,0.0,0.0,84.0,0.0,,0.0
+2010-11,1379966,21,110,Stoke_City,Home,19524,12813,Jonathan Walters,jonathan-walters,F,True,0.0,0.0,6.0,0.0,,0.0
+2010-11,1379975,22,110,Stoke_City,Away,10493,18215,Kenwyne Jones,kenwyne-jones,F,False,0.0,0.0,75.0,0.0,,0.0
+2010-11,1379975,22,110,Stoke_City,Away,18169,11721,Ricardo Fuller,ricardo-fuller,F,True,0.0,0.0,15.0,0.0,,0.0
+2010-11,1379975,22,110,Stoke_City,Away,19524,12813,Jonathan Walters,jonathan-walters,F,True,0.0,0.0,21.0,0.0,,0.0
+2010-11,1379986,23,110,Stoke_City,Home,10493,18215,Kenwyne Jones,kenwyne-jones,F,False,0.0,0.0,81.0,0.0,,0.0
+2010-11,1379986,23,110,Stoke_City,Home,19524,12813,Jonathan Walters,jonathan-walters,F,True,0.0,0.0,9.0,0.0,,0.0
+2010-11,1379998,24,110,Stoke_City,Away,9415,4101,John Carew,john-carew,F,True,0.0,0.0,32.0,0.0,,0.0
+2010-11,1379998,24,110,Stoke_City,Away,10493,18215,Kenwyne Jones,kenwyne-jones,F,False,0.0,0.0,90.0,0.0,,0.0
+2010-11,1379998,24,110,Stoke_City,Away,18169,11721,Ricardo Fuller,ricardo-fuller,F,True,,,,,,
+2010-11,1379998,24,110,Stoke_City,Away,19524,12813,Jonathan Walters,jonathan-walters,F,True,,,,,,
+2010-11,1380011,25,110,Stoke_City,Away,9415,4101,John Carew,john-carew,F,False,0.0,0.0,90.0,0.0,,0.0
+2010-11,1380011,25,110,Stoke_City,Away,10493,18215,Kenwyne Jones,kenwyne-jones,F,True,,,,,,
+2010-11,1380011,25,110,Stoke_City,Away,18169,11721,Ricardo Fuller,ricardo-fuller,F,True,0.0,0.0,24.0,0.0,,0.0
+2010-11,1380011,25,110,Stoke_City,Away,19524,12813,Jonathan Walters,jonathan-walters,F,False,0.0,0.0,90.0,0.0,,0.0
+2010-11,1380017,26,110,Stoke_City,Home,9415,4101,John Carew,john-carew,F,False,1.0,1.0,90.0,0.0,,0.0
+2010-11,1380017,26,110,Stoke_City,Home,10493,18215,Kenwyne Jones,kenwyne-jones,F,False,0.0,0.0,90.0,0.0,,0.0
+2010-11,1380017,26,110,Stoke_City,Home,19524,12813,Jonathan Walters,jonathan-walters,F,True,0.0,0.0,24.0,0.0,,0.0
+2010-11,1380023,27,110,Stoke_City,Away,9415,4101,John Carew,john-carew,F,False,0.0,0.0,90.0,0.0,,0.0
+2010-11,1380023,27,110,Stoke_City,Away,10493,18215,Kenwyne Jones,kenwyne-jones,F,False,0.0,0.0,81.0,0.0,,0.0
+2010-11,1380023,27,110,Stoke_City,Away,18169,11721,Ricardo Fuller,ricardo-fuller,F,True,0.0,0.0,9.0,0.0,,0.0
+2010-11,1380023,27,110,Stoke_City,Away,19524,12813,Jonathan Walters,jonathan-walters,F,False,0.0,0.0,90.0,0.0,,0.0
+2010-11,1380037,28,110,Stoke_City,Home,9415,4101,John Carew,john-carew,F,False,0.0,0.0,65.0,0.0,,0.0
+2010-11,1380037,28,110,Stoke_City,Home,10493,18215,Kenwyne Jones,kenwyne-jones,F,False,0.0,0.0,82.0,0.0,,0.0
+2010-11,1380037,28,110,Stoke_City,Home,18169,11721,Ricardo Fuller,ricardo-fuller,F,True,0.0,0.0,8.0,0.0,,0.0
+2010-11,1380037,28,110,Stoke_City,Home,19524,12813,Jonathan Walters,jonathan-walters,F,False,0.0,0.0,90.0,0.0,,0.0
+2010-11,1380050,29,110,Stoke_City,Away,9415,4101,John Carew,john-carew,F,False,0.0,0.0,65.0,0.0,,0.0
+2010-11,1380050,29,110,Stoke_City,Away,10493,18215,Kenwyne Jones,kenwyne-jones,F,True,0.0,0.0,22.0,0.0,,0.0
+2010-11,1380050,29,110,Stoke_City,Away,18169,11721,Ricardo Fuller,ricardo-fuller,F,True,0.0,0.0,25.0,0.0,,0.0
+2010-11,1380050,29,110,Stoke_City,Away,19524,12813,Jonathan Walters,jonathan-walters,F,False,0.0,0.0,90.0,0.0,,0.0
+2010-11,1380057,30,110,Stoke_City,Home,10493,18215,Kenwyne Jones,kenwyne-jones,F,False,0.0,0.0,88.0,0.0,,0.0
+2010-11,1380057,30,110,Stoke_City,Home,18169,11721,Ricardo Fuller,ricardo-fuller,F,True,0.0,1.0,2.0,0.0,,0.0
+2010-11,1380057,30,110,Stoke_City,Home,19524,12813,Jonathan Walters,jonathan-walters,F,False,1.0,1.0,90.0,0.0,,0.0
+2010-11,1380068,31,110,Stoke_City,Home,10493,18215,Kenwyne Jones,kenwyne-jones,F,False,0.0,0.0,90.0,0.0,,0.0
+2010-11,1380068,31,110,Stoke_City,Home,18169,11721,Ricardo Fuller,ricardo-fuller,F,True,0.0,0.0,1.0,0.0,,0.0
+2010-11,1380068,31,110,Stoke_City,Home,19524,12813,Jonathan Walters,jonathan-walters,F,False,0.0,1.0,90.0,0.0,,0.0
+2010-11,1380080,32,110,Stoke_City,Away,10493,18215,Kenwyne Jones,kenwyne-jones,F,False,0.0,1.0,90.0,0.0,,0.0
+2010-11,1380080,32,110,Stoke_City,Away,18169,11721,Ricardo Fuller,ricardo-fuller,F,True,0.0,0.0,14.0,0.0,,0.0
+2010-11,1380080,32,110,Stoke_City,Away,19524,12813,Jonathan Walters,jonathan-walters,F,False,0.0,0.0,90.0,0.0,,0.0
+2010-11,1380088,33,110,Stoke_City,Home,9415,4101,John Carew,john-carew,F,True,,,,,,
+2010-11,1380088,33,110,Stoke_City,Home,10493,18215,Kenwyne Jones,kenwyne-jones,F,False,0.0,1.0,90.0,0.0,,0.0
+2010-11,1380088,33,110,Stoke_City,Home,19524,12813,Jonathan Walters,jonathan-walters,F,False,1.0,0.0,90.0,0.0,,0.0
+2010-11,1380092,34,110,Stoke_City,Away,10493,18215,Kenwyne Jones,kenwyne-jones,F,False,0.0,1.0,88.0,0.0,,0.0
+2010-11,1380092,34,110,Stoke_City,Away,18169,11721,Ricardo Fuller,ricardo-fuller,F,True,0.0,0.0,15.0,0.0,,0.0
+2010-11,1380092,34,110,Stoke_City,Away,19524,12813,Jonathan Walters,jonathan-walters,F,False,0.0,0.0,90.0,0.0,,0.0
+2010-11,1380105,35,110,Stoke_City,Away,9415,4101,John Carew,john-carew,F,True,0.0,0.0,9.0,0.0,,0.0
+2010-11,1380105,35,110,Stoke_City,Away,10493,18215,Kenwyne Jones,kenwyne-jones,F,False,0.0,0.0,90.0,0.0,,0.0
+2010-11,1380105,35,110,Stoke_City,Away,19524,12813,Jonathan Walters,jonathan-walters,F,False,0.0,0.0,90.0,0.0,,0.0
+2010-11,1380118,36,110,Stoke_City,Home,9415,4101,John Carew,john-carew,F,True,,,,,,
+2010-11,1380118,36,110,Stoke_City,Home,10493,18215,Kenwyne Jones,kenwyne-jones,F,False,0.0,1.0,84.0,0.0,,0.0
+2010-11,1380118,36,110,Stoke_City,Home,19524,12813,Jonathan Walters,jonathan-walters,F,False,0.0,1.0,90.0,0.0,,0.0
+2010-11,1380128,37,110,Stoke_City,Away,9415,4101,John Carew,john-carew,F,False,0.0,0.0,72.0,0.0,,0.0
+2010-11,1380128,37,110,Stoke_City,Away,10493,18215,Kenwyne Jones,kenwyne-jones,F,True,,,,,,
+2010-11,1380128,37,110,Stoke_City,Away,19524,12813,Jonathan Walters,jonathan-walters,F,False,0.0,0.0,90.0,0.0,,0.0
+2010-11,1380138,38,110,Stoke_City,Home,9415,4101,John Carew,john-carew,F,True,0.0,0.0,12.0,0.0,,0.0
+2010-11,1380138,38,110,Stoke_City,Home,10493,18215,Kenwyne Jones,kenwyne-jones,F,False,0.0,0.0,78.0,0.0,,0.0
+2010-11,1380138,38,110,Stoke_City,Home,19524,12813,Jonathan Walters,jonathan-walters,F,False,0.0,0.0,90.0,0.0,,0.0

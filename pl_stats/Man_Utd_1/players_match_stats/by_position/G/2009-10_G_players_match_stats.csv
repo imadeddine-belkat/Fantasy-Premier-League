@@ -1,0 +1,76 @@
+season,matchId,gameweek,team_id,team,venue,playerId,pl_code,playerName,slug,position,substitute,goalAssist,goals,minutesPlayed,ownGoals,penaltyMiss,substitute.1,totalShots
+2009-10,1062469,1,1,Manchester_United,Home,1054,10135,Tomasz Kuszczak,tomasz-kuszczak,G,True,,,,,,,
+2009-10,1062469,1,1,Manchester_United,Home,10599,9089,Ben Foster,ben-foster,G,False,0.0,0.0,90.0,0.0,,,0.0
+2009-10,1062476,2,1,Manchester_United,Away,1054,10135,Tomasz Kuszczak,tomasz-kuszczak,G,True,,,,,,,
+2009-10,1062476,2,1,Manchester_United,Away,10599,9089,Ben Foster,ben-foster,G,False,0.0,0.0,90.0,0.0,,,0.0
+2009-10,1062493,3,1,Manchester_United,Away,1054,10135,Tomasz Kuszczak,tomasz-kuszczak,G,True,,,,,,,
+2009-10,1062493,3,1,Manchester_United,Away,10599,9089,Ben Foster,ben-foster,G,False,0.0,0.0,90.0,0.0,,,0.0
+2009-10,1062499,4,1,Manchester_United,Home,1054,10135,Tomasz Kuszczak,tomasz-kuszczak,G,True,,,,,,,
+2009-10,1062499,4,1,Manchester_United,Home,10599,9089,Ben Foster,ben-foster,G,False,0.0,0.0,90.0,0.0,,,0.0
+2009-10,1062512,5,1,Manchester_United,Away,1054,10135,Tomasz Kuszczak,tomasz-kuszczak,G,True,,,,,,,
+2009-10,1062512,5,1,Manchester_United,Away,10599,9089,Ben Foster,ben-foster,G,False,0.0,0.0,90.0,0.0,,,0.0
+2009-10,1062521,6,1,Manchester_United,Home,1054,10135,Tomasz Kuszczak,tomasz-kuszczak,G,True,,,,,,,
+2009-10,1062521,6,1,Manchester_United,Home,10599,9089,Ben Foster,ben-foster,G,False,0.0,0.0,90.0,0.0,,,0.0
+2009-10,1062530,7,1,Manchester_United,Away,1054,10135,Tomasz Kuszczak,tomasz-kuszczak,G,True,,,,,,,
+2009-10,1062530,7,1,Manchester_United,Away,10599,9089,Ben Foster,ben-foster,G,False,0.0,0.0,90.0,0.0,,,0.0
+2009-10,1062541,8,1,Manchester_United,Home,1054,10135,Tomasz Kuszczak,tomasz-kuszczak,G,True,,,,,,,
+2009-10,1062541,8,1,Manchester_United,Home,10599,9089,Ben Foster,ben-foster,G,False,0.0,0.0,90.0,0.0,,,0.0
+2009-10,1062549,9,1,Manchester_United,Home,661,4058,Edwin van der Sar,edwin-van-der-sar,G,False,0.0,0.0,90.0,0.0,,,0.0
+2009-10,1062549,9,1,Manchester_United,Home,1054,10135,Tomasz Kuszczak,tomasz-kuszczak,G,True,,,,,,,
+2009-10,1062559,10,1,Manchester_United,Away,661,4058,Edwin van der Sar,edwin-van-der-sar,G,False,0.0,0.0,90.0,0.0,,,0.0
+2009-10,1062559,10,1,Manchester_United,Away,10599,9089,Ben Foster,ben-foster,G,True,,,,,,,
+2009-10,1062570,11,1,Manchester_United,Home,661,4058,Edwin van der Sar,edwin-van-der-sar,G,False,0.0,0.0,90.0,0.0,,,0.0
+2009-10,1062570,11,1,Manchester_United,Home,1054,10135,Tomasz Kuszczak,tomasz-kuszczak,G,True,,,,,,,
+2009-10,1062576,12,1,Manchester_United,Away,661,4058,Edwin van der Sar,edwin-van-der-sar,G,False,0.0,0.0,90.0,0.0,,,0.0
+2009-10,1062576,12,1,Manchester_United,Away,1054,10135,Tomasz Kuszczak,tomasz-kuszczak,G,True,,,,,,,
+2009-10,1062590,13,1,Manchester_United,Home,661,4058,Edwin van der Sar,edwin-van-der-sar,G,False,0.0,0.0,90.0,0.0,,,0.0
+2009-10,1062590,13,1,Manchester_United,Home,1054,10135,Tomasz Kuszczak,tomasz-kuszczak,G,True,,,,,,,
+2009-10,1062600,14,1,Manchester_United,Away,1054,10135,Tomasz Kuszczak,tomasz-kuszczak,G,False,0.0,0.0,90.0,0.0,,,0.0
+2009-10,1062600,14,1,Manchester_United,Away,10599,9089,Ben Foster,ben-foster,G,True,,,,,,,
+2009-10,1062611,15,1,Manchester_United,Away,1054,10135,Tomasz Kuszczak,tomasz-kuszczak,G,False,0.0,0.0,90.0,0.0,,,0.0
+2009-10,1062611,15,1,Manchester_United,Away,10599,9089,Ben Foster,ben-foster,G,True,,,,,,,
+2009-10,1062620,16,1,Manchester_United,Home,1054,10135,Tomasz Kuszczak,tomasz-kuszczak,G,False,0.0,0.0,90.0,0.0,,,0.0
+2009-10,1062620,16,1,Manchester_United,Home,10599,9089,Ben Foster,ben-foster,G,True,,,,,,,
+2009-10,1062628,17,1,Manchester_United,Home,1054,10135,Tomasz Kuszczak,tomasz-kuszczak,G,False,0.0,0.0,90.0,0.0,,,0.0
+2009-10,1062628,17,1,Manchester_United,Home,10599,9089,Ben Foster,ben-foster,G,True,,,,,,,
+2009-10,1062638,18,1,Manchester_United,Away,1054,10135,Tomasz Kuszczak,tomasz-kuszczak,G,False,0.0,0.0,90.0,0.0,,,0.0
+2009-10,1062638,18,1,Manchester_United,Away,10599,9089,Ben Foster,ben-foster,G,True,,,,,,,
+2009-10,1062648,19,1,Manchester_United,Away,1054,10135,Tomasz Kuszczak,tomasz-kuszczak,G,False,0.0,0.0,90.0,0.0,,,0.0
+2009-10,1062648,19,1,Manchester_United,Away,10599,9089,Ben Foster,ben-foster,G,True,,,,,,,
+2009-10,1062659,20,1,Manchester_United,Home,1054,10135,Tomasz Kuszczak,tomasz-kuszczak,G,False,0.0,0.0,90.0,0.0,,,0.0
+2009-10,1062659,20,1,Manchester_United,Home,42688,51922,Ben Amos,ben-amos,G,True,,,,,,,
+2009-10,1062665,21,1,Manchester_United,Away,1054,10135,Tomasz Kuszczak,tomasz-kuszczak,G,False,0.0,0.0,90.0,0.0,,,0.0
+2009-10,1062665,21,1,Manchester_United,Away,42688,51922,Ben Amos,ben-amos,G,True,,,,,,,
+2009-10,1062679,22,1,Manchester_United,Home,661,4058,Edwin van der Sar,edwin-van-der-sar,G,False,0.0,0.0,90.0,0.0,,,0.0
+2009-10,1062685,23,1,Manchester_United,Home,661,4058,Edwin van der Sar,edwin-van-der-sar,G,False,0.0,0.0,90.0,0.0,,,0.0
+2009-10,1062685,23,1,Manchester_United,Home,1054,10135,Tomasz Kuszczak,tomasz-kuszczak,G,True,,,,,,,
+2009-10,1062694,24,1,Manchester_United,Away,661,4058,Edwin van der Sar,edwin-van-der-sar,G,False,0.0,0.0,90.0,0.0,,,0.0
+2009-10,1062694,24,1,Manchester_United,Away,1054,10135,Tomasz Kuszczak,tomasz-kuszczak,G,True,,,,,,,
+2009-10,1062710,25,1,Manchester_United,Home,661,4058,Edwin van der Sar,edwin-van-der-sar,G,False,0.0,0.0,90.0,0.0,,,0.0
+2009-10,1062710,25,1,Manchester_United,Home,1054,10135,Tomasz Kuszczak,tomasz-kuszczak,G,True,,,,,,,
+2009-10,1062720,26,1,Manchester_United,Away,661,4058,Edwin van der Sar,edwin-van-der-sar,G,False,0.0,0.0,90.0,0.0,,,0.0
+2009-10,1062720,26,1,Manchester_United,Away,10599,9089,Ben Foster,ben-foster,G,True,,,,,,,
+2009-10,1062727,27,1,Manchester_United,Away,661,4058,Edwin van der Sar,edwin-van-der-sar,G,False,0.0,0.0,90.0,0.0,,,0.0
+2009-10,1062727,27,1,Manchester_United,Away,10599,9089,Ben Foster,ben-foster,G,True,,,,,,,
+2009-10,1062740,28,1,Manchester_United,Home,1054,10135,Tomasz Kuszczak,tomasz-kuszczak,G,True,,,,,,,
+2009-10,1062740,28,1,Manchester_United,Home,10599,9089,Ben Foster,ben-foster,G,False,0.0,0.0,90.0,0.0,,,0.0
+2009-10,1062753,29,1,Manchester_United,Away,661,4058,Edwin van der Sar,edwin-van-der-sar,G,False,0.0,0.0,90.0,0.0,,,0.0
+2009-10,1062753,29,1,Manchester_United,Away,10599,9089,Ben Foster,ben-foster,G,True,,,,,,,
+2009-10,1062760,30,1,Manchester_United,Home,661,4058,Edwin van der Sar,edwin-van-der-sar,G,False,0.0,0.0,90.0,0.0,,,0.0
+2009-10,1062760,30,1,Manchester_United,Home,1054,10135,Tomasz Kuszczak,tomasz-kuszczak,G,True,,,,,,,
+2009-10,1062769,31,1,Manchester_United,Home,661,4058,Edwin van der Sar,edwin-van-der-sar,G,False,0.0,0.0,90.0,0.0,,,0.0
+2009-10,1062769,31,1,Manchester_United,Home,1054,10135,Tomasz Kuszczak,tomasz-kuszczak,G,True,,,,,,,
+2009-10,1062775,32,1,Manchester_United,Away,661,4058,Edwin van der Sar,edwin-van-der-sar,G,False,0.0,0.0,90.0,0.0,,,0.0
+2009-10,1062775,32,1,Manchester_United,Away,1054,10135,Tomasz Kuszczak,tomasz-kuszczak,G,True,,,,,,,
+2009-10,1062790,33,1,Manchester_United,Home,661,4058,Edwin van der Sar,edwin-van-der-sar,G,False,0.0,0.0,90.0,0.0,,,0.0
+2009-10,1062790,33,1,Manchester_United,Home,1054,10135,Tomasz Kuszczak,tomasz-kuszczak,G,True,,,,,,,
+2009-10,1062795,34,1,Manchester_United,Away,661,4058,Edwin van der Sar,edwin-van-der-sar,G,False,0.0,0.0,90.0,0.0,,,0.0
+2009-10,1062795,34,1,Manchester_United,Away,1054,10135,Tomasz Kuszczak,tomasz-kuszczak,G,True,,,,,,,
+2009-10,1062808,35,1,Manchester_United,Away,661,4058,Edwin van der Sar,edwin-van-der-sar,G,False,0.0,0.0,90.0,0.0,,,0.0
+2009-10,1062808,35,1,Manchester_United,Away,1054,10135,Tomasz Kuszczak,tomasz-kuszczak,G,True,,,,,,,
+2009-10,1062821,36,1,Manchester_United,Home,661,4058,Edwin van der Sar,edwin-van-der-sar,G,False,0.0,0.0,90.0,0.0,,,0.0
+2009-10,1062821,36,1,Manchester_United,Home,1054,10135,Tomasz Kuszczak,tomasz-kuszczak,G,True,,,,,,,
+2009-10,1062831,37,1,Manchester_United,Away,661,4058,Edwin van der Sar,edwin-van-der-sar,G,False,0.0,0.0,90.0,0.0,,,0.0
+2009-10,1062831,37,1,Manchester_United,Away,10599,9089,Ben Foster,ben-foster,G,True,,,,,,,
+2009-10,1062841,38,1,Manchester_United,Home,661,4058,Edwin van der Sar,edwin-van-der-sar,G,False,0.0,0.0,90.0,0.0,,,0.0
+2009-10,1062841,38,1,Manchester_United,Home,10599,9089,Ben Foster,ben-foster,G,True,,,,,,,

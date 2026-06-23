@@ -1,0 +1,144 @@
+season,matchId,gameweek,team_id,team,venue,playerId,pl_code,playerName,slug,position,substitute,goalAssist,goals,minutesPlayed,ownGoals,penaltyMiss,substitute.1,totalShots
+2009-10,1062473,1,21,West_Ham_United,Away,9644,12799,Carlton Cole,carlton-cole,F,False,0.0,0.0,90.0,0.0,,,0.0
+2009-10,1062473,1,21,West_Ham_United,Away,14357,,Luis Jiménez,luis-jimenez,F,False,0.0,0.0,90.0,0.0,,,0.0
+2009-10,1062473,1,21,West_Ham_United,Away,35710,50113,Zavon Hines,zavon-hines,F,True,,,,,,,
+2009-10,1062473,1,21,West_Ham_United,Away,76498,70755,Frank Nouble,frank-nouble,F,True,0.0,0.0,1.0,0.0,,,0.0
+2009-10,1062480,2,21,West_Ham_United,Home,9644,12799,Carlton Cole,carlton-cole,F,False,0.0,0.0,32.0,0.0,,,0.0
+2009-10,1062480,2,21,West_Ham_United,Home,14357,,Luis Jiménez,luis-jimenez,F,True,0.0,0.0,2.0,0.0,,,0.0
+2009-10,1062480,2,21,West_Ham_United,Home,14915,28608,Guillermo Franco,guillermo-franco,F,False,0.0,0.0,88.0,0.0,,,0.0
+2009-10,1062480,2,21,West_Ham_United,Home,35710,50113,Zavon Hines,zavon-hines,F,True,0.0,1.0,58.0,0.0,,,0.0
+2009-10,1062492,3,21,West_Ham_United,Home,9644,12799,Carlton Cole,carlton-cole,F,False,0.0,1.0,90.0,0.0,,,0.0
+2009-10,1062492,3,21,West_Ham_United,Home,14357,,Luis Jiménez,luis-jimenez,F,False,1.0,0.0,78.0,0.0,,,0.0
+2009-10,1062492,3,21,West_Ham_United,Home,35710,50113,Zavon Hines,zavon-hines,F,True,0.0,0.0,5.0,0.0,,,0.0
+2009-10,1062492,3,21,West_Ham_United,Home,76498,70755,Frank Nouble,frank-nouble,F,True,0.0,0.0,1.0,0.0,,,0.0
+2009-10,1062495,4,21,West_Ham_United,Away,9644,12799,Carlton Cole,carlton-cole,F,False,0.0,0.0,90.0,0.0,,,0.0
+2009-10,1062495,4,21,West_Ham_United,Away,14357,,Luis Jiménez,luis-jimenez,F,False,0.0,0.0,66.0,0.0,,,0.0
+2009-10,1062495,4,21,West_Ham_United,Away,35710,50113,Zavon Hines,zavon-hines,F,True,,,,,,,
+2009-10,1062495,4,21,West_Ham_United,Away,76498,70755,Frank Nouble,frank-nouble,F,True,,,,,,,
+2009-10,1062513,5,21,West_Ham_United,Away,9644,12799,Carlton Cole,carlton-cole,F,False,0.0,0.0,90.0,0.0,,,0.0
+2009-10,1062513,5,21,West_Ham_United,Away,35710,50113,Zavon Hines,zavon-hines,F,False,0.0,0.0,90.0,0.0,,,0.0
+2009-10,1062513,5,21,West_Ham_United,Away,76498,70755,Frank Nouble,frank-nouble,F,True,0.0,0.0,4.0,0.0,,,0.0
+2009-10,1062522,6,21,West_Ham_United,Home,9644,12799,Carlton Cole,carlton-cole,F,False,0.0,1.0,90.0,0.0,,,0.0
+2009-10,1062522,6,21,West_Ham_United,Home,35710,50113,Zavon Hines,zavon-hines,F,False,0.0,0.0,90.0,0.0,,,0.0
+2009-10,1062522,6,21,West_Ham_United,Home,76498,70755,Frank Nouble,frank-nouble,F,True,,,,,,,
+2009-10,1062528,7,21,West_Ham_United,Away,9644,12799,Carlton Cole,carlton-cole,F,False,0.0,1.0,90.0,0.0,,,0.0
+2009-10,1062528,7,21,West_Ham_United,Away,14357,,Luis Jiménez,luis-jimenez,F,False,0.0,0.0,71.0,0.0,,,0.0
+2009-10,1062528,7,21,West_Ham_United,Away,35710,50113,Zavon Hines,zavon-hines,F,True,0.0,0.0,19.0,0.0,,,0.0
+2009-10,1062528,7,21,West_Ham_United,Away,76498,70755,Frank Nouble,frank-nouble,F,True,,,,,,,
+2009-10,1062542,8,21,West_Ham_United,Home,9644,12799,Carlton Cole,carlton-cole,F,False,0.0,1.0,90.0,0.0,,,0.0
+2009-10,1062542,8,21,West_Ham_United,Home,14357,,Luis Jiménez,luis-jimenez,F,False,0.0,0.0,90.0,0.0,,,0.0
+2009-10,1062542,8,21,West_Ham_United,Home,35710,50113,Zavon Hines,zavon-hines,F,False,0.0,0.0,72.0,0.0,,,0.0
+2009-10,1062542,8,21,West_Ham_United,Home,76498,70755,Frank Nouble,frank-nouble,F,True,,,,,,,
+2009-10,1062551,9,21,West_Ham_United,Away,9644,12799,Carlton Cole,carlton-cole,F,False,0.0,0.0,90.0,0.0,,,0.0
+2009-10,1062551,9,21,West_Ham_United,Away,14357,,Luis Jiménez,luis-jimenez,F,True,,,,,,,
+2009-10,1062551,9,21,West_Ham_United,Away,14915,28608,Guillermo Franco,guillermo-franco,F,True,0.0,0.0,1.0,0.0,,,0.0
+2009-10,1062551,9,21,West_Ham_United,Away,35710,50113,Zavon Hines,zavon-hines,F,True,0.0,0.0,11.0,0.0,,,0.0
+2009-10,1062562,10,21,West_Ham_United,Home,9644,12799,Carlton Cole,carlton-cole,F,False,0.0,1.0,90.0,0.0,,,0.0
+2009-10,1062562,10,21,West_Ham_United,Home,14915,28608,Guillermo Franco,guillermo-franco,F,False,0.0,0.0,64.0,0.0,,,0.0
+2009-10,1062562,10,21,West_Ham_United,Home,35710,50113,Zavon Hines,zavon-hines,F,True,0.0,0.0,26.0,0.0,,,0.0
+2009-10,1062573,11,21,West_Ham_United,Away,9644,12799,Carlton Cole,carlton-cole,F,False,0.0,1.0,90.0,0.0,,,0.0
+2009-10,1062573,11,21,West_Ham_United,Away,14357,,Luis Jiménez,luis-jimenez,F,True,,,,,,,
+2009-10,1062573,11,21,West_Ham_United,Away,14915,28608,Guillermo Franco,guillermo-franco,F,False,0.0,1.0,72.0,0.0,,,0.0
+2009-10,1062573,11,21,West_Ham_United,Away,35710,50113,Zavon Hines,zavon-hines,F,True,0.0,0.0,18.0,0.0,,,0.0
+2009-10,1062581,12,21,West_Ham_United,Home,14357,,Luis Jiménez,luis-jimenez,F,False,0.0,0.0,57.0,0.0,,,0.0
+2009-10,1062581,12,21,West_Ham_United,Home,14915,28608,Guillermo Franco,guillermo-franco,F,False,0.0,0.0,90.0,0.0,,,0.0
+2009-10,1062581,12,21,West_Ham_United,Home,35710,50113,Zavon Hines,zavon-hines,F,False,0.0,0.0,90.0,0.0,,,0.0
+2009-10,1062588,13,21,West_Ham_United,Away,9644,12799,Carlton Cole,carlton-cole,F,False,0.0,0.0,90.0,1.0,,,0.0
+2009-10,1062588,13,21,West_Ham_United,Away,14357,,Luis Jiménez,luis-jimenez,F,True,0.0,0.0,20.0,0.0,,,0.0
+2009-10,1062588,13,21,West_Ham_United,Away,14915,28608,Guillermo Franco,guillermo-franco,F,False,1.0,1.0,70.0,0.0,,,0.0
+2009-10,1062588,13,21,West_Ham_United,Away,35710,50113,Zavon Hines,zavon-hines,F,True,0.0,0.0,30.0,0.0,,,0.0
+2009-10,1062588,13,21,West_Ham_United,Away,76498,70755,Frank Nouble,frank-nouble,F,True,,,,,,,
+2009-10,1062601,14,21,West_Ham_United,Home,9644,12799,Carlton Cole,carlton-cole,F,False,0.0,1.0,46.0,0.0,,,0.0
+2009-10,1062601,14,21,West_Ham_United,Home,14357,,Luis Jiménez,luis-jimenez,F,True,0.0,1.0,31.0,0.0,,,0.0
+2009-10,1062601,14,21,West_Ham_United,Home,14915,28608,Guillermo Franco,guillermo-franco,F,False,0.0,1.0,59.0,0.0,,,0.0
+2009-10,1062601,14,21,West_Ham_United,Home,35710,50113,Zavon Hines,zavon-hines,F,True,0.0,0.0,44.0,0.0,,,0.0
+2009-10,1062601,14,21,West_Ham_United,Home,76498,70755,Frank Nouble,frank-nouble,F,True,,,,,,,
+2009-10,1062611,15,21,West_Ham_United,Home,14915,28608,Guillermo Franco,guillermo-franco,F,False,0.0,0.0,90.0,0.0,,,0.0
+2009-10,1062611,15,21,West_Ham_United,Home,35710,50113,Zavon Hines,zavon-hines,F,False,0.0,0.0,46.0,0.0,,,0.0
+2009-10,1062611,15,21,West_Ham_United,Home,76498,70755,Frank Nouble,frank-nouble,F,True,,,,,,,
+2009-10,1062614,16,21,West_Ham_United,Away,14915,28608,Guillermo Franco,guillermo-franco,F,False,0.0,0.0,90.0,0.0,,,0.0
+2009-10,1062614,16,21,West_Ham_United,Away,76498,70755,Frank Nouble,frank-nouble,F,True,0.0,0.0,7.0,0.0,,,0.0
+2009-10,1062625,17,21,West_Ham_United,Away,14915,28608,Guillermo Franco,guillermo-franco,F,False,0.0,0.0,90.0,0.0,,,0.0
+2009-10,1062625,17,21,West_Ham_United,Away,76498,70755,Frank Nouble,frank-nouble,F,True,,,,,,,
+2009-10,1062641,18,21,West_Ham_United,Home,14357,,Luis Jiménez,luis-jimenez,F,True,,,,,,,
+2009-10,1062641,18,21,West_Ham_United,Home,14915,28608,Guillermo Franco,guillermo-franco,F,False,0.0,0.0,90.0,0.0,,,0.0
+2009-10,1062641,18,21,West_Ham_United,Home,76498,70755,Frank Nouble,frank-nouble,F,True,,,,,,,
+2009-10,1062652,19,21,West_Ham_United,Home,14357,,Luis Jiménez,luis-jimenez,F,True,1.0,0.0,74.0,0.0,,,0.0
+2009-10,1062652,19,21,West_Ham_United,Home,14915,28608,Guillermo Franco,guillermo-franco,F,False,0.0,0.0,90.0,0.0,,,0.0
+2009-10,1062652,19,21,West_Ham_United,Home,76498,70755,Frank Nouble,frank-nouble,F,True,0.0,0.0,1.0,0.0,,,0.0
+2009-10,1062662,20,21,West_Ham_United,Away,14357,,Luis Jiménez,luis-jimenez,F,True,0.0,0.0,78.0,0.0,,,0.0
+2009-10,1062662,20,21,West_Ham_United,Away,14915,28608,Guillermo Franco,guillermo-franco,F,False,0.0,0.0,90.0,0.0,,,0.0
+2009-10,1062662,20,21,West_Ham_United,Away,76498,70755,Frank Nouble,frank-nouble,F,True,,,,,,,
+2009-10,1277303,21,21,West_Ham_United,Home,945,9677,Mido,mido,F,True,,,,,,,
+2009-10,1277303,21,21,West_Ham_United,Home,3185,19499,Ilan,ilan,F,True,,,,,,,
+2009-10,1277303,21,21,West_Ham_United,Home,6265,8055,Benni McCarthy,benni-mccarthy,F,False,0.0,0.0,71.0,0.0,,,0.0
+2009-10,1277303,21,21,West_Ham_United,Home,9644,12799,Carlton Cole,carlton-cole,F,False,0.0,0.0,90.0,0.0,,,0.0
+2009-10,1277303,21,21,West_Ham_United,Home,14915,28608,Guillermo Franco,guillermo-franco,F,True,0.0,1.0,19.0,0.0,,,0.0
+2009-10,1062674,22,21,West_Ham_United,Away,14357,,Luis Jiménez,luis-jimenez,F,True,,,,,,,
+2009-10,1062674,22,21,West_Ham_United,Away,35387,49997,Freddie Sears,freddie-sears,F,True,,,,,,,
+2009-10,1062674,22,21,West_Ham_United,Away,76498,70755,Frank Nouble,frank-nouble,F,False,0.0,0.0,90.0,0.0,,,0.0
+2009-10,1062686,23,21,West_Ham_United,Away,9644,12799,Carlton Cole,carlton-cole,F,True,0.0,0.0,17.0,0.0,,,0.0
+2009-10,1062686,23,21,West_Ham_United,Away,14357,,Luis Jiménez,luis-jimenez,F,True,,,,,,,
+2009-10,1062686,23,21,West_Ham_United,Away,35387,49997,Freddie Sears,freddie-sears,F,True,,,,,,,
+2009-10,1062686,23,21,West_Ham_United,Away,76498,70755,Frank Nouble,frank-nouble,F,False,0.0,0.0,73.0,0.0,,,0.0
+2009-10,1062702,24,21,West_Ham_United,Home,9644,12799,Carlton Cole,carlton-cole,F,True,0.0,0.0,33.0,0.0,,,0.0
+2009-10,1062702,24,21,West_Ham_United,Home,35387,49997,Freddie Sears,freddie-sears,F,True,0.0,0.0,12.0,0.0,,,0.0
+2009-10,1062702,24,21,West_Ham_United,Home,76498,70755,Frank Nouble,frank-nouble,F,False,0.0,0.0,78.0,0.0,,,0.0
+2009-10,1062706,25,21,West_Ham_United,Away,945,9677,Mido,mido,F,True,0.0,0.0,44.0,0.0,,,0.0
+2009-10,1062706,25,21,West_Ham_United,Away,3185,19499,Ilan,ilan,F,True,0.0,1.0,13.0,0.0,,,0.0
+2009-10,1062706,25,21,West_Ham_United,Away,6265,8055,Benni McCarthy,benni-mccarthy,F,False,0.0,0.0,46.0,0.0,,,0.0
+2009-10,1062706,25,21,West_Ham_United,Away,9644,12799,Carlton Cole,carlton-cole,F,False,0.0,0.0,90.0,0.0,,,0.0
+2009-10,1062717,26,21,West_Ham_United,Home,945,9677,Mido,mido,F,False,0.0,0.0,66.0,0.0,,,0.0
+2009-10,1062717,26,21,West_Ham_United,Home,3185,19499,Ilan,ilan,F,True,0.0,0.0,24.0,0.0,,,0.0
+2009-10,1062717,26,21,West_Ham_United,Home,9644,12799,Carlton Cole,carlton-cole,F,False,0.0,1.0,90.0,0.0,,,0.0
+2009-10,1062731,27,21,West_Ham_United,Home,945,9677,Mido,mido,F,True,0.0,0.0,11.0,0.0,,,0.0
+2009-10,1062731,27,21,West_Ham_United,Home,3185,19499,Ilan,ilan,F,True,0.0,0.0,27.0,0.0,,,0.0
+2009-10,1062731,27,21,West_Ham_United,Home,9644,12799,Carlton Cole,carlton-cole,F,False,0.0,1.0,79.0,0.0,,,0.0
+2009-10,1062731,27,21,West_Ham_United,Home,14915,28608,Guillermo Franco,guillermo-franco,F,False,1.0,0.0,63.0,0.0,,,0.0
+2009-10,1062740,28,21,West_Ham_United,Away,945,9677,Mido,mido,F,True,0.0,0.0,44.0,0.0,,,0.0
+2009-10,1062740,28,21,West_Ham_United,Away,3185,19499,Ilan,ilan,F,True,,,,,,,
+2009-10,1062740,28,21,West_Ham_United,Away,9644,12799,Carlton Cole,carlton-cole,F,False,0.0,0.0,90.0,0.0,,,0.0
+2009-10,1062740,28,21,West_Ham_United,Away,14915,28608,Guillermo Franco,guillermo-franco,F,False,0.0,0.0,46.0,0.0,,,0.0
+2009-10,1062751,29,21,West_Ham_United,Home,945,9677,Mido,mido,F,True,0.0,0.0,23.0,0.0,,,0.0
+2009-10,1062751,29,21,West_Ham_United,Home,3185,19499,Ilan,ilan,F,True,,,,,,,
+2009-10,1062751,29,21,West_Ham_United,Home,9644,12799,Carlton Cole,carlton-cole,F,False,0.0,0.0,90.0,0.0,,,0.0
+2009-10,1062751,29,21,West_Ham_United,Home,14915,28608,Guillermo Franco,guillermo-franco,F,False,0.0,0.0,67.0,0.0,,,0.0
+2009-10,1062757,30,21,West_Ham_United,Away,945,9677,Mido,mido,F,False,0.0,0.0,67.0,0.0,,,0.0
+2009-10,1062757,30,21,West_Ham_United,Away,3185,19499,Ilan,ilan,F,False,0.0,0.0,83.0,0.0,,,0.0
+2009-10,1062757,30,21,West_Ham_United,Away,6265,8055,Benni McCarthy,benni-mccarthy,F,True,,,,,,,
+2009-10,1062757,30,21,West_Ham_United,Away,9644,12799,Carlton Cole,carlton-cole,F,True,0.0,0.0,23.0,0.0,,,0.0
+2009-10,1062764,31,21,West_Ham_United,Away,945,9677,Mido,mido,F,False,0.0,0.0,75.0,0.0,,,0.0
+2009-10,1062764,31,21,West_Ham_United,Away,3185,19499,Ilan,ilan,F,True,,,,,,,
+2009-10,1062764,31,21,West_Ham_United,Away,6265,8055,Benni McCarthy,benni-mccarthy,F,True,0.0,0.0,15.0,0.0,,,0.0
+2009-10,1062764,31,21,West_Ham_United,Away,9644,12799,Carlton Cole,carlton-cole,F,True,0.0,0.0,33.0,0.0,,,0.0
+2009-10,1062764,31,21,West_Ham_United,Away,14915,28608,Guillermo Franco,guillermo-franco,F,False,0.0,0.0,57.0,0.0,,,0.0
+2009-10,1062782,32,21,West_Ham_United,Home,945,9677,Mido,mido,F,False,0.0,0.0,84.0,0.0,,,0.0
+2009-10,1062782,32,21,West_Ham_United,Home,3185,19499,Ilan,ilan,F,True,0.0,0.0,6.0,0.0,,,0.0
+2009-10,1062782,32,21,West_Ham_United,Home,6265,8055,Benni McCarthy,benni-mccarthy,F,True,0.0,0.0,14.0,0.0,,,0.0
+2009-10,1062782,32,21,West_Ham_United,Home,9644,12799,Carlton Cole,carlton-cole,F,False,0.0,0.0,90.0,0.0,,,0.0
+2009-10,1062788,33,21,West_Ham_United,Away,945,9677,Mido,mido,F,False,0.0,0.0,77.0,0.0,1.0,,0.0
+2009-10,1062788,33,21,West_Ham_United,Away,3185,19499,Ilan,ilan,F,True,0.0,1.0,13.0,0.0,,,0.0
+2009-10,1062788,33,21,West_Ham_United,Away,6265,8055,Benni McCarthy,benni-mccarthy,F,True,,,,,,,
+2009-10,1062788,33,21,West_Ham_United,Away,9644,12799,Carlton Cole,carlton-cole,F,False,0.0,0.0,90.0,0.0,,,0.0
+2009-10,1062801,34,21,West_Ham_United,Home,3185,19499,Ilan,ilan,F,False,0.0,1.0,90.0,0.0,,,0.0
+2009-10,1062801,34,21,West_Ham_United,Home,6265,8055,Benni McCarthy,benni-mccarthy,F,True,,,,,,,
+2009-10,1062801,34,21,West_Ham_United,Home,9644,12799,Carlton Cole,carlton-cole,F,False,1.0,0.0,90.0,0.0,,,0.0
+2009-10,1062801,34,21,West_Ham_United,Home,14915,28608,Guillermo Franco,guillermo-franco,F,True,0.0,0.0,16.0,0.0,,,0.0
+2009-10,1062807,35,21,West_Ham_United,Away,945,9677,Mido,mido,F,True,,,,,,,
+2009-10,1062807,35,21,West_Ham_United,Away,3185,19499,Ilan,ilan,F,False,0.0,0.0,90.0,0.0,,,0.0
+2009-10,1062807,35,21,West_Ham_United,Away,6265,8055,Benni McCarthy,benni-mccarthy,F,True,0.0,0.0,18.0,0.0,,,0.0
+2009-10,1062807,35,21,West_Ham_United,Away,9644,12799,Carlton Cole,carlton-cole,F,False,0.0,0.0,72.0,0.0,,,0.0
+2009-10,1062807,35,21,West_Ham_United,Away,14915,28608,Guillermo Franco,guillermo-franco,F,True,0.0,0.0,44.0,0.0,,,0.0
+2009-10,1062822,36,21,West_Ham_United,Home,3185,19499,Ilan,ilan,F,False,0.0,1.0,71.0,0.0,,,0.0
+2009-10,1062822,36,21,West_Ham_United,Home,6265,8055,Benni McCarthy,benni-mccarthy,F,True,,,,,,,
+2009-10,1062822,36,21,West_Ham_United,Home,9644,12799,Carlton Cole,carlton-cole,F,False,1.0,0.0,90.0,0.0,,,0.0
+2009-10,1062822,36,21,West_Ham_United,Home,14915,28608,Guillermo Franco,guillermo-franco,F,True,1.0,0.0,19.0,0.0,,,0.0
+2009-10,1062826,37,21,West_Ham_United,Away,671,2400,Luís Boa Morte,luis-boa-morte,F,True,,,,,,,
+2009-10,1062826,37,21,West_Ham_United,Away,3185,19499,Ilan,ilan,F,False,0.0,0.0,61.0,0.0,,,0.0
+2009-10,1062826,37,21,West_Ham_United,Away,9644,12799,Carlton Cole,carlton-cole,F,False,0.0,1.0,90.0,1.0,,,0.0
+2009-10,1062826,37,21,West_Ham_United,Away,14915,28608,Guillermo Franco,guillermo-franco,F,True,0.0,1.0,29.0,0.0,,,0.0
+2009-10,1062842,38,21,West_Ham_United,Home,671,2400,Luís Boa Morte,luis-boa-morte,F,False,0.0,1.0,64.0,0.0,,,0.0
+2009-10,1062842,38,21,West_Ham_United,Home,3185,19499,Ilan,ilan,F,False,0.0,0.0,90.0,0.0,,,0.0
+2009-10,1062842,38,21,West_Ham_United,Home,6265,8055,Benni McCarthy,benni-mccarthy,F,True,,,,,,,
+2009-10,1062842,38,21,West_Ham_United,Home,9644,12799,Carlton Cole,carlton-cole,F,False,0.0,0.0,64.0,0.0,,,0.0
+2009-10,1062842,38,21,West_Ham_United,Home,14915,28608,Guillermo Franco,guillermo-franco,F,True,0.0,0.0,26.0,0.0,,,0.0

@@ -1,0 +1,77 @@
+season,matchId,gameweek,team_id,team,venue,playerId,pl_code,playerName,slug,position,substitute,goalAssist,goals,minutesPlayed,ownGoals,substitute.1,totalShots
+2010-11,1380091,1,92,Blackpool,Away,20096,8437,Matthew Gilks,matthew-gilks,G,False,0.0,0.0,90.0,0.0,,0.0
+2010-11,1380091,1,92,Blackpool,Away,20693,8379,Paul Rachubka,paul-rachubka,G,True,,,,,,
+2010-11,1379604,2,92,Blackpool,Away,20096,8437,Matthew Gilks,matthew-gilks,G,False,0.0,0.0,90.0,0.0,,0.0
+2010-11,1379604,2,92,Blackpool,Away,47151,59968,Mark Halstead,mark-halstead,G,True,,,,,,
+2010-11,1379616,3,92,Blackpool,Home,20096,8437,Matthew Gilks,matthew-gilks,G,False,0.0,0.0,90.0,0.0,,0.0
+2010-11,1379616,3,92,Blackpool,Home,47151,59968,Mark Halstead,mark-halstead,G,True,,,,,,
+2010-11,1379797,4,92,Blackpool,Away,20096,8437,Matthew Gilks,matthew-gilks,G,False,0.0,0.0,90.0,0.0,,0.0
+2010-11,1379797,4,92,Blackpool,Away,47151,59968,Mark Halstead,mark-halstead,G,True,,,,,,
+2010-11,1379804,5,92,Blackpool,Away,20096,8437,Matthew Gilks,matthew-gilks,G,False,0.0,0.0,90.0,0.0,,0.0
+2010-11,1379804,5,92,Blackpool,Away,47151,59968,Mark Halstead,mark-halstead,G,True,,,,,,
+2010-11,1379814,6,92,Blackpool,Home,14655,33268,Richard Paul Franck Kingson,richard-paul-franck-kingson,G,True,,,,,,
+2010-11,1379814,6,92,Blackpool,Home,20096,8437,Matthew Gilks,matthew-gilks,G,False,0.0,0.0,90.0,0.0,,0.0
+2010-11,1379824,7,92,Blackpool,Away,20096,8437,Matthew Gilks,matthew-gilks,G,False,0.0,0.0,90.0,0.0,,0.0
+2010-11,1379824,7,92,Blackpool,Away,47151,59968,Mark Halstead,mark-halstead,G,True,,,,,,
+2010-11,1379835,8,92,Blackpool,Home,14655,33268,Richard Paul Franck Kingson,richard-paul-franck-kingson,G,True,,,,,,
+2010-11,1379835,8,92,Blackpool,Home,20096,8437,Matthew Gilks,matthew-gilks,G,False,0.0,0.0,90.0,0.0,,0.0
+2010-11,1379842,9,92,Blackpool,Away,14655,33268,Richard Paul Franck Kingson,richard-paul-franck-kingson,G,True,,,,,,
+2010-11,1379842,9,92,Blackpool,Away,20096,8437,Matthew Gilks,matthew-gilks,G,False,0.0,0.0,90.0,0.0,,0.0
+2010-11,1379855,10,92,Blackpool,Home,14655,33268,Richard Paul Franck Kingson,richard-paul-franck-kingson,G,True,,,,,,
+2010-11,1379855,10,92,Blackpool,Home,20096,8437,Matthew Gilks,matthew-gilks,G,False,0.0,0.0,90.0,0.0,,0.0
+2010-11,1379865,11,92,Blackpool,Home,14655,33268,Richard Paul Franck Kingson,richard-paul-franck-kingson,G,True,,,,,,
+2010-11,1379865,11,92,Blackpool,Home,20096,8437,Matthew Gilks,matthew-gilks,G,False,0.0,0.0,90.0,0.0,,0.0
+2010-11,1379877,12,92,Blackpool,Away,14655,33268,Richard Paul Franck Kingson,richard-paul-franck-kingson,G,False,0.0,0.0,90.0,0.0,,0.0
+2010-11,1379877,12,92,Blackpool,Away,20096,8437,Matthew Gilks,matthew-gilks,G,True,,,,,,
+2010-11,1379889,13,92,Blackpool,Away,14655,33268,Richard Paul Franck Kingson,richard-paul-franck-kingson,G,True,0.0,0.0,44.0,0.0,,0.0
+2010-11,1379889,13,92,Blackpool,Away,20096,8437,Matthew Gilks,matthew-gilks,G,False,0.0,0.0,46.0,0.0,,0.0
+2010-11,1379895,14,92,Blackpool,Home,14655,33268,Richard Paul Franck Kingson,richard-paul-franck-kingson,G,False,0.0,0.0,90.0,0.0,,0.0
+2010-11,1379895,14,92,Blackpool,Home,47151,59968,Mark Halstead,mark-halstead,G,True,,,,,,
+2010-11,1379903,15,92,Blackpool,Away,14655,33268,Richard Paul Franck Kingson,richard-paul-franck-kingson,G,False,0.0,0.0,90.0,0.0,,0.0
+2010-11,1379903,15,92,Blackpool,Away,47151,59968,Mark Halstead,mark-halstead,G,True,,,,,,
+2010-11,1575939,16,92,Blackpool,Home,14655,33268,Richard Paul Franck Kingson,richard-paul-franck-kingson,G,False,0.0,0.0,90.0,0.0,,0.0
+2010-11,1575939,16,92,Blackpool,Home,20693,8379,Paul Rachubka,paul-rachubka,G,True,,,,,,
+2010-11,1379928,17,92,Blackpool,Away,14655,33268,Richard Paul Franck Kingson,richard-paul-franck-kingson,G,False,0.0,0.0,90.0,0.0,,0.0
+2010-11,1379928,17,92,Blackpool,Away,47151,59968,Mark Halstead,mark-halstead,G,True,,,,,,
+2010-11,1592366,18,92,Blackpool,Home,14655,33268,Richard Paul Franck Kingson,richard-paul-franck-kingson,G,False,0.0,0.0,90.0,0.0,,0.0
+2010-11,1592366,18,92,Blackpool,Home,47151,59968,Mark Halstead,mark-halstead,G,True,,,,,,
+2010-11,1588800,19,92,Blackpool,Home,14655,33268,Richard Paul Franck Kingson,richard-paul-franck-kingson,G,False,0.0,0.0,90.0,0.0,,0.0
+2010-11,1588800,19,92,Blackpool,Home,20693,8379,Paul Rachubka,paul-rachubka,G,True,,,,,,
+2010-11,1379957,20,92,Blackpool,Away,14655,33268,Richard Paul Franck Kingson,richard-paul-franck-kingson,G,False,0.0,0.0,90.0,0.0,,0.0
+2010-11,1379957,20,92,Blackpool,Away,47151,59968,Mark Halstead,mark-halstead,G,True,,,,,,
+2010-11,1379965,21,92,Blackpool,Away,14655,33268,Richard Paul Franck Kingson,richard-paul-franck-kingson,G,False,0.0,0.0,90.0,0.0,,0.0
+2010-11,1379965,21,92,Blackpool,Away,47151,59968,Mark Halstead,mark-halstead,G,True,,,,,,
+2010-11,1379973,22,92,Blackpool,Home,14655,33268,Richard Paul Franck Kingson,richard-paul-franck-kingson,G,False,0.0,0.0,90.0,0.0,,0.0
+2010-11,1379973,22,92,Blackpool,Home,20693,8379,Paul Rachubka,paul-rachubka,G,True,,,,,,
+2010-11,1379989,23,92,Blackpool,Away,14655,33268,Richard Paul Franck Kingson,richard-paul-franck-kingson,G,False,0.0,0.0,90.0,0.0,,0.0
+2010-11,1379989,23,92,Blackpool,Away,20693,8379,Paul Rachubka,paul-rachubka,G,True,,,,,,
+2010-11,1379995,24,92,Blackpool,Home,14655,33268,Richard Paul Franck Kingson,richard-paul-franck-kingson,G,False,0.0,0.0,56.0,0.0,,0.0
+2010-11,1379995,24,92,Blackpool,Home,20693,8379,Paul Rachubka,paul-rachubka,G,True,0.0,0.0,34.0,0.0,,0.0
+2010-11,1380004,25,92,Blackpool,Home,14655,33268,Richard Paul Franck Kingson,richard-paul-franck-kingson,G,False,0.0,0.0,90.0,0.0,,0.0
+2010-11,1380004,25,92,Blackpool,Home,20693,8379,Paul Rachubka,paul-rachubka,G,True,,,,,,
+2010-11,1380014,26,92,Blackpool,Away,14655,33268,Richard Paul Franck Kingson,richard-paul-franck-kingson,G,True,,,,,,
+2010-11,1380014,26,92,Blackpool,Away,20693,8379,Paul Rachubka,paul-rachubka,G,False,0.0,0.0,90.0,0.0,,0.0
+2010-11,1380025,27,92,Blackpool,Home,14655,33268,Richard Paul Franck Kingson,richard-paul-franck-kingson,G,False,0.0,0.0,90.0,0.0,,0.0
+2010-11,1380025,27,92,Blackpool,Home,147203,93856,Chris Kettings,chris-kettings,G,True,,,,,,
+2010-11,1380041,28,92,Blackpool,Away,14655,33268,Richard Paul Franck Kingson,richard-paul-franck-kingson,G,False,0.0,0.0,90.0,0.0,,0.0
+2010-11,1380041,28,92,Blackpool,Away,47151,59968,Mark Halstead,mark-halstead,G,True,,,,,,
+2010-11,1380044,29,92,Blackpool,Home,14655,33268,Richard Paul Franck Kingson,richard-paul-franck-kingson,G,False,0.0,0.0,66.0,0.0,,0.0
+2010-11,1380044,29,92,Blackpool,Home,47151,59968,Mark Halstead,mark-halstead,G,True,0.0,0.0,24.0,0.0,,0.0
+2010-11,1380053,30,92,Blackpool,Away,14655,33268,Richard Paul Franck Kingson,richard-paul-franck-kingson,G,False,0.0,0.0,90.0,0.0,,0.0
+2010-11,1380053,30,92,Blackpool,Away,47151,59968,Mark Halstead,mark-halstead,G,True,,,,,,
+2010-11,1380065,31,92,Blackpool,Away,14655,33268,Richard Paul Franck Kingson,richard-paul-franck-kingson,G,False,0.0,0.0,90.0,0.0,,0.0
+2010-11,1380065,31,92,Blackpool,Away,20693,8379,Paul Rachubka,paul-rachubka,G,True,,,,,,
+2010-11,1380074,32,92,Blackpool,Home,14655,33268,Richard Paul Franck Kingson,richard-paul-franck-kingson,G,False,0.0,0.0,90.0,0.0,,0.0
+2010-11,1380074,32,92,Blackpool,Home,20693,8379,Paul Rachubka,paul-rachubka,G,True,,,,,,
+2010-11,1428722,33,92,Blackpool,Home,14655,33268,Richard Paul Franck Kingson,richard-paul-franck-kingson,G,True,,,,,,
+2010-11,1428722,33,92,Blackpool,Home,20096,8437,Matthew Gilks,matthew-gilks,G,False,0.0,0.0,90.0,0.0,,0.0
+2010-11,1380094,34,92,Blackpool,Home,14655,33268,Richard Paul Franck Kingson,richard-paul-franck-kingson,G,True,,,,,,
+2010-11,1380094,34,92,Blackpool,Home,20096,8437,Matthew Gilks,matthew-gilks,G,False,0.0,0.0,90.0,0.0,,0.0
+2010-11,1380105,35,92,Blackpool,Home,14655,33268,Richard Paul Franck Kingson,richard-paul-franck-kingson,G,True,,,,,,
+2010-11,1380105,35,92,Blackpool,Home,20096,8437,Matthew Gilks,matthew-gilks,G,False,0.0,0.0,90.0,0.0,,0.0
+2010-11,1380119,36,92,Blackpool,Away,14655,33268,Richard Paul Franck Kingson,richard-paul-franck-kingson,G,True,,,,,,
+2010-11,1380119,36,92,Blackpool,Away,20096,8437,Matthew Gilks,matthew-gilks,G,False,0.0,0.0,90.0,0.0,,0.0
+2010-11,1380125,37,92,Blackpool,Home,14655,33268,Richard Paul Franck Kingson,richard-paul-franck-kingson,G,True,,,,,,
+2010-11,1380125,37,92,Blackpool,Home,20096,8437,Matthew Gilks,matthew-gilks,G,False,0.0,0.0,90.0,0.0,,0.0
+2010-11,1380136,38,92,Blackpool,Away,14655,33268,Richard Paul Franck Kingson,richard-paul-franck-kingson,G,True,,,,,,
+2010-11,1380136,38,92,Blackpool,Away,20096,8437,Matthew Gilks,matthew-gilks,G,False,0.0,0.0,90.0,0.0,,0.0

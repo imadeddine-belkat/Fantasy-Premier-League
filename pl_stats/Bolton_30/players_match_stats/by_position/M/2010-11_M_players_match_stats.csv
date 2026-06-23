@@ -1,0 +1,176 @@
+season,matchId,gameweek,team_id,team,venue,playerId,pl_code,playerName,slug,position,substitute,goalAssist,goals,minutesPlayed,ownGoals,penaltyMiss,substitute.1,totalShots
+2010-11,1379597,1,30,Bolton_Wanderers,Home,10673,19930,Mark Davies,mark-davies,M,True,0.0,0.0,4.0,0.0,,,0.0
+2010-11,1379597,1,30,Bolton_Wanderers,Home,14051,27696,Fabrice Muamba,fabrice-muamba,M,False,0.0,0.0,86.0,0.0,,,0.0
+2010-11,1379597,1,30,Bolton_Wanderers,Home,38534,19948,Stuart Holden,stuart-holden,M,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1379597,1,30,Bolton_Wanderers,Home,38639,75773,Chung-yong Lee,chung-yong-lee,M,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1379612,2,30,Bolton_Wanderers,Away,10673,19930,Mark Davies,mark-davies,M,True,0.0,0.0,4.0,0.0,,,0.0
+2010-11,1379612,2,30,Bolton_Wanderers,Away,14051,27696,Fabrice Muamba,fabrice-muamba,M,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1379612,2,30,Bolton_Wanderers,Away,38534,19948,Stuart Holden,stuart-holden,M,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1379612,2,30,Bolton_Wanderers,Away,38639,75773,Chung-yong Lee,chung-yong-lee,M,False,1.0,0.0,81.0,0.0,,,0.0
+2010-11,1379617,3,30,Bolton_Wanderers,Home,10673,19930,Mark Davies,mark-davies,M,True,0.0,0.0,12.0,0.0,,,0.0
+2010-11,1379617,3,30,Bolton_Wanderers,Home,14051,27696,Fabrice Muamba,fabrice-muamba,M,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1379617,3,30,Bolton_Wanderers,Home,38534,19948,Stuart Holden,stuart-holden,M,False,0.0,0.0,78.0,0.0,,,0.0
+2010-11,1379617,3,30,Bolton_Wanderers,Home,38639,75773,Chung-yong Lee,chung-yong-lee,M,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1379792,4,30,Bolton_Wanderers,Away,10673,19930,Mark Davies,mark-davies,M,True,,,,,,,
+2010-11,1379792,4,30,Bolton_Wanderers,Away,14051,27696,Fabrice Muamba,fabrice-muamba,M,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1379792,4,30,Bolton_Wanderers,Away,38534,19948,Stuart Holden,stuart-holden,M,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1379792,4,30,Bolton_Wanderers,Away,38639,75773,Chung-yong Lee,chung-yong-lee,M,False,1.0,0.0,81.0,0.0,,,0.0
+2010-11,1379802,5,30,Bolton_Wanderers,Away,10673,19930,Mark Davies,mark-davies,M,True,0.0,0.0,21.0,0.0,,,0.0
+2010-11,1379802,5,30,Bolton_Wanderers,Away,14051,27696,Fabrice Muamba,fabrice-muamba,M,False,0.0,0.0,69.0,0.0,,,0.0
+2010-11,1379802,5,30,Bolton_Wanderers,Away,38534,19948,Stuart Holden,stuart-holden,M,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1379802,5,30,Bolton_Wanderers,Away,38639,75773,Chung-yong Lee,chung-yong-lee,M,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1379802,5,30,Bolton_Wanderers,Away,542472,80954,Rodrigo,rodrigo,M,True,,,,,,,
+2010-11,1379815,6,30,Bolton_Wanderers,Home,10673,19930,Mark Davies,mark-davies,M,True,0.0,0.0,27.0,0.0,,,0.0
+2010-11,1379815,6,30,Bolton_Wanderers,Home,14051,27696,Fabrice Muamba,fabrice-muamba,M,False,0.0,0.0,63.0,0.0,,,0.0
+2010-11,1379815,6,30,Bolton_Wanderers,Home,38534,19948,Stuart Holden,stuart-holden,M,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1379815,6,30,Bolton_Wanderers,Home,38639,75773,Chung-yong Lee,chung-yong-lee,M,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1379815,6,30,Bolton_Wanderers,Home,542472,80954,Rodrigo,rodrigo,M,True,,,,,,,
+2010-11,1379829,7,30,Bolton_Wanderers,Away,10673,19930,Mark Davies,mark-davies,M,True,0.0,0.0,9.0,0.0,,,0.0
+2010-11,1379829,7,30,Bolton_Wanderers,Away,14051,27696,Fabrice Muamba,fabrice-muamba,M,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1379829,7,30,Bolton_Wanderers,Away,38534,19948,Stuart Holden,stuart-holden,M,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1379829,7,30,Bolton_Wanderers,Away,38639,75773,Chung-yong Lee,chung-yong-lee,M,False,0.0,0.0,76.0,0.0,,,0.0
+2010-11,1379829,7,30,Bolton_Wanderers,Away,542472,80954,Rodrigo,rodrigo,M,True,,,,,,,
+2010-11,1379836,8,30,Bolton_Wanderers,Home,10673,19930,Mark Davies,mark-davies,M,True,0.0,0.0,4.0,0.0,,,0.0
+2010-11,1379836,8,30,Bolton_Wanderers,Home,14051,27696,Fabrice Muamba,fabrice-muamba,M,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1379836,8,30,Bolton_Wanderers,Home,38534,19948,Stuart Holden,stuart-holden,M,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1379836,8,30,Bolton_Wanderers,Home,38639,75773,Chung-yong Lee,chung-yong-lee,M,False,0.0,1.0,86.0,0.0,,,0.0
+2010-11,1379836,8,30,Bolton_Wanderers,Home,542472,80954,Rodrigo,rodrigo,M,True,,,,,,,
+2010-11,1379851,9,30,Bolton_Wanderers,Away,10673,19930,Mark Davies,mark-davies,M,True,0.0,0.0,4.0,0.0,,,0.0
+2010-11,1379851,9,30,Bolton_Wanderers,Away,14051,27696,Fabrice Muamba,fabrice-muamba,M,False,0.0,0.0,86.0,0.0,,,0.0
+2010-11,1379851,9,30,Bolton_Wanderers,Away,38534,19948,Stuart Holden,stuart-holden,M,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1379851,9,30,Bolton_Wanderers,Away,38639,75773,Chung-yong Lee,chung-yong-lee,M,False,0.0,0.0,65.0,0.0,,,0.0
+2010-11,1379851,9,30,Bolton_Wanderers,Away,542472,80954,Rodrigo,rodrigo,M,True,0.0,0.0,25.0,0.0,,,0.0
+2010-11,1379851,9,30,Bolton_Wanderers,Away,2272736,18621,Tamir Cohen,tamir-cohen,M,True,,,,,,,
+2010-11,1379856,10,30,Bolton_Wanderers,Home,10673,19930,Mark Davies,mark-davies,M,True,,,,,,,
+2010-11,1379856,10,30,Bolton_Wanderers,Home,14051,27696,Fabrice Muamba,fabrice-muamba,M,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1379856,10,30,Bolton_Wanderers,Home,38534,19948,Stuart Holden,stuart-holden,M,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1379856,10,30,Bolton_Wanderers,Home,38639,75773,Chung-yong Lee,chung-yong-lee,M,False,0.0,0.0,74.0,0.0,,,0.0
+2010-11,1379856,10,30,Bolton_Wanderers,Home,542472,80954,Rodrigo,rodrigo,M,True,0.0,0.0,16.0,0.0,,,0.0
+2010-11,1379856,10,30,Bolton_Wanderers,Home,2272736,18621,Tamir Cohen,tamir-cohen,M,True,,,,,,,
+2010-11,1379866,11,30,Bolton_Wanderers,Home,10673,19930,Mark Davies,mark-davies,M,True,0.0,0.0,1.0,0.0,,,0.0
+2010-11,1379866,11,30,Bolton_Wanderers,Home,14051,27696,Fabrice Muamba,fabrice-muamba,M,False,1.0,0.0,90.0,0.0,,,0.0
+2010-11,1379866,11,30,Bolton_Wanderers,Home,38534,19948,Stuart Holden,stuart-holden,M,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1379866,11,30,Bolton_Wanderers,Home,38639,75773,Chung-yong Lee,chung-yong-lee,M,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1379866,11,30,Bolton_Wanderers,Home,542472,80954,Rodrigo,rodrigo,M,True,,,,,,,
+2010-11,1379879,12,30,Bolton_Wanderers,Away,10673,19930,Mark Davies,mark-davies,M,True,,,,,,,
+2010-11,1379879,12,30,Bolton_Wanderers,Away,14051,27696,Fabrice Muamba,fabrice-muamba,M,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1379879,12,30,Bolton_Wanderers,Away,38534,19948,Stuart Holden,stuart-holden,M,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1379879,12,30,Bolton_Wanderers,Away,38639,75773,Chung-yong Lee,chung-yong-lee,M,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1379879,12,30,Bolton_Wanderers,Away,542472,80954,Rodrigo,rodrigo,M,True,,,,,,,
+2010-11,1379891,13,30,Bolton_Wanderers,Away,10673,19930,Mark Davies,mark-davies,M,True,,,,,,,
+2010-11,1379891,13,30,Bolton_Wanderers,Away,14051,27696,Fabrice Muamba,fabrice-muamba,M,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1379891,13,30,Bolton_Wanderers,Away,38534,19948,Stuart Holden,stuart-holden,M,False,1.0,1.0,90.0,0.0,,,0.0
+2010-11,1379891,13,30,Bolton_Wanderers,Away,38639,75773,Chung-yong Lee,chung-yong-lee,M,False,1.0,0.0,90.0,0.0,,,0.0
+2010-11,1379891,13,30,Bolton_Wanderers,Away,542472,80954,Rodrigo,rodrigo,M,True,,,,,,,
+2010-11,1379896,14,30,Bolton_Wanderers,Home,10673,19930,Mark Davies,mark-davies,M,True,,,,,,,
+2010-11,1379896,14,30,Bolton_Wanderers,Home,14051,27696,Fabrice Muamba,fabrice-muamba,M,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1379896,14,30,Bolton_Wanderers,Home,38534,19948,Stuart Holden,stuart-holden,M,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1379896,14,30,Bolton_Wanderers,Home,38639,75773,Chung-yong Lee,chung-yong-lee,M,False,0.0,1.0,86.0,0.0,,,0.0
+2010-11,1379896,14,30,Bolton_Wanderers,Home,542472,80954,Rodrigo,rodrigo,M,True,0.0,0.0,4.0,0.0,,,0.0
+2010-11,1379903,15,30,Bolton_Wanderers,Home,10673,19930,Mark Davies,mark-davies,M,False,1.0,1.0,90.0,0.0,,,0.0
+2010-11,1379903,15,30,Bolton_Wanderers,Home,14051,27696,Fabrice Muamba,fabrice-muamba,M,False,0.0,0.0,70.0,0.0,,,0.0
+2010-11,1379903,15,30,Bolton_Wanderers,Home,38639,75773,Chung-yong Lee,chung-yong-lee,M,False,0.0,0.0,60.0,0.0,,,0.0
+2010-11,1379903,15,30,Bolton_Wanderers,Home,542472,80954,Rodrigo,rodrigo,M,True,0.0,0.0,30.0,0.0,,,0.0
+2010-11,1379903,15,30,Bolton_Wanderers,Home,2272736,18621,Tamir Cohen,tamir-cohen,M,True,,,,,,,
+2010-11,1379918,16,30,Bolton_Wanderers,Away,10673,19930,Mark Davies,mark-davies,M,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1379918,16,30,Bolton_Wanderers,Away,14051,27696,Fabrice Muamba,fabrice-muamba,M,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1379918,16,30,Bolton_Wanderers,Away,38639,75773,Chung-yong Lee,chung-yong-lee,M,False,0.0,0.0,82.0,0.0,,,0.0
+2010-11,1379918,16,30,Bolton_Wanderers,Away,542472,80954,Rodrigo,rodrigo,M,True,0.0,0.0,8.0,0.0,,,0.0
+2010-11,1379918,16,30,Bolton_Wanderers,Away,2272736,18621,Tamir Cohen,tamir-cohen,M,True,,,,,,,
+2010-11,1379923,17,30,Bolton_Wanderers,Home,10673,19930,Mark Davies,mark-davies,M,False,0.0,0.0,56.0,0.0,,,0.0
+2010-11,1379923,17,30,Bolton_Wanderers,Home,14051,27696,Fabrice Muamba,fabrice-muamba,M,True,0.0,1.0,32.0,0.0,,,0.0
+2010-11,1379923,17,30,Bolton_Wanderers,Home,38534,19948,Stuart Holden,stuart-holden,M,False,0.0,1.0,90.0,0.0,,,0.0
+2010-11,1379923,17,30,Bolton_Wanderers,Home,38639,75773,Chung-yong Lee,chung-yong-lee,M,False,0.0,0.0,58.0,0.0,,,0.0
+2010-11,1379923,17,30,Bolton_Wanderers,Home,542472,80954,Rodrigo,rodrigo,M,True,,,,,,,
+2010-11,1379939,18,30,Bolton_Wanderers,Away,14051,27696,Fabrice Muamba,fabrice-muamba,M,False,0.0,0.0,83.0,0.0,,,0.0
+2010-11,1379939,18,30,Bolton_Wanderers,Away,38534,19948,Stuart Holden,stuart-holden,M,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1379939,18,30,Bolton_Wanderers,Away,38639,75773,Chung-yong Lee,chung-yong-lee,M,True,,,,,,,
+2010-11,1379939,18,30,Bolton_Wanderers,Away,542472,80954,Rodrigo,rodrigo,M,True,0.0,0.0,7.0,0.0,,,0.0
+2010-11,1379939,18,30,Bolton_Wanderers,Away,2272736,18621,Tamir Cohen,tamir-cohen,M,True,0.0,0.0,7.0,0.0,,,0.0
+2010-11,1379946,19,30,Bolton_Wanderers,Home,10673,19930,Mark Davies,mark-davies,M,True,0.0,0.0,14.0,0.0,,,0.0
+2010-11,1379946,19,30,Bolton_Wanderers,Home,14051,27696,Fabrice Muamba,fabrice-muamba,M,False,0.0,0.0,76.0,0.0,,,0.0
+2010-11,1379946,19,30,Bolton_Wanderers,Home,38534,19948,Stuart Holden,stuart-holden,M,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1379946,19,30,Bolton_Wanderers,Home,38639,75773,Chung-yong Lee,chung-yong-lee,M,False,1.0,0.0,80.0,0.0,,,0.0
+2010-11,1379946,19,30,Bolton_Wanderers,Home,542472,80954,Rodrigo,rodrigo,M,True,,,,,,,
+2010-11,1379953,20,30,Bolton_Wanderers,Away,10673,19930,Mark Davies,mark-davies,M,True,0.0,0.0,8.0,0.0,,,0.0
+2010-11,1379953,20,30,Bolton_Wanderers,Away,14051,27696,Fabrice Muamba,fabrice-muamba,M,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1379953,20,30,Bolton_Wanderers,Away,38534,19948,Stuart Holden,stuart-holden,M,False,0.0,0.0,82.0,0.0,,,0.0
+2010-11,1379953,20,30,Bolton_Wanderers,Away,542472,80954,Rodrigo,rodrigo,M,False,0.0,0.0,72.0,0.0,,,0.0
+2010-11,1379964,21,30,Bolton_Wanderers,Away,10673,19930,Mark Davies,mark-davies,M,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1379964,21,30,Bolton_Wanderers,Away,14051,27696,Fabrice Muamba,fabrice-muamba,M,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1379964,21,30,Bolton_Wanderers,Away,542472,80954,Rodrigo,rodrigo,M,False,0.0,0.0,69.0,0.0,,,0.0
+2010-11,1379974,22,30,Bolton_Wanderers,Home,10673,19930,Mark Davies,mark-davies,M,False,1.0,0.0,90.0,0.0,,,0.0
+2010-11,1379974,22,30,Bolton_Wanderers,Home,14051,27696,Fabrice Muamba,fabrice-muamba,M,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1379974,22,30,Bolton_Wanderers,Home,542472,80954,Rodrigo,rodrigo,M,False,0.0,1.0,83.0,0.0,,,0.0
+2010-11,1379986,23,30,Bolton_Wanderers,Away,10673,19930,Mark Davies,mark-davies,M,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1379986,23,30,Bolton_Wanderers,Away,14051,27696,Fabrice Muamba,fabrice-muamba,M,False,0.0,0.0,66.0,0.0,,,0.0
+2010-11,1379986,23,30,Bolton_Wanderers,Away,38534,19948,Stuart Holden,stuart-holden,M,False,0.0,0.0,83.0,0.0,,,0.0
+2010-11,1379986,23,30,Bolton_Wanderers,Away,542472,80954,Rodrigo,rodrigo,M,True,0.0,0.0,24.0,0.0,,,0.0
+2010-11,1379986,23,30,Bolton_Wanderers,Away,2272736,18621,Tamir Cohen,tamir-cohen,M,True,0.0,0.0,7.0,0.0,,,0.0
+2010-11,1379996,24,30,Bolton_Wanderers,Home,10673,19930,Mark Davies,mark-davies,M,True,0.0,0.0,28.0,0.0,,,0.0
+2010-11,1379996,24,30,Bolton_Wanderers,Home,14051,27696,Fabrice Muamba,fabrice-muamba,M,False,0.0,0.0,62.0,0.0,,,0.0
+2010-11,1379996,24,30,Bolton_Wanderers,Home,38534,19948,Stuart Holden,stuart-holden,M,False,0.0,0.0,87.0,0.0,,,0.0
+2010-11,1379996,24,30,Bolton_Wanderers,Home,542472,80954,Rodrigo,rodrigo,M,True,0.0,0.0,27.0,0.0,,,0.0
+2010-11,1379996,24,30,Bolton_Wanderers,Home,2272736,18621,Tamir Cohen,tamir-cohen,M,True,,,,,,,
+2010-11,1380005,25,30,Bolton_Wanderers,Home,10673,19930,Mark Davies,mark-davies,M,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1380005,25,30,Bolton_Wanderers,Home,14051,27696,Fabrice Muamba,fabrice-muamba,M,True,0.0,0.0,1.0,0.0,,,0.0
+2010-11,1380005,25,30,Bolton_Wanderers,Home,38534,19948,Stuart Holden,stuart-holden,M,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1380005,25,30,Bolton_Wanderers,Home,38639,75773,Chung-yong Lee,chung-yong-lee,M,False,0.0,0.0,67.0,0.0,,,0.0
+2010-11,1380005,25,30,Bolton_Wanderers,Home,542472,80954,Rodrigo,rodrigo,M,True,0.0,0.0,23.0,0.0,,,0.0
+2010-11,1380018,26,30,Bolton_Wanderers,Away,10673,19930,Mark Davies,mark-davies,M,False,1.0,0.0,90.0,0.0,,,0.0
+2010-11,1380018,26,30,Bolton_Wanderers,Away,14051,27696,Fabrice Muamba,fabrice-muamba,M,True,0.0,0.0,3.0,0.0,,,0.0
+2010-11,1380018,26,30,Bolton_Wanderers,Away,38534,19948,Stuart Holden,stuart-holden,M,False,0.0,0.0,87.0,0.0,,,0.0
+2010-11,1380018,26,30,Bolton_Wanderers,Away,38639,75773,Chung-yong Lee,chung-yong-lee,M,True,0.0,0.0,22.0,0.0,,,0.0
+2010-11,1380018,26,30,Bolton_Wanderers,Away,542472,80954,Rodrigo,rodrigo,M,True,,,,,,,
+2010-11,1380026,27,30,Bolton_Wanderers,Home,10673,19930,Mark Davies,mark-davies,M,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1380026,27,30,Bolton_Wanderers,Home,14051,27696,Fabrice Muamba,fabrice-muamba,M,True,0.0,0.0,1.0,0.0,,,0.0
+2010-11,1380026,27,30,Bolton_Wanderers,Home,38534,19948,Stuart Holden,stuart-holden,M,False,1.0,0.0,90.0,0.0,,,0.0
+2010-11,1380026,27,30,Bolton_Wanderers,Home,38639,75773,Chung-yong Lee,chung-yong-lee,M,True,1.0,0.0,31.0,0.0,,,0.0
+2010-11,1380026,27,30,Bolton_Wanderers,Home,542472,80954,Rodrigo,rodrigo,M,True,,,,,,,
+2010-11,1380036,28,30,Bolton_Wanderers,Away,10673,19930,Mark Davies,mark-davies,M,True,0.0,0.0,11.0,0.0,,,0.0
+2010-11,1380036,28,30,Bolton_Wanderers,Away,14051,27696,Fabrice Muamba,fabrice-muamba,M,False,0.0,0.0,79.0,0.0,,,0.0
+2010-11,1380036,28,30,Bolton_Wanderers,Away,38534,19948,Stuart Holden,stuart-holden,M,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1380036,28,30,Bolton_Wanderers,Away,38639,75773,Chung-yong Lee,chung-yong-lee,M,True,,,,,,,
+2010-11,1380036,28,30,Bolton_Wanderers,Away,542472,80954,Rodrigo,rodrigo,M,True,,,,,,,
+2010-11,1380045,29,30,Bolton_Wanderers,Home,10673,19930,Mark Davies,mark-davies,M,True,0.0,0.0,30.0,0.0,,,0.0
+2010-11,1380045,29,30,Bolton_Wanderers,Home,14051,27696,Fabrice Muamba,fabrice-muamba,M,False,0.0,0.0,60.0,0.0,,,0.0
+2010-11,1380045,29,30,Bolton_Wanderers,Home,38534,19948,Stuart Holden,stuart-holden,M,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1380045,29,30,Bolton_Wanderers,Home,38639,75773,Chung-yong Lee,chung-yong-lee,M,True,0.0,0.0,30.0,0.0,,,0.0
+2010-11,1380045,29,30,Bolton_Wanderers,Home,542472,80954,Rodrigo,rodrigo,M,True,,,,,,,
+2010-11,1380056,30,30,Bolton_Wanderers,Away,14051,27696,Fabrice Muamba,fabrice-muamba,M,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1380056,30,30,Bolton_Wanderers,Away,38534,19948,Stuart Holden,stuart-holden,M,False,0.0,0.0,78.0,0.0,,,0.0
+2010-11,1380056,30,30,Bolton_Wanderers,Away,38639,75773,Chung-yong Lee,chung-yong-lee,M,True,0.0,0.0,30.0,0.0,,,0.0
+2010-11,1380056,30,30,Bolton_Wanderers,Away,542472,80954,Rodrigo,rodrigo,M,True,,,,,,,
+2010-11,1380063,31,30,Bolton_Wanderers,Away,14051,27696,Fabrice Muamba,fabrice-muamba,M,False,0.0,0.0,79.0,0.0,,,0.0
+2010-11,1380063,31,30,Bolton_Wanderers,Away,38639,75773,Chung-yong Lee,chung-yong-lee,M,True,0.0,0.0,26.0,0.0,,,0.0
+2010-11,1380063,31,30,Bolton_Wanderers,Away,542472,80954,Rodrigo,rodrigo,M,True,,,,,,,
+2010-11,1380063,31,30,Bolton_Wanderers,Away,2272736,18621,Tamir Cohen,tamir-cohen,M,False,0.0,0.0,64.0,0.0,,,0.0
+2010-11,1380075,32,30,Bolton_Wanderers,Home,14051,27696,Fabrice Muamba,fabrice-muamba,M,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1380075,32,30,Bolton_Wanderers,Home,38639,75773,Chung-yong Lee,chung-yong-lee,M,False,0.0,1.0,78.0,0.0,,,0.0
+2010-11,1380075,32,30,Bolton_Wanderers,Home,542472,80954,Rodrigo,rodrigo,M,True,0.0,0.0,11.0,0.0,,,0.0
+2010-11,1380075,32,30,Bolton_Wanderers,Home,2272736,18621,Tamir Cohen,tamir-cohen,M,True,,,,,,,
+2010-11,1380085,33,30,Bolton_Wanderers,Away,14051,27696,Fabrice Muamba,fabrice-muamba,M,False,0.0,0.0,72.0,0.0,,,0.0
+2010-11,1380085,33,30,Bolton_Wanderers,Away,38639,75773,Chung-yong Lee,chung-yong-lee,M,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1380085,33,30,Bolton_Wanderers,Away,542472,80954,Rodrigo,rodrigo,M,True,,,,,,,
+2010-11,1380085,33,30,Bolton_Wanderers,Away,2272736,18621,Tamir Cohen,tamir-cohen,M,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1380095,34,30,Bolton_Wanderers,Home,10673,19930,Mark Davies,mark-davies,M,True,0.0,0.0,18.0,0.0,,,0.0
+2010-11,1380095,34,30,Bolton_Wanderers,Home,14051,27696,Fabrice Muamba,fabrice-muamba,M,False,0.0,0.0,72.0,0.0,,,0.0
+2010-11,1380095,34,30,Bolton_Wanderers,Home,38639,75773,Chung-yong Lee,chung-yong-lee,M,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1380095,34,30,Bolton_Wanderers,Home,542472,80954,Rodrigo,rodrigo,M,True,,,,,,,
+2010-11,1380095,34,30,Bolton_Wanderers,Home,2272736,18621,Tamir Cohen,tamir-cohen,M,True,0.0,1.0,5.0,0.0,,,0.0
+2010-11,1380104,35,30,Bolton_Wanderers,Away,14051,27696,Fabrice Muamba,fabrice-muamba,M,True,,,,,,,
+2010-11,1380104,35,30,Bolton_Wanderers,Away,38639,75773,Chung-yong Lee,chung-yong-lee,M,True,0.0,0.0,30.0,0.0,,,0.0
+2010-11,1380104,35,30,Bolton_Wanderers,Away,542472,80954,Rodrigo,rodrigo,M,False,0.0,0.0,60.0,0.0,,,0.0
+2010-11,1380104,35,30,Bolton_Wanderers,Away,2272736,18621,Tamir Cohen,tamir-cohen,M,False,0.0,0.0,90.0,0.0,,,0.0
+2010-11,1380113,36,30,Bolton_Wanderers,Home,14051,27696,Fabrice Muamba,fabrice-muamba,M,False,0.0,0.0,46.0,0.0,,,0.0
+2010-11,1380113,36,30,Bolton_Wanderers,Home,38639,75773,Chung-yong Lee,chung-yong-lee,M,False,0.0,0.0,76.0,0.0,,,0.0
+2010-11,1380113,36,30,Bolton_Wanderers,Home,542472,80954,Rodrigo,rodrigo,M,True,1.0,0.0,14.0,0.0,,,0.0
+2010-11,1380113,36,30,Bolton_Wanderers,Home,2272736,18621,Tamir Cohen,tamir-cohen,M,True,,,,,,,
+2010-11,1380125,37,30,Bolton_Wanderers,Away,14051,27696,Fabrice Muamba,fabrice-muamba,M,False,0.0,0.0,50.0,0.0,,,0.0
+2010-11,1380125,37,30,Bolton_Wanderers,Away,38639,75773,Chung-yong Lee,chung-yong-lee,M,False,1.0,0.0,90.0,0.0,,,0.0
+2010-11,1380125,37,30,Bolton_Wanderers,Away,542472,80954,Rodrigo,rodrigo,M,True,0.0,0.0,7.0,0.0,,,0.0
+2010-11,1380125,37,30,Bolton_Wanderers,Away,2272736,18621,Tamir Cohen,tamir-cohen,M,True,0.0,0.0,40.0,0.0,,,0.0
+2010-11,1380133,38,30,Bolton_Wanderers,Home,38639,75773,Chung-yong Lee,chung-yong-lee,M,False,0.0,0.0,76.0,0.0,,,0.0
+2010-11,1380133,38,30,Bolton_Wanderers,Home,152808,98464,Josh Vela,josh-vela,M,True,,,,,,,
+2010-11,1380133,38,30,Bolton_Wanderers,Home,542472,80954,Rodrigo,rodrigo,M,True,0.0,0.0,14.0,0.0,,,0.0
+2010-11,1380133,38,30,Bolton_Wanderers,Home,2272736,18621,Tamir Cohen,tamir-cohen,M,True,0.0,0.0,19.0,0.0,,,0.0

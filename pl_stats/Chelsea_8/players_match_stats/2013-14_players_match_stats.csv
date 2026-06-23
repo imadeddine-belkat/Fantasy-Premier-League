@@ -1,685 +1,685 @@
-season,matchId,gameweek,team_id,team,venue,playerId,pl_code,playerName,slug,position,substitute,goalAssist,goals,minutesPlayed,ownGoals,totalShots
-2013-14,3964789,1,8,Chelsea,Home,2,3785,Ashley Cole,ashley-cole,D,False,0.0,0.0,90.0,0.0,0.0
-2013-14,3964789,1,8,Chelsea,Home,803,1827,Mark Schwarzer,mark-schwarzer,G,True,,,,,
-2013-14,3964789,1,8,Chelsea,Home,1185,11334,Petr Čech,petr-cech,G,False,0.0,0.0,90.0,0.0,0.0
-2013-14,3964789,1,8,Chelsea,Home,1205,1718,John Terry,john-terry,D,False,0.0,0.0,90.0,0.0,0.0
-2013-14,3964789,1,8,Chelsea,Home,1216,2051,Frank Lampard,frank-lampard,M,False,0.0,1.0,90.0,0.0,0.0
-2013-14,3964789,1,8,Chelsea,Home,2436,14402,Fernando Torres,fernando-torres,F,False,0.0,0.0,75.0,0.0,0.0
-2013-14,3964789,1,8,Chelsea,Home,3300,8442,Michael Essien,michael-essien,M,True,,,,,
-2013-14,3964789,1,8,Chelsea,Home,9628,19419,Gary Cahill,gary-cahill,D,False,0.0,0.0,90.0,0.0,0.0
-2013-14,3964789,1,8,Chelsea,Home,25233,41135,Branislav Ivanović,branislav-ivanovic,D,False,0.0,0.0,90.0,0.0,0.0
-2013-14,3964789,1,8,Chelsea,Home,27583,42786,Eden Hazard,eden-hazard,F,False,0.0,0.0,90.0,0.0,0.0
-2013-14,3964789,1,8,Chelsea,Home,28253,47412,Demba Ba,demba-ba,F,True,,,,,
-2013-14,3964789,1,8,Chelsea,Home,28367,43670,Juan Mata,juan-mata,M,True,,,,,
-2013-14,3964789,1,8,Chelsea,Home,33110,53392,Ramires,ramires,M,False,0.0,0.0,90.0,0.0,0.0
-2013-14,3964789,1,8,Chelsea,Home,39400,61262,Oscar,oscar,M,False,0.0,1.0,85.0,0.0,0.0
-2013-14,3964789,1,8,Chelsea,Home,70492,66842,Andre Schürrle,andre-schurrle,F,True,0.0,0.0,23.0,0.0,0.0
-2013-14,3964789,1,8,Chelsea,Home,70996,61366,Kevin De Bruyne,kevin-de-bruyne,M,False,0.0,0.0,67.0,0.0,0.0
-2013-14,3964789,1,8,Chelsea,Home,78893,66749,Romelu Lukaku,romelu-lukaku,F,True,0.0,0.0,15.0,0.0,0.0
-2013-14,3964789,1,8,Chelsea,Home,112794,82660,Marco van Ginkel,marco-van-ginkel,F,True,0.0,0.0,5.0,0.0,0.0
-2013-14,3964821,2,8,Chelsea,Away,2,3785,Ashley Cole,ashley-cole,D,False,0.0,0.0,90.0,0.0,0.0
-2013-14,3964821,2,8,Chelsea,Away,803,1827,Mark Schwarzer,mark-schwarzer,G,True,,,,,
-2013-14,3964821,2,8,Chelsea,Away,1185,11334,Petr Čech,petr-cech,G,False,0.0,0.0,90.0,0.0,0.0
-2013-14,3964821,2,8,Chelsea,Away,1205,1718,John Terry,john-terry,D,False,0.0,0.0,90.0,0.0,0.0
-2013-14,3964821,2,8,Chelsea,Away,1216,2051,Frank Lampard,frank-lampard,M,False,0.0,0.0,90.0,0.0,0.0
-2013-14,3964821,2,8,Chelsea,Away,2436,14402,Fernando Torres,fernando-torres,F,True,0.0,0.0,30.0,0.0,0.0
-2013-14,3964821,2,8,Chelsea,Away,3300,8442,Michael Essien,michael-essien,M,True,,,,,
-2013-14,3964821,2,8,Chelsea,Away,7311,28495,John Obi Mikel,john-obi-mikel,M,True,0.0,0.0,3.0,0.0,0.0
-2013-14,3964821,2,8,Chelsea,Away,9628,19419,Gary Cahill,gary-cahill,D,False,0.0,0.0,90.0,0.0,0.0
-2013-14,3964821,2,8,Chelsea,Away,21555,41328,César Azpilicueta,cesar-azpilicueta,D,True,0.0,0.0,1.0,0.0,0.0
-2013-14,3964821,2,8,Chelsea,Away,25233,41135,Branislav Ivanović,branislav-ivanovic,D,False,0.0,0.0,90.0,0.0,0.0
-2013-14,3964821,2,8,Chelsea,Away,27583,42786,Eden Hazard,eden-hazard,F,False,0.0,0.0,90.0,0.0,0.0
-2013-14,3964821,2,8,Chelsea,Away,28367,43670,Juan Mata,juan-mata,M,True,,,,,
-2013-14,3964821,2,8,Chelsea,Away,33110,53392,Ramires,ramires,M,False,0.0,0.0,90.0,0.0,0.0
-2013-14,3964821,2,8,Chelsea,Away,39400,61262,Oscar,oscar,M,False,0.0,0.0,90.0,0.0,0.0
-2013-14,3964821,2,8,Chelsea,Away,70492,66842,Andre Schürrle,andre-schurrle,F,False,0.0,0.0,87.0,0.0,0.0
-2013-14,3964821,2,8,Chelsea,Away,70996,61366,Kevin De Bruyne,kevin-de-bruyne,M,False,0.0,0.0,60.0,0.0,0.0
-2013-14,3964821,2,8,Chelsea,Away,78893,66749,Romelu Lukaku,romelu-lukaku,F,True,,,,,
-2013-14,4166893,3,8,Chelsea,Home,2,3785,Ashley Cole,ashley-cole,D,False,0.0,0.0,90.0,0.0,0.0
-2013-14,4166893,3,8,Chelsea,Home,803,1827,Mark Schwarzer,mark-schwarzer,G,True,,,,,
-2013-14,4166893,3,8,Chelsea,Home,1185,11334,Petr Čech,petr-cech,G,False,0.0,0.0,90.0,0.0,0.0
-2013-14,4166893,3,8,Chelsea,Home,1205,1718,John Terry,john-terry,D,False,0.0,0.0,90.0,0.0,0.0
-2013-14,4166893,3,8,Chelsea,Home,1216,2051,Frank Lampard,frank-lampard,M,False,0.0,0.0,90.0,0.0,0.0
-2013-14,4166893,3,8,Chelsea,Home,7311,28495,John Obi Mikel,john-obi-mikel,M,True,,,,,
-2013-14,4166893,3,8,Chelsea,Home,9628,19419,Gary Cahill,gary-cahill,D,False,0.0,0.0,90.0,0.0,0.0
-2013-14,4166893,3,8,Chelsea,Home,21555,41328,César Azpilicueta,cesar-azpilicueta,D,True,,,,,
-2013-14,4166893,3,8,Chelsea,Home,25233,41135,Branislav Ivanović,branislav-ivanovic,D,False,0.0,1.0,90.0,0.0,0.0
-2013-14,4166893,3,8,Chelsea,Home,27583,42786,Eden Hazard,eden-hazard,F,False,0.0,0.0,90.0,0.0,0.0
-2013-14,4166893,3,8,Chelsea,Home,28253,47412,Demba Ba,demba-ba,F,False,0.0,0.0,65.0,0.0,0.0
-2013-14,4166893,3,8,Chelsea,Home,28367,43670,Juan Mata,juan-mata,M,False,0.0,0.0,65.0,0.0,0.0
-2013-14,4166893,3,8,Chelsea,Home,33110,53392,Ramires,ramires,M,False,0.0,0.0,90.0,0.0,0.0
-2013-14,4166893,3,8,Chelsea,Home,39400,61262,Oscar,oscar,M,False,0.0,0.0,84.0,0.0,0.0
-2013-14,4166893,3,8,Chelsea,Home,70492,66842,Andre Schürrle,andre-schurrle,F,True,0.0,0.0,25.0,0.0,0.0
-2013-14,4166893,3,8,Chelsea,Home,70996,61366,Kevin De Bruyne,kevin-de-bruyne,M,True,,,,,
-2013-14,4166893,3,8,Chelsea,Home,78893,66749,Romelu Lukaku,romelu-lukaku,F,True,0.0,0.0,25.0,0.0,0.0
-2013-14,4166893,3,8,Chelsea,Home,112794,82660,Marco van Ginkel,marco-van-ginkel,F,True,0.0,0.0,6.0,0.0,0.0
-2013-14,3965119,4,8,Chelsea,Away,2,3785,Ashley Cole,ashley-cole,D,False,0.0,0.0,69.0,0.0,0.0
-2013-14,3965119,4,8,Chelsea,Away,803,1827,Mark Schwarzer,mark-schwarzer,G,True,,,,,
-2013-14,3965119,4,8,Chelsea,Away,1185,11334,Petr Čech,petr-cech,G,False,0.0,0.0,90.0,0.0,0.0
-2013-14,3965119,4,8,Chelsea,Away,1205,1718,John Terry,john-terry,D,False,0.0,0.0,90.0,0.0,0.0
-2013-14,3965119,4,8,Chelsea,Away,1216,2051,Frank Lampard,frank-lampard,M,True,0.0,0.0,33.0,0.0,0.0
-2013-14,3965119,4,8,Chelsea,Away,2436,14402,Fernando Torres,fernando-torres,F,True,0.0,0.0,21.0,0.0,0.0
-2013-14,3965119,4,8,Chelsea,Away,3300,8442,Michael Essien,michael-essien,M,True,,,,,
-2013-14,3965119,4,8,Chelsea,Away,7311,28495,John Obi Mikel,john-obi-mikel,M,False,0.0,0.0,90.0,0.0,0.0
-2013-14,3965119,4,8,Chelsea,Away,9628,19419,Gary Cahill,gary-cahill,D,True,,,,,
-2013-14,3965119,4,8,Chelsea,Away,11688,8438,Samuel Eto'o,samuel-etoo,F,False,0.0,0.0,90.0,0.0,0.0
-2013-14,3965119,4,8,Chelsea,Away,21300,41270,David Luiz,david-luiz,D,False,0.0,0.0,90.0,0.0,0.0
-2013-14,3965119,4,8,Chelsea,Away,25233,41135,Branislav Ivanović,branislav-ivanovic,D,False,0.0,0.0,90.0,0.0,0.0
-2013-14,3965119,4,8,Chelsea,Away,27583,42786,Eden Hazard,eden-hazard,F,False,0.0,0.0,90.0,0.0,0.0
-2013-14,3965119,4,8,Chelsea,Away,28367,43670,Juan Mata,juan-mata,M,False,0.0,0.0,57.0,0.0,0.0
-2013-14,3965119,4,8,Chelsea,Away,33110,53392,Ramires,ramires,M,False,0.0,0.0,90.0,0.0,0.0
-2013-14,3965119,4,8,Chelsea,Away,39400,61262,Oscar,oscar,M,True,0.0,0.0,33.0,0.0,0.0
-2013-14,3965119,4,8,Chelsea,Away,70492,66842,Andre Schürrle,andre-schurrle,F,False,0.0,0.0,57.0,0.0,0.0
-2013-14,3965119,4,8,Chelsea,Away,70996,61366,Kevin De Bruyne,kevin-de-bruyne,M,True,,,,,
-2013-14,3965141,5,8,Chelsea,Home,2,3785,Ashley Cole,ashley-cole,D,False,0.0,0.0,90.0,0.0,0.0
-2013-14,3965141,5,8,Chelsea,Home,803,1827,Mark Schwarzer,mark-schwarzer,G,True,,,,,
-2013-14,3965141,5,8,Chelsea,Home,1185,11334,Petr Čech,petr-cech,G,False,0.0,0.0,90.0,0.0,0.0
-2013-14,3965141,5,8,Chelsea,Home,1205,1718,John Terry,john-terry,D,False,0.0,0.0,90.0,0.0,0.0
-2013-14,3965141,5,8,Chelsea,Home,1216,2051,Frank Lampard,frank-lampard,M,True,0.0,0.0,11.0,0.0,0.0
-2013-14,3965141,5,8,Chelsea,Home,2436,14402,Fernando Torres,fernando-torres,F,True,0.0,0.0,26.0,0.0,0.0
-2013-14,3965141,5,8,Chelsea,Home,3300,8442,Michael Essien,michael-essien,M,True,,,,,
-2013-14,3965141,5,8,Chelsea,Home,7311,28495,John Obi Mikel,john-obi-mikel,M,False,0.0,1.0,90.0,0.0,0.0
-2013-14,3965141,5,8,Chelsea,Home,9628,19419,Gary Cahill,gary-cahill,D,False,0.0,0.0,90.0,0.0,0.0
-2013-14,3965141,5,8,Chelsea,Home,11688,8438,Samuel Eto'o,samuel-etoo,F,False,0.0,0.0,64.0,0.0,0.0
-2013-14,3965141,5,8,Chelsea,Home,21555,41328,César Azpilicueta,cesar-azpilicueta,D,True,,,,,
-2013-14,3965141,5,8,Chelsea,Home,25233,41135,Branislav Ivanović,branislav-ivanovic,D,False,0.0,0.0,90.0,0.0,0.0
-2013-14,3965141,5,8,Chelsea,Home,27583,42786,Eden Hazard,eden-hazard,F,False,0.0,0.0,85.0,0.0,0.0
-2013-14,3965141,5,8,Chelsea,Home,31417,47431,Willian,willian,M,True,,,,,
-2013-14,3965141,5,8,Chelsea,Home,33110,53392,Ramires,ramires,M,False,0.0,0.0,90.0,0.0,0.0
-2013-14,3965141,5,8,Chelsea,Home,39400,61262,Oscar,oscar,M,False,0.0,1.0,90.0,0.0,0.0
-2013-14,3965141,5,8,Chelsea,Home,70492,66842,Andre Schürrle,andre-schurrle,F,False,0.0,0.0,79.0,0.0,0.0
-2013-14,3965141,5,8,Chelsea,Home,70996,61366,Kevin De Bruyne,kevin-de-bruyne,M,True,0.0,0.0,5.0,0.0,0.0
-2013-14,3965175,6,8,Chelsea,Away,2,3785,Ashley Cole,ashley-cole,D,False,0.0,0.0,90.0,0.0,0.0
-2013-14,3965175,6,8,Chelsea,Away,803,1827,Mark Schwarzer,mark-schwarzer,G,True,,,,,
-2013-14,3965175,6,8,Chelsea,Away,1185,11334,Petr Čech,petr-cech,G,False,0.0,0.0,90.0,0.0,0.0
-2013-14,3965175,6,8,Chelsea,Away,1205,1718,John Terry,john-terry,D,False,0.0,1.0,90.0,0.0,0.0
-2013-14,3965175,6,8,Chelsea,Away,1216,2051,Frank Lampard,frank-lampard,M,False,0.0,0.0,90.0,0.0,0.0
-2013-14,3965175,6,8,Chelsea,Away,2436,14402,Fernando Torres,fernando-torres,F,False,0.0,0.0,81.0,0.0,0.0
-2013-14,3965175,6,8,Chelsea,Away,3300,8442,Michael Essien,michael-essien,M,True,,,,,
-2013-14,3965175,6,8,Chelsea,Away,7311,28495,John Obi Mikel,john-obi-mikel,M,False,0.0,0.0,46.0,0.0,0.0
-2013-14,3965175,6,8,Chelsea,Away,9628,19419,Gary Cahill,gary-cahill,D,True,,,,,
-2013-14,3965175,6,8,Chelsea,Away,11688,8438,Samuel Eto'o,samuel-etoo,F,True,,,,,
-2013-14,3965175,6,8,Chelsea,Away,21300,41270,David Luiz,david-luiz,D,False,0.0,0.0,90.0,0.0,0.0
-2013-14,3965175,6,8,Chelsea,Away,21555,41328,César Azpilicueta,cesar-azpilicueta,D,True,0.0,0.0,7.0,0.0,0.0
-2013-14,3965175,6,8,Chelsea,Away,25233,41135,Branislav Ivanović,branislav-ivanovic,D,False,0.0,0.0,90.0,0.0,0.0
-2013-14,3965175,6,8,Chelsea,Away,27583,42786,Eden Hazard,eden-hazard,F,False,0.0,0.0,69.0,0.0,0.0
-2013-14,3965175,6,8,Chelsea,Away,28367,43670,Juan Mata,juan-mata,M,True,1.0,0.0,44.0,0.0,0.0
-2013-14,3965175,6,8,Chelsea,Away,33110,53392,Ramires,ramires,M,False,0.0,0.0,90.0,0.0,0.0
-2013-14,3965175,6,8,Chelsea,Away,39400,61262,Oscar,oscar,M,False,0.0,0.0,83.0,0.0,0.0
-2013-14,3965175,6,8,Chelsea,Away,70492,66842,Andre Schürrle,andre-schurrle,F,True,0.0,0.0,21.0,0.0,0.0
-2013-14,3965187,7,8,Chelsea,Away,2,3785,Ashley Cole,ashley-cole,D,False,0.0,0.0,75.0,0.0,0.0
-2013-14,3965187,7,8,Chelsea,Away,803,1827,Mark Schwarzer,mark-schwarzer,G,True,,,,,
-2013-14,3965187,7,8,Chelsea,Away,1185,11334,Petr Čech,petr-cech,G,False,0.0,0.0,90.0,0.0,0.0
-2013-14,3965187,7,8,Chelsea,Away,1205,1718,John Terry,john-terry,D,False,0.0,0.0,90.0,0.0,0.0
-2013-14,3965187,7,8,Chelsea,Away,1216,2051,Frank Lampard,frank-lampard,M,False,0.0,0.0,90.0,0.0,0.0
-2013-14,3965187,7,8,Chelsea,Away,3300,8442,Michael Essien,michael-essien,M,True,,,,,
-2013-14,3965187,7,8,Chelsea,Away,9628,19419,Gary Cahill,gary-cahill,D,True,,,,,
-2013-14,3965187,7,8,Chelsea,Away,11688,8438,Samuel Eto'o,samuel-etoo,F,True,0.0,0.0,17.0,0.0,0.0
-2013-14,3965187,7,8,Chelsea,Away,21300,41270,David Luiz,david-luiz,D,False,0.0,0.0,90.0,0.0,0.0
-2013-14,3965187,7,8,Chelsea,Away,21555,41328,César Azpilicueta,cesar-azpilicueta,D,True,,,,,
-2013-14,3965187,7,8,Chelsea,Away,25233,41135,Branislav Ivanović,branislav-ivanovic,D,False,0.0,0.0,90.0,0.0,0.0
-2013-14,3965187,7,8,Chelsea,Away,27583,42786,Eden Hazard,eden-hazard,F,True,0.0,1.0,15.0,0.0,0.0
-2013-14,3965187,7,8,Chelsea,Away,28253,47412,Demba Ba,demba-ba,F,False,1.0,0.0,73.0,0.0,0.0
-2013-14,3965187,7,8,Chelsea,Away,28367,43670,Juan Mata,juan-mata,M,False,0.0,0.0,81.0,0.0,0.0
-2013-14,3965187,7,8,Chelsea,Away,31417,47431,Willian,willian,M,True,0.0,1.0,9.0,0.0,0.0
-2013-14,3965187,7,8,Chelsea,Away,33110,53392,Ramires,ramires,M,False,0.0,0.0,90.0,0.0,0.0
-2013-14,3965187,7,8,Chelsea,Away,39400,61262,Oscar,oscar,M,False,0.0,1.0,90.0,0.0,0.0
-2013-14,3965187,7,8,Chelsea,Away,70492,66842,Andre Schürrle,andre-schurrle,F,False,0.0,0.0,90.0,0.0,0.0
-2013-14,3965201,8,8,Chelsea,Home,803,1827,Mark Schwarzer,mark-schwarzer,G,True,,,,,
-2013-14,3965201,8,8,Chelsea,Home,1185,11334,Petr Čech,petr-cech,G,False,0.0,0.0,90.0,0.0,0.0
-2013-14,3965201,8,8,Chelsea,Home,1205,1718,John Terry,john-terry,D,False,0.0,0.0,90.0,0.0,0.0
-2013-14,3965201,8,8,Chelsea,Home,1216,2051,Frank Lampard,frank-lampard,M,False,0.0,0.0,90.0,0.0,0.0
-2013-14,3965201,8,8,Chelsea,Home,2436,14402,Fernando Torres,fernando-torres,F,True,0.0,0.0,26.0,0.0,0.0
-2013-14,3965201,8,8,Chelsea,Home,3300,8442,Michael Essien,michael-essien,M,True,,,,,
-2013-14,3965201,8,8,Chelsea,Home,9628,19419,Gary Cahill,gary-cahill,D,True,,,,,
-2013-14,3965201,8,8,Chelsea,Home,11688,8438,Samuel Eto'o,samuel-etoo,F,False,0.0,1.0,69.0,0.0,0.0
-2013-14,3965201,8,8,Chelsea,Home,20756,40146,Ryan Bertrand,ryan-bertrand,D,False,0.0,0.0,64.0,0.0,0.0
-2013-14,3965201,8,8,Chelsea,Home,21300,41270,David Luiz,david-luiz,D,False,0.0,0.0,90.0,0.0,0.0
-2013-14,3965201,8,8,Chelsea,Home,21555,41328,César Azpilicueta,cesar-azpilicueta,D,True,0.0,0.0,21.0,0.0,0.0
-2013-14,3965201,8,8,Chelsea,Home,25233,41135,Branislav Ivanović,branislav-ivanovic,D,False,0.0,0.0,90.0,0.0,0.0
-2013-14,3965201,8,8,Chelsea,Home,27583,42786,Eden Hazard,eden-hazard,F,False,0.0,2.0,90.0,0.0,0.0
-2013-14,3965201,8,8,Chelsea,Home,28367,43670,Juan Mata,juan-mata,M,False,0.0,0.0,59.0,0.0,0.0
-2013-14,3965201,8,8,Chelsea,Home,31417,47431,Willian,willian,M,False,0.0,0.0,90.0,0.0,0.0
-2013-14,3965201,8,8,Chelsea,Home,33110,53392,Ramires,ramires,M,False,0.0,0.0,90.0,0.0,0.0
-2013-14,3965201,8,8,Chelsea,Home,39400,61262,Oscar,oscar,M,True,0.0,1.0,31.0,0.0,0.0
-2013-14,3965201,8,8,Chelsea,Home,70996,61366,Kevin De Bruyne,kevin-de-bruyne,M,True,,,,,
-2013-14,3965219,9,8,Chelsea,Home,2,3785,Ashley Cole,ashley-cole,D,False,0.0,0.0,90.0,0.0,0.0
-2013-14,3965219,9,8,Chelsea,Home,803,1827,Mark Schwarzer,mark-schwarzer,G,True,,,,,
-2013-14,3965219,9,8,Chelsea,Home,1185,11334,Petr Čech,petr-cech,G,False,0.0,0.0,90.0,0.0,0.0
-2013-14,3965219,9,8,Chelsea,Home,1205,1718,John Terry,john-terry,D,False,0.0,0.0,90.0,0.0,0.0
-2013-14,3965219,9,8,Chelsea,Home,1216,2051,Frank Lampard,frank-lampard,M,False,0.0,0.0,66.0,0.0,0.0
-2013-14,3965219,9,8,Chelsea,Home,2436,14402,Fernando Torres,fernando-torres,F,False,1.0,1.0,90.0,0.0,0.0
-2013-14,3965219,9,8,Chelsea,Home,7311,28495,John Obi Mikel,john-obi-mikel,M,True,0.0,0.0,24.0,0.0,0.0
-2013-14,3965219,9,8,Chelsea,Home,9628,19419,Gary Cahill,gary-cahill,D,False,0.0,0.0,90.0,0.0,0.0
-2013-14,3965219,9,8,Chelsea,Home,11688,8438,Samuel Eto'o,samuel-etoo,F,True,0.0,0.0,6.0,0.0,0.0
-2013-14,3965219,9,8,Chelsea,Home,21300,41270,David Luiz,david-luiz,D,True,,,,,
-2013-14,3965219,9,8,Chelsea,Home,21555,41328,César Azpilicueta,cesar-azpilicueta,D,True,,,,,
-2013-14,3965219,9,8,Chelsea,Home,25233,41135,Branislav Ivanović,branislav-ivanovic,D,False,0.0,0.0,90.0,0.0,0.0
-2013-14,3965219,9,8,Chelsea,Home,27583,42786,Eden Hazard,eden-hazard,F,False,0.0,0.0,84.0,0.0,0.0
-2013-14,3965219,9,8,Chelsea,Home,28367,43670,Juan Mata,juan-mata,M,True,,,,,
-2013-14,3965219,9,8,Chelsea,Home,31417,47431,Willian,willian,M,True,0.0,0.0,24.0,0.0,0.0
-2013-14,3965219,9,8,Chelsea,Home,33110,53392,Ramires,ramires,M,False,0.0,0.0,90.0,0.0,0.0
-2013-14,3965219,9,8,Chelsea,Home,39400,61262,Oscar,oscar,M,False,0.0,0.0,90.0,0.0,0.0
-2013-14,3965219,9,8,Chelsea,Home,70492,66842,Andre Schürrle,andre-schurrle,F,False,0.0,1.0,66.0,0.0,0.0
-2013-14,3965249,10,8,Chelsea,Away,2,3785,Ashley Cole,ashley-cole,D,False,0.0,0.0,90.0,0.0,0.0
-2013-14,3965249,10,8,Chelsea,Away,803,1827,Mark Schwarzer,mark-schwarzer,G,True,,,,,
-2013-14,3965249,10,8,Chelsea,Away,1185,11334,Petr Čech,petr-cech,G,False,0.0,0.0,90.0,0.0,0.0
-2013-14,3965249,10,8,Chelsea,Away,1205,1718,John Terry,john-terry,D,False,0.0,0.0,90.0,0.0,0.0
-2013-14,3965249,10,8,Chelsea,Away,1216,2051,Frank Lampard,frank-lampard,M,False,0.0,0.0,70.0,0.0,0.0
-2013-14,3965249,10,8,Chelsea,Away,2436,14402,Fernando Torres,fernando-torres,F,False,0.0,0.0,62.0,0.0,0.0
-2013-14,3965249,10,8,Chelsea,Away,7311,28495,John Obi Mikel,john-obi-mikel,M,True,,,,,
-2013-14,3965249,10,8,Chelsea,Away,9628,19419,Gary Cahill,gary-cahill,D,True,,,,,
-2013-14,3965249,10,8,Chelsea,Away,11688,8438,Samuel Eto'o,samuel-etoo,F,True,0.0,0.0,28.0,0.0,0.0
-2013-14,3965249,10,8,Chelsea,Away,21300,41270,David Luiz,david-luiz,D,False,0.0,0.0,90.0,0.0,0.0
-2013-14,3965249,10,8,Chelsea,Away,21555,41328,César Azpilicueta,cesar-azpilicueta,D,True,,,,,
-2013-14,3965249,10,8,Chelsea,Away,25233,41135,Branislav Ivanović,branislav-ivanovic,D,False,0.0,0.0,90.0,0.0,0.0
-2013-14,3965249,10,8,Chelsea,Away,27583,42786,Eden Hazard,eden-hazard,F,False,0.0,0.0,90.0,0.0,0.0
-2013-14,3965249,10,8,Chelsea,Away,28367,43670,Juan Mata,juan-mata,M,False,0.0,0.0,62.0,0.0,0.0
-2013-14,3965249,10,8,Chelsea,Away,31417,47431,Willian,willian,M,True,0.0,0.0,28.0,0.0,0.0
-2013-14,3965249,10,8,Chelsea,Away,33110,53392,Ramires,ramires,M,False,0.0,0.0,90.0,0.0,0.0
-2013-14,3965249,10,8,Chelsea,Away,39400,61262,Oscar,oscar,M,False,0.0,0.0,90.0,0.0,0.0
-2013-14,3965249,10,8,Chelsea,Away,70492,66842,Andre Schürrle,andre-schurrle,F,True,0.0,0.0,20.0,0.0,0.0
-2013-14,3965259,11,8,Chelsea,Home,2,3785,Ashley Cole,ashley-cole,D,True,,,,,
-2013-14,3965259,11,8,Chelsea,Home,803,1827,Mark Schwarzer,mark-schwarzer,G,True,,,,,
-2013-14,3965259,11,8,Chelsea,Home,1185,11334,Petr Čech,petr-cech,G,False,0.0,0.0,90.0,0.0,0.0
-2013-14,3965259,11,8,Chelsea,Home,1205,1718,John Terry,john-terry,D,False,0.0,0.0,90.0,0.0,0.0
-2013-14,3965259,11,8,Chelsea,Home,1216,2051,Frank Lampard,frank-lampard,M,False,0.0,0.0,64.0,0.0,0.0
-2013-14,3965259,11,8,Chelsea,Home,7311,28495,John Obi Mikel,john-obi-mikel,M,True,0.0,0.0,18.0,0.0,0.0
-2013-14,3965259,11,8,Chelsea,Home,9628,19419,Gary Cahill,gary-cahill,D,False,0.0,0.0,90.0,0.0,0.0
-2013-14,3965259,11,8,Chelsea,Home,11688,8438,Samuel Eto'o,samuel-etoo,F,False,0.0,1.0,90.0,0.0,0.0
-2013-14,3965259,11,8,Chelsea,Home,21300,41270,David Luiz,david-luiz,D,True,,,,,
-2013-14,3965259,11,8,Chelsea,Home,21555,41328,César Azpilicueta,cesar-azpilicueta,D,False,0.0,0.0,72.0,0.0,0.0
-2013-14,3965259,11,8,Chelsea,Home,25233,41135,Branislav Ivanović,branislav-ivanovic,D,False,0.0,0.0,90.0,0.0,0.0
-2013-14,3965259,11,8,Chelsea,Home,27583,42786,Eden Hazard,eden-hazard,F,False,0.0,1.0,90.0,0.0,0.0
-2013-14,3965259,11,8,Chelsea,Home,28253,47412,Demba Ba,demba-ba,F,True,0.0,0.0,26.0,0.0,0.0
-2013-14,3965259,11,8,Chelsea,Home,28367,43670,Juan Mata,juan-mata,M,True,0.0,0.0,17.0,0.0,0.0
-2013-14,3965259,11,8,Chelsea,Home,31417,47431,Willian,willian,M,False,0.0,0.0,90.0,0.0,0.0
-2013-14,3965259,11,8,Chelsea,Home,33110,53392,Ramires,ramires,M,False,0.0,0.0,90.0,0.0,0.0
-2013-14,3965259,11,8,Chelsea,Home,39400,61262,Oscar,oscar,M,False,0.0,0.0,73.0,0.0,0.0
-2013-14,3965259,11,8,Chelsea,Home,70996,61366,Kevin De Bruyne,kevin-de-bruyne,M,True,,,,,
-2013-14,3965295,12,8,Chelsea,Away,2,3785,Ashley Cole,ashley-cole,D,True,,,,,
-2013-14,3965295,12,8,Chelsea,Away,803,1827,Mark Schwarzer,mark-schwarzer,G,True,,,,,
-2013-14,3965295,12,8,Chelsea,Away,1185,11334,Petr Čech,petr-cech,G,False,0.0,0.0,90.0,0.0,0.0
-2013-14,3965295,12,8,Chelsea,Away,1205,1718,John Terry,john-terry,D,False,0.0,0.0,90.0,0.0,0.0
-2013-14,3965295,12,8,Chelsea,Away,1216,2051,Frank Lampard,frank-lampard,M,False,0.0,2.0,90.0,0.0,0.0
-2013-14,3965295,12,8,Chelsea,Away,3300,8442,Michael Essien,michael-essien,M,True,0.0,0.0,6.0,0.0,0.0
-2013-14,3965295,12,8,Chelsea,Away,7311,28495,John Obi Mikel,john-obi-mikel,M,False,0.0,0.0,90.0,0.0,0.0
-2013-14,3965295,12,8,Chelsea,Away,9628,19419,Gary Cahill,gary-cahill,D,False,0.0,0.0,90.0,0.0,0.0
-2013-14,3965295,12,8,Chelsea,Away,11688,8438,Samuel Eto'o,samuel-etoo,F,False,0.0,0.0,79.0,0.0,0.0
-2013-14,3965295,12,8,Chelsea,Away,21555,41328,César Azpilicueta,cesar-azpilicueta,D,False,0.0,0.0,90.0,0.0,0.0
-2013-14,3965295,12,8,Chelsea,Away,25233,41135,Branislav Ivanović,branislav-ivanovic,D,False,0.0,0.0,90.0,0.0,0.0
-2013-14,3965295,12,8,Chelsea,Away,27583,42786,Eden Hazard,eden-hazard,F,False,0.0,0.0,84.0,0.0,0.0
-2013-14,3965295,12,8,Chelsea,Away,28253,47412,Demba Ba,demba-ba,F,True,0.0,0.0,11.0,0.0,0.0
-2013-14,3965295,12,8,Chelsea,Away,28367,43670,Juan Mata,juan-mata,M,True,,,,,
-2013-14,3965295,12,8,Chelsea,Away,31417,47431,Willian,willian,M,True,,,,,
-2013-14,3965295,12,8,Chelsea,Away,33110,53392,Ramires,ramires,M,False,0.0,0.0,90.0,0.0,0.0
-2013-14,3965295,12,8,Chelsea,Away,39400,61262,Oscar,oscar,M,False,0.0,1.0,83.0,0.0,0.0
-2013-14,3965295,12,8,Chelsea,Away,70492,66842,Andre Schürrle,andre-schurrle,F,True,0.0,0.0,7.0,0.0,0.0
-2013-14,3965301,13,8,Chelsea,Home,2,3785,Ashley Cole,ashley-cole,D,True,,,,,
-2013-14,3965301,13,8,Chelsea,Home,803,1827,Mark Schwarzer,mark-schwarzer,G,True,,,,,
-2013-14,3965301,13,8,Chelsea,Home,1185,11334,Petr Čech,petr-cech,G,False,0.0,0.0,90.0,0.0,0.0
-2013-14,3965301,13,8,Chelsea,Home,1205,1718,John Terry,john-terry,D,False,0.0,1.0,90.0,0.0,0.0
-2013-14,3965301,13,8,Chelsea,Home,1216,2051,Frank Lampard,frank-lampard,M,True,0.0,0.0,48.0,0.0,0.0
-2013-14,3965301,13,8,Chelsea,Home,2436,14402,Fernando Torres,fernando-torres,F,False,0.0,0.0,84.0,0.0,0.0
-2013-14,3965301,13,8,Chelsea,Home,3300,8442,Michael Essien,michael-essien,M,False,0.0,0.0,46.0,0.0,0.0
-2013-14,3965301,13,8,Chelsea,Home,7311,28495,John Obi Mikel,john-obi-mikel,M,True,0.0,0.0,6.0,0.0,0.0
-2013-14,3965301,13,8,Chelsea,Home,9628,19419,Gary Cahill,gary-cahill,D,False,0.0,1.0,90.0,0.0,0.0
-2013-14,3965301,13,8,Chelsea,Home,21555,41328,César Azpilicueta,cesar-azpilicueta,D,False,0.0,0.0,90.0,0.0,0.0
-2013-14,3965301,13,8,Chelsea,Home,25233,41135,Branislav Ivanović,branislav-ivanovic,D,False,0.0,0.0,90.0,0.0,0.0
-2013-14,3965301,13,8,Chelsea,Home,27583,42786,Eden Hazard,eden-hazard,F,False,0.0,0.0,90.0,0.0,0.0
-2013-14,3965301,13,8,Chelsea,Home,28253,47412,Demba Ba,demba-ba,F,True,0.0,1.0,44.0,0.0,0.0
-2013-14,3965301,13,8,Chelsea,Home,28367,43670,Juan Mata,juan-mata,M,False,1.0,0.0,90.0,0.0,0.0
-2013-14,3965301,13,8,Chelsea,Home,31417,47431,Willian,willian,M,True,,,,,
-2013-14,3965301,13,8,Chelsea,Home,33110,53392,Ramires,ramires,M,False,1.0,0.0,90.0,0.0,0.0
-2013-14,3965301,13,8,Chelsea,Home,39400,61262,Oscar,oscar,M,False,0.0,0.0,42.0,0.0,0.0
-2013-14,3965301,13,8,Chelsea,Home,70492,66842,Andre Schürrle,andre-schurrle,F,True,,,,,
-2013-14,3965329,14,8,Chelsea,Away,2,3785,Ashley Cole,ashley-cole,D,True,,,,,
-2013-14,3965329,14,8,Chelsea,Away,803,1827,Mark Schwarzer,mark-schwarzer,G,True,,,,,
-2013-14,3965329,14,8,Chelsea,Away,1185,11334,Petr Čech,petr-cech,G,False,0.0,0.0,90.0,0.0,0.0
-2013-14,3965329,14,8,Chelsea,Away,1205,1718,John Terry,john-terry,D,False,0.0,0.0,90.0,0.0,0.0
-2013-14,3965329,14,8,Chelsea,Away,1216,2051,Frank Lampard,frank-lampard,M,False,1.0,1.0,90.0,0.0,0.0
-2013-14,3965329,14,8,Chelsea,Away,2436,14402,Fernando Torres,fernando-torres,F,False,0.0,0.0,65.0,0.0,0.0
-2013-14,3965329,14,8,Chelsea,Away,3300,8442,Michael Essien,michael-essien,M,True,,,,,
-2013-14,3965329,14,8,Chelsea,Away,7311,28495,John Obi Mikel,john-obi-mikel,M,True,0.0,0.0,9.0,0.0,0.0
-2013-14,3965329,14,8,Chelsea,Away,9628,19419,Gary Cahill,gary-cahill,D,False,0.0,0.0,90.0,0.0,0.0
-2013-14,3965329,14,8,Chelsea,Away,21555,41328,César Azpilicueta,cesar-azpilicueta,D,False,0.0,0.0,90.0,0.0,0.0
-2013-14,3965329,14,8,Chelsea,Away,25233,41135,Branislav Ivanović,branislav-ivanovic,D,False,0.0,0.0,90.0,0.0,0.0
-2013-14,3965329,14,8,Chelsea,Away,27583,42786,Eden Hazard,eden-hazard,F,False,1.0,2.0,90.0,0.0,0.0
-2013-14,3965329,14,8,Chelsea,Away,28253,47412,Demba Ba,demba-ba,F,True,0.0,0.0,25.0,0.0,0.0
-2013-14,3965329,14,8,Chelsea,Away,28367,43670,Juan Mata,juan-mata,M,False,0.0,0.0,81.0,0.0,0.0
-2013-14,3965329,14,8,Chelsea,Away,31417,47431,Willian,willian,M,False,0.0,0.0,90.0,0.0,0.0
-2013-14,3965329,14,8,Chelsea,Away,33110,53392,Ramires,ramires,M,False,0.0,0.0,90.0,0.0,0.0
-2013-14,3965329,14,8,Chelsea,Away,70492,66842,Andre Schürrle,andre-schurrle,F,True,0.0,0.0,1.0,0.0,0.0
-2013-14,3965329,14,8,Chelsea,Away,70996,61366,Kevin De Bruyne,kevin-de-bruyne,M,True,,,,,
-2013-14,3965349,15,8,Chelsea,Away,2,3785,Ashley Cole,ashley-cole,D,True,,,,,
-2013-14,3965349,15,8,Chelsea,Away,803,1827,Mark Schwarzer,mark-schwarzer,G,True,,,,,
-2013-14,3965349,15,8,Chelsea,Away,1185,11334,Petr Čech,petr-cech,G,False,0.0,0.0,90.0,0.0,0.0
-2013-14,3965349,15,8,Chelsea,Away,1205,1718,John Terry,john-terry,D,False,0.0,0.0,90.0,0.0,0.0
-2013-14,3965349,15,8,Chelsea,Away,1216,2051,Frank Lampard,frank-lampard,M,True,0.0,0.0,20.0,0.0,0.0
-2013-14,3965349,15,8,Chelsea,Away,2436,14402,Fernando Torres,fernando-torres,F,False,0.0,0.0,59.0,0.0,0.0
-2013-14,3965349,15,8,Chelsea,Away,3300,8442,Michael Essien,michael-essien,M,True,,,,,
-2013-14,3965349,15,8,Chelsea,Away,7311,28495,John Obi Mikel,john-obi-mikel,M,False,0.0,0.0,70.0,0.0,0.0
-2013-14,3965349,15,8,Chelsea,Away,9628,19419,Gary Cahill,gary-cahill,D,False,0.0,0.0,90.0,0.0,0.0
-2013-14,3965349,15,8,Chelsea,Away,11688,8438,Samuel Eto'o,samuel-etoo,F,True,0.0,0.0,20.0,0.0,0.0
-2013-14,3965349,15,8,Chelsea,Away,21555,41328,César Azpilicueta,cesar-azpilicueta,D,False,0.0,0.0,90.0,0.0,0.0
-2013-14,3965349,15,8,Chelsea,Away,25233,41135,Branislav Ivanović,branislav-ivanovic,D,False,0.0,0.0,90.0,0.0,0.0
-2013-14,3965349,15,8,Chelsea,Away,27583,42786,Eden Hazard,eden-hazard,F,False,0.0,0.0,90.0,0.0,0.0
-2013-14,3965349,15,8,Chelsea,Away,28253,47412,Demba Ba,demba-ba,F,True,0.0,0.0,31.0,0.0,0.0
-2013-14,3965349,15,8,Chelsea,Away,28367,43670,Juan Mata,juan-mata,M,False,0.0,0.0,90.0,0.0,0.0
-2013-14,3965349,15,8,Chelsea,Away,33110,53392,Ramires,ramires,M,False,1.0,0.0,90.0,0.0,0.0
-2013-14,3965349,15,8,Chelsea,Away,70492,66842,Andre Schürrle,andre-schurrle,F,False,0.0,2.0,70.0,0.0,0.0
-2013-14,3965349,15,8,Chelsea,Away,70996,61366,Kevin De Bruyne,kevin-de-bruyne,M,True,,,,,
-2013-14,3965361,16,8,Chelsea,Home,2,3785,Ashley Cole,ashley-cole,D,True,,,,,
-2013-14,3965361,16,8,Chelsea,Home,803,1827,Mark Schwarzer,mark-schwarzer,G,True,,,,,
-2013-14,3965361,16,8,Chelsea,Home,1185,11334,Petr Čech,petr-cech,G,False,0.0,0.0,90.0,0.0,0.0
-2013-14,3965361,16,8,Chelsea,Home,1205,1718,John Terry,john-terry,D,False,0.0,0.0,90.0,0.0,0.0
-2013-14,3965361,16,8,Chelsea,Home,1216,2051,Frank Lampard,frank-lampard,M,True,,,,,
-2013-14,3965361,16,8,Chelsea,Home,2436,14402,Fernando Torres,fernando-torres,F,False,0.0,1.0,84.0,0.0,0.0
-2013-14,3965361,16,8,Chelsea,Home,3300,8442,Michael Essien,michael-essien,M,False,0.0,0.0,90.0,0.0,0.0
-2013-14,3965361,16,8,Chelsea,Home,11688,8438,Samuel Eto'o,samuel-etoo,F,True,,,,,
-2013-14,3965361,16,8,Chelsea,Home,21300,41270,David Luiz,david-luiz,D,False,0.0,0.0,90.0,0.0,0.0
-2013-14,3965361,16,8,Chelsea,Home,21555,41328,César Azpilicueta,cesar-azpilicueta,D,False,0.0,0.0,90.0,0.0,0.0
-2013-14,3965361,16,8,Chelsea,Home,25233,41135,Branislav Ivanović,branislav-ivanovic,D,False,0.0,0.0,90.0,0.0,0.0
-2013-14,3965361,16,8,Chelsea,Home,27583,42786,Eden Hazard,eden-hazard,F,False,1.0,0.0,90.0,0.0,0.0
-2013-14,3965361,16,8,Chelsea,Home,28253,47412,Demba Ba,demba-ba,F,True,0.0,0.0,6.0,0.0,0.0
-2013-14,3965361,16,8,Chelsea,Home,28367,43670,Juan Mata,juan-mata,M,False,0.0,0.0,62.0,0.0,0.0
-2013-14,3965361,16,8,Chelsea,Home,31417,47431,Willian,willian,M,False,0.0,0.0,82.0,0.0,0.0
-2013-14,3965361,16,8,Chelsea,Home,33110,53392,Ramires,ramires,M,False,0.0,1.0,90.0,0.0,0.0
-2013-14,3965361,16,8,Chelsea,Home,39400,61262,Oscar,oscar,M,True,0.0,0.0,28.0,0.0,0.0
-2013-14,3965361,16,8,Chelsea,Home,70492,66842,Andre Schürrle,andre-schurrle,F,True,0.0,0.0,8.0,0.0,0.0
-2013-14,3965377,17,8,Chelsea,Away,2,3785,Ashley Cole,ashley-cole,D,True,,,,,
-2013-14,3965377,17,8,Chelsea,Away,803,1827,Mark Schwarzer,mark-schwarzer,G,True,,,,,
-2013-14,3965377,17,8,Chelsea,Away,1185,11334,Petr Čech,petr-cech,G,False,0.0,0.0,90.0,0.0,0.0
-2013-14,3965377,17,8,Chelsea,Away,1205,1718,John Terry,john-terry,D,False,0.0,0.0,90.0,0.0,0.0
-2013-14,3965377,17,8,Chelsea,Away,1216,2051,Frank Lampard,frank-lampard,M,False,0.0,0.0,90.0,0.0,0.0
-2013-14,3965377,17,8,Chelsea,Away,2436,14402,Fernando Torres,fernando-torres,F,False,0.0,0.0,87.0,0.0,0.0
-2013-14,3965377,17,8,Chelsea,Away,7311,28495,John Obi Mikel,john-obi-mikel,M,False,0.0,0.0,90.0,0.0,0.0
-2013-14,3965377,17,8,Chelsea,Away,9628,19419,Gary Cahill,gary-cahill,D,False,0.0,0.0,90.0,0.0,0.0
-2013-14,3965377,17,8,Chelsea,Away,11688,8438,Samuel Eto'o,samuel-etoo,F,True,,,,,
-2013-14,3965377,17,8,Chelsea,Away,21300,41270,David Luiz,david-luiz,D,True,0.0,0.0,3.0,0.0,0.0
-2013-14,3965377,17,8,Chelsea,Away,21555,41328,César Azpilicueta,cesar-azpilicueta,D,False,0.0,0.0,90.0,0.0,0.0
-2013-14,3965377,17,8,Chelsea,Away,25233,41135,Branislav Ivanović,branislav-ivanovic,D,False,0.0,0.0,90.0,0.0,0.0
-2013-14,3965377,17,8,Chelsea,Away,27583,42786,Eden Hazard,eden-hazard,F,False,0.0,0.0,73.0,0.0,0.0
-2013-14,3965377,17,8,Chelsea,Away,28367,43670,Juan Mata,juan-mata,M,True,,,,,
-2013-14,3965377,17,8,Chelsea,Away,31417,47431,Willian,willian,M,False,0.0,0.0,77.0,0.0,0.0
-2013-14,3965377,17,8,Chelsea,Away,33110,53392,Ramires,ramires,M,False,0.0,0.0,90.0,0.0,0.0
-2013-14,3965377,17,8,Chelsea,Away,39400,61262,Oscar,oscar,M,True,0.0,0.0,13.0,0.0,0.0
-2013-14,3965377,17,8,Chelsea,Away,70492,66842,Andre Schürrle,andre-schurrle,F,True,0.0,0.0,17.0,0.0,0.0
-2013-14,3965401,18,8,Chelsea,Home,2,3785,Ashley Cole,ashley-cole,D,False,0.0,0.0,90.0,0.0,0.0
-2013-14,3965401,18,8,Chelsea,Home,803,1827,Mark Schwarzer,mark-schwarzer,G,True,,,,,
-2013-14,3965401,18,8,Chelsea,Home,1185,11334,Petr Čech,petr-cech,G,False,0.0,0.0,90.0,0.0,0.0
-2013-14,3965401,18,8,Chelsea,Home,1205,1718,John Terry,john-terry,D,False,0.0,0.0,90.0,0.0,0.0
-2013-14,3965401,18,8,Chelsea,Home,1216,2051,Frank Lampard,frank-lampard,M,True,0.0,0.0,23.0,0.0,0.0
-2013-14,3965401,18,8,Chelsea,Home,2436,14402,Fernando Torres,fernando-torres,F,True,,,,,
-2013-14,3965401,18,8,Chelsea,Home,7311,28495,John Obi Mikel,john-obi-mikel,M,False,0.0,0.0,90.0,0.0,0.0
-2013-14,3965401,18,8,Chelsea,Home,9628,19419,Gary Cahill,gary-cahill,D,True,,,,,
-2013-14,3965401,18,8,Chelsea,Home,11688,8438,Samuel Eto'o,samuel-etoo,F,False,0.0,0.0,90.0,0.0,0.0
-2013-14,3965401,18,8,Chelsea,Home,21300,41270,David Luiz,david-luiz,D,False,0.0,0.0,90.0,0.0,0.0
-2013-14,3965401,18,8,Chelsea,Home,21555,41328,César Azpilicueta,cesar-azpilicueta,D,True,,,,,
-2013-14,3965401,18,8,Chelsea,Home,25233,41135,Branislav Ivanović,branislav-ivanovic,D,False,0.0,0.0,90.0,0.0,0.0
-2013-14,3965401,18,8,Chelsea,Home,27583,42786,Eden Hazard,eden-hazard,F,False,0.0,1.0,82.0,0.0,0.0
-2013-14,3965401,18,8,Chelsea,Home,28367,43670,Juan Mata,juan-mata,M,False,0.0,0.0,72.0,0.0,0.0
-2013-14,3965401,18,8,Chelsea,Home,31417,47431,Willian,willian,M,True,0.0,0.0,8.0,0.0,0.0
-2013-14,3965401,18,8,Chelsea,Home,33110,53392,Ramires,ramires,M,False,0.0,0.0,90.0,0.0,0.0
-2013-14,3965401,18,8,Chelsea,Home,39400,61262,Oscar,oscar,M,False,0.0,0.0,67.0,0.0,0.0
-2013-14,3965401,18,8,Chelsea,Home,70492,66842,Andre Schürrle,andre-schurrle,F,True,0.0,0.0,18.0,0.0,0.0
-2013-14,3965421,19,8,Chelsea,Home,2,3785,Ashley Cole,ashley-cole,D,True,0.0,0.0,60.0,0.0,0.0
-2013-14,3965421,19,8,Chelsea,Home,803,1827,Mark Schwarzer,mark-schwarzer,G,True,,,,,
-2013-14,3965421,19,8,Chelsea,Home,1185,11334,Petr Čech,petr-cech,G,False,0.0,0.0,90.0,0.0,0.0
-2013-14,3965421,19,8,Chelsea,Home,1205,1718,John Terry,john-terry,D,False,0.0,0.0,90.0,0.0,0.0
-2013-14,3965421,19,8,Chelsea,Home,1216,2051,Frank Lampard,frank-lampard,M,False,0.0,0.0,45.0,0.0,0.0
-2013-14,3965421,19,8,Chelsea,Home,2436,14402,Fernando Torres,fernando-torres,F,True,0.0,0.0,3.0,0.0,0.0
-2013-14,3965421,19,8,Chelsea,Home,3300,8442,Michael Essien,michael-essien,M,True,,,,,
-2013-14,3965421,19,8,Chelsea,Home,7311,28495,John Obi Mikel,john-obi-mikel,M,True,0.0,0.0,45.0,0.0,0.0
-2013-14,3965421,19,8,Chelsea,Home,9628,19419,Gary Cahill,gary-cahill,D,False,0.0,0.0,90.0,0.0,0.0
-2013-14,3965421,19,8,Chelsea,Home,11688,8438,Samuel Eto'o,samuel-etoo,F,False,0.0,1.0,87.0,0.0,0.0
-2013-14,3965421,19,8,Chelsea,Home,21300,41270,David Luiz,david-luiz,D,False,0.0,0.0,90.0,0.0,0.0
-2013-14,3965421,19,8,Chelsea,Home,21555,41328,César Azpilicueta,cesar-azpilicueta,D,False,0.0,0.0,90.0,0.0,0.0
-2013-14,3965421,19,8,Chelsea,Home,25233,41135,Branislav Ivanović,branislav-ivanovic,D,False,0.0,0.0,30.0,0.0,0.0
-2013-14,3965421,19,8,Chelsea,Home,27583,42786,Eden Hazard,eden-hazard,F,False,0.0,1.0,90.0,0.0,0.0
-2013-14,3965421,19,8,Chelsea,Home,28367,43670,Juan Mata,juan-mata,M,True,,,,,
-2013-14,3965421,19,8,Chelsea,Home,31417,47431,Willian,willian,M,False,0.0,0.0,90.0,0.0,0.0
-2013-14,3965421,19,8,Chelsea,Home,39400,61262,Oscar,oscar,M,False,1.0,0.0,90.0,0.0,0.0
-2013-14,3965421,19,8,Chelsea,Home,70492,66842,Andre Schürrle,andre-schurrle,F,True,,,,,
-2013-14,3965447,20,8,Chelsea,Away,2,3785,Ashley Cole,ashley-cole,D,False,0.0,0.0,90.0,0.0,0.0
-2013-14,3965447,20,8,Chelsea,Away,803,1827,Mark Schwarzer,mark-schwarzer,G,True,,,,,
-2013-14,3965447,20,8,Chelsea,Away,1185,11334,Petr Čech,petr-cech,G,False,0.0,0.0,90.0,0.0,0.0
-2013-14,3965447,20,8,Chelsea,Away,1205,1718,John Terry,john-terry,D,False,0.0,0.0,90.0,0.0,0.0
-2013-14,3965447,20,8,Chelsea,Away,2436,14402,Fernando Torres,fernando-torres,F,False,0.0,1.0,90.0,0.0,0.0
-2013-14,3965447,20,8,Chelsea,Away,3300,8442,Michael Essien,michael-essien,M,True,0.0,0.0,5.0,0.0,0.0
-2013-14,3965447,20,8,Chelsea,Away,7311,28495,John Obi Mikel,john-obi-mikel,M,False,0.0,0.0,90.0,0.0,0.0
-2013-14,3965447,20,8,Chelsea,Away,9628,19419,Gary Cahill,gary-cahill,D,False,0.0,0.0,90.0,0.0,0.0
-2013-14,3965447,20,8,Chelsea,Away,11688,8438,Samuel Eto'o,samuel-etoo,F,True,,,,,
-2013-14,3965447,20,8,Chelsea,Away,21555,41328,César Azpilicueta,cesar-azpilicueta,D,False,0.0,0.0,90.0,0.0,0.0
-2013-14,3965447,20,8,Chelsea,Away,27583,42786,Eden Hazard,eden-hazard,F,False,0.0,0.0,85.0,0.0,0.0
-2013-14,3965447,20,8,Chelsea,Away,28253,47412,Demba Ba,demba-ba,F,True,,,,,
-2013-14,3965447,20,8,Chelsea,Away,28367,43670,Juan Mata,juan-mata,M,False,0.0,0.0,53.0,0.0,0.0
-2013-14,3965447,20,8,Chelsea,Away,31417,47431,Willian,willian,M,True,0.0,1.0,37.0,0.0,0.0
-2013-14,3965447,20,8,Chelsea,Away,33110,53392,Ramires,ramires,M,False,0.0,0.0,90.0,0.0,0.0
-2013-14,3965447,20,8,Chelsea,Away,39400,61262,Oscar,oscar,M,True,1.0,1.0,37.0,0.0,0.0
-2013-14,3965447,20,8,Chelsea,Away,70492,66842,Andre Schürrle,andre-schurrle,F,False,0.0,0.0,53.0,0.0,0.0
-2013-14,3965447,20,8,Chelsea,Away,94099,84482,Tomáš Kalas,tomas-kalas,D,True,,,,,
-2013-14,3965465,21,8,Chelsea,Away,2,3785,Ashley Cole,ashley-cole,D,False,1.0,0.0,90.0,0.0,0.0
-2013-14,3965465,21,8,Chelsea,Away,803,1827,Mark Schwarzer,mark-schwarzer,G,True,,,,,
-2013-14,3965465,21,8,Chelsea,Away,1185,11334,Petr Čech,petr-cech,G,False,0.0,0.0,90.0,0.0,0.0
-2013-14,3965465,21,8,Chelsea,Away,1205,1718,John Terry,john-terry,D,False,0.0,0.0,90.0,0.0,0.0
-2013-14,3965465,21,8,Chelsea,Away,2436,14402,Fernando Torres,fernando-torres,F,False,0.0,1.0,90.0,0.0,0.0
-2013-14,3965465,21,8,Chelsea,Away,3300,8442,Michael Essien,michael-essien,M,True,0.0,0.0,1.0,0.0,0.0
-2013-14,3965465,21,8,Chelsea,Away,7311,28495,John Obi Mikel,john-obi-mikel,M,True,0.0,0.0,11.0,0.0,0.0
-2013-14,3965465,21,8,Chelsea,Away,9628,19419,Gary Cahill,gary-cahill,D,False,0.0,0.0,90.0,0.0,0.0
-2013-14,3965465,21,8,Chelsea,Away,11688,8438,Samuel Eto'o,samuel-etoo,F,True,,,,,
-2013-14,3965465,21,8,Chelsea,Away,20756,40146,Ryan Bertrand,ryan-bertrand,D,True,,,,,
-2013-14,3965465,21,8,Chelsea,Away,21300,41270,David Luiz,david-luiz,D,False,0.0,0.0,90.0,0.0,0.0
-2013-14,3965465,21,8,Chelsea,Away,21555,41328,César Azpilicueta,cesar-azpilicueta,D,False,0.0,0.0,90.0,0.0,0.0
-2013-14,3965465,21,8,Chelsea,Away,27583,42786,Eden Hazard,eden-hazard,F,False,0.0,1.0,90.0,0.0,0.0
-2013-14,3965465,21,8,Chelsea,Away,28367,43670,Juan Mata,juan-mata,M,True,,,,,
-2013-14,3965465,21,8,Chelsea,Away,31417,47431,Willian,willian,M,False,0.0,0.0,88.0,0.0,0.0
-2013-14,3965465,21,8,Chelsea,Away,33110,53392,Ramires,ramires,M,False,0.0,0.0,90.0,0.0,0.0
-2013-14,3965465,21,8,Chelsea,Away,39400,61262,Oscar,oscar,M,False,0.0,0.0,79.0,0.0,0.0
-2013-14,3965465,21,8,Chelsea,Away,70492,66842,Andre Schürrle,andre-schurrle,F,True,0.0,0.0,2.0,0.0,0.0
-2013-14,3965479,22,8,Chelsea,Home,2,3785,Ashley Cole,ashley-cole,D,True,,,,,
-2013-14,3965479,22,8,Chelsea,Home,803,1827,Mark Schwarzer,mark-schwarzer,G,True,,,,,
-2013-14,3965479,22,8,Chelsea,Home,1185,11334,Petr Čech,petr-cech,G,False,0.0,0.0,90.0,0.0,0.0
-2013-14,3965479,22,8,Chelsea,Home,1205,1718,John Terry,john-terry,D,False,0.0,0.0,90.0,0.0,0.0
-2013-14,3965479,22,8,Chelsea,Home,1216,2051,Frank Lampard,frank-lampard,M,True,,,,,
-2013-14,3965479,22,8,Chelsea,Home,2436,14402,Fernando Torres,fernando-torres,F,True,0.0,0.0,11.0,0.0,0.0
-2013-14,3965479,22,8,Chelsea,Home,7311,28495,John Obi Mikel,john-obi-mikel,M,True,0.0,0.0,22.0,0.0,0.0
-2013-14,3965479,22,8,Chelsea,Home,9628,19419,Gary Cahill,gary-cahill,D,False,1.0,0.0,90.0,0.0,0.0
-2013-14,3965479,22,8,Chelsea,Home,11688,8438,Samuel Eto'o,samuel-etoo,F,False,0.0,3.0,79.0,0.0,0.0
-2013-14,3965479,22,8,Chelsea,Home,21300,41270,David Luiz,david-luiz,D,False,0.0,0.0,90.0,0.0,0.0
-2013-14,3965479,22,8,Chelsea,Home,21555,41328,César Azpilicueta,cesar-azpilicueta,D,False,0.0,0.0,90.0,0.0,0.0
-2013-14,3965479,22,8,Chelsea,Home,25233,41135,Branislav Ivanović,branislav-ivanovic,D,False,0.0,0.0,90.0,0.0,0.0
-2013-14,3965479,22,8,Chelsea,Home,27583,42786,Eden Hazard,eden-hazard,F,False,0.0,0.0,90.0,0.0,0.0
-2013-14,3965479,22,8,Chelsea,Home,28367,43670,Juan Mata,juan-mata,M,True,,,,,
-2013-14,3965479,22,8,Chelsea,Home,31417,47431,Willian,willian,M,False,0.0,0.0,86.0,0.0,0.0
-2013-14,3965479,22,8,Chelsea,Home,33110,53392,Ramires,ramires,M,False,0.0,0.0,90.0,0.0,0.0
-2013-14,3965479,22,8,Chelsea,Home,39400,61262,Oscar,oscar,M,False,0.0,0.0,68.0,0.0,0.0
-2013-14,3965479,22,8,Chelsea,Home,44241,62398,Nemanja Matić,nemanja-matic,M,True,0.0,0.0,4.0,0.0,0.0
-2013-14,3965513,23,8,Chelsea,Home,2,3785,Ashley Cole,ashley-cole,D,True,,,,,
-2013-14,3965513,23,8,Chelsea,Home,803,1827,Mark Schwarzer,mark-schwarzer,G,True,,,,,
-2013-14,3965513,23,8,Chelsea,Home,1185,11334,Petr Čech,petr-cech,G,False,0.0,0.0,90.0,0.0,0.0
-2013-14,3965513,23,8,Chelsea,Home,1205,1718,John Terry,john-terry,D,False,0.0,0.0,90.0,0.0,0.0
-2013-14,3965513,23,8,Chelsea,Home,1216,2051,Frank Lampard,frank-lampard,M,True,0.0,0.0,27.0,0.0,0.0
-2013-14,3965513,23,8,Chelsea,Home,7311,28495,John Obi Mikel,john-obi-mikel,M,False,0.0,0.0,63.0,0.0,0.0
-2013-14,3965513,23,8,Chelsea,Home,9628,19419,Gary Cahill,gary-cahill,D,False,0.0,0.0,90.0,0.0,0.0
-2013-14,3965513,23,8,Chelsea,Home,11688,8438,Samuel Eto'o,samuel-etoo,F,False,0.0,0.0,90.0,0.0,0.0
-2013-14,3965513,23,8,Chelsea,Home,21300,41270,David Luiz,david-luiz,D,True,,,,,
-2013-14,3965513,23,8,Chelsea,Home,21555,41328,César Azpilicueta,cesar-azpilicueta,D,False,0.0,0.0,63.0,0.0,0.0
-2013-14,3965513,23,8,Chelsea,Home,25233,41135,Branislav Ivanović,branislav-ivanovic,D,False,0.0,0.0,90.0,0.0,0.0
-2013-14,3965513,23,8,Chelsea,Home,27583,42786,Eden Hazard,eden-hazard,F,False,0.0,0.0,90.0,0.0,0.0
-2013-14,3965513,23,8,Chelsea,Home,28253,47412,Demba Ba,demba-ba,F,True,0.0,0.0,10.0,0.0,0.0
-2013-14,3965513,23,8,Chelsea,Home,31417,47431,Willian,willian,M,False,0.0,0.0,90.0,0.0,0.0
-2013-14,3965513,23,8,Chelsea,Home,33110,53392,Ramires,ramires,M,False,0.0,0.0,90.0,0.0,0.0
-2013-14,3965513,23,8,Chelsea,Home,39400,61262,Oscar,oscar,M,False,0.0,0.0,80.0,0.0,0.0
-2013-14,3965513,23,8,Chelsea,Home,44241,62398,Nemanja Matić,nemanja-matic,M,True,0.0,0.0,27.0,0.0,0.0
-2013-14,3965513,23,8,Chelsea,Home,70492,66842,Andre Schürrle,andre-schurrle,F,True,,,,,
-2013-14,3965527,24,8,Chelsea,Away,2,3785,Ashley Cole,ashley-cole,D,True,,,,,
-2013-14,3965527,24,8,Chelsea,Away,803,1827,Mark Schwarzer,mark-schwarzer,G,True,,,,,
-2013-14,3965527,24,8,Chelsea,Away,1185,11334,Petr Čech,petr-cech,G,False,0.0,0.0,90.0,0.0,0.0
-2013-14,3965527,24,8,Chelsea,Away,1205,1718,John Terry,john-terry,D,False,0.0,0.0,90.0,0.0,0.0
-2013-14,3965527,24,8,Chelsea,Away,1216,2051,Frank Lampard,frank-lampard,M,True,,,,,
-2013-14,3965527,24,8,Chelsea,Away,7311,28495,John Obi Mikel,john-obi-mikel,M,True,0.0,0.0,1.0,0.0,0.0
-2013-14,3965527,24,8,Chelsea,Away,9628,19419,Gary Cahill,gary-cahill,D,False,0.0,0.0,90.0,0.0,0.0
-2013-14,3965527,24,8,Chelsea,Away,11688,8438,Samuel Eto'o,samuel-etoo,F,False,0.0,0.0,83.0,0.0,0.0
-2013-14,3965527,24,8,Chelsea,Away,21300,41270,David Luiz,david-luiz,D,False,0.0,0.0,90.0,0.0,0.0
-2013-14,3965527,24,8,Chelsea,Away,21555,41328,César Azpilicueta,cesar-azpilicueta,D,False,0.0,0.0,90.0,0.0,0.0
-2013-14,3965527,24,8,Chelsea,Away,25233,41135,Branislav Ivanović,branislav-ivanovic,D,False,0.0,1.0,90.0,0.0,0.0
-2013-14,3965527,24,8,Chelsea,Away,27583,42786,Eden Hazard,eden-hazard,F,False,0.0,0.0,90.0,0.0,0.0
-2013-14,3965527,24,8,Chelsea,Away,28253,47412,Demba Ba,demba-ba,F,True,0.0,0.0,1.0,0.0,0.0
-2013-14,3965527,24,8,Chelsea,Away,31417,47431,Willian,willian,M,False,0.0,0.0,90.0,0.0,0.0
-2013-14,3965527,24,8,Chelsea,Away,33110,53392,Ramires,ramires,M,False,0.0,0.0,90.0,0.0,0.0
-2013-14,3965527,24,8,Chelsea,Away,39400,61262,Oscar,oscar,M,True,0.0,0.0,7.0,0.0,0.0
-2013-14,3965527,24,8,Chelsea,Away,44241,62398,Nemanja Matić,nemanja-matic,M,False,0.0,0.0,90.0,0.0,0.0
-2013-14,3965527,24,8,Chelsea,Away,159665,118748,Mohamed Salah,mohamed-salah,M,True,,,,,
-2013-14,3965539,25,8,Chelsea,Home,2,3785,Ashley Cole,ashley-cole,D,True,,,,,
-2013-14,3965539,25,8,Chelsea,Home,803,1827,Mark Schwarzer,mark-schwarzer,G,True,,,,,
-2013-14,3965539,25,8,Chelsea,Home,1185,11334,Petr Čech,petr-cech,G,False,0.0,0.0,90.0,0.0,0.0
-2013-14,3965539,25,8,Chelsea,Home,1216,2051,Frank Lampard,frank-lampard,M,False,0.0,0.0,90.0,0.0,0.0
-2013-14,3965539,25,8,Chelsea,Home,7311,28495,John Obi Mikel,john-obi-mikel,M,True,,,,,
-2013-14,3965539,25,8,Chelsea,Home,9628,19419,Gary Cahill,gary-cahill,D,False,0.0,0.0,90.0,0.0,0.0
-2013-14,3965539,25,8,Chelsea,Home,11688,8438,Samuel Eto'o,samuel-etoo,F,False,0.0,0.0,71.0,0.0,0.0
-2013-14,3965539,25,8,Chelsea,Home,21300,41270,David Luiz,david-luiz,D,False,0.0,0.0,90.0,0.0,0.0
-2013-14,3965539,25,8,Chelsea,Home,21555,41328,César Azpilicueta,cesar-azpilicueta,D,False,0.0,0.0,90.0,0.0,0.0
-2013-14,3965539,25,8,Chelsea,Home,25233,41135,Branislav Ivanović,branislav-ivanovic,D,False,0.0,0.0,90.0,0.0,0.0
-2013-14,3965539,25,8,Chelsea,Home,27583,42786,Eden Hazard,eden-hazard,F,False,0.0,3.0,85.0,0.0,0.0
-2013-14,3965539,25,8,Chelsea,Home,28253,47412,Demba Ba,demba-ba,F,True,0.0,0.0,19.0,0.0,0.0
-2013-14,3965539,25,8,Chelsea,Home,31417,47431,Willian,willian,M,False,0.0,0.0,78.0,0.0,0.0
-2013-14,3965539,25,8,Chelsea,Home,33110,53392,Ramires,ramires,M,True,,,,,
-2013-14,3965539,25,8,Chelsea,Home,39400,61262,Oscar,oscar,M,False,0.0,0.0,90.0,0.0,0.0
-2013-14,3965539,25,8,Chelsea,Home,44241,62398,Nemanja Matić,nemanja-matic,M,False,0.0,0.0,90.0,0.0,0.0
-2013-14,3965539,25,8,Chelsea,Home,70492,66842,Andre Schürrle,andre-schurrle,F,True,0.0,0.0,5.0,0.0,0.0
-2013-14,3965539,25,8,Chelsea,Home,159665,118748,Mohamed Salah,mohamed-salah,M,True,0.0,0.0,12.0,0.0,0.0
-2013-14,3965565,26,8,Chelsea,Away,2,3785,Ashley Cole,ashley-cole,D,True,,,,,
-2013-14,3965565,26,8,Chelsea,Away,803,1827,Mark Schwarzer,mark-schwarzer,G,True,,,,,
-2013-14,3965565,26,8,Chelsea,Away,1185,11334,Petr Čech,petr-cech,G,False,0.0,0.0,90.0,0.0,0.0
-2013-14,3965565,26,8,Chelsea,Away,1216,2051,Frank Lampard,frank-lampard,M,True,,,,,
-2013-14,3965565,26,8,Chelsea,Away,2436,14402,Fernando Torres,fernando-torres,F,True,0.0,0.0,21.0,0.0,0.0
-2013-14,3965565,26,8,Chelsea,Away,7311,28495,John Obi Mikel,john-obi-mikel,M,True,0.0,0.0,11.0,0.0,0.0
-2013-14,3965565,26,8,Chelsea,Away,9628,19419,Gary Cahill,gary-cahill,D,False,0.0,0.0,90.0,0.0,0.0
-2013-14,3965565,26,8,Chelsea,Away,11688,8438,Samuel Eto'o,samuel-etoo,F,False,0.0,0.0,69.0,0.0,0.0
-2013-14,3965565,26,8,Chelsea,Away,21300,41270,David Luiz,david-luiz,D,False,1.0,0.0,90.0,0.0,0.0
-2013-14,3965565,26,8,Chelsea,Away,21555,41328,César Azpilicueta,cesar-azpilicueta,D,False,0.0,0.0,90.0,0.0,0.0
-2013-14,3965565,26,8,Chelsea,Away,25233,41135,Branislav Ivanović,branislav-ivanovic,D,False,0.0,1.0,90.0,0.0,0.0
-2013-14,3965565,26,8,Chelsea,Away,27583,42786,Eden Hazard,eden-hazard,F,False,0.0,0.0,90.0,0.0,0.0
-2013-14,3965565,26,8,Chelsea,Away,31417,47431,Willian,willian,M,False,0.0,0.0,90.0,0.0,0.0
-2013-14,3965565,26,8,Chelsea,Away,33110,53392,Ramires,ramires,M,False,0.0,0.0,89.0,0.0,0.0
-2013-14,3965565,26,8,Chelsea,Away,39400,61262,Oscar,oscar,M,False,0.0,0.0,79.0,0.0,0.0
-2013-14,3965565,26,8,Chelsea,Away,44241,62398,Nemanja Matić,nemanja-matic,M,False,0.0,0.0,90.0,0.0,0.0
-2013-14,3965565,26,8,Chelsea,Away,70492,66842,Andre Schürrle,andre-schurrle,F,True,,,,,
-2013-14,3965565,26,8,Chelsea,Away,159665,118748,Mohamed Salah,mohamed-salah,M,True,0.0,0.0,1.0,0.0,0.0
-2013-14,3965581,27,8,Chelsea,Home,2,3785,Ashley Cole,ashley-cole,D,True,,,,,
-2013-14,3965581,27,8,Chelsea,Home,803,1827,Mark Schwarzer,mark-schwarzer,G,True,,,,,
-2013-14,3965581,27,8,Chelsea,Home,1185,11334,Petr Čech,petr-cech,G,False,0.0,0.0,90.0,0.0,0.0
-2013-14,3965581,27,8,Chelsea,Home,1205,1718,John Terry,john-terry,D,False,0.0,0.0,90.0,0.0,0.0
-2013-14,3965581,27,8,Chelsea,Home,1216,2051,Frank Lampard,frank-lampard,M,False,0.0,0.0,90.0,0.0,0.0
-2013-14,3965581,27,8,Chelsea,Home,2436,14402,Fernando Torres,fernando-torres,F,True,0.0,0.0,28.0,0.0,0.0
-2013-14,3965581,27,8,Chelsea,Home,9628,19419,Gary Cahill,gary-cahill,D,False,0.0,0.0,90.0,0.0,0.0
-2013-14,3965581,27,8,Chelsea,Home,11688,8438,Samuel Eto'o,samuel-etoo,F,False,0.0,0.0,69.0,0.0,0.0
-2013-14,3965581,27,8,Chelsea,Home,21555,41328,César Azpilicueta,cesar-azpilicueta,D,False,0.0,0.0,90.0,0.0,0.0
-2013-14,3965581,27,8,Chelsea,Home,25233,41135,Branislav Ivanović,branislav-ivanovic,D,False,0.0,0.0,90.0,0.0,0.0
-2013-14,3965581,27,8,Chelsea,Home,27583,42786,Eden Hazard,eden-hazard,F,False,0.0,0.0,90.0,0.0,0.0
-2013-14,3965581,27,8,Chelsea,Home,28253,47412,Demba Ba,demba-ba,F,True,,,,,
-2013-14,3965581,27,8,Chelsea,Home,31417,47431,Willian,willian,M,False,0.0,0.0,62.0,0.0,0.0
-2013-14,3965581,27,8,Chelsea,Home,33110,53392,Ramires,ramires,M,True,0.0,0.0,44.0,0.0,0.0
-2013-14,3965581,27,8,Chelsea,Home,39400,61262,Oscar,oscar,M,False,0.0,0.0,46.0,0.0,0.0
-2013-14,3965581,27,8,Chelsea,Home,44241,62398,Nemanja Matić,nemanja-matic,M,False,0.0,0.0,90.0,0.0,0.0
-2013-14,3965581,27,8,Chelsea,Home,70492,66842,Andre Schürrle,andre-schurrle,F,True,0.0,0.0,21.0,0.0,0.0
-2013-14,3965581,27,8,Chelsea,Home,159665,118748,Mohamed Salah,mohamed-salah,M,True,,,,,
-2013-14,3965601,28,8,Chelsea,Away,2,3785,Ashley Cole,ashley-cole,D,True,,,,,
-2013-14,3965601,28,8,Chelsea,Away,803,1827,Mark Schwarzer,mark-schwarzer,G,True,,,,,
-2013-14,3965601,28,8,Chelsea,Away,1185,11334,Petr Čech,petr-cech,G,False,0.0,0.0,90.0,0.0,0.0
-2013-14,3965601,28,8,Chelsea,Away,1205,1718,John Terry,john-terry,D,False,0.0,0.0,90.0,0.0,0.0
-2013-14,3965601,28,8,Chelsea,Away,1216,2051,Frank Lampard,frank-lampard,M,True,,,,,
-2013-14,3965601,28,8,Chelsea,Away,2436,14402,Fernando Torres,fernando-torres,F,False,0.0,0.0,82.0,0.0,0.0
-2013-14,3965601,28,8,Chelsea,Away,7311,28495,John Obi Mikel,john-obi-mikel,M,True,0.0,0.0,12.0,0.0,0.0
-2013-14,3965601,28,8,Chelsea,Away,9628,19419,Gary Cahill,gary-cahill,D,False,0.0,0.0,90.0,0.0,0.0
-2013-14,3965601,28,8,Chelsea,Away,21300,41270,David Luiz,david-luiz,D,True,0.0,0.0,3.0,0.0,0.0
-2013-14,3965601,28,8,Chelsea,Away,21555,41328,César Azpilicueta,cesar-azpilicueta,D,False,0.0,0.0,90.0,0.0,0.0
-2013-14,3965601,28,8,Chelsea,Away,25233,41135,Branislav Ivanović,branislav-ivanovic,D,False,0.0,0.0,90.0,0.0,0.0
-2013-14,3965601,28,8,Chelsea,Away,27583,42786,Eden Hazard,eden-hazard,F,False,0.0,0.0,90.0,0.0,0.0
-2013-14,3965601,28,8,Chelsea,Away,28253,47412,Demba Ba,demba-ba,F,True,0.0,0.0,8.0,0.0,0.0
-2013-14,3965601,28,8,Chelsea,Away,31417,47431,Willian,willian,M,True,,,,,
-2013-14,3965601,28,8,Chelsea,Away,33110,53392,Ramires,ramires,M,False,0.0,0.0,90.0,0.0,0.0
-2013-14,3965601,28,8,Chelsea,Away,39400,61262,Oscar,oscar,M,False,0.0,0.0,78.0,0.0,0.0
-2013-14,3965601,28,8,Chelsea,Away,44241,62398,Nemanja Matić,nemanja-matic,M,False,0.0,0.0,90.0,0.0,0.0
-2013-14,3965601,28,8,Chelsea,Away,70492,66842,Andre Schürrle,andre-schurrle,F,False,0.0,3.0,87.0,0.0,0.0
-2013-14,3965621,29,8,Chelsea,Home,803,1827,Mark Schwarzer,mark-schwarzer,G,True,,,,,
-2013-14,3965621,29,8,Chelsea,Home,1185,11334,Petr Čech,petr-cech,G,False,0.0,0.0,90.0,0.0,0.0
-2013-14,3965621,29,8,Chelsea,Home,1205,1718,John Terry,john-terry,D,False,0.0,0.0,90.0,0.0,0.0
-2013-14,3965621,29,8,Chelsea,Home,1216,2051,Frank Lampard,frank-lampard,M,False,0.0,0.0,45.0,0.0,0.0
-2013-14,3965621,29,8,Chelsea,Home,7311,28495,John Obi Mikel,john-obi-mikel,M,True,,,,,
-2013-14,3965621,29,8,Chelsea,Home,9628,19419,Gary Cahill,gary-cahill,D,False,0.0,0.0,90.0,0.0,0.0
-2013-14,3965621,29,8,Chelsea,Home,11688,8438,Samuel Eto'o,samuel-etoo,F,False,0.0,1.0,76.0,0.0,0.0
-2013-14,3965621,29,8,Chelsea,Home,21555,41328,César Azpilicueta,cesar-azpilicueta,D,False,0.0,0.0,90.0,0.0,0.0
-2013-14,3965621,29,8,Chelsea,Home,25233,41135,Branislav Ivanović,branislav-ivanovic,D,False,0.0,0.0,90.0,0.0,0.0
-2013-14,3965621,29,8,Chelsea,Home,27583,42786,Eden Hazard,eden-hazard,F,False,0.0,1.0,90.0,0.0,0.0
-2013-14,3965621,29,8,Chelsea,Home,28253,47412,Demba Ba,demba-ba,F,True,0.0,2.0,14.0,0.0,0.0
-2013-14,3965621,29,8,Chelsea,Home,31417,47431,Willian,willian,M,True,0.0,0.0,24.0,0.0,0.0
-2013-14,3965621,29,8,Chelsea,Home,33110,53392,Ramires,ramires,M,False,0.0,0.0,90.0,0.0,0.0
-2013-14,3965621,29,8,Chelsea,Home,39400,61262,Oscar,oscar,M,True,0.0,0.0,45.0,0.0,0.0
-2013-14,3965621,29,8,Chelsea,Home,44241,62398,Nemanja Matić,nemanja-matic,M,False,0.0,0.0,90.0,0.0,0.0
-2013-14,3965621,29,8,Chelsea,Home,70492,66842,Andre Schürrle,andre-schurrle,F,False,0.0,0.0,66.0,0.0,0.0
-2013-14,3965621,29,8,Chelsea,Home,94099,84482,Tomáš Kalas,tomas-kalas,D,True,,,,,
-2013-14,3965621,29,8,Chelsea,Home,159665,118748,Mohamed Salah,mohamed-salah,M,True,,,,,
-2013-14,3965637,30,8,Chelsea,Away,803,1827,Mark Schwarzer,mark-schwarzer,G,True,,,,,
-2013-14,3965637,30,8,Chelsea,Away,1185,11334,Petr Čech,petr-cech,G,False,0.0,0.0,90.0,0.0,0.0
-2013-14,3965637,30,8,Chelsea,Away,1205,1718,John Terry,john-terry,D,False,0.0,0.0,90.0,0.0,0.0
-2013-14,3965637,30,8,Chelsea,Away,1216,2051,Frank Lampard,frank-lampard,M,True,,,,,
-2013-14,3965637,30,8,Chelsea,Away,2436,14402,Fernando Torres,fernando-torres,F,False,0.0,0.0,67.0,0.0,0.0
-2013-14,3965637,30,8,Chelsea,Away,7311,28495,John Obi Mikel,john-obi-mikel,M,True,,,,,
-2013-14,3965637,30,8,Chelsea,Away,9628,19419,Gary Cahill,gary-cahill,D,False,0.0,0.0,90.0,0.0,0.0
-2013-14,3965637,30,8,Chelsea,Away,21555,41328,César Azpilicueta,cesar-azpilicueta,D,False,0.0,0.0,90.0,0.0,0.0
-2013-14,3965637,30,8,Chelsea,Away,25233,41135,Branislav Ivanović,branislav-ivanovic,D,False,0.0,0.0,90.0,0.0,0.0
-2013-14,3965637,30,8,Chelsea,Away,27583,42786,Eden Hazard,eden-hazard,F,False,0.0,0.0,90.0,0.0,0.0
-2013-14,3965637,30,8,Chelsea,Away,28253,47412,Demba Ba,demba-ba,F,True,0.0,0.0,23.0,0.0,0.0
-2013-14,3965637,30,8,Chelsea,Away,31417,47431,Willian,willian,M,False,0.0,0.0,68.0,0.0,0.0
-2013-14,3965637,30,8,Chelsea,Away,33110,53392,Ramires,ramires,M,False,0.0,0.0,90.0,0.0,0.0
-2013-14,3965637,30,8,Chelsea,Away,39400,61262,Oscar,oscar,M,False,0.0,0.0,67.0,0.0,0.0
-2013-14,3965637,30,8,Chelsea,Away,44241,62398,Nemanja Matić,nemanja-matic,M,False,0.0,0.0,90.0,0.0,0.0
-2013-14,3965637,30,8,Chelsea,Away,70492,66842,Andre Schürrle,andre-schurrle,F,True,0.0,0.0,23.0,0.0,0.0
-2013-14,3965637,30,8,Chelsea,Away,94099,84482,Tomáš Kalas,tomas-kalas,D,True,,,,,
-2013-14,3965637,30,8,Chelsea,Away,159665,118748,Mohamed Salah,mohamed-salah,M,True,,,,,
-2013-14,3965661,31,8,Chelsea,Home,803,1827,Mark Schwarzer,mark-schwarzer,G,True,,,,,
-2013-14,3965661,31,8,Chelsea,Home,1185,11334,Petr Čech,petr-cech,G,False,0.0,0.0,90.0,0.0,0.0
-2013-14,3965661,31,8,Chelsea,Home,1205,1718,John Terry,john-terry,D,False,0.0,0.0,90.0,0.0,0.0
-2013-14,3965661,31,8,Chelsea,Home,1216,2051,Frank Lampard,frank-lampard,M,True,,,,,
-2013-14,3965661,31,8,Chelsea,Home,2436,14402,Fernando Torres,fernando-torres,F,True,1.0,0.0,80.0,0.0,0.0
-2013-14,3965661,31,8,Chelsea,Home,7311,28495,John Obi Mikel,john-obi-mikel,M,True,0.0,0.0,18.0,0.0,0.0
-2013-14,3965661,31,8,Chelsea,Home,9628,19419,Gary Cahill,gary-cahill,D,False,0.0,0.0,90.0,0.0,0.0
-2013-14,3965661,31,8,Chelsea,Home,11688,8438,Samuel Eto'o,samuel-etoo,F,False,0.0,1.0,10.0,0.0,0.0
-2013-14,3965661,31,8,Chelsea,Home,21300,41270,David Luiz,david-luiz,D,False,0.0,0.0,72.0,0.0,0.0
-2013-14,3965661,31,8,Chelsea,Home,21555,41328,César Azpilicueta,cesar-azpilicueta,D,False,0.0,0.0,90.0,0.0,0.0
-2013-14,3965661,31,8,Chelsea,Home,25233,41135,Branislav Ivanović,branislav-ivanovic,D,False,0.0,0.0,90.0,0.0,0.0
-2013-14,3965661,31,8,Chelsea,Home,27583,42786,Eden Hazard,eden-hazard,F,False,0.0,1.0,90.0,0.0,0.0
-2013-14,3965661,31,8,Chelsea,Home,28253,47412,Demba Ba,demba-ba,F,True,,,,,
-2013-14,3965661,31,8,Chelsea,Home,39400,61262,Oscar,oscar,M,False,0.0,2.0,67.0,0.0,0.0
-2013-14,3965661,31,8,Chelsea,Home,44241,62398,Nemanja Matić,nemanja-matic,M,False,2.0,0.0,90.0,0.0,0.0
-2013-14,3965661,31,8,Chelsea,Home,70492,66842,Andre Schürrle,andre-schurrle,F,False,1.0,1.0,90.0,0.0,0.0
-2013-14,3965661,31,8,Chelsea,Home,94099,84482,Tomáš Kalas,tomas-kalas,D,True,,,,,
-2013-14,3965661,31,8,Chelsea,Home,159665,118748,Mohamed Salah,mohamed-salah,M,True,0.0,1.0,23.0,0.0,0.0
-2013-14,3965679,32,8,Chelsea,Away,1185,11334,Petr Čech,petr-cech,G,False,0.0,0.0,90.0,0.0,0.0
-2013-14,3965679,32,8,Chelsea,Away,1205,1718,John Terry,john-terry,D,False,0.0,0.0,90.0,1.0,0.0
-2013-14,3965679,32,8,Chelsea,Away,1216,2051,Frank Lampard,frank-lampard,M,False,0.0,0.0,56.0,0.0,0.0
-2013-14,3965679,32,8,Chelsea,Away,2436,14402,Fernando Torres,fernando-torres,F,False,0.0,0.0,90.0,0.0,0.0
-2013-14,3965679,32,8,Chelsea,Away,6413,37634,Henrique Hilário,henrique-hilario,G,True,,,,,
-2013-14,3965679,32,8,Chelsea,Away,7311,28495,John Obi Mikel,john-obi-mikel,M,True,,,,,
-2013-14,3965679,32,8,Chelsea,Away,9628,19419,Gary Cahill,gary-cahill,D,False,0.0,0.0,90.0,0.0,0.0
-2013-14,3965679,32,8,Chelsea,Away,21300,41270,David Luiz,david-luiz,D,False,0.0,0.0,45.0,0.0,0.0
-2013-14,3965679,32,8,Chelsea,Away,21555,41328,César Azpilicueta,cesar-azpilicueta,D,False,0.0,0.0,90.0,0.0,0.0
-2013-14,3965679,32,8,Chelsea,Away,25233,41135,Branislav Ivanović,branislav-ivanovic,D,False,0.0,0.0,90.0,0.0,0.0
-2013-14,3965679,32,8,Chelsea,Away,27583,42786,Eden Hazard,eden-hazard,F,False,0.0,0.0,90.0,0.0,0.0
-2013-14,3965679,32,8,Chelsea,Away,28253,47412,Demba Ba,demba-ba,F,True,0.0,0.0,20.0,0.0,0.0
-2013-14,3965679,32,8,Chelsea,Away,31417,47431,Willian,willian,M,True,,,,,
-2013-14,3965679,32,8,Chelsea,Away,39400,61262,Oscar,oscar,M,True,0.0,0.0,45.0,0.0,0.0
-2013-14,3965679,32,8,Chelsea,Away,44241,62398,Nemanja Matić,nemanja-matic,M,False,0.0,0.0,90.0,0.0,0.0
-2013-14,3965679,32,8,Chelsea,Away,70492,66842,Andre Schürrle,andre-schurrle,F,False,0.0,0.0,70.0,0.0,0.0
-2013-14,3965679,32,8,Chelsea,Away,94099,84482,Tomáš Kalas,tomas-kalas,D,True,,,,,
-2013-14,3965679,32,8,Chelsea,Away,159665,118748,Mohamed Salah,mohamed-salah,M,True,0.0,0.0,34.0,0.0,0.0
-2013-14,3965701,33,8,Chelsea,Home,2,3785,Ashley Cole,ashley-cole,D,True,0.0,0.0,12.0,0.0,0.0
-2013-14,3965701,33,8,Chelsea,Home,803,1827,Mark Schwarzer,mark-schwarzer,G,True,,,,,
-2013-14,3965701,33,8,Chelsea,Home,1185,11334,Petr Čech,petr-cech,G,False,0.0,0.0,90.0,0.0,0.0
-2013-14,3965701,33,8,Chelsea,Home,1205,1718,John Terry,john-terry,D,False,0.0,0.0,90.0,0.0,0.0
-2013-14,3965701,33,8,Chelsea,Home,1216,2051,Frank Lampard,frank-lampard,M,False,0.0,1.0,70.0,0.0,0.0
-2013-14,3965701,33,8,Chelsea,Home,2436,14402,Fernando Torres,fernando-torres,F,False,0.0,0.0,90.0,0.0,0.0
-2013-14,3965701,33,8,Chelsea,Home,9628,19419,Gary Cahill,gary-cahill,D,False,0.0,0.0,90.0,0.0,0.0
-2013-14,3965701,33,8,Chelsea,Home,21300,41270,David Luiz,david-luiz,D,True,0.0,0.0,20.0,0.0,0.0
-2013-14,3965701,33,8,Chelsea,Home,21555,41328,César Azpilicueta,cesar-azpilicueta,D,False,0.0,0.0,90.0,0.0,0.0
-2013-14,3965701,33,8,Chelsea,Home,25233,41135,Branislav Ivanović,branislav-ivanovic,D,False,0.0,0.0,90.0,0.0,0.0
-2013-14,3965701,33,8,Chelsea,Home,27583,42786,Eden Hazard,eden-hazard,F,True,0.0,0.0,31.0,0.0,0.0
-2013-14,3965701,33,8,Chelsea,Home,28253,47412,Demba Ba,demba-ba,F,True,,,,,
-2013-14,3965701,33,8,Chelsea,Home,31417,47431,Willian,willian,M,False,0.0,1.0,78.0,0.0,0.0
-2013-14,3965701,33,8,Chelsea,Home,39400,61262,Oscar,oscar,M,True,,,,,
-2013-14,3965701,33,8,Chelsea,Home,44241,62398,Nemanja Matić,nemanja-matic,M,False,1.0,0.0,90.0,0.0,0.0
-2013-14,3965701,33,8,Chelsea,Home,70492,66842,Andre Schürrle,andre-schurrle,F,False,0.0,0.0,59.0,0.0,0.0
-2013-14,3965701,33,8,Chelsea,Home,94099,84482,Tomáš Kalas,tomas-kalas,D,True,,,,,
-2013-14,3965701,33,8,Chelsea,Home,159665,118748,Mohamed Salah,mohamed-salah,M,False,1.0,1.0,90.0,0.0,0.0
-2013-14,3965733,34,8,Chelsea,Away,2,3785,Ashley Cole,ashley-cole,D,True,,,,,
-2013-14,3965733,34,8,Chelsea,Away,803,1827,Mark Schwarzer,mark-schwarzer,G,True,,,,,
-2013-14,3965733,34,8,Chelsea,Away,1185,11334,Petr Čech,petr-cech,G,False,0.0,0.0,90.0,0.0,0.0
-2013-14,3965733,34,8,Chelsea,Away,1205,1718,John Terry,john-terry,D,False,0.0,0.0,90.0,0.0,0.0
-2013-14,3965733,34,8,Chelsea,Away,2436,14402,Fernando Torres,fernando-torres,F,True,,,,,
-2013-14,3965733,34,8,Chelsea,Away,7311,28495,John Obi Mikel,john-obi-mikel,M,True,0.0,0.0,11.0,0.0,0.0
-2013-14,3965733,34,8,Chelsea,Away,9628,19419,Gary Cahill,gary-cahill,D,False,0.0,0.0,90.0,0.0,0.0
-2013-14,3965733,34,8,Chelsea,Away,11688,8438,Samuel Eto'o,samuel-etoo,F,True,0.0,0.0,45.0,0.0,0.0
-2013-14,3965733,34,8,Chelsea,Away,21300,41270,David Luiz,david-luiz,D,True,,,,,
-2013-14,3965733,34,8,Chelsea,Away,21555,41328,César Azpilicueta,cesar-azpilicueta,D,False,0.0,0.0,90.0,0.0,0.0
-2013-14,3965733,34,8,Chelsea,Away,25233,41135,Branislav Ivanović,branislav-ivanovic,D,False,0.0,0.0,90.0,0.0,0.0
-2013-14,3965733,34,8,Chelsea,Away,28253,47412,Demba Ba,demba-ba,F,False,0.0,1.0,79.0,0.0,0.0
-2013-14,3965733,34,8,Chelsea,Away,31417,47431,Willian,willian,M,False,0.0,0.0,90.0,0.0,0.0
-2013-14,3965733,34,8,Chelsea,Away,33110,53392,Ramires,ramires,M,False,0.0,0.0,45.0,0.0,0.0
-2013-14,3965733,34,8,Chelsea,Away,39400,61262,Oscar,oscar,M,True,0.0,0.0,45.0,0.0,0.0
-2013-14,3965733,34,8,Chelsea,Away,44241,62398,Nemanja Matić,nemanja-matic,M,False,1.0,0.0,90.0,0.0,0.0
-2013-14,3965733,34,8,Chelsea,Away,70492,66842,Andre Schürrle,andre-schurrle,F,False,0.0,0.0,45.0,0.0,0.0
-2013-14,3965733,34,8,Chelsea,Away,159665,118748,Mohamed Salah,mohamed-salah,M,False,0.0,0.0,90.0,0.0,0.0
-2013-14,3965741,35,8,Chelsea,Home,803,1827,Mark Schwarzer,mark-schwarzer,G,False,0.0,0.0,90.0,0.0,0.0
-2013-14,3965741,35,8,Chelsea,Home,1205,1718,John Terry,john-terry,D,False,0.0,0.0,90.0,0.0,0.0
-2013-14,3965741,35,8,Chelsea,Home,1216,2051,Frank Lampard,frank-lampard,M,True,,,,,
-2013-14,3965741,35,8,Chelsea,Home,2436,14402,Fernando Torres,fernando-torres,F,True,0.0,0.0,16.0,0.0,0.0
-2013-14,3965741,35,8,Chelsea,Home,6413,37634,Henrique Hilário,henrique-hilario,G,True,,,,,
-2013-14,3965741,35,8,Chelsea,Home,7311,28495,John Obi Mikel,john-obi-mikel,M,True,,,,,
-2013-14,3965741,35,8,Chelsea,Home,9628,19419,Gary Cahill,gary-cahill,D,False,0.0,0.0,90.0,0.0,0.0
-2013-14,3965741,35,8,Chelsea,Home,11688,8438,Samuel Eto'o,samuel-etoo,F,False,0.0,1.0,74.0,0.0,0.0
-2013-14,3965741,35,8,Chelsea,Home,21300,41270,David Luiz,david-luiz,D,True,,,,,
-2013-14,3965741,35,8,Chelsea,Home,21555,41328,César Azpilicueta,cesar-azpilicueta,D,False,0.0,0.0,90.0,0.0,0.0
-2013-14,3965741,35,8,Chelsea,Home,25233,41135,Branislav Ivanović,branislav-ivanovic,D,False,0.0,0.0,90.0,0.0,0.0
-2013-14,3965741,35,8,Chelsea,Home,28253,47412,Demba Ba,demba-ba,F,True,0.0,0.0,31.0,0.0,0.0
-2013-14,3965741,35,8,Chelsea,Home,31417,47431,Willian,willian,M,False,1.0,0.0,90.0,0.0,0.0
-2013-14,3965741,35,8,Chelsea,Home,33110,53392,Ramires,ramires,M,False,0.0,0.0,90.0,0.0,0.0
-2013-14,3965741,35,8,Chelsea,Home,39400,61262,Oscar,oscar,M,False,0.0,0.0,59.0,0.0,0.0
-2013-14,3965741,35,8,Chelsea,Home,44241,62398,Nemanja Matić,nemanja-matic,M,False,0.0,0.0,90.0,0.0,0.0
-2013-14,3965741,35,8,Chelsea,Home,70492,66842,Andre Schürrle,andre-schurrle,F,True,0.0,0.0,24.0,0.0,0.0
-2013-14,3965741,35,8,Chelsea,Home,159665,118748,Mohamed Salah,mohamed-salah,M,False,0.0,0.0,66.0,0.0,0.0
-2013-14,3965763,36,8,Chelsea,Away,2,3785,Ashley Cole,ashley-cole,D,False,0.0,0.0,90.0,0.0,0.0
-2013-14,3965763,36,8,Chelsea,Away,803,1827,Mark Schwarzer,mark-schwarzer,G,False,0.0,0.0,90.0,0.0,0.0
-2013-14,3965763,36,8,Chelsea,Away,1216,2051,Frank Lampard,frank-lampard,M,False,0.0,0.0,90.0,0.0,0.0
-2013-14,3965763,36,8,Chelsea,Away,2436,14402,Fernando Torres,fernando-torres,F,True,0.0,0.0,6.0,0.0,0.0
-2013-14,3965763,36,8,Chelsea,Away,6413,37634,Henrique Hilário,henrique-hilario,G,True,,,,,
-2013-14,3965763,36,8,Chelsea,Away,7311,28495,John Obi Mikel,john-obi-mikel,M,False,0.0,0.0,90.0,0.0,0.0
-2013-14,3965763,36,8,Chelsea,Away,9628,19419,Gary Cahill,gary-cahill,D,True,0.0,0.0,13.0,0.0,0.0
-2013-14,3965763,36,8,Chelsea,Away,21555,41328,César Azpilicueta,cesar-azpilicueta,D,False,0.0,0.0,90.0,0.0,0.0
-2013-14,3965763,36,8,Chelsea,Away,25233,41135,Branislav Ivanović,branislav-ivanovic,D,False,0.0,0.0,90.0,0.0,0.0
-2013-14,3965763,36,8,Chelsea,Away,28253,47412,Demba Ba,demba-ba,F,False,0.0,1.0,84.0,0.0,0.0
-2013-14,3965763,36,8,Chelsea,Away,31417,47431,Willian,willian,M,True,0.0,1.0,30.0,0.0,0.0
-2013-14,3965763,36,8,Chelsea,Away,44241,62398,Nemanja Matić,nemanja-matic,M,False,0.0,0.0,90.0,0.0,0.0
-2013-14,3965763,36,8,Chelsea,Away,70492,66842,Andre Schürrle,andre-schurrle,F,False,0.0,0.0,77.0,0.0,0.0
-2013-14,3965763,36,8,Chelsea,Away,94099,84482,Tomáš Kalas,tomas-kalas,D,False,0.0,0.0,90.0,0.0,0.0
-2013-14,3965763,36,8,Chelsea,Away,112794,82660,Marco van Ginkel,marco-van-ginkel,F,True,,,,,
-2013-14,3965763,36,8,Chelsea,Away,149663,126184,Nathan Aké,nathan-ake,D,True,,,,,
-2013-14,3965763,36,8,Chelsea,Away,159665,118748,Mohamed Salah,mohamed-salah,M,False,0.0,0.0,60.0,0.0,0.0
-2013-14,3965763,36,8,Chelsea,Away,190859,126186,Lewis Baker,lewis-baker,M,True,,,,,
-2013-14,3965781,37,8,Chelsea,Home,2,3785,Ashley Cole,ashley-cole,D,False,0.0,0.0,90.0,0.0,0.0
-2013-14,3965781,37,8,Chelsea,Home,803,1827,Mark Schwarzer,mark-schwarzer,G,False,0.0,0.0,90.0,0.0,0.0
-2013-14,3965781,37,8,Chelsea,Home,1205,1718,John Terry,john-terry,D,False,0.0,0.0,90.0,0.0,0.0
-2013-14,3965781,37,8,Chelsea,Home,1216,2051,Frank Lampard,frank-lampard,M,False,0.0,0.0,45.0,0.0,0.0
-2013-14,3965781,37,8,Chelsea,Home,2436,14402,Fernando Torres,fernando-torres,F,True,0.0,0.0,17.0,0.0,0.0
-2013-14,3965781,37,8,Chelsea,Home,6413,37634,Henrique Hilário,henrique-hilario,G,True,,,,,
-2013-14,3965781,37,8,Chelsea,Home,9628,19419,Gary Cahill,gary-cahill,D,False,0.0,0.0,90.0,0.0,0.0
-2013-14,3965781,37,8,Chelsea,Home,11688,8438,Samuel Eto'o,samuel-etoo,F,True,,,,,
-2013-14,3965781,37,8,Chelsea,Home,21300,41270,David Luiz,david-luiz,D,True,0.0,0.0,45.0,0.0,0.0
-2013-14,3965781,37,8,Chelsea,Home,25233,41135,Branislav Ivanović,branislav-ivanovic,D,False,0.0,0.0,90.0,0.0,0.0
-2013-14,3965781,37,8,Chelsea,Home,27583,42786,Eden Hazard,eden-hazard,F,True,0.0,0.0,45.0,0.0,0.0
-2013-14,3965781,37,8,Chelsea,Home,28253,47412,Demba Ba,demba-ba,F,False,0.0,0.0,90.0,0.0,0.0
-2013-14,3965781,37,8,Chelsea,Home,31417,47431,Willian,willian,M,False,0.0,0.0,90.0,0.0,0.0
-2013-14,3965781,37,8,Chelsea,Home,44241,62398,Nemanja Matić,nemanja-matic,M,False,0.0,0.0,73.0,0.0,0.0
-2013-14,3965781,37,8,Chelsea,Home,70492,66842,Andre Schürrle,andre-schurrle,F,False,0.0,0.0,90.0,0.0,0.0
-2013-14,3965781,37,8,Chelsea,Home,94099,84482,Tomáš Kalas,tomas-kalas,D,True,,,,,
-2013-14,3965781,37,8,Chelsea,Home,112794,82660,Marco van Ginkel,marco-van-ginkel,F,True,,,,,
-2013-14,3965781,37,8,Chelsea,Home,159665,118748,Mohamed Salah,mohamed-salah,M,False,0.0,0.0,45.0,0.0,0.0
-2013-14,3965797,38,8,Chelsea,Away,2,3785,Ashley Cole,ashley-cole,D,False,0.0,0.0,90.0,0.0,0.0
-2013-14,3965797,38,8,Chelsea,Away,803,1827,Mark Schwarzer,mark-schwarzer,G,False,0.0,0.0,90.0,0.0,0.0
-2013-14,3965797,38,8,Chelsea,Away,2436,14402,Fernando Torres,fernando-torres,F,False,0.0,1.0,90.0,0.0,0.0
-2013-14,3965797,38,8,Chelsea,Away,6413,37634,Henrique Hilário,henrique-hilario,G,True,,,,,
-2013-14,3965797,38,8,Chelsea,Away,7311,28495,John Obi Mikel,john-obi-mikel,M,False,0.0,0.0,66.0,0.0,0.0
-2013-14,3965797,38,8,Chelsea,Away,9628,19419,Gary Cahill,gary-cahill,D,True,,,,,
-2013-14,3965797,38,8,Chelsea,Away,21300,41270,David Luiz,david-luiz,D,True,,,,,
-2013-14,3965797,38,8,Chelsea,Away,21555,41328,César Azpilicueta,cesar-azpilicueta,D,False,0.0,0.0,90.0,0.0,0.0
-2013-14,3965797,38,8,Chelsea,Away,25233,41135,Branislav Ivanović,branislav-ivanovic,D,False,0.0,0.0,90.0,0.0,0.0
-2013-14,3965797,38,8,Chelsea,Away,27583,42786,Eden Hazard,eden-hazard,F,False,0.0,0.0,89.0,0.0,0.0
-2013-14,3965797,38,8,Chelsea,Away,28253,47412,Demba Ba,demba-ba,F,True,,,,,
-2013-14,3965797,38,8,Chelsea,Away,39400,61262,Oscar,oscar,M,False,0.0,0.0,90.0,0.0,0.0
-2013-14,3965797,38,8,Chelsea,Away,44241,62398,Nemanja Matić,nemanja-matic,M,False,0.0,0.0,90.0,0.0,0.0
-2013-14,3965797,38,8,Chelsea,Away,70492,66842,Andre Schürrle,andre-schurrle,F,True,0.0,1.0,24.0,0.0,0.0
-2013-14,3965797,38,8,Chelsea,Away,94099,84482,Tomáš Kalas,tomas-kalas,D,False,0.0,0.0,90.0,0.0,0.0
-2013-14,3965797,38,8,Chelsea,Away,149663,126184,Nathan Aké,nathan-ake,D,True,0.0,0.0,11.0,0.0,0.0
-2013-14,3965797,38,8,Chelsea,Away,159665,118748,Mohamed Salah,mohamed-salah,M,False,0.0,0.0,79.0,0.0,0.0
-2013-14,3965797,38,8,Chelsea,Away,190863,126189,John Swift,john-swift,M,True,0.0,0.0,1.0,0.0,0.0
+season,matchId,gameweek,team_id,team,venue,playerId,pl_code,playerName,slug,position,substitute,goalAssist,goals,minutesPlayed,ownGoals,substitute.1,totalShots
+2013-14,3964789,1,8,Chelsea,Home,2,3785,Ashley Cole,ashley-cole,D,False,0.0,0.0,90.0,0.0,,0.0
+2013-14,3964789,1,8,Chelsea,Home,803,1827,Mark Schwarzer,mark-schwarzer,G,True,,,,,,
+2013-14,3964789,1,8,Chelsea,Home,1185,11334,Petr Čech,petr-cech,G,False,0.0,0.0,90.0,0.0,,0.0
+2013-14,3964789,1,8,Chelsea,Home,1205,1718,John Terry,john-terry,D,False,0.0,0.0,90.0,0.0,,0.0
+2013-14,3964789,1,8,Chelsea,Home,1216,2051,Frank Lampard,frank-lampard,M,False,0.0,1.0,90.0,0.0,,0.0
+2013-14,3964789,1,8,Chelsea,Home,2436,14402,Fernando Torres,fernando-torres,F,False,0.0,0.0,75.0,0.0,,0.0
+2013-14,3964789,1,8,Chelsea,Home,3300,8442,Michael Essien,michael-essien,M,True,,,,,,
+2013-14,3964789,1,8,Chelsea,Home,9628,19419,Gary Cahill,gary-cahill,D,False,0.0,0.0,90.0,0.0,,0.0
+2013-14,3964789,1,8,Chelsea,Home,25233,41135,Branislav Ivanović,branislav-ivanovic,D,False,0.0,0.0,90.0,0.0,,0.0
+2013-14,3964789,1,8,Chelsea,Home,27583,42786,Eden Hazard,eden-hazard,F,False,0.0,0.0,90.0,0.0,,0.0
+2013-14,3964789,1,8,Chelsea,Home,28253,47412,Demba Ba,demba-ba,F,True,,,,,,
+2013-14,3964789,1,8,Chelsea,Home,28367,43670,Juan Mata,juan-mata,M,True,,,,,,
+2013-14,3964789,1,8,Chelsea,Home,33110,53392,Ramires,ramires,M,False,0.0,0.0,90.0,0.0,,0.0
+2013-14,3964789,1,8,Chelsea,Home,39400,61262,Oscar,oscar,M,False,0.0,1.0,85.0,0.0,,0.0
+2013-14,3964789,1,8,Chelsea,Home,70492,66842,Andre Schürrle,andre-schurrle,F,True,0.0,0.0,23.0,0.0,,0.0
+2013-14,3964789,1,8,Chelsea,Home,70996,61366,Kevin De Bruyne,kevin-de-bruyne,M,False,0.0,0.0,67.0,0.0,,0.0
+2013-14,3964789,1,8,Chelsea,Home,78893,66749,Romelu Lukaku,romelu-lukaku,F,True,0.0,0.0,15.0,0.0,,0.0
+2013-14,3964789,1,8,Chelsea,Home,112794,82660,Marco van Ginkel,marco-van-ginkel,F,True,0.0,0.0,5.0,0.0,,0.0
+2013-14,3964821,2,8,Chelsea,Away,2,3785,Ashley Cole,ashley-cole,D,False,0.0,0.0,90.0,0.0,,0.0
+2013-14,3964821,2,8,Chelsea,Away,803,1827,Mark Schwarzer,mark-schwarzer,G,True,,,,,,
+2013-14,3964821,2,8,Chelsea,Away,1185,11334,Petr Čech,petr-cech,G,False,0.0,0.0,90.0,0.0,,0.0
+2013-14,3964821,2,8,Chelsea,Away,1205,1718,John Terry,john-terry,D,False,0.0,0.0,90.0,0.0,,0.0
+2013-14,3964821,2,8,Chelsea,Away,1216,2051,Frank Lampard,frank-lampard,M,False,0.0,0.0,90.0,0.0,,0.0
+2013-14,3964821,2,8,Chelsea,Away,2436,14402,Fernando Torres,fernando-torres,F,True,0.0,0.0,30.0,0.0,,0.0
+2013-14,3964821,2,8,Chelsea,Away,3300,8442,Michael Essien,michael-essien,M,True,,,,,,
+2013-14,3964821,2,8,Chelsea,Away,7311,28495,John Obi Mikel,john-obi-mikel,M,True,0.0,0.0,3.0,0.0,,0.0
+2013-14,3964821,2,8,Chelsea,Away,9628,19419,Gary Cahill,gary-cahill,D,False,0.0,0.0,90.0,0.0,,0.0
+2013-14,3964821,2,8,Chelsea,Away,21555,41328,César Azpilicueta,cesar-azpilicueta,D,True,0.0,0.0,1.0,0.0,,0.0
+2013-14,3964821,2,8,Chelsea,Away,25233,41135,Branislav Ivanović,branislav-ivanovic,D,False,0.0,0.0,90.0,0.0,,0.0
+2013-14,3964821,2,8,Chelsea,Away,27583,42786,Eden Hazard,eden-hazard,F,False,0.0,0.0,90.0,0.0,,0.0
+2013-14,3964821,2,8,Chelsea,Away,28367,43670,Juan Mata,juan-mata,M,True,,,,,,
+2013-14,3964821,2,8,Chelsea,Away,33110,53392,Ramires,ramires,M,False,0.0,0.0,90.0,0.0,,0.0
+2013-14,3964821,2,8,Chelsea,Away,39400,61262,Oscar,oscar,M,False,0.0,0.0,90.0,0.0,,0.0
+2013-14,3964821,2,8,Chelsea,Away,70492,66842,Andre Schürrle,andre-schurrle,F,False,0.0,0.0,87.0,0.0,,0.0
+2013-14,3964821,2,8,Chelsea,Away,70996,61366,Kevin De Bruyne,kevin-de-bruyne,M,False,0.0,0.0,60.0,0.0,,0.0
+2013-14,3964821,2,8,Chelsea,Away,78893,66749,Romelu Lukaku,romelu-lukaku,F,True,,,,,,
+2013-14,4166893,3,8,Chelsea,Home,2,3785,Ashley Cole,ashley-cole,D,False,0.0,0.0,90.0,0.0,,0.0
+2013-14,4166893,3,8,Chelsea,Home,803,1827,Mark Schwarzer,mark-schwarzer,G,True,,,,,,
+2013-14,4166893,3,8,Chelsea,Home,1185,11334,Petr Čech,petr-cech,G,False,0.0,0.0,90.0,0.0,,0.0
+2013-14,4166893,3,8,Chelsea,Home,1205,1718,John Terry,john-terry,D,False,0.0,0.0,90.0,0.0,,0.0
+2013-14,4166893,3,8,Chelsea,Home,1216,2051,Frank Lampard,frank-lampard,M,False,0.0,0.0,90.0,0.0,,0.0
+2013-14,4166893,3,8,Chelsea,Home,7311,28495,John Obi Mikel,john-obi-mikel,M,True,,,,,,
+2013-14,4166893,3,8,Chelsea,Home,9628,19419,Gary Cahill,gary-cahill,D,False,0.0,0.0,90.0,0.0,,0.0
+2013-14,4166893,3,8,Chelsea,Home,21555,41328,César Azpilicueta,cesar-azpilicueta,D,True,,,,,,
+2013-14,4166893,3,8,Chelsea,Home,25233,41135,Branislav Ivanović,branislav-ivanovic,D,False,0.0,1.0,90.0,0.0,,0.0
+2013-14,4166893,3,8,Chelsea,Home,27583,42786,Eden Hazard,eden-hazard,F,False,0.0,0.0,90.0,0.0,,0.0
+2013-14,4166893,3,8,Chelsea,Home,28253,47412,Demba Ba,demba-ba,F,False,0.0,0.0,65.0,0.0,,0.0
+2013-14,4166893,3,8,Chelsea,Home,28367,43670,Juan Mata,juan-mata,M,False,0.0,0.0,65.0,0.0,,0.0
+2013-14,4166893,3,8,Chelsea,Home,33110,53392,Ramires,ramires,M,False,0.0,0.0,90.0,0.0,,0.0
+2013-14,4166893,3,8,Chelsea,Home,39400,61262,Oscar,oscar,M,False,0.0,0.0,84.0,0.0,,0.0
+2013-14,4166893,3,8,Chelsea,Home,70492,66842,Andre Schürrle,andre-schurrle,F,True,0.0,0.0,25.0,0.0,,0.0
+2013-14,4166893,3,8,Chelsea,Home,70996,61366,Kevin De Bruyne,kevin-de-bruyne,M,True,,,,,,
+2013-14,4166893,3,8,Chelsea,Home,78893,66749,Romelu Lukaku,romelu-lukaku,F,True,0.0,0.0,25.0,0.0,,0.0
+2013-14,4166893,3,8,Chelsea,Home,112794,82660,Marco van Ginkel,marco-van-ginkel,F,True,0.0,0.0,6.0,0.0,,0.0
+2013-14,3965119,4,8,Chelsea,Away,2,3785,Ashley Cole,ashley-cole,D,False,0.0,0.0,69.0,0.0,,0.0
+2013-14,3965119,4,8,Chelsea,Away,803,1827,Mark Schwarzer,mark-schwarzer,G,True,,,,,,
+2013-14,3965119,4,8,Chelsea,Away,1185,11334,Petr Čech,petr-cech,G,False,0.0,0.0,90.0,0.0,,0.0
+2013-14,3965119,4,8,Chelsea,Away,1205,1718,John Terry,john-terry,D,False,0.0,0.0,90.0,0.0,,0.0
+2013-14,3965119,4,8,Chelsea,Away,1216,2051,Frank Lampard,frank-lampard,M,True,0.0,0.0,33.0,0.0,,0.0
+2013-14,3965119,4,8,Chelsea,Away,2436,14402,Fernando Torres,fernando-torres,F,True,0.0,0.0,21.0,0.0,,0.0
+2013-14,3965119,4,8,Chelsea,Away,3300,8442,Michael Essien,michael-essien,M,True,,,,,,
+2013-14,3965119,4,8,Chelsea,Away,7311,28495,John Obi Mikel,john-obi-mikel,M,False,0.0,0.0,90.0,0.0,,0.0
+2013-14,3965119,4,8,Chelsea,Away,9628,19419,Gary Cahill,gary-cahill,D,True,,,,,,
+2013-14,3965119,4,8,Chelsea,Away,11688,8438,Samuel Eto'o,samuel-etoo,F,False,0.0,0.0,90.0,0.0,,0.0
+2013-14,3965119,4,8,Chelsea,Away,21300,41270,David Luiz,david-luiz,D,False,0.0,0.0,90.0,0.0,,0.0
+2013-14,3965119,4,8,Chelsea,Away,25233,41135,Branislav Ivanović,branislav-ivanovic,D,False,0.0,0.0,90.0,0.0,,0.0
+2013-14,3965119,4,8,Chelsea,Away,27583,42786,Eden Hazard,eden-hazard,F,False,0.0,0.0,90.0,0.0,,0.0
+2013-14,3965119,4,8,Chelsea,Away,28367,43670,Juan Mata,juan-mata,M,False,0.0,0.0,57.0,0.0,,0.0
+2013-14,3965119,4,8,Chelsea,Away,33110,53392,Ramires,ramires,M,False,0.0,0.0,90.0,0.0,,0.0
+2013-14,3965119,4,8,Chelsea,Away,39400,61262,Oscar,oscar,M,True,0.0,0.0,33.0,0.0,,0.0
+2013-14,3965119,4,8,Chelsea,Away,70492,66842,Andre Schürrle,andre-schurrle,F,False,0.0,0.0,57.0,0.0,,0.0
+2013-14,3965119,4,8,Chelsea,Away,70996,61366,Kevin De Bruyne,kevin-de-bruyne,M,True,,,,,,
+2013-14,3965141,5,8,Chelsea,Home,2,3785,Ashley Cole,ashley-cole,D,False,0.0,0.0,90.0,0.0,,0.0
+2013-14,3965141,5,8,Chelsea,Home,803,1827,Mark Schwarzer,mark-schwarzer,G,True,,,,,,
+2013-14,3965141,5,8,Chelsea,Home,1185,11334,Petr Čech,petr-cech,G,False,0.0,0.0,90.0,0.0,,0.0
+2013-14,3965141,5,8,Chelsea,Home,1205,1718,John Terry,john-terry,D,False,0.0,0.0,90.0,0.0,,0.0
+2013-14,3965141,5,8,Chelsea,Home,1216,2051,Frank Lampard,frank-lampard,M,True,0.0,0.0,11.0,0.0,,0.0
+2013-14,3965141,5,8,Chelsea,Home,2436,14402,Fernando Torres,fernando-torres,F,True,0.0,0.0,26.0,0.0,,0.0
+2013-14,3965141,5,8,Chelsea,Home,3300,8442,Michael Essien,michael-essien,M,True,,,,,,
+2013-14,3965141,5,8,Chelsea,Home,7311,28495,John Obi Mikel,john-obi-mikel,M,False,0.0,1.0,90.0,0.0,,0.0
+2013-14,3965141,5,8,Chelsea,Home,9628,19419,Gary Cahill,gary-cahill,D,False,0.0,0.0,90.0,0.0,,0.0
+2013-14,3965141,5,8,Chelsea,Home,11688,8438,Samuel Eto'o,samuel-etoo,F,False,0.0,0.0,64.0,0.0,,0.0
+2013-14,3965141,5,8,Chelsea,Home,21555,41328,César Azpilicueta,cesar-azpilicueta,D,True,,,,,,
+2013-14,3965141,5,8,Chelsea,Home,25233,41135,Branislav Ivanović,branislav-ivanovic,D,False,0.0,0.0,90.0,0.0,,0.0
+2013-14,3965141,5,8,Chelsea,Home,27583,42786,Eden Hazard,eden-hazard,F,False,0.0,0.0,85.0,0.0,,0.0
+2013-14,3965141,5,8,Chelsea,Home,31417,47431,Willian,willian,M,True,,,,,,
+2013-14,3965141,5,8,Chelsea,Home,33110,53392,Ramires,ramires,M,False,0.0,0.0,90.0,0.0,,0.0
+2013-14,3965141,5,8,Chelsea,Home,39400,61262,Oscar,oscar,M,False,0.0,1.0,90.0,0.0,,0.0
+2013-14,3965141,5,8,Chelsea,Home,70492,66842,Andre Schürrle,andre-schurrle,F,False,0.0,0.0,79.0,0.0,,0.0
+2013-14,3965141,5,8,Chelsea,Home,70996,61366,Kevin De Bruyne,kevin-de-bruyne,M,True,0.0,0.0,5.0,0.0,,0.0
+2013-14,3965175,6,8,Chelsea,Away,2,3785,Ashley Cole,ashley-cole,D,False,0.0,0.0,90.0,0.0,,0.0
+2013-14,3965175,6,8,Chelsea,Away,803,1827,Mark Schwarzer,mark-schwarzer,G,True,,,,,,
+2013-14,3965175,6,8,Chelsea,Away,1185,11334,Petr Čech,petr-cech,G,False,0.0,0.0,90.0,0.0,,0.0
+2013-14,3965175,6,8,Chelsea,Away,1205,1718,John Terry,john-terry,D,False,0.0,1.0,90.0,0.0,,0.0
+2013-14,3965175,6,8,Chelsea,Away,1216,2051,Frank Lampard,frank-lampard,M,False,0.0,0.0,90.0,0.0,,0.0
+2013-14,3965175,6,8,Chelsea,Away,2436,14402,Fernando Torres,fernando-torres,F,False,0.0,0.0,81.0,0.0,,0.0
+2013-14,3965175,6,8,Chelsea,Away,3300,8442,Michael Essien,michael-essien,M,True,,,,,,
+2013-14,3965175,6,8,Chelsea,Away,7311,28495,John Obi Mikel,john-obi-mikel,M,False,0.0,0.0,46.0,0.0,,0.0
+2013-14,3965175,6,8,Chelsea,Away,9628,19419,Gary Cahill,gary-cahill,D,True,,,,,,
+2013-14,3965175,6,8,Chelsea,Away,11688,8438,Samuel Eto'o,samuel-etoo,F,True,,,,,,
+2013-14,3965175,6,8,Chelsea,Away,21300,41270,David Luiz,david-luiz,D,False,0.0,0.0,90.0,0.0,,0.0
+2013-14,3965175,6,8,Chelsea,Away,21555,41328,César Azpilicueta,cesar-azpilicueta,D,True,0.0,0.0,7.0,0.0,,0.0
+2013-14,3965175,6,8,Chelsea,Away,25233,41135,Branislav Ivanović,branislav-ivanovic,D,False,0.0,0.0,90.0,0.0,,0.0
+2013-14,3965175,6,8,Chelsea,Away,27583,42786,Eden Hazard,eden-hazard,F,False,0.0,0.0,69.0,0.0,,0.0
+2013-14,3965175,6,8,Chelsea,Away,28367,43670,Juan Mata,juan-mata,M,True,1.0,0.0,44.0,0.0,,0.0
+2013-14,3965175,6,8,Chelsea,Away,33110,53392,Ramires,ramires,M,False,0.0,0.0,90.0,0.0,,0.0
+2013-14,3965175,6,8,Chelsea,Away,39400,61262,Oscar,oscar,M,False,0.0,0.0,83.0,0.0,,0.0
+2013-14,3965175,6,8,Chelsea,Away,70492,66842,Andre Schürrle,andre-schurrle,F,True,0.0,0.0,21.0,0.0,,0.0
+2013-14,3965187,7,8,Chelsea,Away,2,3785,Ashley Cole,ashley-cole,D,False,0.0,0.0,75.0,0.0,,0.0
+2013-14,3965187,7,8,Chelsea,Away,803,1827,Mark Schwarzer,mark-schwarzer,G,True,,,,,,
+2013-14,3965187,7,8,Chelsea,Away,1185,11334,Petr Čech,petr-cech,G,False,0.0,0.0,90.0,0.0,,0.0
+2013-14,3965187,7,8,Chelsea,Away,1205,1718,John Terry,john-terry,D,False,0.0,0.0,90.0,0.0,,0.0
+2013-14,3965187,7,8,Chelsea,Away,1216,2051,Frank Lampard,frank-lampard,M,False,0.0,0.0,90.0,0.0,,0.0
+2013-14,3965187,7,8,Chelsea,Away,3300,8442,Michael Essien,michael-essien,M,True,,,,,,
+2013-14,3965187,7,8,Chelsea,Away,9628,19419,Gary Cahill,gary-cahill,D,True,,,,,,
+2013-14,3965187,7,8,Chelsea,Away,11688,8438,Samuel Eto'o,samuel-etoo,F,True,0.0,0.0,17.0,0.0,,0.0
+2013-14,3965187,7,8,Chelsea,Away,21300,41270,David Luiz,david-luiz,D,False,0.0,0.0,90.0,0.0,,0.0
+2013-14,3965187,7,8,Chelsea,Away,21555,41328,César Azpilicueta,cesar-azpilicueta,D,True,,,,,,
+2013-14,3965187,7,8,Chelsea,Away,25233,41135,Branislav Ivanović,branislav-ivanovic,D,False,0.0,0.0,90.0,0.0,,0.0
+2013-14,3965187,7,8,Chelsea,Away,27583,42786,Eden Hazard,eden-hazard,F,True,0.0,1.0,15.0,0.0,,0.0
+2013-14,3965187,7,8,Chelsea,Away,28253,47412,Demba Ba,demba-ba,F,False,1.0,0.0,73.0,0.0,,0.0
+2013-14,3965187,7,8,Chelsea,Away,28367,43670,Juan Mata,juan-mata,M,False,0.0,0.0,81.0,0.0,,0.0
+2013-14,3965187,7,8,Chelsea,Away,31417,47431,Willian,willian,M,True,0.0,1.0,9.0,0.0,,0.0
+2013-14,3965187,7,8,Chelsea,Away,33110,53392,Ramires,ramires,M,False,0.0,0.0,90.0,0.0,,0.0
+2013-14,3965187,7,8,Chelsea,Away,39400,61262,Oscar,oscar,M,False,0.0,1.0,90.0,0.0,,0.0
+2013-14,3965187,7,8,Chelsea,Away,70492,66842,Andre Schürrle,andre-schurrle,F,False,0.0,0.0,90.0,0.0,,0.0
+2013-14,3965201,8,8,Chelsea,Home,803,1827,Mark Schwarzer,mark-schwarzer,G,True,,,,,,
+2013-14,3965201,8,8,Chelsea,Home,1185,11334,Petr Čech,petr-cech,G,False,0.0,0.0,90.0,0.0,,0.0
+2013-14,3965201,8,8,Chelsea,Home,1205,1718,John Terry,john-terry,D,False,0.0,0.0,90.0,0.0,,0.0
+2013-14,3965201,8,8,Chelsea,Home,1216,2051,Frank Lampard,frank-lampard,M,False,0.0,0.0,90.0,0.0,,0.0
+2013-14,3965201,8,8,Chelsea,Home,2436,14402,Fernando Torres,fernando-torres,F,True,0.0,0.0,26.0,0.0,,0.0
+2013-14,3965201,8,8,Chelsea,Home,3300,8442,Michael Essien,michael-essien,M,True,,,,,,
+2013-14,3965201,8,8,Chelsea,Home,9628,19419,Gary Cahill,gary-cahill,D,True,,,,,,
+2013-14,3965201,8,8,Chelsea,Home,11688,8438,Samuel Eto'o,samuel-etoo,F,False,0.0,1.0,69.0,0.0,,0.0
+2013-14,3965201,8,8,Chelsea,Home,20756,40146,Ryan Bertrand,ryan-bertrand,D,False,0.0,0.0,64.0,0.0,,0.0
+2013-14,3965201,8,8,Chelsea,Home,21300,41270,David Luiz,david-luiz,D,False,0.0,0.0,90.0,0.0,,0.0
+2013-14,3965201,8,8,Chelsea,Home,21555,41328,César Azpilicueta,cesar-azpilicueta,D,True,0.0,0.0,21.0,0.0,,0.0
+2013-14,3965201,8,8,Chelsea,Home,25233,41135,Branislav Ivanović,branislav-ivanovic,D,False,0.0,0.0,90.0,0.0,,0.0
+2013-14,3965201,8,8,Chelsea,Home,27583,42786,Eden Hazard,eden-hazard,F,False,0.0,2.0,90.0,0.0,,0.0
+2013-14,3965201,8,8,Chelsea,Home,28367,43670,Juan Mata,juan-mata,M,False,0.0,0.0,59.0,0.0,,0.0
+2013-14,3965201,8,8,Chelsea,Home,31417,47431,Willian,willian,M,False,0.0,0.0,90.0,0.0,,0.0
+2013-14,3965201,8,8,Chelsea,Home,33110,53392,Ramires,ramires,M,False,0.0,0.0,90.0,0.0,,0.0
+2013-14,3965201,8,8,Chelsea,Home,39400,61262,Oscar,oscar,M,True,0.0,1.0,31.0,0.0,,0.0
+2013-14,3965201,8,8,Chelsea,Home,70996,61366,Kevin De Bruyne,kevin-de-bruyne,M,True,,,,,,
+2013-14,3965219,9,8,Chelsea,Home,2,3785,Ashley Cole,ashley-cole,D,False,0.0,0.0,90.0,0.0,,0.0
+2013-14,3965219,9,8,Chelsea,Home,803,1827,Mark Schwarzer,mark-schwarzer,G,True,,,,,,
+2013-14,3965219,9,8,Chelsea,Home,1185,11334,Petr Čech,petr-cech,G,False,0.0,0.0,90.0,0.0,,0.0
+2013-14,3965219,9,8,Chelsea,Home,1205,1718,John Terry,john-terry,D,False,0.0,0.0,90.0,0.0,,0.0
+2013-14,3965219,9,8,Chelsea,Home,1216,2051,Frank Lampard,frank-lampard,M,False,0.0,0.0,66.0,0.0,,0.0
+2013-14,3965219,9,8,Chelsea,Home,2436,14402,Fernando Torres,fernando-torres,F,False,1.0,1.0,90.0,0.0,,0.0
+2013-14,3965219,9,8,Chelsea,Home,7311,28495,John Obi Mikel,john-obi-mikel,M,True,0.0,0.0,24.0,0.0,,0.0
+2013-14,3965219,9,8,Chelsea,Home,9628,19419,Gary Cahill,gary-cahill,D,False,0.0,0.0,90.0,0.0,,0.0
+2013-14,3965219,9,8,Chelsea,Home,11688,8438,Samuel Eto'o,samuel-etoo,F,True,0.0,0.0,6.0,0.0,,0.0
+2013-14,3965219,9,8,Chelsea,Home,21300,41270,David Luiz,david-luiz,D,True,,,,,,
+2013-14,3965219,9,8,Chelsea,Home,21555,41328,César Azpilicueta,cesar-azpilicueta,D,True,,,,,,
+2013-14,3965219,9,8,Chelsea,Home,25233,41135,Branislav Ivanović,branislav-ivanovic,D,False,0.0,0.0,90.0,0.0,,0.0
+2013-14,3965219,9,8,Chelsea,Home,27583,42786,Eden Hazard,eden-hazard,F,False,0.0,0.0,84.0,0.0,,0.0
+2013-14,3965219,9,8,Chelsea,Home,28367,43670,Juan Mata,juan-mata,M,True,,,,,,
+2013-14,3965219,9,8,Chelsea,Home,31417,47431,Willian,willian,M,True,0.0,0.0,24.0,0.0,,0.0
+2013-14,3965219,9,8,Chelsea,Home,33110,53392,Ramires,ramires,M,False,0.0,0.0,90.0,0.0,,0.0
+2013-14,3965219,9,8,Chelsea,Home,39400,61262,Oscar,oscar,M,False,0.0,0.0,90.0,0.0,,0.0
+2013-14,3965219,9,8,Chelsea,Home,70492,66842,Andre Schürrle,andre-schurrle,F,False,0.0,1.0,66.0,0.0,,0.0
+2013-14,3965249,10,8,Chelsea,Away,2,3785,Ashley Cole,ashley-cole,D,False,0.0,0.0,90.0,0.0,,0.0
+2013-14,3965249,10,8,Chelsea,Away,803,1827,Mark Schwarzer,mark-schwarzer,G,True,,,,,,
+2013-14,3965249,10,8,Chelsea,Away,1185,11334,Petr Čech,petr-cech,G,False,0.0,0.0,90.0,0.0,,0.0
+2013-14,3965249,10,8,Chelsea,Away,1205,1718,John Terry,john-terry,D,False,0.0,0.0,90.0,0.0,,0.0
+2013-14,3965249,10,8,Chelsea,Away,1216,2051,Frank Lampard,frank-lampard,M,False,0.0,0.0,70.0,0.0,,0.0
+2013-14,3965249,10,8,Chelsea,Away,2436,14402,Fernando Torres,fernando-torres,F,False,0.0,0.0,62.0,0.0,,0.0
+2013-14,3965249,10,8,Chelsea,Away,7311,28495,John Obi Mikel,john-obi-mikel,M,True,,,,,,
+2013-14,3965249,10,8,Chelsea,Away,9628,19419,Gary Cahill,gary-cahill,D,True,,,,,,
+2013-14,3965249,10,8,Chelsea,Away,11688,8438,Samuel Eto'o,samuel-etoo,F,True,0.0,0.0,28.0,0.0,,0.0
+2013-14,3965249,10,8,Chelsea,Away,21300,41270,David Luiz,david-luiz,D,False,0.0,0.0,90.0,0.0,,0.0
+2013-14,3965249,10,8,Chelsea,Away,21555,41328,César Azpilicueta,cesar-azpilicueta,D,True,,,,,,
+2013-14,3965249,10,8,Chelsea,Away,25233,41135,Branislav Ivanović,branislav-ivanovic,D,False,0.0,0.0,90.0,0.0,,0.0
+2013-14,3965249,10,8,Chelsea,Away,27583,42786,Eden Hazard,eden-hazard,F,False,0.0,0.0,90.0,0.0,,0.0
+2013-14,3965249,10,8,Chelsea,Away,28367,43670,Juan Mata,juan-mata,M,False,0.0,0.0,62.0,0.0,,0.0
+2013-14,3965249,10,8,Chelsea,Away,31417,47431,Willian,willian,M,True,0.0,0.0,28.0,0.0,,0.0
+2013-14,3965249,10,8,Chelsea,Away,33110,53392,Ramires,ramires,M,False,0.0,0.0,90.0,0.0,,0.0
+2013-14,3965249,10,8,Chelsea,Away,39400,61262,Oscar,oscar,M,False,0.0,0.0,90.0,0.0,,0.0
+2013-14,3965249,10,8,Chelsea,Away,70492,66842,Andre Schürrle,andre-schurrle,F,True,0.0,0.0,20.0,0.0,,0.0
+2013-14,3965259,11,8,Chelsea,Home,2,3785,Ashley Cole,ashley-cole,D,True,,,,,,
+2013-14,3965259,11,8,Chelsea,Home,803,1827,Mark Schwarzer,mark-schwarzer,G,True,,,,,,
+2013-14,3965259,11,8,Chelsea,Home,1185,11334,Petr Čech,petr-cech,G,False,0.0,0.0,90.0,0.0,,0.0
+2013-14,3965259,11,8,Chelsea,Home,1205,1718,John Terry,john-terry,D,False,0.0,0.0,90.0,0.0,,0.0
+2013-14,3965259,11,8,Chelsea,Home,1216,2051,Frank Lampard,frank-lampard,M,False,0.0,0.0,64.0,0.0,,0.0
+2013-14,3965259,11,8,Chelsea,Home,7311,28495,John Obi Mikel,john-obi-mikel,M,True,0.0,0.0,18.0,0.0,,0.0
+2013-14,3965259,11,8,Chelsea,Home,9628,19419,Gary Cahill,gary-cahill,D,False,0.0,0.0,90.0,0.0,,0.0
+2013-14,3965259,11,8,Chelsea,Home,11688,8438,Samuel Eto'o,samuel-etoo,F,False,0.0,1.0,90.0,0.0,,0.0
+2013-14,3965259,11,8,Chelsea,Home,21300,41270,David Luiz,david-luiz,D,True,,,,,,
+2013-14,3965259,11,8,Chelsea,Home,21555,41328,César Azpilicueta,cesar-azpilicueta,D,False,0.0,0.0,72.0,0.0,,0.0
+2013-14,3965259,11,8,Chelsea,Home,25233,41135,Branislav Ivanović,branislav-ivanovic,D,False,0.0,0.0,90.0,0.0,,0.0
+2013-14,3965259,11,8,Chelsea,Home,27583,42786,Eden Hazard,eden-hazard,F,False,0.0,1.0,90.0,0.0,,0.0
+2013-14,3965259,11,8,Chelsea,Home,28253,47412,Demba Ba,demba-ba,F,True,0.0,0.0,26.0,0.0,,0.0
+2013-14,3965259,11,8,Chelsea,Home,28367,43670,Juan Mata,juan-mata,M,True,0.0,0.0,17.0,0.0,,0.0
+2013-14,3965259,11,8,Chelsea,Home,31417,47431,Willian,willian,M,False,0.0,0.0,90.0,0.0,,0.0
+2013-14,3965259,11,8,Chelsea,Home,33110,53392,Ramires,ramires,M,False,0.0,0.0,90.0,0.0,,0.0
+2013-14,3965259,11,8,Chelsea,Home,39400,61262,Oscar,oscar,M,False,0.0,0.0,73.0,0.0,,0.0
+2013-14,3965259,11,8,Chelsea,Home,70996,61366,Kevin De Bruyne,kevin-de-bruyne,M,True,,,,,,
+2013-14,3965295,12,8,Chelsea,Away,2,3785,Ashley Cole,ashley-cole,D,True,,,,,,
+2013-14,3965295,12,8,Chelsea,Away,803,1827,Mark Schwarzer,mark-schwarzer,G,True,,,,,,
+2013-14,3965295,12,8,Chelsea,Away,1185,11334,Petr Čech,petr-cech,G,False,0.0,0.0,90.0,0.0,,0.0
+2013-14,3965295,12,8,Chelsea,Away,1205,1718,John Terry,john-terry,D,False,0.0,0.0,90.0,0.0,,0.0
+2013-14,3965295,12,8,Chelsea,Away,1216,2051,Frank Lampard,frank-lampard,M,False,0.0,2.0,90.0,0.0,,0.0
+2013-14,3965295,12,8,Chelsea,Away,3300,8442,Michael Essien,michael-essien,M,True,0.0,0.0,6.0,0.0,,0.0
+2013-14,3965295,12,8,Chelsea,Away,7311,28495,John Obi Mikel,john-obi-mikel,M,False,0.0,0.0,90.0,0.0,,0.0
+2013-14,3965295,12,8,Chelsea,Away,9628,19419,Gary Cahill,gary-cahill,D,False,0.0,0.0,90.0,0.0,,0.0
+2013-14,3965295,12,8,Chelsea,Away,11688,8438,Samuel Eto'o,samuel-etoo,F,False,0.0,0.0,79.0,0.0,,0.0
+2013-14,3965295,12,8,Chelsea,Away,21555,41328,César Azpilicueta,cesar-azpilicueta,D,False,0.0,0.0,90.0,0.0,,0.0
+2013-14,3965295,12,8,Chelsea,Away,25233,41135,Branislav Ivanović,branislav-ivanovic,D,False,0.0,0.0,90.0,0.0,,0.0
+2013-14,3965295,12,8,Chelsea,Away,27583,42786,Eden Hazard,eden-hazard,F,False,0.0,0.0,84.0,0.0,,0.0
+2013-14,3965295,12,8,Chelsea,Away,28253,47412,Demba Ba,demba-ba,F,True,0.0,0.0,11.0,0.0,,0.0
+2013-14,3965295,12,8,Chelsea,Away,28367,43670,Juan Mata,juan-mata,M,True,,,,,,
+2013-14,3965295,12,8,Chelsea,Away,31417,47431,Willian,willian,M,True,,,,,,
+2013-14,3965295,12,8,Chelsea,Away,33110,53392,Ramires,ramires,M,False,0.0,0.0,90.0,0.0,,0.0
+2013-14,3965295,12,8,Chelsea,Away,39400,61262,Oscar,oscar,M,False,0.0,1.0,83.0,0.0,,0.0
+2013-14,3965295,12,8,Chelsea,Away,70492,66842,Andre Schürrle,andre-schurrle,F,True,0.0,0.0,7.0,0.0,,0.0
+2013-14,3965301,13,8,Chelsea,Home,2,3785,Ashley Cole,ashley-cole,D,True,,,,,,
+2013-14,3965301,13,8,Chelsea,Home,803,1827,Mark Schwarzer,mark-schwarzer,G,True,,,,,,
+2013-14,3965301,13,8,Chelsea,Home,1185,11334,Petr Čech,petr-cech,G,False,0.0,0.0,90.0,0.0,,0.0
+2013-14,3965301,13,8,Chelsea,Home,1205,1718,John Terry,john-terry,D,False,0.0,1.0,90.0,0.0,,0.0
+2013-14,3965301,13,8,Chelsea,Home,1216,2051,Frank Lampard,frank-lampard,M,True,0.0,0.0,48.0,0.0,,0.0
+2013-14,3965301,13,8,Chelsea,Home,2436,14402,Fernando Torres,fernando-torres,F,False,0.0,0.0,84.0,0.0,,0.0
+2013-14,3965301,13,8,Chelsea,Home,3300,8442,Michael Essien,michael-essien,M,False,0.0,0.0,46.0,0.0,,0.0
+2013-14,3965301,13,8,Chelsea,Home,7311,28495,John Obi Mikel,john-obi-mikel,M,True,0.0,0.0,6.0,0.0,,0.0
+2013-14,3965301,13,8,Chelsea,Home,9628,19419,Gary Cahill,gary-cahill,D,False,0.0,1.0,90.0,0.0,,0.0
+2013-14,3965301,13,8,Chelsea,Home,21555,41328,César Azpilicueta,cesar-azpilicueta,D,False,0.0,0.0,90.0,0.0,,0.0
+2013-14,3965301,13,8,Chelsea,Home,25233,41135,Branislav Ivanović,branislav-ivanovic,D,False,0.0,0.0,90.0,0.0,,0.0
+2013-14,3965301,13,8,Chelsea,Home,27583,42786,Eden Hazard,eden-hazard,F,False,0.0,0.0,90.0,0.0,,0.0
+2013-14,3965301,13,8,Chelsea,Home,28253,47412,Demba Ba,demba-ba,F,True,0.0,1.0,44.0,0.0,,0.0
+2013-14,3965301,13,8,Chelsea,Home,28367,43670,Juan Mata,juan-mata,M,False,1.0,0.0,90.0,0.0,,0.0
+2013-14,3965301,13,8,Chelsea,Home,31417,47431,Willian,willian,M,True,,,,,,
+2013-14,3965301,13,8,Chelsea,Home,33110,53392,Ramires,ramires,M,False,1.0,0.0,90.0,0.0,,0.0
+2013-14,3965301,13,8,Chelsea,Home,39400,61262,Oscar,oscar,M,False,0.0,0.0,42.0,0.0,,0.0
+2013-14,3965301,13,8,Chelsea,Home,70492,66842,Andre Schürrle,andre-schurrle,F,True,,,,,,
+2013-14,3965329,14,8,Chelsea,Away,2,3785,Ashley Cole,ashley-cole,D,True,,,,,,
+2013-14,3965329,14,8,Chelsea,Away,803,1827,Mark Schwarzer,mark-schwarzer,G,True,,,,,,
+2013-14,3965329,14,8,Chelsea,Away,1185,11334,Petr Čech,petr-cech,G,False,0.0,0.0,90.0,0.0,,0.0
+2013-14,3965329,14,8,Chelsea,Away,1205,1718,John Terry,john-terry,D,False,0.0,0.0,90.0,0.0,,0.0
+2013-14,3965329,14,8,Chelsea,Away,1216,2051,Frank Lampard,frank-lampard,M,False,1.0,1.0,90.0,0.0,,0.0
+2013-14,3965329,14,8,Chelsea,Away,2436,14402,Fernando Torres,fernando-torres,F,False,0.0,0.0,65.0,0.0,,0.0
+2013-14,3965329,14,8,Chelsea,Away,3300,8442,Michael Essien,michael-essien,M,True,,,,,,
+2013-14,3965329,14,8,Chelsea,Away,7311,28495,John Obi Mikel,john-obi-mikel,M,True,0.0,0.0,9.0,0.0,,0.0
+2013-14,3965329,14,8,Chelsea,Away,9628,19419,Gary Cahill,gary-cahill,D,False,0.0,0.0,90.0,0.0,,0.0
+2013-14,3965329,14,8,Chelsea,Away,21555,41328,César Azpilicueta,cesar-azpilicueta,D,False,0.0,0.0,90.0,0.0,,0.0
+2013-14,3965329,14,8,Chelsea,Away,25233,41135,Branislav Ivanović,branislav-ivanovic,D,False,0.0,0.0,90.0,0.0,,0.0
+2013-14,3965329,14,8,Chelsea,Away,27583,42786,Eden Hazard,eden-hazard,F,False,1.0,2.0,90.0,0.0,,0.0
+2013-14,3965329,14,8,Chelsea,Away,28253,47412,Demba Ba,demba-ba,F,True,0.0,0.0,25.0,0.0,,0.0
+2013-14,3965329,14,8,Chelsea,Away,28367,43670,Juan Mata,juan-mata,M,False,0.0,0.0,81.0,0.0,,0.0
+2013-14,3965329,14,8,Chelsea,Away,31417,47431,Willian,willian,M,False,0.0,0.0,90.0,0.0,,0.0
+2013-14,3965329,14,8,Chelsea,Away,33110,53392,Ramires,ramires,M,False,0.0,0.0,90.0,0.0,,0.0
+2013-14,3965329,14,8,Chelsea,Away,70492,66842,Andre Schürrle,andre-schurrle,F,True,0.0,0.0,1.0,0.0,,0.0
+2013-14,3965329,14,8,Chelsea,Away,70996,61366,Kevin De Bruyne,kevin-de-bruyne,M,True,,,,,,
+2013-14,3965349,15,8,Chelsea,Away,2,3785,Ashley Cole,ashley-cole,D,True,,,,,,
+2013-14,3965349,15,8,Chelsea,Away,803,1827,Mark Schwarzer,mark-schwarzer,G,True,,,,,,
+2013-14,3965349,15,8,Chelsea,Away,1185,11334,Petr Čech,petr-cech,G,False,0.0,0.0,90.0,0.0,,0.0
+2013-14,3965349,15,8,Chelsea,Away,1205,1718,John Terry,john-terry,D,False,0.0,0.0,90.0,0.0,,0.0
+2013-14,3965349,15,8,Chelsea,Away,1216,2051,Frank Lampard,frank-lampard,M,True,0.0,0.0,20.0,0.0,,0.0
+2013-14,3965349,15,8,Chelsea,Away,2436,14402,Fernando Torres,fernando-torres,F,False,0.0,0.0,59.0,0.0,,0.0
+2013-14,3965349,15,8,Chelsea,Away,3300,8442,Michael Essien,michael-essien,M,True,,,,,,
+2013-14,3965349,15,8,Chelsea,Away,7311,28495,John Obi Mikel,john-obi-mikel,M,False,0.0,0.0,70.0,0.0,,0.0
+2013-14,3965349,15,8,Chelsea,Away,9628,19419,Gary Cahill,gary-cahill,D,False,0.0,0.0,90.0,0.0,,0.0
+2013-14,3965349,15,8,Chelsea,Away,11688,8438,Samuel Eto'o,samuel-etoo,F,True,0.0,0.0,20.0,0.0,,0.0
+2013-14,3965349,15,8,Chelsea,Away,21555,41328,César Azpilicueta,cesar-azpilicueta,D,False,0.0,0.0,90.0,0.0,,0.0
+2013-14,3965349,15,8,Chelsea,Away,25233,41135,Branislav Ivanović,branislav-ivanovic,D,False,0.0,0.0,90.0,0.0,,0.0
+2013-14,3965349,15,8,Chelsea,Away,27583,42786,Eden Hazard,eden-hazard,F,False,0.0,0.0,90.0,0.0,,0.0
+2013-14,3965349,15,8,Chelsea,Away,28253,47412,Demba Ba,demba-ba,F,True,0.0,0.0,31.0,0.0,,0.0
+2013-14,3965349,15,8,Chelsea,Away,28367,43670,Juan Mata,juan-mata,M,False,0.0,0.0,90.0,0.0,,0.0
+2013-14,3965349,15,8,Chelsea,Away,33110,53392,Ramires,ramires,M,False,1.0,0.0,90.0,0.0,,0.0
+2013-14,3965349,15,8,Chelsea,Away,70492,66842,Andre Schürrle,andre-schurrle,F,False,0.0,2.0,70.0,0.0,,0.0
+2013-14,3965349,15,8,Chelsea,Away,70996,61366,Kevin De Bruyne,kevin-de-bruyne,M,True,,,,,,
+2013-14,3965361,16,8,Chelsea,Home,2,3785,Ashley Cole,ashley-cole,D,True,,,,,,
+2013-14,3965361,16,8,Chelsea,Home,803,1827,Mark Schwarzer,mark-schwarzer,G,True,,,,,,
+2013-14,3965361,16,8,Chelsea,Home,1185,11334,Petr Čech,petr-cech,G,False,0.0,0.0,90.0,0.0,,0.0
+2013-14,3965361,16,8,Chelsea,Home,1205,1718,John Terry,john-terry,D,False,0.0,0.0,90.0,0.0,,0.0
+2013-14,3965361,16,8,Chelsea,Home,1216,2051,Frank Lampard,frank-lampard,M,True,,,,,,
+2013-14,3965361,16,8,Chelsea,Home,2436,14402,Fernando Torres,fernando-torres,F,False,0.0,1.0,84.0,0.0,,0.0
+2013-14,3965361,16,8,Chelsea,Home,3300,8442,Michael Essien,michael-essien,M,False,0.0,0.0,90.0,0.0,,0.0
+2013-14,3965361,16,8,Chelsea,Home,11688,8438,Samuel Eto'o,samuel-etoo,F,True,,,,,,
+2013-14,3965361,16,8,Chelsea,Home,21300,41270,David Luiz,david-luiz,D,False,0.0,0.0,90.0,0.0,,0.0
+2013-14,3965361,16,8,Chelsea,Home,21555,41328,César Azpilicueta,cesar-azpilicueta,D,False,0.0,0.0,90.0,0.0,,0.0
+2013-14,3965361,16,8,Chelsea,Home,25233,41135,Branislav Ivanović,branislav-ivanovic,D,False,0.0,0.0,90.0,0.0,,0.0
+2013-14,3965361,16,8,Chelsea,Home,27583,42786,Eden Hazard,eden-hazard,F,False,1.0,0.0,90.0,0.0,,0.0
+2013-14,3965361,16,8,Chelsea,Home,28253,47412,Demba Ba,demba-ba,F,True,0.0,0.0,6.0,0.0,,0.0
+2013-14,3965361,16,8,Chelsea,Home,28367,43670,Juan Mata,juan-mata,M,False,0.0,0.0,62.0,0.0,,0.0
+2013-14,3965361,16,8,Chelsea,Home,31417,47431,Willian,willian,M,False,0.0,0.0,82.0,0.0,,0.0
+2013-14,3965361,16,8,Chelsea,Home,33110,53392,Ramires,ramires,M,False,0.0,1.0,90.0,0.0,,0.0
+2013-14,3965361,16,8,Chelsea,Home,39400,61262,Oscar,oscar,M,True,0.0,0.0,28.0,0.0,,0.0
+2013-14,3965361,16,8,Chelsea,Home,70492,66842,Andre Schürrle,andre-schurrle,F,True,0.0,0.0,8.0,0.0,,0.0
+2013-14,3965377,17,8,Chelsea,Away,2,3785,Ashley Cole,ashley-cole,D,True,,,,,,
+2013-14,3965377,17,8,Chelsea,Away,803,1827,Mark Schwarzer,mark-schwarzer,G,True,,,,,,
+2013-14,3965377,17,8,Chelsea,Away,1185,11334,Petr Čech,petr-cech,G,False,0.0,0.0,90.0,0.0,,0.0
+2013-14,3965377,17,8,Chelsea,Away,1205,1718,John Terry,john-terry,D,False,0.0,0.0,90.0,0.0,,0.0
+2013-14,3965377,17,8,Chelsea,Away,1216,2051,Frank Lampard,frank-lampard,M,False,0.0,0.0,90.0,0.0,,0.0
+2013-14,3965377,17,8,Chelsea,Away,2436,14402,Fernando Torres,fernando-torres,F,False,0.0,0.0,87.0,0.0,,0.0
+2013-14,3965377,17,8,Chelsea,Away,7311,28495,John Obi Mikel,john-obi-mikel,M,False,0.0,0.0,90.0,0.0,,0.0
+2013-14,3965377,17,8,Chelsea,Away,9628,19419,Gary Cahill,gary-cahill,D,False,0.0,0.0,90.0,0.0,,0.0
+2013-14,3965377,17,8,Chelsea,Away,11688,8438,Samuel Eto'o,samuel-etoo,F,True,,,,,,
+2013-14,3965377,17,8,Chelsea,Away,21300,41270,David Luiz,david-luiz,D,True,0.0,0.0,3.0,0.0,,0.0
+2013-14,3965377,17,8,Chelsea,Away,21555,41328,César Azpilicueta,cesar-azpilicueta,D,False,0.0,0.0,90.0,0.0,,0.0
+2013-14,3965377,17,8,Chelsea,Away,25233,41135,Branislav Ivanović,branislav-ivanovic,D,False,0.0,0.0,90.0,0.0,,0.0
+2013-14,3965377,17,8,Chelsea,Away,27583,42786,Eden Hazard,eden-hazard,F,False,0.0,0.0,73.0,0.0,,0.0
+2013-14,3965377,17,8,Chelsea,Away,28367,43670,Juan Mata,juan-mata,M,True,,,,,,
+2013-14,3965377,17,8,Chelsea,Away,31417,47431,Willian,willian,M,False,0.0,0.0,77.0,0.0,,0.0
+2013-14,3965377,17,8,Chelsea,Away,33110,53392,Ramires,ramires,M,False,0.0,0.0,90.0,0.0,,0.0
+2013-14,3965377,17,8,Chelsea,Away,39400,61262,Oscar,oscar,M,True,0.0,0.0,13.0,0.0,,0.0
+2013-14,3965377,17,8,Chelsea,Away,70492,66842,Andre Schürrle,andre-schurrle,F,True,0.0,0.0,17.0,0.0,,0.0
+2013-14,3965401,18,8,Chelsea,Home,2,3785,Ashley Cole,ashley-cole,D,False,0.0,0.0,90.0,0.0,,0.0
+2013-14,3965401,18,8,Chelsea,Home,803,1827,Mark Schwarzer,mark-schwarzer,G,True,,,,,,
+2013-14,3965401,18,8,Chelsea,Home,1185,11334,Petr Čech,petr-cech,G,False,0.0,0.0,90.0,0.0,,0.0
+2013-14,3965401,18,8,Chelsea,Home,1205,1718,John Terry,john-terry,D,False,0.0,0.0,90.0,0.0,,0.0
+2013-14,3965401,18,8,Chelsea,Home,1216,2051,Frank Lampard,frank-lampard,M,True,0.0,0.0,23.0,0.0,,0.0
+2013-14,3965401,18,8,Chelsea,Home,2436,14402,Fernando Torres,fernando-torres,F,True,,,,,,
+2013-14,3965401,18,8,Chelsea,Home,7311,28495,John Obi Mikel,john-obi-mikel,M,False,0.0,0.0,90.0,0.0,,0.0
+2013-14,3965401,18,8,Chelsea,Home,9628,19419,Gary Cahill,gary-cahill,D,True,,,,,,
+2013-14,3965401,18,8,Chelsea,Home,11688,8438,Samuel Eto'o,samuel-etoo,F,False,0.0,0.0,90.0,0.0,,0.0
+2013-14,3965401,18,8,Chelsea,Home,21300,41270,David Luiz,david-luiz,D,False,0.0,0.0,90.0,0.0,,0.0
+2013-14,3965401,18,8,Chelsea,Home,21555,41328,César Azpilicueta,cesar-azpilicueta,D,True,,,,,,
+2013-14,3965401,18,8,Chelsea,Home,25233,41135,Branislav Ivanović,branislav-ivanovic,D,False,0.0,0.0,90.0,0.0,,0.0
+2013-14,3965401,18,8,Chelsea,Home,27583,42786,Eden Hazard,eden-hazard,F,False,0.0,1.0,82.0,0.0,,0.0
+2013-14,3965401,18,8,Chelsea,Home,28367,43670,Juan Mata,juan-mata,M,False,0.0,0.0,72.0,0.0,,0.0
+2013-14,3965401,18,8,Chelsea,Home,31417,47431,Willian,willian,M,True,0.0,0.0,8.0,0.0,,0.0
+2013-14,3965401,18,8,Chelsea,Home,33110,53392,Ramires,ramires,M,False,0.0,0.0,90.0,0.0,,0.0
+2013-14,3965401,18,8,Chelsea,Home,39400,61262,Oscar,oscar,M,False,0.0,0.0,67.0,0.0,,0.0
+2013-14,3965401,18,8,Chelsea,Home,70492,66842,Andre Schürrle,andre-schurrle,F,True,0.0,0.0,18.0,0.0,,0.0
+2013-14,3965421,19,8,Chelsea,Home,2,3785,Ashley Cole,ashley-cole,D,True,0.0,0.0,60.0,0.0,,0.0
+2013-14,3965421,19,8,Chelsea,Home,803,1827,Mark Schwarzer,mark-schwarzer,G,True,,,,,,
+2013-14,3965421,19,8,Chelsea,Home,1185,11334,Petr Čech,petr-cech,G,False,0.0,0.0,90.0,0.0,,0.0
+2013-14,3965421,19,8,Chelsea,Home,1205,1718,John Terry,john-terry,D,False,0.0,0.0,90.0,0.0,,0.0
+2013-14,3965421,19,8,Chelsea,Home,1216,2051,Frank Lampard,frank-lampard,M,False,0.0,0.0,45.0,0.0,,0.0
+2013-14,3965421,19,8,Chelsea,Home,2436,14402,Fernando Torres,fernando-torres,F,True,0.0,0.0,3.0,0.0,,0.0
+2013-14,3965421,19,8,Chelsea,Home,3300,8442,Michael Essien,michael-essien,M,True,,,,,,
+2013-14,3965421,19,8,Chelsea,Home,7311,28495,John Obi Mikel,john-obi-mikel,M,True,0.0,0.0,45.0,0.0,,0.0
+2013-14,3965421,19,8,Chelsea,Home,9628,19419,Gary Cahill,gary-cahill,D,False,0.0,0.0,90.0,0.0,,0.0
+2013-14,3965421,19,8,Chelsea,Home,11688,8438,Samuel Eto'o,samuel-etoo,F,False,0.0,1.0,87.0,0.0,,0.0
+2013-14,3965421,19,8,Chelsea,Home,21300,41270,David Luiz,david-luiz,D,False,0.0,0.0,90.0,0.0,,0.0
+2013-14,3965421,19,8,Chelsea,Home,21555,41328,César Azpilicueta,cesar-azpilicueta,D,False,0.0,0.0,90.0,0.0,,0.0
+2013-14,3965421,19,8,Chelsea,Home,25233,41135,Branislav Ivanović,branislav-ivanovic,D,False,0.0,0.0,30.0,0.0,,0.0
+2013-14,3965421,19,8,Chelsea,Home,27583,42786,Eden Hazard,eden-hazard,F,False,0.0,1.0,90.0,0.0,,0.0
+2013-14,3965421,19,8,Chelsea,Home,28367,43670,Juan Mata,juan-mata,M,True,,,,,,
+2013-14,3965421,19,8,Chelsea,Home,31417,47431,Willian,willian,M,False,0.0,0.0,90.0,0.0,,0.0
+2013-14,3965421,19,8,Chelsea,Home,39400,61262,Oscar,oscar,M,False,1.0,0.0,90.0,0.0,,0.0
+2013-14,3965421,19,8,Chelsea,Home,70492,66842,Andre Schürrle,andre-schurrle,F,True,,,,,,
+2013-14,3965447,20,8,Chelsea,Away,2,3785,Ashley Cole,ashley-cole,D,False,0.0,0.0,90.0,0.0,,0.0
+2013-14,3965447,20,8,Chelsea,Away,803,1827,Mark Schwarzer,mark-schwarzer,G,True,,,,,,
+2013-14,3965447,20,8,Chelsea,Away,1185,11334,Petr Čech,petr-cech,G,False,0.0,0.0,90.0,0.0,,0.0
+2013-14,3965447,20,8,Chelsea,Away,1205,1718,John Terry,john-terry,D,False,0.0,0.0,90.0,0.0,,0.0
+2013-14,3965447,20,8,Chelsea,Away,2436,14402,Fernando Torres,fernando-torres,F,False,0.0,1.0,90.0,0.0,,0.0
+2013-14,3965447,20,8,Chelsea,Away,3300,8442,Michael Essien,michael-essien,M,True,0.0,0.0,5.0,0.0,,0.0
+2013-14,3965447,20,8,Chelsea,Away,7311,28495,John Obi Mikel,john-obi-mikel,M,False,0.0,0.0,90.0,0.0,,0.0
+2013-14,3965447,20,8,Chelsea,Away,9628,19419,Gary Cahill,gary-cahill,D,False,0.0,0.0,90.0,0.0,,0.0
+2013-14,3965447,20,8,Chelsea,Away,11688,8438,Samuel Eto'o,samuel-etoo,F,True,,,,,,
+2013-14,3965447,20,8,Chelsea,Away,21555,41328,César Azpilicueta,cesar-azpilicueta,D,False,0.0,0.0,90.0,0.0,,0.0
+2013-14,3965447,20,8,Chelsea,Away,27583,42786,Eden Hazard,eden-hazard,F,False,0.0,0.0,85.0,0.0,,0.0
+2013-14,3965447,20,8,Chelsea,Away,28253,47412,Demba Ba,demba-ba,F,True,,,,,,
+2013-14,3965447,20,8,Chelsea,Away,28367,43670,Juan Mata,juan-mata,M,False,0.0,0.0,53.0,0.0,,0.0
+2013-14,3965447,20,8,Chelsea,Away,31417,47431,Willian,willian,M,True,0.0,1.0,37.0,0.0,,0.0
+2013-14,3965447,20,8,Chelsea,Away,33110,53392,Ramires,ramires,M,False,0.0,0.0,90.0,0.0,,0.0
+2013-14,3965447,20,8,Chelsea,Away,39400,61262,Oscar,oscar,M,True,1.0,1.0,37.0,0.0,,0.0
+2013-14,3965447,20,8,Chelsea,Away,70492,66842,Andre Schürrle,andre-schurrle,F,False,0.0,0.0,53.0,0.0,,0.0
+2013-14,3965447,20,8,Chelsea,Away,94099,84482,Tomáš Kalas,tomas-kalas,D,True,,,,,,
+2013-14,3965465,21,8,Chelsea,Away,2,3785,Ashley Cole,ashley-cole,D,False,1.0,0.0,90.0,0.0,,0.0
+2013-14,3965465,21,8,Chelsea,Away,803,1827,Mark Schwarzer,mark-schwarzer,G,True,,,,,,
+2013-14,3965465,21,8,Chelsea,Away,1185,11334,Petr Čech,petr-cech,G,False,0.0,0.0,90.0,0.0,,0.0
+2013-14,3965465,21,8,Chelsea,Away,1205,1718,John Terry,john-terry,D,False,0.0,0.0,90.0,0.0,,0.0
+2013-14,3965465,21,8,Chelsea,Away,2436,14402,Fernando Torres,fernando-torres,F,False,0.0,1.0,90.0,0.0,,0.0
+2013-14,3965465,21,8,Chelsea,Away,3300,8442,Michael Essien,michael-essien,M,True,0.0,0.0,1.0,0.0,,0.0
+2013-14,3965465,21,8,Chelsea,Away,7311,28495,John Obi Mikel,john-obi-mikel,M,True,0.0,0.0,11.0,0.0,,0.0
+2013-14,3965465,21,8,Chelsea,Away,9628,19419,Gary Cahill,gary-cahill,D,False,0.0,0.0,90.0,0.0,,0.0
+2013-14,3965465,21,8,Chelsea,Away,11688,8438,Samuel Eto'o,samuel-etoo,F,True,,,,,,
+2013-14,3965465,21,8,Chelsea,Away,20756,40146,Ryan Bertrand,ryan-bertrand,D,True,,,,,,
+2013-14,3965465,21,8,Chelsea,Away,21300,41270,David Luiz,david-luiz,D,False,0.0,0.0,90.0,0.0,,0.0
+2013-14,3965465,21,8,Chelsea,Away,21555,41328,César Azpilicueta,cesar-azpilicueta,D,False,0.0,0.0,90.0,0.0,,0.0
+2013-14,3965465,21,8,Chelsea,Away,27583,42786,Eden Hazard,eden-hazard,F,False,0.0,1.0,90.0,0.0,,0.0
+2013-14,3965465,21,8,Chelsea,Away,28367,43670,Juan Mata,juan-mata,M,True,,,,,,
+2013-14,3965465,21,8,Chelsea,Away,31417,47431,Willian,willian,M,False,0.0,0.0,88.0,0.0,,0.0
+2013-14,3965465,21,8,Chelsea,Away,33110,53392,Ramires,ramires,M,False,0.0,0.0,90.0,0.0,,0.0
+2013-14,3965465,21,8,Chelsea,Away,39400,61262,Oscar,oscar,M,False,0.0,0.0,79.0,0.0,,0.0
+2013-14,3965465,21,8,Chelsea,Away,70492,66842,Andre Schürrle,andre-schurrle,F,True,0.0,0.0,2.0,0.0,,0.0
+2013-14,3965479,22,8,Chelsea,Home,2,3785,Ashley Cole,ashley-cole,D,True,,,,,,
+2013-14,3965479,22,8,Chelsea,Home,803,1827,Mark Schwarzer,mark-schwarzer,G,True,,,,,,
+2013-14,3965479,22,8,Chelsea,Home,1185,11334,Petr Čech,petr-cech,G,False,0.0,0.0,90.0,0.0,,0.0
+2013-14,3965479,22,8,Chelsea,Home,1205,1718,John Terry,john-terry,D,False,0.0,0.0,90.0,0.0,,0.0
+2013-14,3965479,22,8,Chelsea,Home,1216,2051,Frank Lampard,frank-lampard,M,True,,,,,,
+2013-14,3965479,22,8,Chelsea,Home,2436,14402,Fernando Torres,fernando-torres,F,True,0.0,0.0,11.0,0.0,,0.0
+2013-14,3965479,22,8,Chelsea,Home,7311,28495,John Obi Mikel,john-obi-mikel,M,True,0.0,0.0,22.0,0.0,,0.0
+2013-14,3965479,22,8,Chelsea,Home,9628,19419,Gary Cahill,gary-cahill,D,False,1.0,0.0,90.0,0.0,,0.0
+2013-14,3965479,22,8,Chelsea,Home,11688,8438,Samuel Eto'o,samuel-etoo,F,False,0.0,3.0,79.0,0.0,,0.0
+2013-14,3965479,22,8,Chelsea,Home,21300,41270,David Luiz,david-luiz,D,False,0.0,0.0,90.0,0.0,,0.0
+2013-14,3965479,22,8,Chelsea,Home,21555,41328,César Azpilicueta,cesar-azpilicueta,D,False,0.0,0.0,90.0,0.0,,0.0
+2013-14,3965479,22,8,Chelsea,Home,25233,41135,Branislav Ivanović,branislav-ivanovic,D,False,0.0,0.0,90.0,0.0,,0.0
+2013-14,3965479,22,8,Chelsea,Home,27583,42786,Eden Hazard,eden-hazard,F,False,0.0,0.0,90.0,0.0,,0.0
+2013-14,3965479,22,8,Chelsea,Home,28367,43670,Juan Mata,juan-mata,M,True,,,,,,
+2013-14,3965479,22,8,Chelsea,Home,31417,47431,Willian,willian,M,False,0.0,0.0,86.0,0.0,,0.0
+2013-14,3965479,22,8,Chelsea,Home,33110,53392,Ramires,ramires,M,False,0.0,0.0,90.0,0.0,,0.0
+2013-14,3965479,22,8,Chelsea,Home,39400,61262,Oscar,oscar,M,False,0.0,0.0,68.0,0.0,,0.0
+2013-14,3965479,22,8,Chelsea,Home,44241,62398,Nemanja Matić,nemanja-matic,M,True,0.0,0.0,4.0,0.0,,0.0
+2013-14,3965513,23,8,Chelsea,Home,2,3785,Ashley Cole,ashley-cole,D,True,,,,,,
+2013-14,3965513,23,8,Chelsea,Home,803,1827,Mark Schwarzer,mark-schwarzer,G,True,,,,,,
+2013-14,3965513,23,8,Chelsea,Home,1185,11334,Petr Čech,petr-cech,G,False,0.0,0.0,90.0,0.0,,0.0
+2013-14,3965513,23,8,Chelsea,Home,1205,1718,John Terry,john-terry,D,False,0.0,0.0,90.0,0.0,,0.0
+2013-14,3965513,23,8,Chelsea,Home,1216,2051,Frank Lampard,frank-lampard,M,True,0.0,0.0,27.0,0.0,,0.0
+2013-14,3965513,23,8,Chelsea,Home,7311,28495,John Obi Mikel,john-obi-mikel,M,False,0.0,0.0,63.0,0.0,,0.0
+2013-14,3965513,23,8,Chelsea,Home,9628,19419,Gary Cahill,gary-cahill,D,False,0.0,0.0,90.0,0.0,,0.0
+2013-14,3965513,23,8,Chelsea,Home,11688,8438,Samuel Eto'o,samuel-etoo,F,False,0.0,0.0,90.0,0.0,,0.0
+2013-14,3965513,23,8,Chelsea,Home,21300,41270,David Luiz,david-luiz,D,True,,,,,,
+2013-14,3965513,23,8,Chelsea,Home,21555,41328,César Azpilicueta,cesar-azpilicueta,D,False,0.0,0.0,63.0,0.0,,0.0
+2013-14,3965513,23,8,Chelsea,Home,25233,41135,Branislav Ivanović,branislav-ivanovic,D,False,0.0,0.0,90.0,0.0,,0.0
+2013-14,3965513,23,8,Chelsea,Home,27583,42786,Eden Hazard,eden-hazard,F,False,0.0,0.0,90.0,0.0,,0.0
+2013-14,3965513,23,8,Chelsea,Home,28253,47412,Demba Ba,demba-ba,F,True,0.0,0.0,10.0,0.0,,0.0
+2013-14,3965513,23,8,Chelsea,Home,31417,47431,Willian,willian,M,False,0.0,0.0,90.0,0.0,,0.0
+2013-14,3965513,23,8,Chelsea,Home,33110,53392,Ramires,ramires,M,False,0.0,0.0,90.0,0.0,,0.0
+2013-14,3965513,23,8,Chelsea,Home,39400,61262,Oscar,oscar,M,False,0.0,0.0,80.0,0.0,,0.0
+2013-14,3965513,23,8,Chelsea,Home,44241,62398,Nemanja Matić,nemanja-matic,M,True,0.0,0.0,27.0,0.0,,0.0
+2013-14,3965513,23,8,Chelsea,Home,70492,66842,Andre Schürrle,andre-schurrle,F,True,,,,,,
+2013-14,3965527,24,8,Chelsea,Away,2,3785,Ashley Cole,ashley-cole,D,True,,,,,,
+2013-14,3965527,24,8,Chelsea,Away,803,1827,Mark Schwarzer,mark-schwarzer,G,True,,,,,,
+2013-14,3965527,24,8,Chelsea,Away,1185,11334,Petr Čech,petr-cech,G,False,0.0,0.0,90.0,0.0,,0.0
+2013-14,3965527,24,8,Chelsea,Away,1205,1718,John Terry,john-terry,D,False,0.0,0.0,90.0,0.0,,0.0
+2013-14,3965527,24,8,Chelsea,Away,1216,2051,Frank Lampard,frank-lampard,M,True,,,,,,
+2013-14,3965527,24,8,Chelsea,Away,7311,28495,John Obi Mikel,john-obi-mikel,M,True,0.0,0.0,1.0,0.0,,0.0
+2013-14,3965527,24,8,Chelsea,Away,9628,19419,Gary Cahill,gary-cahill,D,False,0.0,0.0,90.0,0.0,,0.0
+2013-14,3965527,24,8,Chelsea,Away,11688,8438,Samuel Eto'o,samuel-etoo,F,False,0.0,0.0,83.0,0.0,,0.0
+2013-14,3965527,24,8,Chelsea,Away,21300,41270,David Luiz,david-luiz,D,False,0.0,0.0,90.0,0.0,,0.0
+2013-14,3965527,24,8,Chelsea,Away,21555,41328,César Azpilicueta,cesar-azpilicueta,D,False,0.0,0.0,90.0,0.0,,0.0
+2013-14,3965527,24,8,Chelsea,Away,25233,41135,Branislav Ivanović,branislav-ivanovic,D,False,0.0,1.0,90.0,0.0,,0.0
+2013-14,3965527,24,8,Chelsea,Away,27583,42786,Eden Hazard,eden-hazard,F,False,0.0,0.0,90.0,0.0,,0.0
+2013-14,3965527,24,8,Chelsea,Away,28253,47412,Demba Ba,demba-ba,F,True,0.0,0.0,1.0,0.0,,0.0
+2013-14,3965527,24,8,Chelsea,Away,31417,47431,Willian,willian,M,False,0.0,0.0,90.0,0.0,,0.0
+2013-14,3965527,24,8,Chelsea,Away,33110,53392,Ramires,ramires,M,False,0.0,0.0,90.0,0.0,,0.0
+2013-14,3965527,24,8,Chelsea,Away,39400,61262,Oscar,oscar,M,True,0.0,0.0,7.0,0.0,,0.0
+2013-14,3965527,24,8,Chelsea,Away,44241,62398,Nemanja Matić,nemanja-matic,M,False,0.0,0.0,90.0,0.0,,0.0
+2013-14,3965527,24,8,Chelsea,Away,159665,118748,Mohamed Salah,mohamed-salah,M,True,,,,,,
+2013-14,3965539,25,8,Chelsea,Home,2,3785,Ashley Cole,ashley-cole,D,True,,,,,,
+2013-14,3965539,25,8,Chelsea,Home,803,1827,Mark Schwarzer,mark-schwarzer,G,True,,,,,,
+2013-14,3965539,25,8,Chelsea,Home,1185,11334,Petr Čech,petr-cech,G,False,0.0,0.0,90.0,0.0,,0.0
+2013-14,3965539,25,8,Chelsea,Home,1216,2051,Frank Lampard,frank-lampard,M,False,0.0,0.0,90.0,0.0,,0.0
+2013-14,3965539,25,8,Chelsea,Home,7311,28495,John Obi Mikel,john-obi-mikel,M,True,,,,,,
+2013-14,3965539,25,8,Chelsea,Home,9628,19419,Gary Cahill,gary-cahill,D,False,0.0,0.0,90.0,0.0,,0.0
+2013-14,3965539,25,8,Chelsea,Home,11688,8438,Samuel Eto'o,samuel-etoo,F,False,0.0,0.0,71.0,0.0,,0.0
+2013-14,3965539,25,8,Chelsea,Home,21300,41270,David Luiz,david-luiz,D,False,0.0,0.0,90.0,0.0,,0.0
+2013-14,3965539,25,8,Chelsea,Home,21555,41328,César Azpilicueta,cesar-azpilicueta,D,False,0.0,0.0,90.0,0.0,,0.0
+2013-14,3965539,25,8,Chelsea,Home,25233,41135,Branislav Ivanović,branislav-ivanovic,D,False,0.0,0.0,90.0,0.0,,0.0
+2013-14,3965539,25,8,Chelsea,Home,27583,42786,Eden Hazard,eden-hazard,F,False,0.0,3.0,85.0,0.0,,0.0
+2013-14,3965539,25,8,Chelsea,Home,28253,47412,Demba Ba,demba-ba,F,True,0.0,0.0,19.0,0.0,,0.0
+2013-14,3965539,25,8,Chelsea,Home,31417,47431,Willian,willian,M,False,0.0,0.0,78.0,0.0,,0.0
+2013-14,3965539,25,8,Chelsea,Home,33110,53392,Ramires,ramires,M,True,,,,,,
+2013-14,3965539,25,8,Chelsea,Home,39400,61262,Oscar,oscar,M,False,0.0,0.0,90.0,0.0,,0.0
+2013-14,3965539,25,8,Chelsea,Home,44241,62398,Nemanja Matić,nemanja-matic,M,False,0.0,0.0,90.0,0.0,,0.0
+2013-14,3965539,25,8,Chelsea,Home,70492,66842,Andre Schürrle,andre-schurrle,F,True,0.0,0.0,5.0,0.0,,0.0
+2013-14,3965539,25,8,Chelsea,Home,159665,118748,Mohamed Salah,mohamed-salah,M,True,0.0,0.0,12.0,0.0,,0.0
+2013-14,3965565,26,8,Chelsea,Away,2,3785,Ashley Cole,ashley-cole,D,True,,,,,,
+2013-14,3965565,26,8,Chelsea,Away,803,1827,Mark Schwarzer,mark-schwarzer,G,True,,,,,,
+2013-14,3965565,26,8,Chelsea,Away,1185,11334,Petr Čech,petr-cech,G,False,0.0,0.0,90.0,0.0,,0.0
+2013-14,3965565,26,8,Chelsea,Away,1216,2051,Frank Lampard,frank-lampard,M,True,,,,,,
+2013-14,3965565,26,8,Chelsea,Away,2436,14402,Fernando Torres,fernando-torres,F,True,0.0,0.0,21.0,0.0,,0.0
+2013-14,3965565,26,8,Chelsea,Away,7311,28495,John Obi Mikel,john-obi-mikel,M,True,0.0,0.0,11.0,0.0,,0.0
+2013-14,3965565,26,8,Chelsea,Away,9628,19419,Gary Cahill,gary-cahill,D,False,0.0,0.0,90.0,0.0,,0.0
+2013-14,3965565,26,8,Chelsea,Away,11688,8438,Samuel Eto'o,samuel-etoo,F,False,0.0,0.0,69.0,0.0,,0.0
+2013-14,3965565,26,8,Chelsea,Away,21300,41270,David Luiz,david-luiz,D,False,1.0,0.0,90.0,0.0,,0.0
+2013-14,3965565,26,8,Chelsea,Away,21555,41328,César Azpilicueta,cesar-azpilicueta,D,False,0.0,0.0,90.0,0.0,,0.0
+2013-14,3965565,26,8,Chelsea,Away,25233,41135,Branislav Ivanović,branislav-ivanovic,D,False,0.0,1.0,90.0,0.0,,0.0
+2013-14,3965565,26,8,Chelsea,Away,27583,42786,Eden Hazard,eden-hazard,F,False,0.0,0.0,90.0,0.0,,0.0
+2013-14,3965565,26,8,Chelsea,Away,31417,47431,Willian,willian,M,False,0.0,0.0,90.0,0.0,,0.0
+2013-14,3965565,26,8,Chelsea,Away,33110,53392,Ramires,ramires,M,False,0.0,0.0,89.0,0.0,,0.0
+2013-14,3965565,26,8,Chelsea,Away,39400,61262,Oscar,oscar,M,False,0.0,0.0,79.0,0.0,,0.0
+2013-14,3965565,26,8,Chelsea,Away,44241,62398,Nemanja Matić,nemanja-matic,M,False,0.0,0.0,90.0,0.0,,0.0
+2013-14,3965565,26,8,Chelsea,Away,70492,66842,Andre Schürrle,andre-schurrle,F,True,,,,,,
+2013-14,3965565,26,8,Chelsea,Away,159665,118748,Mohamed Salah,mohamed-salah,M,True,0.0,0.0,1.0,0.0,,0.0
+2013-14,3965581,27,8,Chelsea,Home,2,3785,Ashley Cole,ashley-cole,D,True,,,,,,
+2013-14,3965581,27,8,Chelsea,Home,803,1827,Mark Schwarzer,mark-schwarzer,G,True,,,,,,
+2013-14,3965581,27,8,Chelsea,Home,1185,11334,Petr Čech,petr-cech,G,False,0.0,0.0,90.0,0.0,,0.0
+2013-14,3965581,27,8,Chelsea,Home,1205,1718,John Terry,john-terry,D,False,0.0,0.0,90.0,0.0,,0.0
+2013-14,3965581,27,8,Chelsea,Home,1216,2051,Frank Lampard,frank-lampard,M,False,0.0,0.0,90.0,0.0,,0.0
+2013-14,3965581,27,8,Chelsea,Home,2436,14402,Fernando Torres,fernando-torres,F,True,0.0,0.0,28.0,0.0,,0.0
+2013-14,3965581,27,8,Chelsea,Home,9628,19419,Gary Cahill,gary-cahill,D,False,0.0,0.0,90.0,0.0,,0.0
+2013-14,3965581,27,8,Chelsea,Home,11688,8438,Samuel Eto'o,samuel-etoo,F,False,0.0,0.0,69.0,0.0,,0.0
+2013-14,3965581,27,8,Chelsea,Home,21555,41328,César Azpilicueta,cesar-azpilicueta,D,False,0.0,0.0,90.0,0.0,,0.0
+2013-14,3965581,27,8,Chelsea,Home,25233,41135,Branislav Ivanović,branislav-ivanovic,D,False,0.0,0.0,90.0,0.0,,0.0
+2013-14,3965581,27,8,Chelsea,Home,27583,42786,Eden Hazard,eden-hazard,F,False,0.0,0.0,90.0,0.0,,0.0
+2013-14,3965581,27,8,Chelsea,Home,28253,47412,Demba Ba,demba-ba,F,True,,,,,,
+2013-14,3965581,27,8,Chelsea,Home,31417,47431,Willian,willian,M,False,0.0,0.0,62.0,0.0,,0.0
+2013-14,3965581,27,8,Chelsea,Home,33110,53392,Ramires,ramires,M,True,0.0,0.0,44.0,0.0,,0.0
+2013-14,3965581,27,8,Chelsea,Home,39400,61262,Oscar,oscar,M,False,0.0,0.0,46.0,0.0,,0.0
+2013-14,3965581,27,8,Chelsea,Home,44241,62398,Nemanja Matić,nemanja-matic,M,False,0.0,0.0,90.0,0.0,,0.0
+2013-14,3965581,27,8,Chelsea,Home,70492,66842,Andre Schürrle,andre-schurrle,F,True,0.0,0.0,21.0,0.0,,0.0
+2013-14,3965581,27,8,Chelsea,Home,159665,118748,Mohamed Salah,mohamed-salah,M,True,,,,,,
+2013-14,3965601,28,8,Chelsea,Away,2,3785,Ashley Cole,ashley-cole,D,True,,,,,,
+2013-14,3965601,28,8,Chelsea,Away,803,1827,Mark Schwarzer,mark-schwarzer,G,True,,,,,,
+2013-14,3965601,28,8,Chelsea,Away,1185,11334,Petr Čech,petr-cech,G,False,0.0,0.0,90.0,0.0,,0.0
+2013-14,3965601,28,8,Chelsea,Away,1205,1718,John Terry,john-terry,D,False,0.0,0.0,90.0,0.0,,0.0
+2013-14,3965601,28,8,Chelsea,Away,1216,2051,Frank Lampard,frank-lampard,M,True,,,,,,
+2013-14,3965601,28,8,Chelsea,Away,2436,14402,Fernando Torres,fernando-torres,F,False,0.0,0.0,82.0,0.0,,0.0
+2013-14,3965601,28,8,Chelsea,Away,7311,28495,John Obi Mikel,john-obi-mikel,M,True,0.0,0.0,12.0,0.0,,0.0
+2013-14,3965601,28,8,Chelsea,Away,9628,19419,Gary Cahill,gary-cahill,D,False,0.0,0.0,90.0,0.0,,0.0
+2013-14,3965601,28,8,Chelsea,Away,21300,41270,David Luiz,david-luiz,D,True,0.0,0.0,3.0,0.0,,0.0
+2013-14,3965601,28,8,Chelsea,Away,21555,41328,César Azpilicueta,cesar-azpilicueta,D,False,0.0,0.0,90.0,0.0,,0.0
+2013-14,3965601,28,8,Chelsea,Away,25233,41135,Branislav Ivanović,branislav-ivanovic,D,False,0.0,0.0,90.0,0.0,,0.0
+2013-14,3965601,28,8,Chelsea,Away,27583,42786,Eden Hazard,eden-hazard,F,False,0.0,0.0,90.0,0.0,,0.0
+2013-14,3965601,28,8,Chelsea,Away,28253,47412,Demba Ba,demba-ba,F,True,0.0,0.0,8.0,0.0,,0.0
+2013-14,3965601,28,8,Chelsea,Away,31417,47431,Willian,willian,M,True,,,,,,
+2013-14,3965601,28,8,Chelsea,Away,33110,53392,Ramires,ramires,M,False,0.0,0.0,90.0,0.0,,0.0
+2013-14,3965601,28,8,Chelsea,Away,39400,61262,Oscar,oscar,M,False,0.0,0.0,78.0,0.0,,0.0
+2013-14,3965601,28,8,Chelsea,Away,44241,62398,Nemanja Matić,nemanja-matic,M,False,0.0,0.0,90.0,0.0,,0.0
+2013-14,3965601,28,8,Chelsea,Away,70492,66842,Andre Schürrle,andre-schurrle,F,False,0.0,3.0,87.0,0.0,,0.0
+2013-14,3965621,29,8,Chelsea,Home,803,1827,Mark Schwarzer,mark-schwarzer,G,True,,,,,,
+2013-14,3965621,29,8,Chelsea,Home,1185,11334,Petr Čech,petr-cech,G,False,0.0,0.0,90.0,0.0,,0.0
+2013-14,3965621,29,8,Chelsea,Home,1205,1718,John Terry,john-terry,D,False,0.0,0.0,90.0,0.0,,0.0
+2013-14,3965621,29,8,Chelsea,Home,1216,2051,Frank Lampard,frank-lampard,M,False,0.0,0.0,45.0,0.0,,0.0
+2013-14,3965621,29,8,Chelsea,Home,7311,28495,John Obi Mikel,john-obi-mikel,M,True,,,,,,
+2013-14,3965621,29,8,Chelsea,Home,9628,19419,Gary Cahill,gary-cahill,D,False,0.0,0.0,90.0,0.0,,0.0
+2013-14,3965621,29,8,Chelsea,Home,11688,8438,Samuel Eto'o,samuel-etoo,F,False,0.0,1.0,76.0,0.0,,0.0
+2013-14,3965621,29,8,Chelsea,Home,21555,41328,César Azpilicueta,cesar-azpilicueta,D,False,0.0,0.0,90.0,0.0,,0.0
+2013-14,3965621,29,8,Chelsea,Home,25233,41135,Branislav Ivanović,branislav-ivanovic,D,False,0.0,0.0,90.0,0.0,,0.0
+2013-14,3965621,29,8,Chelsea,Home,27583,42786,Eden Hazard,eden-hazard,F,False,0.0,1.0,90.0,0.0,,0.0
+2013-14,3965621,29,8,Chelsea,Home,28253,47412,Demba Ba,demba-ba,F,True,0.0,2.0,14.0,0.0,,0.0
+2013-14,3965621,29,8,Chelsea,Home,31417,47431,Willian,willian,M,True,0.0,0.0,24.0,0.0,,0.0
+2013-14,3965621,29,8,Chelsea,Home,33110,53392,Ramires,ramires,M,False,0.0,0.0,90.0,0.0,,0.0
+2013-14,3965621,29,8,Chelsea,Home,39400,61262,Oscar,oscar,M,True,0.0,0.0,45.0,0.0,,0.0
+2013-14,3965621,29,8,Chelsea,Home,44241,62398,Nemanja Matić,nemanja-matic,M,False,0.0,0.0,90.0,0.0,,0.0
+2013-14,3965621,29,8,Chelsea,Home,70492,66842,Andre Schürrle,andre-schurrle,F,False,0.0,0.0,66.0,0.0,,0.0
+2013-14,3965621,29,8,Chelsea,Home,94099,84482,Tomáš Kalas,tomas-kalas,D,True,,,,,,
+2013-14,3965621,29,8,Chelsea,Home,159665,118748,Mohamed Salah,mohamed-salah,M,True,,,,,,
+2013-14,3965637,30,8,Chelsea,Away,803,1827,Mark Schwarzer,mark-schwarzer,G,True,,,,,,
+2013-14,3965637,30,8,Chelsea,Away,1185,11334,Petr Čech,petr-cech,G,False,0.0,0.0,90.0,0.0,,0.0
+2013-14,3965637,30,8,Chelsea,Away,1205,1718,John Terry,john-terry,D,False,0.0,0.0,90.0,0.0,,0.0
+2013-14,3965637,30,8,Chelsea,Away,1216,2051,Frank Lampard,frank-lampard,M,True,,,,,,
+2013-14,3965637,30,8,Chelsea,Away,2436,14402,Fernando Torres,fernando-torres,F,False,0.0,0.0,67.0,0.0,,0.0
+2013-14,3965637,30,8,Chelsea,Away,7311,28495,John Obi Mikel,john-obi-mikel,M,True,,,,,,
+2013-14,3965637,30,8,Chelsea,Away,9628,19419,Gary Cahill,gary-cahill,D,False,0.0,0.0,90.0,0.0,,0.0
+2013-14,3965637,30,8,Chelsea,Away,21555,41328,César Azpilicueta,cesar-azpilicueta,D,False,0.0,0.0,90.0,0.0,,0.0
+2013-14,3965637,30,8,Chelsea,Away,25233,41135,Branislav Ivanović,branislav-ivanovic,D,False,0.0,0.0,90.0,0.0,,0.0
+2013-14,3965637,30,8,Chelsea,Away,27583,42786,Eden Hazard,eden-hazard,F,False,0.0,0.0,90.0,0.0,,0.0
+2013-14,3965637,30,8,Chelsea,Away,28253,47412,Demba Ba,demba-ba,F,True,0.0,0.0,23.0,0.0,,0.0
+2013-14,3965637,30,8,Chelsea,Away,31417,47431,Willian,willian,M,False,0.0,0.0,68.0,0.0,,0.0
+2013-14,3965637,30,8,Chelsea,Away,33110,53392,Ramires,ramires,M,False,0.0,0.0,90.0,0.0,,0.0
+2013-14,3965637,30,8,Chelsea,Away,39400,61262,Oscar,oscar,M,False,0.0,0.0,67.0,0.0,,0.0
+2013-14,3965637,30,8,Chelsea,Away,44241,62398,Nemanja Matić,nemanja-matic,M,False,0.0,0.0,90.0,0.0,,0.0
+2013-14,3965637,30,8,Chelsea,Away,70492,66842,Andre Schürrle,andre-schurrle,F,True,0.0,0.0,23.0,0.0,,0.0
+2013-14,3965637,30,8,Chelsea,Away,94099,84482,Tomáš Kalas,tomas-kalas,D,True,,,,,,
+2013-14,3965637,30,8,Chelsea,Away,159665,118748,Mohamed Salah,mohamed-salah,M,True,,,,,,
+2013-14,3965661,31,8,Chelsea,Home,803,1827,Mark Schwarzer,mark-schwarzer,G,True,,,,,,
+2013-14,3965661,31,8,Chelsea,Home,1185,11334,Petr Čech,petr-cech,G,False,0.0,0.0,90.0,0.0,,0.0
+2013-14,3965661,31,8,Chelsea,Home,1205,1718,John Terry,john-terry,D,False,0.0,0.0,90.0,0.0,,0.0
+2013-14,3965661,31,8,Chelsea,Home,1216,2051,Frank Lampard,frank-lampard,M,True,,,,,,
+2013-14,3965661,31,8,Chelsea,Home,2436,14402,Fernando Torres,fernando-torres,F,True,1.0,0.0,80.0,0.0,,0.0
+2013-14,3965661,31,8,Chelsea,Home,7311,28495,John Obi Mikel,john-obi-mikel,M,True,0.0,0.0,18.0,0.0,,0.0
+2013-14,3965661,31,8,Chelsea,Home,9628,19419,Gary Cahill,gary-cahill,D,False,0.0,0.0,90.0,0.0,,0.0
+2013-14,3965661,31,8,Chelsea,Home,11688,8438,Samuel Eto'o,samuel-etoo,F,False,0.0,1.0,10.0,0.0,,0.0
+2013-14,3965661,31,8,Chelsea,Home,21300,41270,David Luiz,david-luiz,D,False,0.0,0.0,72.0,0.0,,0.0
+2013-14,3965661,31,8,Chelsea,Home,21555,41328,César Azpilicueta,cesar-azpilicueta,D,False,0.0,0.0,90.0,0.0,,0.0
+2013-14,3965661,31,8,Chelsea,Home,25233,41135,Branislav Ivanović,branislav-ivanovic,D,False,0.0,0.0,90.0,0.0,,0.0
+2013-14,3965661,31,8,Chelsea,Home,27583,42786,Eden Hazard,eden-hazard,F,False,0.0,1.0,90.0,0.0,,0.0
+2013-14,3965661,31,8,Chelsea,Home,28253,47412,Demba Ba,demba-ba,F,True,,,,,,
+2013-14,3965661,31,8,Chelsea,Home,39400,61262,Oscar,oscar,M,False,0.0,2.0,67.0,0.0,,0.0
+2013-14,3965661,31,8,Chelsea,Home,44241,62398,Nemanja Matić,nemanja-matic,M,False,2.0,0.0,90.0,0.0,,0.0
+2013-14,3965661,31,8,Chelsea,Home,70492,66842,Andre Schürrle,andre-schurrle,F,False,1.0,1.0,90.0,0.0,,0.0
+2013-14,3965661,31,8,Chelsea,Home,94099,84482,Tomáš Kalas,tomas-kalas,D,True,,,,,,
+2013-14,3965661,31,8,Chelsea,Home,159665,118748,Mohamed Salah,mohamed-salah,M,True,0.0,1.0,23.0,0.0,,0.0
+2013-14,3965679,32,8,Chelsea,Away,1185,11334,Petr Čech,petr-cech,G,False,0.0,0.0,90.0,0.0,,0.0
+2013-14,3965679,32,8,Chelsea,Away,1205,1718,John Terry,john-terry,D,False,0.0,0.0,90.0,1.0,,0.0
+2013-14,3965679,32,8,Chelsea,Away,1216,2051,Frank Lampard,frank-lampard,M,False,0.0,0.0,56.0,0.0,,0.0
+2013-14,3965679,32,8,Chelsea,Away,2436,14402,Fernando Torres,fernando-torres,F,False,0.0,0.0,90.0,0.0,,0.0
+2013-14,3965679,32,8,Chelsea,Away,6413,37634,Henrique Hilário,henrique-hilario,G,True,,,,,,
+2013-14,3965679,32,8,Chelsea,Away,7311,28495,John Obi Mikel,john-obi-mikel,M,True,,,,,,
+2013-14,3965679,32,8,Chelsea,Away,9628,19419,Gary Cahill,gary-cahill,D,False,0.0,0.0,90.0,0.0,,0.0
+2013-14,3965679,32,8,Chelsea,Away,21300,41270,David Luiz,david-luiz,D,False,0.0,0.0,45.0,0.0,,0.0
+2013-14,3965679,32,8,Chelsea,Away,21555,41328,César Azpilicueta,cesar-azpilicueta,D,False,0.0,0.0,90.0,0.0,,0.0
+2013-14,3965679,32,8,Chelsea,Away,25233,41135,Branislav Ivanović,branislav-ivanovic,D,False,0.0,0.0,90.0,0.0,,0.0
+2013-14,3965679,32,8,Chelsea,Away,27583,42786,Eden Hazard,eden-hazard,F,False,0.0,0.0,90.0,0.0,,0.0
+2013-14,3965679,32,8,Chelsea,Away,28253,47412,Demba Ba,demba-ba,F,True,0.0,0.0,20.0,0.0,,0.0
+2013-14,3965679,32,8,Chelsea,Away,31417,47431,Willian,willian,M,True,,,,,,
+2013-14,3965679,32,8,Chelsea,Away,39400,61262,Oscar,oscar,M,True,0.0,0.0,45.0,0.0,,0.0
+2013-14,3965679,32,8,Chelsea,Away,44241,62398,Nemanja Matić,nemanja-matic,M,False,0.0,0.0,90.0,0.0,,0.0
+2013-14,3965679,32,8,Chelsea,Away,70492,66842,Andre Schürrle,andre-schurrle,F,False,0.0,0.0,70.0,0.0,,0.0
+2013-14,3965679,32,8,Chelsea,Away,94099,84482,Tomáš Kalas,tomas-kalas,D,True,,,,,,
+2013-14,3965679,32,8,Chelsea,Away,159665,118748,Mohamed Salah,mohamed-salah,M,True,0.0,0.0,34.0,0.0,,0.0
+2013-14,3965701,33,8,Chelsea,Home,2,3785,Ashley Cole,ashley-cole,D,True,0.0,0.0,12.0,0.0,,0.0
+2013-14,3965701,33,8,Chelsea,Home,803,1827,Mark Schwarzer,mark-schwarzer,G,True,,,,,,
+2013-14,3965701,33,8,Chelsea,Home,1185,11334,Petr Čech,petr-cech,G,False,0.0,0.0,90.0,0.0,,0.0
+2013-14,3965701,33,8,Chelsea,Home,1205,1718,John Terry,john-terry,D,False,0.0,0.0,90.0,0.0,,0.0
+2013-14,3965701,33,8,Chelsea,Home,1216,2051,Frank Lampard,frank-lampard,M,False,0.0,1.0,70.0,0.0,,0.0
+2013-14,3965701,33,8,Chelsea,Home,2436,14402,Fernando Torres,fernando-torres,F,False,0.0,0.0,90.0,0.0,,0.0
+2013-14,3965701,33,8,Chelsea,Home,9628,19419,Gary Cahill,gary-cahill,D,False,0.0,0.0,90.0,0.0,,0.0
+2013-14,3965701,33,8,Chelsea,Home,21300,41270,David Luiz,david-luiz,D,True,0.0,0.0,20.0,0.0,,0.0
+2013-14,3965701,33,8,Chelsea,Home,21555,41328,César Azpilicueta,cesar-azpilicueta,D,False,0.0,0.0,90.0,0.0,,0.0
+2013-14,3965701,33,8,Chelsea,Home,25233,41135,Branislav Ivanović,branislav-ivanovic,D,False,0.0,0.0,90.0,0.0,,0.0
+2013-14,3965701,33,8,Chelsea,Home,27583,42786,Eden Hazard,eden-hazard,F,True,0.0,0.0,31.0,0.0,,0.0
+2013-14,3965701,33,8,Chelsea,Home,28253,47412,Demba Ba,demba-ba,F,True,,,,,,
+2013-14,3965701,33,8,Chelsea,Home,31417,47431,Willian,willian,M,False,0.0,1.0,78.0,0.0,,0.0
+2013-14,3965701,33,8,Chelsea,Home,39400,61262,Oscar,oscar,M,True,,,,,,
+2013-14,3965701,33,8,Chelsea,Home,44241,62398,Nemanja Matić,nemanja-matic,M,False,1.0,0.0,90.0,0.0,,0.0
+2013-14,3965701,33,8,Chelsea,Home,70492,66842,Andre Schürrle,andre-schurrle,F,False,0.0,0.0,59.0,0.0,,0.0
+2013-14,3965701,33,8,Chelsea,Home,94099,84482,Tomáš Kalas,tomas-kalas,D,True,,,,,,
+2013-14,3965701,33,8,Chelsea,Home,159665,118748,Mohamed Salah,mohamed-salah,M,False,1.0,1.0,90.0,0.0,,0.0
+2013-14,3965733,34,8,Chelsea,Away,2,3785,Ashley Cole,ashley-cole,D,True,,,,,,
+2013-14,3965733,34,8,Chelsea,Away,803,1827,Mark Schwarzer,mark-schwarzer,G,True,,,,,,
+2013-14,3965733,34,8,Chelsea,Away,1185,11334,Petr Čech,petr-cech,G,False,0.0,0.0,90.0,0.0,,0.0
+2013-14,3965733,34,8,Chelsea,Away,1205,1718,John Terry,john-terry,D,False,0.0,0.0,90.0,0.0,,0.0
+2013-14,3965733,34,8,Chelsea,Away,2436,14402,Fernando Torres,fernando-torres,F,True,,,,,,
+2013-14,3965733,34,8,Chelsea,Away,7311,28495,John Obi Mikel,john-obi-mikel,M,True,0.0,0.0,11.0,0.0,,0.0
+2013-14,3965733,34,8,Chelsea,Away,9628,19419,Gary Cahill,gary-cahill,D,False,0.0,0.0,90.0,0.0,,0.0
+2013-14,3965733,34,8,Chelsea,Away,11688,8438,Samuel Eto'o,samuel-etoo,F,True,0.0,0.0,45.0,0.0,,0.0
+2013-14,3965733,34,8,Chelsea,Away,21300,41270,David Luiz,david-luiz,D,True,,,,,,
+2013-14,3965733,34,8,Chelsea,Away,21555,41328,César Azpilicueta,cesar-azpilicueta,D,False,0.0,0.0,90.0,0.0,,0.0
+2013-14,3965733,34,8,Chelsea,Away,25233,41135,Branislav Ivanović,branislav-ivanovic,D,False,0.0,0.0,90.0,0.0,,0.0
+2013-14,3965733,34,8,Chelsea,Away,28253,47412,Demba Ba,demba-ba,F,False,0.0,1.0,79.0,0.0,,0.0
+2013-14,3965733,34,8,Chelsea,Away,31417,47431,Willian,willian,M,False,0.0,0.0,90.0,0.0,,0.0
+2013-14,3965733,34,8,Chelsea,Away,33110,53392,Ramires,ramires,M,False,0.0,0.0,45.0,0.0,,0.0
+2013-14,3965733,34,8,Chelsea,Away,39400,61262,Oscar,oscar,M,True,0.0,0.0,45.0,0.0,,0.0
+2013-14,3965733,34,8,Chelsea,Away,44241,62398,Nemanja Matić,nemanja-matic,M,False,1.0,0.0,90.0,0.0,,0.0
+2013-14,3965733,34,8,Chelsea,Away,70492,66842,Andre Schürrle,andre-schurrle,F,False,0.0,0.0,45.0,0.0,,0.0
+2013-14,3965733,34,8,Chelsea,Away,159665,118748,Mohamed Salah,mohamed-salah,M,False,0.0,0.0,90.0,0.0,,0.0
+2013-14,3965741,35,8,Chelsea,Home,803,1827,Mark Schwarzer,mark-schwarzer,G,False,0.0,0.0,90.0,0.0,,0.0
+2013-14,3965741,35,8,Chelsea,Home,1205,1718,John Terry,john-terry,D,False,0.0,0.0,90.0,0.0,,0.0
+2013-14,3965741,35,8,Chelsea,Home,1216,2051,Frank Lampard,frank-lampard,M,True,,,,,,
+2013-14,3965741,35,8,Chelsea,Home,2436,14402,Fernando Torres,fernando-torres,F,True,0.0,0.0,16.0,0.0,,0.0
+2013-14,3965741,35,8,Chelsea,Home,6413,37634,Henrique Hilário,henrique-hilario,G,True,,,,,,
+2013-14,3965741,35,8,Chelsea,Home,7311,28495,John Obi Mikel,john-obi-mikel,M,True,,,,,,
+2013-14,3965741,35,8,Chelsea,Home,9628,19419,Gary Cahill,gary-cahill,D,False,0.0,0.0,90.0,0.0,,0.0
+2013-14,3965741,35,8,Chelsea,Home,11688,8438,Samuel Eto'o,samuel-etoo,F,False,0.0,1.0,74.0,0.0,,0.0
+2013-14,3965741,35,8,Chelsea,Home,21300,41270,David Luiz,david-luiz,D,True,,,,,,
+2013-14,3965741,35,8,Chelsea,Home,21555,41328,César Azpilicueta,cesar-azpilicueta,D,False,0.0,0.0,90.0,0.0,,0.0
+2013-14,3965741,35,8,Chelsea,Home,25233,41135,Branislav Ivanović,branislav-ivanovic,D,False,0.0,0.0,90.0,0.0,,0.0
+2013-14,3965741,35,8,Chelsea,Home,28253,47412,Demba Ba,demba-ba,F,True,0.0,0.0,31.0,0.0,,0.0
+2013-14,3965741,35,8,Chelsea,Home,31417,47431,Willian,willian,M,False,1.0,0.0,90.0,0.0,,0.0
+2013-14,3965741,35,8,Chelsea,Home,33110,53392,Ramires,ramires,M,False,0.0,0.0,90.0,0.0,,0.0
+2013-14,3965741,35,8,Chelsea,Home,39400,61262,Oscar,oscar,M,False,0.0,0.0,59.0,0.0,,0.0
+2013-14,3965741,35,8,Chelsea,Home,44241,62398,Nemanja Matić,nemanja-matic,M,False,0.0,0.0,90.0,0.0,,0.0
+2013-14,3965741,35,8,Chelsea,Home,70492,66842,Andre Schürrle,andre-schurrle,F,True,0.0,0.0,24.0,0.0,,0.0
+2013-14,3965741,35,8,Chelsea,Home,159665,118748,Mohamed Salah,mohamed-salah,M,False,0.0,0.0,66.0,0.0,,0.0
+2013-14,3965763,36,8,Chelsea,Away,2,3785,Ashley Cole,ashley-cole,D,False,0.0,0.0,90.0,0.0,,0.0
+2013-14,3965763,36,8,Chelsea,Away,803,1827,Mark Schwarzer,mark-schwarzer,G,False,0.0,0.0,90.0,0.0,,0.0
+2013-14,3965763,36,8,Chelsea,Away,1216,2051,Frank Lampard,frank-lampard,M,False,0.0,0.0,90.0,0.0,,0.0
+2013-14,3965763,36,8,Chelsea,Away,2436,14402,Fernando Torres,fernando-torres,F,True,0.0,0.0,6.0,0.0,,0.0
+2013-14,3965763,36,8,Chelsea,Away,6413,37634,Henrique Hilário,henrique-hilario,G,True,,,,,,
+2013-14,3965763,36,8,Chelsea,Away,7311,28495,John Obi Mikel,john-obi-mikel,M,False,0.0,0.0,90.0,0.0,,0.0
+2013-14,3965763,36,8,Chelsea,Away,9628,19419,Gary Cahill,gary-cahill,D,True,0.0,0.0,13.0,0.0,,0.0
+2013-14,3965763,36,8,Chelsea,Away,21555,41328,César Azpilicueta,cesar-azpilicueta,D,False,0.0,0.0,90.0,0.0,,0.0
+2013-14,3965763,36,8,Chelsea,Away,25233,41135,Branislav Ivanović,branislav-ivanovic,D,False,0.0,0.0,90.0,0.0,,0.0
+2013-14,3965763,36,8,Chelsea,Away,28253,47412,Demba Ba,demba-ba,F,False,0.0,1.0,84.0,0.0,,0.0
+2013-14,3965763,36,8,Chelsea,Away,31417,47431,Willian,willian,M,True,0.0,1.0,30.0,0.0,,0.0
+2013-14,3965763,36,8,Chelsea,Away,44241,62398,Nemanja Matić,nemanja-matic,M,False,0.0,0.0,90.0,0.0,,0.0
+2013-14,3965763,36,8,Chelsea,Away,70492,66842,Andre Schürrle,andre-schurrle,F,False,0.0,0.0,77.0,0.0,,0.0
+2013-14,3965763,36,8,Chelsea,Away,94099,84482,Tomáš Kalas,tomas-kalas,D,False,0.0,0.0,90.0,0.0,,0.0
+2013-14,3965763,36,8,Chelsea,Away,112794,82660,Marco van Ginkel,marco-van-ginkel,F,True,,,,,,
+2013-14,3965763,36,8,Chelsea,Away,149663,126184,Nathan Aké,nathan-ake,D,True,,,,,,
+2013-14,3965763,36,8,Chelsea,Away,159665,118748,Mohamed Salah,mohamed-salah,M,False,0.0,0.0,60.0,0.0,,0.0
+2013-14,3965763,36,8,Chelsea,Away,190859,126186,Lewis Baker,lewis-baker,M,True,,,,,,
+2013-14,3965781,37,8,Chelsea,Home,2,3785,Ashley Cole,ashley-cole,D,False,0.0,0.0,90.0,0.0,,0.0
+2013-14,3965781,37,8,Chelsea,Home,803,1827,Mark Schwarzer,mark-schwarzer,G,False,0.0,0.0,90.0,0.0,,0.0
+2013-14,3965781,37,8,Chelsea,Home,1205,1718,John Terry,john-terry,D,False,0.0,0.0,90.0,0.0,,0.0
+2013-14,3965781,37,8,Chelsea,Home,1216,2051,Frank Lampard,frank-lampard,M,False,0.0,0.0,45.0,0.0,,0.0
+2013-14,3965781,37,8,Chelsea,Home,2436,14402,Fernando Torres,fernando-torres,F,True,0.0,0.0,17.0,0.0,,0.0
+2013-14,3965781,37,8,Chelsea,Home,6413,37634,Henrique Hilário,henrique-hilario,G,True,,,,,,
+2013-14,3965781,37,8,Chelsea,Home,9628,19419,Gary Cahill,gary-cahill,D,False,0.0,0.0,90.0,0.0,,0.0
+2013-14,3965781,37,8,Chelsea,Home,11688,8438,Samuel Eto'o,samuel-etoo,F,True,,,,,,
+2013-14,3965781,37,8,Chelsea,Home,21300,41270,David Luiz,david-luiz,D,True,0.0,0.0,45.0,0.0,,0.0
+2013-14,3965781,37,8,Chelsea,Home,25233,41135,Branislav Ivanović,branislav-ivanovic,D,False,0.0,0.0,90.0,0.0,,0.0
+2013-14,3965781,37,8,Chelsea,Home,27583,42786,Eden Hazard,eden-hazard,F,True,0.0,0.0,45.0,0.0,,0.0
+2013-14,3965781,37,8,Chelsea,Home,28253,47412,Demba Ba,demba-ba,F,False,0.0,0.0,90.0,0.0,,0.0
+2013-14,3965781,37,8,Chelsea,Home,31417,47431,Willian,willian,M,False,0.0,0.0,90.0,0.0,,0.0
+2013-14,3965781,37,8,Chelsea,Home,44241,62398,Nemanja Matić,nemanja-matic,M,False,0.0,0.0,73.0,0.0,,0.0
+2013-14,3965781,37,8,Chelsea,Home,70492,66842,Andre Schürrle,andre-schurrle,F,False,0.0,0.0,90.0,0.0,,0.0
+2013-14,3965781,37,8,Chelsea,Home,94099,84482,Tomáš Kalas,tomas-kalas,D,True,,,,,,
+2013-14,3965781,37,8,Chelsea,Home,112794,82660,Marco van Ginkel,marco-van-ginkel,F,True,,,,,,
+2013-14,3965781,37,8,Chelsea,Home,159665,118748,Mohamed Salah,mohamed-salah,M,False,0.0,0.0,45.0,0.0,,0.0
+2013-14,3965797,38,8,Chelsea,Away,2,3785,Ashley Cole,ashley-cole,D,False,0.0,0.0,90.0,0.0,,0.0
+2013-14,3965797,38,8,Chelsea,Away,803,1827,Mark Schwarzer,mark-schwarzer,G,False,0.0,0.0,90.0,0.0,,0.0
+2013-14,3965797,38,8,Chelsea,Away,2436,14402,Fernando Torres,fernando-torres,F,False,0.0,1.0,90.0,0.0,,0.0
+2013-14,3965797,38,8,Chelsea,Away,6413,37634,Henrique Hilário,henrique-hilario,G,True,,,,,,
+2013-14,3965797,38,8,Chelsea,Away,7311,28495,John Obi Mikel,john-obi-mikel,M,False,0.0,0.0,66.0,0.0,,0.0
+2013-14,3965797,38,8,Chelsea,Away,9628,19419,Gary Cahill,gary-cahill,D,True,,,,,,
+2013-14,3965797,38,8,Chelsea,Away,21300,41270,David Luiz,david-luiz,D,True,,,,,,
+2013-14,3965797,38,8,Chelsea,Away,21555,41328,César Azpilicueta,cesar-azpilicueta,D,False,0.0,0.0,90.0,0.0,,0.0
+2013-14,3965797,38,8,Chelsea,Away,25233,41135,Branislav Ivanović,branislav-ivanovic,D,False,0.0,0.0,90.0,0.0,,0.0
+2013-14,3965797,38,8,Chelsea,Away,27583,42786,Eden Hazard,eden-hazard,F,False,0.0,0.0,89.0,0.0,,0.0
+2013-14,3965797,38,8,Chelsea,Away,28253,47412,Demba Ba,demba-ba,F,True,,,,,,
+2013-14,3965797,38,8,Chelsea,Away,39400,61262,Oscar,oscar,M,False,0.0,0.0,90.0,0.0,,0.0
+2013-14,3965797,38,8,Chelsea,Away,44241,62398,Nemanja Matić,nemanja-matic,M,False,0.0,0.0,90.0,0.0,,0.0
+2013-14,3965797,38,8,Chelsea,Away,70492,66842,Andre Schürrle,andre-schurrle,F,True,0.0,1.0,24.0,0.0,,0.0
+2013-14,3965797,38,8,Chelsea,Away,94099,84482,Tomáš Kalas,tomas-kalas,D,False,0.0,0.0,90.0,0.0,,0.0
+2013-14,3965797,38,8,Chelsea,Away,149663,126184,Nathan Aké,nathan-ake,D,True,0.0,0.0,11.0,0.0,,0.0
+2013-14,3965797,38,8,Chelsea,Away,159665,118748,Mohamed Salah,mohamed-salah,M,False,0.0,0.0,79.0,0.0,,0.0
+2013-14,3965797,38,8,Chelsea,Away,190863,126189,John Swift,john-swift,M,True,0.0,0.0,1.0,0.0,,0.0

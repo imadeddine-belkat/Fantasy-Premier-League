@@ -1,0 +1,77 @@
+season,matchId,gameweek,team_id,team,venue,playerId,pl_code,playerName,slug,position,substitute,goalAssist,goals,minutesPlayed,ownGoals,penaltyMiss,substitute.1,totalShots
+2011-12,1768173,1,30,Bolton_Wanderers,Away,571,1615,Robert Blake,robert-blake,Unknown,True,0.0,0.0,4.0,0.0,,,0.0
+2011-12,1768176,1,35,West_Bromwich_Albion,Home,5430,16210,Paul Scharner,paul-scharner,Unknown,False,0.0,0.0,90.0,0.0,,,0.0
+2011-12,1768341,2,30,Bolton_Wanderers,Home,571,1615,Robert Blake,robert-blake,Unknown,True,,,,,,,
+2011-12,1768342,2,35,West_Bromwich_Albion,Away,5430,16210,Paul Scharner,paul-scharner,Unknown,False,0.0,0.0,90.0,0.0,,,0.0
+2011-12,1768352,3,30,Bolton_Wanderers,Away,571,1615,Robert Blake,robert-blake,Unknown,True,,,,,,,
+2011-12,1768357,3,35,West_Bromwich_Albion,Home,5430,16210,Paul Scharner,paul-scharner,Unknown,False,0.0,0.0,90.0,0.0,,,0.0
+2011-12,1768976,4,111,Wigan_Athletic,Away,27843,14469,Albert Crusat Domene,albert-crusat-domene,Unknown,True,0.0,0.0,21.0,0.0,,,0.0
+2011-12,1768977,4,35,West_Bromwich_Albion,Away,5430,16210,Paul Scharner,paul-scharner,Unknown,False,0.0,0.0,90.0,0.0,,,0.0
+2011-12,1768986,5,111,Wigan_Athletic,Away,27843,14469,Albert Crusat Domene,albert-crusat-domene,Unknown,True,,,,,,,
+2011-12,1768990,5,35,West_Bromwich_Albion,Away,5430,16210,Paul Scharner,paul-scharner,Unknown,False,0.0,0.0,67.0,0.0,,,0.0
+2011-12,1769002,6,35,West_Bromwich_Albion,Home,5430,16210,Paul Scharner,paul-scharner,Unknown,True,,,,,,,
+2011-12,1769003,6,111,Wigan_Athletic,Home,27843,14469,Albert Crusat Domene,albert-crusat-domene,Unknown,True,,,,,,,
+2011-12,1769010,7,35,West_Bromwich_Albion,Away,5430,16210,Paul Scharner,paul-scharner,Unknown,True,0.0,0.0,16.0,0.0,,,0.0
+2011-12,1769022,8,35,West_Bromwich_Albion,Home,5430,16210,Paul Scharner,paul-scharner,Unknown,False,1.0,0.0,90.0,0.0,,,0.0
+2011-12,1769023,8,111,Wigan_Athletic,Home,27843,14469,Albert Crusat Domene,albert-crusat-domene,Unknown,True,,,,,,,
+2011-12,1769025,9,35,West_Bromwich_Albion,Away,5430,16210,Paul Scharner,paul-scharner,Unknown,False,0.0,1.0,90.0,0.0,,,0.0
+2011-12,1769032,9,111,Wigan_Athletic,Away,27843,14469,Albert Crusat Domene,albert-crusat-domene,Unknown,False,0.0,0.0,83.0,0.0,,,0.0
+2011-12,1769044,10,35,West_Bromwich_Albion,Home,5430,16210,Paul Scharner,paul-scharner,Unknown,False,0.0,0.0,58.0,0.0,,,0.0
+2011-12,1769045,10,111,Wigan_Athletic,Home,27843,14469,Albert Crusat Domene,albert-crusat-domene,Unknown,False,0.0,0.0,63.0,0.0,,,0.0
+2011-12,1769056,11,111,Wigan_Athletic,Away,27843,14469,Albert Crusat Domene,albert-crusat-domene,Unknown,True,0.0,0.0,25.0,0.0,,,0.0
+2011-12,1769066,12,111,Wigan_Athletic,Home,27843,14469,Albert Crusat Domene,albert-crusat-domene,Unknown,True,0.0,1.0,22.0,0.0,,,0.0
+2011-12,1769074,13,111,Wigan_Athletic,Away,27843,14469,Albert Crusat Domene,albert-crusat-domene,Unknown,True,,,,,,,
+2011-12,1769076,13,35,West_Bromwich_Albion,Home,5430,16210,Paul Scharner,paul-scharner,Unknown,True,,,,,,,
+2011-12,1769084,14,35,West_Bromwich_Albion,Away,5430,16210,Paul Scharner,paul-scharner,Unknown,True,0.0,0.0,7.0,0.0,,,0.0
+2011-12,1769086,14,111,Wigan_Athletic,Home,27843,14469,Albert Crusat Domene,albert-crusat-domene,Unknown,True,0.0,0.0,30.0,0.0,,,0.0
+2011-12,1769097,15,54,Fulham,Away,1147,2559,Simon Davies,simon-davies,Unknown,False,0.0,0.0,79.0,0.0,,,0.0
+2011-12,1769098,15,35,West_Bromwich_Albion,Home,5430,16210,Paul Scharner,paul-scharner,Unknown,True,0.0,0.0,6.0,0.0,,,0.0
+2011-12,1769100,16,35,West_Bromwich_Albion,Away,5430,16210,Paul Scharner,paul-scharner,Unknown,False,0.0,0.0,81.0,0.0,,,0.0
+2011-12,1769108,16,111,Wigan_Athletic,Home,27843,14469,Albert Crusat Domene,albert-crusat-domene,Unknown,True,,,,,,,
+2011-12,1769111,17,111,Wigan_Athletic,Home,27843,14469,Albert Crusat Domene,albert-crusat-domene,Unknown,True,,,,,,,
+2011-12,1769116,17,35,West_Bromwich_Albion,Away,5430,16210,Paul Scharner,paul-scharner,Unknown,False,1.0,1.0,90.0,0.0,,,0.0
+2011-12,1769124,18,111,Wigan_Athletic,Away,27843,14469,Albert Crusat Domene,albert-crusat-domene,Unknown,True,,,,,,,
+2011-12,1769130,18,35,West_Bromwich_Albion,Home,5430,16210,Paul Scharner,paul-scharner,Unknown,False,0.0,0.0,90.0,0.0,,,0.0
+2011-12,1769138,19,111,Wigan_Athletic,Away,27843,14469,Albert Crusat Domene,albert-crusat-domene,Unknown,True,,,,,,,
+2011-12,1769141,19,35,West_Bromwich_Albion,Home,5430,16210,Paul Scharner,paul-scharner,Unknown,False,0.0,0.0,90.0,0.0,,,0.0
+2011-12,1769148,20,52,Queens_Park_Rangers,Home,10207,5692,Rob Hulse,rob-hulse,Unknown,True,,,,,,,
+2011-12,1769149,20,35,West_Bromwich_Albion,Away,5430,16210,Paul Scharner,paul-scharner,Unknown,False,0.0,0.0,90.0,0.0,,,0.0
+2011-12,1769150,20,111,Wigan_Athletic,Home,27843,14469,Albert Crusat Domene,albert-crusat-domene,Unknown,False,0.0,0.0,39.0,0.0,,,0.0
+2011-12,1769153,21,54,Fulham,Away,1147,2559,Simon Davies,simon-davies,Unknown,True,0.0,0.0,3.0,0.0,,,0.0
+2011-12,1769160,21,35,West_Bromwich_Albion,Home,5430,16210,Paul Scharner,paul-scharner,Unknown,False,0.0,0.0,63.0,0.0,,,0.0
+2011-12,1769161,21,111,Wigan_Athletic,Home,27843,14469,Albert Crusat Domene,albert-crusat-domene,Unknown,False,0.0,0.0,68.0,0.0,,,0.0
+2011-12,1769169,22,111,Wigan_Athletic,Away,27843,14469,Albert Crusat Domene,albert-crusat-domene,Unknown,True,0.0,0.0,29.0,0.0,,,0.0
+2011-12,1769176,23,111,Wigan_Athletic,Away,27843,14469,Albert Crusat Domene,albert-crusat-domene,Unknown,True,0.0,0.0,3.0,0.0,,,0.0
+2011-12,1769180,23,52,Queens_Park_Rangers,Away,10207,5692,Rob Hulse,rob-hulse,Unknown,False,0.0,0.0,54.0,0.0,,,0.0
+2011-12,1769183,23,54,Fulham,Home,1147,2559,Simon Davies,simon-davies,Unknown,False,0.0,0.0,90.0,0.0,,,0.0
+2011-12,1769187,24,54,Fulham,Away,1147,2559,Simon Davies,simon-davies,Unknown,False,0.0,0.0,90.0,0.0,,,0.0
+2011-12,1769190,24,52,Queens_Park_Rangers,Home,10207,5692,Rob Hulse,rob-hulse,Unknown,True,0.0,0.0,16.0,0.0,,,0.0
+2011-12,1769192,24,35,West_Bromwich_Albion,Home,5430,16210,Paul Scharner,paul-scharner,Unknown,True,0.0,0.0,26.0,0.0,,,0.0
+2011-12,1769193,24,111,Wigan_Athletic,Home,27843,14469,Albert Crusat Domene,albert-crusat-domene,Unknown,True,0.0,0.0,21.0,0.0,,,0.0
+2011-12,1769196,25,111,Wigan_Athletic,Away,27843,14469,Albert Crusat Domene,albert-crusat-domene,Unknown,True,,,,,,,
+2011-12,1769198,25,54,Fulham,Home,1147,2559,Simon Davies,simon-davies,Unknown,True,0.0,0.0,28.0,0.0,,,0.0
+2011-12,1769204,25,35,West_Bromwich_Albion,Away,5430,16210,Paul Scharner,paul-scharner,Unknown,False,0.0,0.0,46.0,0.0,,,0.0
+2011-12,1769215,26,111,Wigan_Athletic,Home,27843,14469,Albert Crusat Domene,albert-crusat-domene,Unknown,True,0.0,0.0,1.0,0.0,,,0.0
+2011-12,1769217,27,54,Fulham,Home,1147,2559,Simon Davies,simon-davies,Unknown,True,0.0,0.0,10.0,0.0,,,0.0
+2011-12,1769226,27,111,Wigan_Athletic,Home,27843,14469,Albert Crusat Domene,albert-crusat-domene,Unknown,True,,,,,,,
+2011-12,1769228,28,54,Fulham,Away,1147,2559,Simon Davies,simon-davies,Unknown,True,,,,,,,
+2011-12,1769232,28,35,West_Bromwich_Albion,Away,5430,16210,Paul Scharner,paul-scharner,Unknown,True,0.0,0.0,18.0,0.0,,,0.0
+2011-12,1769246,29,35,West_Bromwich_Albion,Away,5430,16210,Paul Scharner,paul-scharner,Unknown,False,0.0,1.0,90.0,0.0,,,0.0
+2011-12,1769246,29,111,Wigan_Athletic,Home,27843,14469,Albert Crusat Domene,albert-crusat-domene,Unknown,True,0.0,0.0,1.0,0.0,,,0.0
+2011-12,1769251,30,111,Wigan_Athletic,Away,27843,14469,Albert Crusat Domene,albert-crusat-domene,Unknown,True,0.0,0.0,48.0,0.0,,,0.0
+2011-12,1769257,30,35,West_Bromwich_Albion,Home,5430,16210,Paul Scharner,paul-scharner,Unknown,True,0.0,0.0,17.0,0.0,,,0.0
+2011-12,1769260,31,35,West_Bromwich_Albion,Away,5430,16210,Paul Scharner,paul-scharner,Unknown,False,0.0,0.0,67.0,0.0,,,0.0
+2011-12,1769266,31,111,Wigan_Athletic,Home,27843,14469,Albert Crusat Domene,albert-crusat-domene,Unknown,True,,,,,,,
+2011-12,1769269,32,54,Fulham,Away,1147,2559,Simon Davies,simon-davies,Unknown,True,,,,,,,
+2011-12,1769270,32,111,Wigan_Athletic,Away,27843,14469,Albert Crusat Domene,albert-crusat-domene,Unknown,True,,,,,,,
+2011-12,1769277,32,35,West_Bromwich_Albion,Home,5430,16210,Paul Scharner,paul-scharner,Unknown,True,0.0,0.0,3.0,0.0,,,0.0
+2011-12,1769282,33,35,West_Bromwich_Albion,Away,5430,16210,Paul Scharner,paul-scharner,Unknown,False,0.0,0.0,90.0,0.0,,,0.0
+2011-12,1769286,33,111,Wigan_Athletic,Home,27843,14469,Albert Crusat Domene,albert-crusat-domene,Unknown,True,,,,,,,
+2011-12,1769297,34,35,West_Bromwich_Albion,Home,5430,16210,Paul Scharner,paul-scharner,Unknown,True,0.0,0.0,10.0,0.0,,,0.0
+2011-12,1769303,35,35,West_Bromwich_Albion,Away,5430,16210,Paul Scharner,paul-scharner,Unknown,True,0.0,0.0,7.0,0.0,,,0.0
+2011-12,1769316,36,35,West_Bromwich_Albion,Home,5430,16210,Paul Scharner,paul-scharner,Unknown,True,,,,,,,
+2011-12,1769317,36,111,Wigan_Athletic,Home,27843,14469,Albert Crusat Domene,albert-crusat-domene,Unknown,True,,,,,,,
+2011-12,1769320,37,111,Wigan_Athletic,Away,27843,14469,Albert Crusat Domene,albert-crusat-domene,Unknown,True,,,,,,,
+2011-12,1769321,37,35,West_Bromwich_Albion,Away,5430,16210,Paul Scharner,paul-scharner,Unknown,True,0.0,0.0,12.0,0.0,,,0.0
+2011-12,1769338,38,35,West_Bromwich_Albion,Home,5430,16210,Paul Scharner,paul-scharner,Unknown,True,0.0,0.0,11.0,0.0,,,0.0
+2011-12,1769339,38,111,Wigan_Athletic,Home,27843,14469,Albert Crusat Domene,albert-crusat-domene,Unknown,True,0.0,0.0,32.0,0.0,,,0.0

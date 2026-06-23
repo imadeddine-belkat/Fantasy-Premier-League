@@ -1,0 +1,185 @@
+season,matchId,gameweek,team_id,team,venue,playerId,pl_code,playerName,slug,position,substitute,goalAssist,goals,minutesPlayed,ownGoals,penaltyMiss,substitute.1,totalShots
+2013-14,3964803,1,54,Fulham,Away,474,17160,Sascha Riether,sascha-riether,D,False,0.0,0.0,90.0,0.0,,,0.0
+2013-14,3964803,1,54,Fulham,Away,530,16854,Philippe Senderos,philippe-senderos,D,True,,,,,,,
+2013-14,3964803,1,54,Fulham,Away,563,1869,Aaron Hughes,aaron-hughes,D,False,0.0,0.0,90.0,0.0,,,0.0
+2013-14,3964803,1,54,Fulham,Away,6381,15284,Brede Hangeland,brede-hangeland,D,False,0.0,0.0,90.0,0.0,,,0.0
+2013-14,3964817,2,54,Fulham,Home,474,17160,Sascha Riether,sascha-riether,D,False,0.0,0.0,90.0,0.0,,,0.0
+2013-14,3964817,2,54,Fulham,Home,514,4098,John Arne Riise,john-arne-riise,D,False,0.0,0.0,90.0,0.0,,,0.0
+2013-14,3964817,2,54,Fulham,Home,563,1869,Aaron Hughes,aaron-hughes,D,False,0.0,0.0,90.0,0.0,,,0.0
+2013-14,3964817,2,54,Fulham,Home,6381,15284,Brede Hangeland,brede-hangeland,D,False,0.0,0.0,90.0,0.0,,,0.0
+2013-14,3964843,3,54,Fulham,Away,474,17160,Sascha Riether,sascha-riether,D,False,0.0,0.0,73.0,0.0,,,0.0
+2013-14,3964843,3,54,Fulham,Away,514,4098,John Arne Riise,john-arne-riise,D,False,0.0,0.0,90.0,0.0,,,0.0
+2013-14,3964843,3,54,Fulham,Away,563,1869,Aaron Hughes,aaron-hughes,D,False,0.0,0.0,90.0,0.0,,,0.0
+2013-14,3964843,3,54,Fulham,Away,6381,15284,Brede Hangeland,brede-hangeland,D,False,0.0,0.0,90.0,0.0,,,0.0
+2013-14,3965121,4,54,Fulham,Home,474,17160,Sascha Riether,sascha-riether,D,False,0.0,0.0,90.0,0.0,,,0.0
+2013-14,3965121,4,54,Fulham,Home,530,16854,Philippe Senderos,philippe-senderos,D,False,0.0,0.0,90.0,0.0,,,0.0
+2013-14,3965121,4,54,Fulham,Home,6381,15284,Brede Hangeland,brede-hangeland,D,False,0.0,0.0,90.0,0.0,,,0.0
+2013-14,3965121,4,54,Fulham,Home,14249,20599,Fernando Amorebieta,fernando-amorebieta,D,True,0.0,0.0,23.0,0.0,,,0.0
+2013-14,3965121,4,54,Fulham,Home,23329,52582,Elsad Zverotić,elsad-zverotic,D,True,,,,,,,
+2013-14,3965141,5,54,Fulham,Away,474,17160,Sascha Riether,sascha-riether,D,False,0.0,0.0,90.0,0.0,,,0.0
+2013-14,3965141,5,54,Fulham,Away,530,16854,Philippe Senderos,philippe-senderos,D,True,,,,,,,
+2013-14,3965141,5,54,Fulham,Away,6381,15284,Brede Hangeland,brede-hangeland,D,False,0.0,0.0,90.0,0.0,,,0.0
+2013-14,3965141,5,54,Fulham,Away,14249,20599,Fernando Amorebieta,fernando-amorebieta,D,False,0.0,0.0,90.0,0.0,,,0.0
+2013-14,3965141,5,54,Fulham,Away,23329,52582,Elsad Zverotić,elsad-zverotic,D,True,,,,,,,
+2013-14,3965161,6,54,Fulham,Home,474,17160,Sascha Riether,sascha-riether,D,False,0.0,0.0,90.0,0.0,,,0.0
+2013-14,3965161,6,54,Fulham,Home,530,16854,Philippe Senderos,philippe-senderos,D,True,,,,,,,
+2013-14,3965161,6,54,Fulham,Home,6381,15284,Brede Hangeland,brede-hangeland,D,False,0.0,0.0,90.0,0.0,,,0.0
+2013-14,3965161,6,54,Fulham,Home,14249,20599,Fernando Amorebieta,fernando-amorebieta,D,False,0.0,0.0,90.0,0.0,,,0.0
+2013-14,3965161,6,54,Fulham,Home,23329,52582,Elsad Zverotić,elsad-zverotic,D,True,,,,,,,
+2013-14,3965179,7,54,Fulham,Home,474,17160,Sascha Riether,sascha-riether,D,False,0.0,0.0,90.0,0.0,,,0.0
+2013-14,3965179,7,54,Fulham,Home,530,16854,Philippe Senderos,philippe-senderos,D,False,0.0,0.0,90.0,0.0,,,0.0
+2013-14,3965179,7,54,Fulham,Home,6381,15284,Brede Hangeland,brede-hangeland,D,False,0.0,0.0,46.0,0.0,,,0.0
+2013-14,3965179,7,54,Fulham,Home,14249,20599,Fernando Amorebieta,fernando-amorebieta,D,False,0.0,0.0,90.0,0.0,,,0.0
+2013-14,3965179,7,54,Fulham,Home,23329,52582,Elsad Zverotić,elsad-zverotic,D,True,,,,,,,
+2013-14,3965203,8,54,Fulham,Away,474,17160,Sascha Riether,sascha-riether,D,False,1.0,0.0,90.0,0.0,,,0.0
+2013-14,3965203,8,54,Fulham,Away,530,16854,Philippe Senderos,philippe-senderos,D,False,0.0,1.0,90.0,0.0,,,0.0
+2013-14,3965203,8,54,Fulham,Away,6381,15284,Brede Hangeland,brede-hangeland,D,False,0.0,0.0,45.0,0.0,,,0.0
+2013-14,3965203,8,54,Fulham,Away,14249,20599,Fernando Amorebieta,fernando-amorebieta,D,True,0.0,0.0,45.0,0.0,,,0.0
+2013-14,3965203,8,54,Fulham,Away,23329,52582,Elsad Zverotić,elsad-zverotic,D,True,,,,,,,
+2013-14,3965229,9,54,Fulham,Away,474,17160,Sascha Riether,sascha-riether,D,False,0.0,0.0,45.0,0.0,,,0.0
+2013-14,3965229,9,54,Fulham,Away,530,16854,Philippe Senderos,philippe-senderos,D,False,0.0,0.0,90.0,0.0,,,0.0
+2013-14,3965229,9,54,Fulham,Away,563,1869,Aaron Hughes,aaron-hughes,D,True,0.0,0.0,45.0,0.0,,,0.0
+2013-14,3965229,9,54,Fulham,Away,14249,20599,Fernando Amorebieta,fernando-amorebieta,D,False,0.0,0.0,90.0,0.0,,,0.0
+2013-14,3965229,9,54,Fulham,Away,23329,52582,Elsad Zverotić,elsad-zverotic,D,True,,,,,,,
+2013-14,3965243,10,54,Fulham,Home,474,17160,Sascha Riether,sascha-riether,D,False,0.0,0.0,90.0,0.0,,,0.0
+2013-14,3965243,10,54,Fulham,Home,530,16854,Philippe Senderos,philippe-senderos,D,False,0.0,0.0,90.0,0.0,,,0.0
+2013-14,3965243,10,54,Fulham,Home,563,1869,Aaron Hughes,aaron-hughes,D,True,,,,,,,
+2013-14,3965243,10,54,Fulham,Home,14249,20599,Fernando Amorebieta,fernando-amorebieta,D,False,0.0,0.0,90.0,0.0,,,0.0
+2013-14,3965263,11,54,Fulham,Away,530,16854,Philippe Senderos,philippe-senderos,D,False,0.0,0.0,90.0,0.0,,,0.0
+2013-14,3965263,11,54,Fulham,Away,563,1869,Aaron Hughes,aaron-hughes,D,True,0.0,0.0,29.0,0.0,,,0.0
+2013-14,3965263,11,54,Fulham,Away,14249,20599,Fernando Amorebieta,fernando-amorebieta,D,False,0.0,0.0,90.0,1.0,,,0.0
+2013-14,3965263,11,54,Fulham,Away,23329,52582,Elsad Zverotić,elsad-zverotic,D,False,0.0,0.0,61.0,0.0,,,0.0
+2013-14,3965283,12,54,Fulham,Home,530,16854,Philippe Senderos,philippe-senderos,D,True,,,,,,,
+2013-14,3965283,12,54,Fulham,Home,563,1869,Aaron Hughes,aaron-hughes,D,False,0.0,0.0,90.0,1.0,,,0.0
+2013-14,3965283,12,54,Fulham,Home,14249,20599,Fernando Amorebieta,fernando-amorebieta,D,False,0.0,0.0,90.0,0.0,,,0.0
+2013-14,3965283,12,54,Fulham,Home,23329,52582,Elsad Zverotić,elsad-zverotic,D,False,0.0,0.0,90.0,0.0,,,0.0
+2013-14,3965315,13,54,Fulham,Away,530,16854,Philippe Senderos,philippe-senderos,D,True,,,,,,,
+2013-14,3965315,13,54,Fulham,Away,563,1869,Aaron Hughes,aaron-hughes,D,False,0.0,0.0,90.0,0.0,,,0.0
+2013-14,3965315,13,54,Fulham,Away,14249,20599,Fernando Amorebieta,fernando-amorebieta,D,False,0.0,0.0,90.0,0.0,,,0.0
+2013-14,3965315,13,54,Fulham,Away,23329,52582,Elsad Zverotić,elsad-zverotic,D,False,0.0,0.0,90.0,0.0,,,0.0
+2013-14,3965335,14,54,Fulham,Home,474,17160,Sascha Riether,sascha-riether,D,False,0.0,0.0,90.0,0.0,,,0.0
+2013-14,3965335,14,54,Fulham,Home,514,4098,John Arne Riise,john-arne-riise,D,False,0.0,0.0,90.0,0.0,,,0.0
+2013-14,3965335,14,54,Fulham,Home,530,16854,Philippe Senderos,philippe-senderos,D,False,0.0,0.0,90.0,0.0,,,0.0
+2013-14,3965335,14,54,Fulham,Home,563,1869,Aaron Hughes,aaron-hughes,D,False,0.0,0.0,90.0,0.0,,,0.0
+2013-14,3965335,14,54,Fulham,Home,23329,52582,Elsad Zverotić,elsad-zverotic,D,True,,,,,,,
+2013-14,3965341,15,54,Fulham,Home,474,17160,Sascha Riether,sascha-riether,D,False,0.0,0.0,90.0,0.0,,,0.0
+2013-14,3965341,15,54,Fulham,Home,514,4098,John Arne Riise,john-arne-riise,D,False,0.0,0.0,90.0,0.0,,,0.0
+2013-14,3965341,15,54,Fulham,Home,530,16854,Philippe Senderos,philippe-senderos,D,False,0.0,0.0,90.0,0.0,,,0.0
+2013-14,3965341,15,54,Fulham,Home,563,1869,Aaron Hughes,aaron-hughes,D,False,0.0,0.0,90.0,0.0,,,0.0
+2013-14,3965341,15,54,Fulham,Home,23329,52582,Elsad Zverotić,elsad-zverotic,D,True,,,,,,,
+2013-14,3965363,16,54,Fulham,Away,474,17160,Sascha Riether,sascha-riether,D,False,0.0,0.0,90.0,0.0,,,0.0
+2013-14,3965363,16,54,Fulham,Away,514,4098,John Arne Riise,john-arne-riise,D,False,0.0,0.0,90.0,0.0,,,0.0
+2013-14,3965363,16,54,Fulham,Away,530,16854,Philippe Senderos,philippe-senderos,D,False,0.0,0.0,90.0,0.0,,,0.0
+2013-14,3965363,16,54,Fulham,Away,563,1869,Aaron Hughes,aaron-hughes,D,False,0.0,0.0,90.0,0.0,,,0.0
+2013-14,3965363,16,54,Fulham,Away,23329,52582,Elsad Zverotić,elsad-zverotic,D,True,,,,,,,
+2013-14,3965381,17,54,Fulham,Home,474,17160,Sascha Riether,sascha-riether,D,False,0.0,0.0,90.0,0.0,,,0.0
+2013-14,3965381,17,54,Fulham,Home,514,4098,John Arne Riise,john-arne-riise,D,False,0.0,0.0,90.0,0.0,,,0.0
+2013-14,3965381,17,54,Fulham,Home,530,16854,Philippe Senderos,philippe-senderos,D,False,0.0,0.0,37.0,0.0,,,0.0
+2013-14,3965381,17,54,Fulham,Home,563,1869,Aaron Hughes,aaron-hughes,D,False,0.0,0.0,90.0,0.0,,,0.0
+2013-14,3965381,17,54,Fulham,Home,14249,20599,Fernando Amorebieta,fernando-amorebieta,D,True,0.0,0.0,53.0,0.0,,,0.0
+2013-14,3965411,18,54,Fulham,Away,474,17160,Sascha Riether,sascha-riether,D,False,0.0,0.0,90.0,0.0,,,0.0
+2013-14,3965411,18,54,Fulham,Away,514,4098,John Arne Riise,john-arne-riise,D,True,0.0,0.0,1.0,0.0,,,0.0
+2013-14,3965411,18,54,Fulham,Away,530,16854,Philippe Senderos,philippe-senderos,D,True,,,,,,,
+2013-14,3965411,18,54,Fulham,Away,563,1869,Aaron Hughes,aaron-hughes,D,False,0.0,0.0,90.0,0.0,,,0.0
+2013-14,3965411,18,54,Fulham,Away,14249,20599,Fernando Amorebieta,fernando-amorebieta,D,False,0.0,0.0,90.0,0.0,,,0.0
+2013-14,3965425,19,54,Fulham,Away,474,17160,Sascha Riether,sascha-riether,D,True,,,,,,,
+2013-14,3965425,19,54,Fulham,Away,514,4098,John Arne Riise,john-arne-riise,D,False,0.0,0.0,90.0,0.0,,,0.0
+2013-14,3965425,19,54,Fulham,Away,563,1869,Aaron Hughes,aaron-hughes,D,False,0.0,0.0,90.0,0.0,,,0.0
+2013-14,3965425,19,54,Fulham,Away,14249,20599,Fernando Amorebieta,fernando-amorebieta,D,False,0.0,0.0,90.0,0.0,,,0.0
+2013-14,3965425,19,54,Fulham,Away,23329,52582,Elsad Zverotić,elsad-zverotic,D,False,0.0,0.0,90.0,0.0,,,0.0
+2013-14,3965441,20,54,Fulham,Home,474,17160,Sascha Riether,sascha-riether,D,False,0.0,0.0,90.0,0.0,,,0.0
+2013-14,3965441,20,54,Fulham,Home,514,4098,John Arne Riise,john-arne-riise,D,False,0.0,0.0,90.0,0.0,,,0.0
+2013-14,3965441,20,54,Fulham,Home,530,16854,Philippe Senderos,philippe-senderos,D,False,0.0,0.0,90.0,0.0,,,0.0
+2013-14,3965441,20,54,Fulham,Home,563,1869,Aaron Hughes,aaron-hughes,D,True,,,,,,,
+2013-14,3965441,20,54,Fulham,Home,14249,20599,Fernando Amorebieta,fernando-amorebieta,D,False,0.0,0.0,90.0,0.0,,,0.0
+2013-14,3965463,21,54,Fulham,Home,474,17160,Sascha Riether,sascha-riether,D,False,0.0,0.0,90.0,0.0,,,0.0
+2013-14,3965463,21,54,Fulham,Home,514,4098,John Arne Riise,john-arne-riise,D,False,0.0,0.0,90.0,0.0,,,0.0
+2013-14,3965463,21,54,Fulham,Home,530,16854,Philippe Senderos,philippe-senderos,D,False,0.0,0.0,90.0,0.0,,,0.0
+2013-14,3965463,21,54,Fulham,Home,563,1869,Aaron Hughes,aaron-hughes,D,True,,,,,,,
+2013-14,3965463,21,54,Fulham,Home,14249,20599,Fernando Amorebieta,fernando-amorebieta,D,False,0.0,0.0,90.0,0.0,,,0.0
+2013-14,3965477,22,54,Fulham,Away,474,17160,Sascha Riether,sascha-riether,D,False,0.0,0.0,90.0,0.0,,,0.0
+2013-14,3965477,22,54,Fulham,Away,514,4098,John Arne Riise,john-arne-riise,D,True,,,,,,,
+2013-14,3965477,22,54,Fulham,Away,563,1869,Aaron Hughes,aaron-hughes,D,True,,,,,,,
+2013-14,3965477,22,54,Fulham,Away,6381,15284,Brede Hangeland,brede-hangeland,D,False,0.0,0.0,90.0,0.0,,,0.0
+2013-14,3965477,22,54,Fulham,Away,99090,78916,Dan Burn,dan-burn,D,False,0.0,0.0,90.0,0.0,,,0.0
+2013-14,3965511,23,54,Fulham,Away,474,17160,Sascha Riether,sascha-riether,D,False,0.0,0.0,90.0,0.0,,,0.0
+2013-14,3965511,23,54,Fulham,Away,563,1869,Aaron Hughes,aaron-hughes,D,True,,,,,,,
+2013-14,3965511,23,54,Fulham,Away,6381,15284,Brede Hangeland,brede-hangeland,D,False,0.0,0.0,90.0,0.0,,,0.0
+2013-14,3965511,23,54,Fulham,Away,99090,78916,Dan Burn,dan-burn,D,False,0.0,0.0,90.0,0.0,,,0.0
+2013-14,3965523,24,54,Fulham,Home,474,17160,Sascha Riether,sascha-riether,D,False,0.0,0.0,90.0,0.0,,,0.0
+2013-14,3965523,24,54,Fulham,Home,6381,15284,Brede Hangeland,brede-hangeland,D,False,0.0,0.0,90.0,0.0,,,0.0
+2013-14,3965523,24,54,Fulham,Home,99090,78916,Dan Burn,dan-burn,D,False,0.0,0.0,90.0,0.0,,,0.0
+2013-14,3965523,24,54,Fulham,Home,381566,112060,Joshua Passley,joshua-passley,D,True,,,,,,,
+2013-14,3965545,25,54,Fulham,Away,474,17160,Sascha Riether,sascha-riether,D,False,0.0,0.0,90.0,0.0,,,0.0
+2013-14,3965545,25,54,Fulham,Away,514,4098,John Arne Riise,john-arne-riise,D,False,0.0,0.0,90.0,0.0,,,0.0
+2013-14,3965545,25,54,Fulham,Away,1890,10466,Johnny Heitinga,johnny-heitinga,D,False,0.0,0.0,90.0,0.0,,,0.0
+2013-14,3965545,25,54,Fulham,Away,6381,15284,Brede Hangeland,brede-hangeland,D,True,,,,,,,
+2013-14,3965545,25,54,Fulham,Away,99090,78916,Dan Burn,dan-burn,D,False,0.0,0.0,90.0,0.0,,,0.0
+2013-14,3965571,26,54,Fulham,Home,474,17160,Sascha Riether,sascha-riether,D,False,0.0,0.0,90.0,0.0,,,0.0
+2013-14,3965571,26,54,Fulham,Home,514,4098,John Arne Riise,john-arne-riise,D,False,0.0,0.0,90.0,0.0,,,0.0
+2013-14,3965571,26,54,Fulham,Home,1890,10466,Johnny Heitinga,johnny-heitinga,D,False,0.0,0.0,90.0,0.0,,,0.0
+2013-14,3965571,26,54,Fulham,Home,6381,15284,Brede Hangeland,brede-hangeland,D,True,,,,,,,
+2013-14,3965571,26,54,Fulham,Home,99090,78916,Dan Burn,dan-burn,D,False,0.0,0.0,90.0,0.0,,,0.0
+2013-14,3965593,27,54,Fulham,Away,474,17160,Sascha Riether,sascha-riether,D,False,0.0,0.0,90.0,0.0,,,0.0
+2013-14,3965593,27,54,Fulham,Away,514,4098,John Arne Riise,john-arne-riise,D,True,0.0,0.0,38.0,0.0,,,0.0
+2013-14,3965593,27,54,Fulham,Away,1890,10466,Johnny Heitinga,johnny-heitinga,D,False,0.0,0.0,90.0,0.0,,,0.0
+2013-14,3965593,27,54,Fulham,Away,6381,15284,Brede Hangeland,brede-hangeland,D,False,0.0,0.0,90.0,0.0,,,0.0
+2013-14,3965593,27,54,Fulham,Away,14249,20599,Fernando Amorebieta,fernando-amorebieta,D,False,0.0,0.0,52.0,0.0,,,0.0
+2013-14,3965593,27,54,Fulham,Away,99090,78916,Dan Burn,dan-burn,D,True,0.0,0.0,20.0,0.0,,,0.0
+2013-14,3965601,28,54,Fulham,Home,474,17160,Sascha Riether,sascha-riether,D,False,0.0,0.0,90.0,0.0,,,0.0
+2013-14,3965601,28,54,Fulham,Home,514,4098,John Arne Riise,john-arne-riise,D,True,,,,,,,
+2013-14,3965601,28,54,Fulham,Home,1890,10466,Johnny Heitinga,johnny-heitinga,D,False,0.0,1.0,90.0,0.0,,,0.0
+2013-14,3965601,28,54,Fulham,Home,6381,15284,Brede Hangeland,brede-hangeland,D,False,0.0,0.0,16.0,0.0,,,0.0
+2013-14,3965601,28,54,Fulham,Home,99090,78916,Dan Burn,dan-burn,D,True,0.0,0.0,74.0,0.0,,,0.0
+2013-14,3965619,29,54,Fulham,Away,474,17160,Sascha Riether,sascha-riether,D,False,0.0,0.0,90.0,1.0,,,0.0
+2013-14,3965619,29,54,Fulham,Away,514,4098,John Arne Riise,john-arne-riise,D,False,0.0,0.0,45.0,0.0,,,0.0
+2013-14,3965619,29,54,Fulham,Away,1890,10466,Johnny Heitinga,johnny-heitinga,D,False,0.0,0.0,90.0,0.0,,,0.0
+2013-14,3965619,29,54,Fulham,Away,6381,15284,Brede Hangeland,brede-hangeland,D,False,0.0,0.0,90.0,0.0,,,0.0
+2013-14,3965619,29,54,Fulham,Away,23329,52582,Elsad Zverotić,elsad-zverotic,D,True,,,,,,,
+2013-14,3965619,29,54,Fulham,Away,99090,78916,Dan Burn,dan-burn,D,True,,,,,,,
+2013-14,3965641,30,54,Fulham,Home,474,17160,Sascha Riether,sascha-riether,D,True,0.0,0.0,8.0,0.0,,,0.0
+2013-14,3965641,30,54,Fulham,Home,514,4098,John Arne Riise,john-arne-riise,D,True,,,,,,,
+2013-14,3965641,30,54,Fulham,Home,1890,10466,Johnny Heitinga,johnny-heitinga,D,False,0.0,0.0,90.0,0.0,,,0.0
+2013-14,3965641,30,54,Fulham,Home,6381,15284,Brede Hangeland,brede-hangeland,D,False,0.0,0.0,90.0,0.0,,,0.0
+2013-14,3965641,30,54,Fulham,Home,14249,20599,Fernando Amorebieta,fernando-amorebieta,D,False,0.0,0.0,90.0,0.0,,,0.0
+2013-14,3965641,30,54,Fulham,Home,99090,78916,Dan Burn,dan-burn,D,True,0.0,0.0,3.0,0.0,,,0.0
+2013-14,3965667,31,54,Fulham,Away,474,17160,Sascha Riether,sascha-riether,D,False,0.0,0.0,90.0,0.0,,,0.0
+2013-14,3965667,31,54,Fulham,Away,514,4098,John Arne Riise,john-arne-riise,D,False,0.0,0.0,90.0,0.0,,,0.0
+2013-14,3965667,31,54,Fulham,Away,1890,10466,Johnny Heitinga,johnny-heitinga,D,False,0.0,0.0,90.0,0.0,,,0.0
+2013-14,3965667,31,54,Fulham,Away,6381,15284,Brede Hangeland,brede-hangeland,D,False,0.0,0.0,90.0,0.0,,,0.0
+2013-14,3965667,31,54,Fulham,Away,14249,20599,Fernando Amorebieta,fernando-amorebieta,D,False,0.0,0.0,53.0,0.0,,,0.0
+2013-14,3965667,31,54,Fulham,Away,23329,52582,Elsad Zverotić,elsad-zverotic,D,True,,,,,,,
+2013-14,3965681,32,54,Fulham,Home,474,17160,Sascha Riether,sascha-riether,D,False,0.0,0.0,90.0,0.0,,,0.0
+2013-14,3965681,32,54,Fulham,Home,514,4098,John Arne Riise,john-arne-riise,D,False,0.0,0.0,90.0,0.0,,,0.0
+2013-14,3965681,32,54,Fulham,Home,1890,10466,Johnny Heitinga,johnny-heitinga,D,False,0.0,0.0,90.0,0.0,,,0.0
+2013-14,3965681,32,54,Fulham,Home,6381,15284,Brede Hangeland,brede-hangeland,D,False,0.0,0.0,90.0,0.0,,,0.0
+2013-14,3965697,33,54,Fulham,Away,474,17160,Sascha Riether,sascha-riether,D,False,0.0,0.0,90.0,0.0,,,0.0
+2013-14,3965697,33,54,Fulham,Away,514,4098,John Arne Riise,john-arne-riise,D,True,0.0,0.0,7.0,0.0,,,0.0
+2013-14,3965697,33,54,Fulham,Away,1890,10466,Johnny Heitinga,johnny-heitinga,D,False,0.0,0.0,83.0,0.0,,,0.0
+2013-14,3965697,33,54,Fulham,Away,6381,15284,Brede Hangeland,brede-hangeland,D,False,0.0,0.0,90.0,0.0,,,0.0
+2013-14,3965697,33,54,Fulham,Away,14249,20599,Fernando Amorebieta,fernando-amorebieta,D,False,0.0,0.0,90.0,0.0,,,0.0
+2013-14,3965721,34,54,Fulham,Home,474,17160,Sascha Riether,sascha-riether,D,False,0.0,0.0,90.0,0.0,,,0.0
+2013-14,3965721,34,54,Fulham,Home,514,4098,John Arne Riise,john-arne-riise,D,True,,,,,,,
+2013-14,3965721,34,54,Fulham,Home,1890,10466,Johnny Heitinga,johnny-heitinga,D,False,0.0,0.0,90.0,0.0,,,0.0
+2013-14,3965721,34,54,Fulham,Home,6381,15284,Brede Hangeland,brede-hangeland,D,False,0.0,0.0,90.0,0.0,,,0.0
+2013-14,3965721,34,54,Fulham,Home,14249,20599,Fernando Amorebieta,fernando-amorebieta,D,False,0.0,0.0,90.0,0.0,,,0.0
+2013-14,3965753,35,54,Fulham,Away,514,4098,John Arne Riise,john-arne-riise,D,False,0.0,0.0,90.0,0.0,,,0.0
+2013-14,3965753,35,54,Fulham,Away,1890,10466,Johnny Heitinga,johnny-heitinga,D,False,0.0,0.0,66.0,0.0,,,0.0
+2013-14,3965753,35,54,Fulham,Away,6381,15284,Brede Hangeland,brede-hangeland,D,False,0.0,0.0,90.0,0.0,,,0.0
+2013-14,3965753,35,54,Fulham,Away,14249,20599,Fernando Amorebieta,fernando-amorebieta,D,False,0.0,0.0,90.0,0.0,,,0.0
+2013-14,3965753,35,54,Fulham,Away,23329,52582,Elsad Zverotić,elsad-zverotic,D,True,0.0,0.0,24.0,0.0,,,0.0
+2013-14,3965761,36,54,Fulham,Home,474,17160,Sascha Riether,sascha-riether,D,False,0.0,0.0,90.0,0.0,,,0.0
+2013-14,3965761,36,54,Fulham,Home,514,4098,John Arne Riise,john-arne-riise,D,False,0.0,0.0,45.0,0.0,,,0.0
+2013-14,3965761,36,54,Fulham,Home,1890,10466,Johnny Heitinga,johnny-heitinga,D,False,0.0,0.0,90.0,0.0,,,0.0
+2013-14,3965761,36,54,Fulham,Home,6381,15284,Brede Hangeland,brede-hangeland,D,False,0.0,0.0,90.0,0.0,,,0.0
+2013-14,3965761,36,54,Fulham,Home,14249,20599,Fernando Amorebieta,fernando-amorebieta,D,False,0.0,1.0,90.0,0.0,,,0.0
+2013-14,3965791,37,54,Fulham,Away,474,17160,Sascha Riether,sascha-riether,D,True,,,,,,,
+2013-14,3965791,37,54,Fulham,Away,514,4098,John Arne Riise,john-arne-riise,D,False,0.0,0.0,90.0,0.0,,,0.0
+2013-14,3965791,37,54,Fulham,Away,1890,10466,Johnny Heitinga,johnny-heitinga,D,False,0.0,0.0,90.0,0.0,,,0.0
+2013-14,3965791,37,54,Fulham,Away,6381,15284,Brede Hangeland,brede-hangeland,D,False,0.0,0.0,90.0,0.0,,,0.0
+2013-14,3965791,37,54,Fulham,Away,14249,20599,Fernando Amorebieta,fernando-amorebieta,D,True,,,,,,,
+2013-14,3965791,37,54,Fulham,Away,99090,78916,Dan Burn,dan-burn,D,False,0.0,0.0,58.0,0.0,,,0.0
+2013-14,3965799,38,54,Fulham,Home,1890,10466,Johnny Heitinga,johnny-heitinga,D,False,0.0,0.0,90.0,0.0,,,0.0
+2013-14,3965799,38,54,Fulham,Home,6381,15284,Brede Hangeland,brede-hangeland,D,False,0.0,0.0,90.0,0.0,,,0.0
+2013-14,3965799,38,54,Fulham,Home,14249,20599,Fernando Amorebieta,fernando-amorebieta,D,False,0.0,0.0,90.0,0.0,,,0.0
+2013-14,3965799,38,54,Fulham,Home,23329,52582,Elsad Zverotić,elsad-zverotic,D,False,0.0,0.0,50.0,0.0,,,0.0
