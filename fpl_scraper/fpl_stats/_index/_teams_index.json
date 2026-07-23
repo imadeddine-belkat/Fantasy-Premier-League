@@ -4,6 +4,11 @@
       "id": 14,
       "name": "Man Utd",
       "short_name": "MUN"
+    },
+    "2026-27": {
+      "id": 16,
+      "name": "Man Utd",
+      "short_name": "MUN"
     }
   },
   "2": {
@@ -11,10 +16,20 @@
       "id": 11,
       "name": "Leeds",
       "short_name": "LEE"
+    },
+    "2026-27": {
+      "id": 13,
+      "name": "Leeds",
+      "short_name": "LEE"
     }
   },
   "3": {
     "2025-26": {
+      "id": 1,
+      "name": "Arsenal",
+      "short_name": "ARS"
+    },
+    "2026-27": {
       "id": 1,
       "name": "Arsenal",
       "short_name": "ARS"
@@ -25,6 +40,11 @@
       "id": 15,
       "name": "Newcastle",
       "short_name": "NEW"
+    },
+    "2026-27": {
+      "id": 17,
+      "name": "Newcastle",
+      "short_name": "NEW"
     }
   },
   "6": {
@@ -32,10 +52,20 @@
       "id": 18,
       "name": "Spurs",
       "short_name": "TOT"
+    },
+    "2026-27": {
+      "id": 19,
+      "name": "Spurs",
+      "short_name": "TOT"
     }
   },
   "7": {
     "2025-26": {
+      "id": 2,
+      "name": "Aston Villa",
+      "short_name": "AVL"
+    },
+    "2026-27": {
       "id": 2,
       "name": "Aston Villa",
       "short_name": "AVL"
@@ -46,10 +76,27 @@
       "id": 7,
       "name": "Chelsea",
       "short_name": "CHE"
+    },
+    "2026-27": {
+      "id": 6,
+      "name": "Chelsea",
+      "short_name": "CHE"
+    }
+  },
+  "9": {
+    "2026-27": {
+      "id": 7,
+      "name": "Coventry City",
+      "short_name": "COV"
     }
   },
   "11": {
     "2025-26": {
+      "id": 9,
+      "name": "Everton",
+      "short_name": "EVE"
+    },
+    "2026-27": {
       "id": 9,
       "name": "Everton",
       "short_name": "EVE"
@@ -60,11 +107,21 @@
       "id": 12,
       "name": "Liverpool",
       "short_name": "LIV"
+    },
+    "2026-27": {
+      "id": 14,
+      "name": "Liverpool",
+      "short_name": "LIV"
     }
   },
   "17": {
     "2025-26": {
       "id": 16,
+      "name": "Nott'm Forest",
+      "short_name": "NFO"
+    },
+    "2026-27": {
+      "id": 18,
       "name": "Nott'm Forest",
       "short_name": "NFO"
     }
@@ -81,11 +138,21 @@
       "id": 8,
       "name": "Crystal Palace",
       "short_name": "CRY"
+    },
+    "2026-27": {
+      "id": 8,
+      "name": "Crystal Palace",
+      "short_name": "CRY"
     }
   },
   "36": {
     "2025-26": {
       "id": 6,
+      "name": "Brighton",
+      "short_name": "BHA"
+    },
+    "2026-27": {
+      "id": 5,
       "name": "Brighton",
       "short_name": "BHA"
     }
@@ -97,15 +164,32 @@
       "short_name": "WOL"
     }
   },
+  "40": {
+    "2026-27": {
+      "id": 12,
+      "name": "Ipswich Town",
+      "short_name": "IPS"
+    }
+  },
   "43": {
     "2025-26": {
       "id": 13,
+      "name": "Man City",
+      "short_name": "MCI"
+    },
+    "2026-27": {
+      "id": 15,
       "name": "Man City",
       "short_name": "MCI"
     }
   },
   "54": {
     "2025-26": {
+      "id": 10,
+      "name": "Fulham",
+      "short_name": "FUL"
+    },
+    "2026-27": {
       "id": 10,
       "name": "Fulham",
       "short_name": "FUL"
@@ -116,6 +200,18 @@
       "id": 17,
       "name": "Sunderland",
       "short_name": "SUN"
+    },
+    "2026-27": {
+      "id": 20,
+      "name": "Sunderland",
+      "short_name": "SUN"
+    }
+  },
+  "88": {
+    "2026-27": {
+      "id": 11,
+      "name": "Hull City",
+      "short_name": "HUL"
     }
   },
   "90": {
@@ -130,11 +226,21 @@
       "id": 4,
       "name": "Bournemouth",
       "short_name": "BOU"
+    },
+    "2026-27": {
+      "id": 3,
+      "name": "Bournemouth",
+      "short_name": "BOU"
     }
   },
   "94": {
     "2025-26": {
       "id": 5,
+      "name": "Brentford",
+      "short_name": "BRE"
+    },
+    "2026-27": {
+      "id": 4,
       "name": "Brentford",
       "short_name": "BRE"
     }
