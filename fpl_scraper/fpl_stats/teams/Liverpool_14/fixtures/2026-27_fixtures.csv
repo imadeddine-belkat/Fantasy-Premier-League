@@ -4,10 +4,10 @@ code,event,finished,finished_provisional,id,kickoff_time,minutes,provisional_sta
 2645221,3,False,False,21,2026-09-04T19:00:00Z,0,False,False,14,,12,,4,2
 2645231,4,False,False,35,2026-09-12T14:00:00Z,0,False,False,10,,14,,2,4
 2645235,5,False,False,49,2026-09-20T13:00:00Z,0,False,False,14,,3,,4,3
-2645252,6,False,False,58,2026-10-10T14:00:00Z,0,False,False,15,,14,,4,4
+2645252,6,False,False,58,2026-10-11T15:30:00Z,0,False,False,15,,14,,4,4
 2645256,7,False,False,62,2026-10-17T14:00:00Z,0,False,False,14,,4,,4,3
 2645272,8,False,False,78,2026-10-24T14:00:00Z,0,False,False,5,,14,,2,4
-2645281,9,False,False,87,2026-10-31T15:00:00Z,0,False,False,1,,14,,4,4
+2645281,9,False,False,87,2026-11-01T16:30:00Z,0,False,False,1,,14,,4,4
 2645287,10,False,False,93,2026-11-07T15:00:00Z,0,False,False,14,,8,,4,3
 2645301,11,False,False,107,2026-11-21T15:00:00Z,0,False,False,16,,14,,4,4
 2645308,12,False,False,114,2026-11-28T15:00:00Z,0,False,False,14,,9,,4,3
