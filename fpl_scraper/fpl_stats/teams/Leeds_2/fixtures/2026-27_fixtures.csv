@@ -1,6 +1,6 @@
 code,event,finished,finished_provisional,id,kickoff_time,minutes,provisional_start_time,started,team_a,team_a_score,team_h,team_h_score,team_h_difficulty,team_a_difficulty
 2645200,1,True,True,6,2026-08-22T14:00:00Z,90,False,True,13,1.0,18,0.0,2,3
-2645210,2,False,False,17,2026-08-30T13:00:00Z,0,False,False,4,,13,,3,3
+2645210,2,True,True,17,2026-08-30T13:00:00Z,90,False,True,4,1.0,13,1.0,3,3
 2645217,3,False,False,23,2026-09-05T14:00:00Z,0,False,False,13,,5,,2,3
 2645230,4,False,False,40,2026-09-14T19:00:00Z,0,False,False,17,,13,,2,3
 2645240,5,False,False,44,2026-09-19T14:00:00Z,0,False,False,8,,13,,3,3

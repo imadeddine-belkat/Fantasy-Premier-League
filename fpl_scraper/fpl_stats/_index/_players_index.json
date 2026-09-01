@@ -237,6 +237,10 @@
     "2025-26": {
       "element": 629,
       "name": "Daniel Bentley"
+    },
+    "2026-27": {
+      "element": 623,
+      "name": "Dan Bentley"
     }
   },
   "80178": {
@@ -408,6 +412,10 @@
   "97846": {
     "2025-26": {
       "element": 340,
+      "name": "Alex Cairns"
+    },
+    "2026-27": {
+      "element": 625,
       "name": "Alex Cairns"
     }
   },
@@ -703,6 +711,12 @@
     "2025-26": {
       "element": 381,
       "name": "Mohamed Salah"
+    }
+  },
+  "119090": {
+    "2026-27": {
+      "element": 618,
+      "name": "Leon Goretzka"
     }
   },
   "119471": {
@@ -2017,6 +2031,10 @@
     "2025-26": {
       "element": 610,
       "name": "Aaron Wan-Bissaka"
+    },
+    "2026-27": {
+      "element": 611,
+      "name": "Aaron Wan-Bissaka"
     }
   },
   "215059": {
@@ -2141,6 +2159,12 @@
     "2026-27": {
       "element": 205,
       "name": "Borna Sosa"
+    }
+  },
+  "218543": {
+    "2026-27": {
+      "element": 619,
+      "name": "Exequiel Palacios"
     }
   },
   "218997": {
@@ -2579,6 +2603,12 @@
     "2025-26": {
       "element": 663,
       "name": "Jhon Arias"
+    }
+  },
+  "230650": {
+    "2026-27": {
+      "element": 615,
+      "name": "Michele Di Gregorio"
     }
   },
   "230730": {
@@ -4853,6 +4883,12 @@
       "name": "Toby Collyer"
     }
   },
+  "490884": {
+    "2026-27": {
+      "element": 617,
+      "name": "Mohamed-Ali Cho"
+    }
+  },
   "490885": {
     "2025-26": {
       "element": 620,
@@ -5479,6 +5515,12 @@
       "name": "Mathys Tel"
     }
   },
+  "512123": {
+    "2026-27": {
+      "element": 614,
+      "name": "Jaouen Hadjam"
+    }
+  },
   "512462": {
     "2025-26": {
       "element": 293,
@@ -5691,6 +5733,12 @@
     "2025-26": {
       "element": 76,
       "name": "Owen Bevan"
+    }
+  },
+  "519324": {
+    "2026-27": {
+      "element": 624,
+      "name": "Amario Cozier-Duberry"
     }
   },
   "519440": {
@@ -6315,6 +6363,12 @@
     "2026-27": {
       "element": 294,
       "name": "Óscar Zambrano"
+    }
+  },
+  "554054": {
+    "2026-27": {
+      "element": 622,
+      "name": "Kaden Braithwaite"
     }
   },
   "554197": {
@@ -7289,6 +7343,10 @@
     "2025-26": {
       "element": 603,
       "name": "El Hadji Malick Diouf"
+    },
+    "2026-27": {
+      "element": 620,
+      "name": "El Hadji Malick Diouf"
     }
   },
   "614071": {
@@ -7311,6 +7369,12 @@
     "2025-26": {
       "element": 759,
       "name": "Marli Salmon"
+    }
+  },
+  "616069": {
+    "2026-27": {
+      "element": 626,
+      "name": "Macauley Zepa"
     }
   },
   "616077": {
@@ -7352,6 +7416,10 @@
   "616288": {
     "2025-26": {
       "element": 742,
+      "name": "Ryan McAidoo"
+    },
+    "2026-27": {
+      "element": 621,
       "name": "Ryan McAidoo"
     }
   },
@@ -7472,7 +7540,7 @@
   "629397": {
     "2026-27": {
       "element": 192,
-      "name": "Kaine Andrews"
+      "name": "Kai Andrews"
     }
   },
   "630699": {
@@ -7507,6 +7575,18 @@
     "2026-27": {
       "element": 462,
       "name": "Sean Steur"
+    }
+  },
+  "637238": {
+    "2026-27": {
+      "element": 616,
+      "name": "Ayyoub Bouaddi"
+    }
+  },
+  "638411": {
+    "2026-27": {
+      "element": 612,
+      "name": "Dayann Méthalie"
     }
   },
   "640108": {
@@ -7741,6 +7821,12 @@
     "2026-27": {
       "element": 582,
       "name": "Brian Madjo"
+    }
+  },
+  "696104": {
+    "2026-27": {
+      "element": 613,
+      "name": "Jules Ahoka"
     }
   },
   "699989": {
