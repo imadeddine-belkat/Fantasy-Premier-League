@@ -1,3 +1,4 @@
 element,position,player_code,first_name,second_name,fixture_code,total_points,modified,minutes,goals_scored,assists,clean_sheets,goals_conceded,own_goals,penalties_saved,penalties_missed,yellow_cards,red_cards,saves,bonus,bps,influence,creativity,threat,ict_index,clearances_blocks_interceptions,recoveries,tackles,defensive_contribution,starts,expected_goals,expected_assists,expected_goal_involvements,expected_goals_conceded,value,transfers_balance,selected,transfers_in,transfers_out,team_code
 261,MID,153133,Alex,Iwobi,2645204,2,False,90,0,0,0,3,0,0,0,0,0,0,0,17,12.4,11.3,0.0,2.4,3,6,1,10,1,0.00,0.04,0.04,2.24,55,0,88413,0,0,54
 261,MID,153133,Alex,Iwobi,2645213,2,False,90,0,0,0,1,0,0,0,0,0,0,0,20,12.0,35.5,2.0,5.0,1,2,1,4,1,0.01,0.40,0.41,2.02,55,-3301,95898,6095,9396,54
+261,MID,153133,Alex,Iwobi,2645219,2,False,82,0,0,0,3,0,0,0,0,0,0,0,15,7.6,23.7,11.0,4.2,0,3,1,4,1,0.04,0.26,0.30,1.97,55,-9517,88922,7354,16871,54

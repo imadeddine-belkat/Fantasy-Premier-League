@@ -1,3 +1,4 @@
 element,position,player_code,first_name,second_name,fixture_code,total_points,modified,minutes,goals_scored,assists,clean_sheets,goals_conceded,own_goals,penalties_saved,penalties_missed,yellow_cards,red_cards,saves,bonus,bps,influence,creativity,threat,ict_index,clearances_blocks_interceptions,recoveries,tackles,defensive_contribution,starts,expected_goals,expected_assists,expected_goal_involvements,expected_goals_conceded,value,transfers_balance,selected,transfers_in,transfers_out,team_code
 279,DEF,146426,Semi,Ajayi,2645198,14,False,63,1,0,1,0,0,0,0,0,0,0,2,39,44.2,0.2,35.0,7.9,7,3,0,7,1,0.52,0.00,0.52,0.86,40,0,83256,0,0,88
 279,DEF,146426,Semi,Ajayi,2645208,6,False,90,0,0,1,0,0,0,0,0,0,0,0,24,15.6,0.8,0.0,1.6,5,5,2,7,1,0.00,0.00,0.00,1.29,40,63813,200860,79406,15593,88
+279,DEF,146426,Semi,Ajayi,2645220,5,False,90,0,0,1,0,0,0,0,1,0,0,0,17,11.0,0.7,0.0,1.2,5,1,1,6,1,0.00,0.00,0.00,1.93,41,562671,1055220,631920,69249,88

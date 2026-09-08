@@ -1,3 +1,4 @@
 element,position,player_code,first_name,second_name,fixture_code,total_points,modified,minutes,goals_scored,assists,clean_sheets,goals_conceded,own_goals,penalties_saved,penalties_missed,yellow_cards,red_cards,saves,bonus,bps,influence,creativity,threat,ict_index,clearances_blocks_interceptions,recoveries,tackles,defensive_contribution,starts,expected_goals,expected_assists,expected_goal_involvements,expected_goals_conceded,value,transfers_balance,selected,transfers_in,transfers_out,team_code
 465,FWD,538207,William,Osula,2645203,4,False,55,0,1,0,1,0,0,0,0,0,0,0,18,28.2,13.7,8.0,5.0,2,2,1,5,1,0.06,0.14,0.20,1.48,60,0,83021,0,0,4
 465,FWD,538207,William,Osula,2645214,0,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,0,0,0,0.00,0.00,0.00,0.00,60,-6163,90550,20344,26507,4
+465,FWD,538207,William,Osula,2645223,0,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,0,0,0,0.00,0.00,0.00,0.00,59,-37692,51608,557,38249,4

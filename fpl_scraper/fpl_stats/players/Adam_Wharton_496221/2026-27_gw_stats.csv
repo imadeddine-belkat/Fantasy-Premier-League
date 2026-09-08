@@ -1,3 +1,4 @@
 element,position,player_code,first_name,second_name,fixture_code,total_points,modified,minutes,goals_scored,assists,clean_sheets,goals_conceded,own_goals,penalties_saved,penalties_missed,yellow_cards,red_cards,saves,bonus,bps,influence,creativity,threat,ict_index,clearances_blocks_interceptions,recoveries,tackles,defensive_contribution,starts,expected_goals,expected_assists,expected_goal_involvements,expected_goals_conceded,value,transfers_balance,selected,transfers_in,transfers_out,team_code
 210,MID,496221,Adam,Wharton,2645197,4,False,90,0,0,0,2,0,0,0,0,0,0,0,20,16.8,30.9,0.0,4.8,4,8,2,14,1,0.00,0.24,0.24,1.12,55,0,75177,0,0,31
 210,MID,496221,Adam,Wharton,2645209,2,False,90,0,0,0,4,0,0,0,0,0,0,0,21,16.2,24.7,0.0,4.1,0,3,4,7,1,0.00,0.07,0.07,2.21,55,-1090,88998,6710,7800,31
+210,MID,496221,Adam,Wharton,2645219,2,False,90,0,0,0,2,0,0,0,0,0,0,0,10,14.8,2.8,2.0,2.0,7,0,1,8,1,0.00,0.01,0.01,3.14,55,-3644,89835,10076,13720,31

@@ -1,3 +1,4 @@
 element,position,player_code,first_name,second_name,fixture_code,total_points,modified,minutes,goals_scored,assists,clean_sheets,goals_conceded,own_goals,penalties_saved,penalties_missed,yellow_cards,red_cards,saves,bonus,bps,influence,creativity,threat,ict_index,clearances_blocks_interceptions,recoveries,tackles,defensive_contribution,starts,expected_goals,expected_assists,expected_goal_involvements,expected_goals_conceded,value,transfers_balance,selected,transfers_in,transfers_out,team_code
 254,DEF,169528,Antonee,Robinson,2645204,1,False,81,0,0,0,3,0,0,0,0,0,0,0,4,21.6,25.2,3.0,5.0,4,5,3,7,1,0.13,0.04,0.17,2.21,45,0,148513,0,0,54
 254,DEF,169528,Antonee,Robinson,2645213,2,False,90,0,0,0,1,0,0,0,0,0,0,0,10,9.8,4.6,0.0,1.4,0,2,3,3,1,0.00,0.02,0.02,2.02,45,1752,165662,11181,9429,54
+254,DEF,169528,Antonee,Robinson,2645219,1,False,78,0,0,0,3,0,0,0,0,0,0,0,7,14.6,24.8,9.0,4.8,3,5,2,5,1,0.08,0.10,0.18,1.97,45,-2176,173615,15006,17182,54

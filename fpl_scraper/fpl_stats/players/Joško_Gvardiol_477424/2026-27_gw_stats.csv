@@ -1,3 +1,4 @@
 element,position,player_code,first_name,second_name,fixture_code,total_points,modified,minutes,goals_scored,assists,clean_sheets,goals_conceded,own_goals,penalties_saved,penalties_missed,yellow_cards,red_cards,saves,bonus,bps,influence,creativity,threat,ict_index,clearances_blocks_interceptions,recoveries,tackles,defensive_contribution,starts,expected_goals,expected_assists,expected_goal_involvements,expected_goals_conceded,value,transfers_balance,selected,transfers_in,transfers_out,team_code
 391,DEF,477424,Joško,Gvardiol,2645202,9,False,90,1,0,0,1,0,0,0,0,0,0,1,28,47.6,13.3,17.0,7.8,5,5,2,7,1,0.19,0.05,0.24,0.65,55,0,980214,0,0,43
 391,DEF,477424,Joško,Gvardiol,2645209,5,False,74,0,1,0,1,0,0,0,0,0,0,0,18,27.6,30.8,2.0,6.0,1,0,1,2,1,0.00,0.04,0.04,0.66,55,193061,1383738,228418,35357,43
+391,DEF,477424,Joško,Gvardiol,2645222,8,False,90,0,0,1,0,0,0,0,0,0,0,2,31,18.8,6.9,7.0,3.3,4,7,4,8,1,0.01,0.02,0.03,1.37,56,427408,2019409,548352,120944,43

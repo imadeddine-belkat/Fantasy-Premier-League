@@ -1,3 +1,4 @@
 element,position,player_code,first_name,second_name,fixture_code,total_points,modified,minutes,goals_scored,assists,clean_sheets,goals_conceded,own_goals,penalties_saved,penalties_missed,yellow_cards,red_cards,saves,bonus,bps,influence,creativity,threat,ict_index,clearances_blocks_interceptions,recoveries,tackles,defensive_contribution,starts,expected_goals,expected_assists,expected_goal_involvements,expected_goals_conceded,value,transfers_balance,selected,transfers_in,transfers_out,team_code
 223,FWD,231747,Jean-Philippe,Mateta,2645197,2,False,62,0,0,0,2,0,0,0,0,0,0,0,-3,1.4,12.3,11.0,2.5,1,2,2,5,1,0.70,0.02,0.72,0.98,65,0,504100,0,0,31
 223,FWD,231747,Jean-Philippe,Mateta,2645209,0,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,0,0,0,0.00,0.00,0.00,0.00,65,-48482,510630,23951,72433,31
+223,FWD,231747,Jean-Philippe,Mateta,2645219,0,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,0,0,0,0.00,0.00,0.00,0.00,64,-269301,236661,1227,270528,31

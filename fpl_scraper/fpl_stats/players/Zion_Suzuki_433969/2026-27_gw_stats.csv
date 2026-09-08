@@ -1,3 +1,4 @@
 element,position,player_code,first_name,second_name,fixture_code,total_points,modified,minutes,goals_scored,assists,clean_sheets,goals_conceded,own_goals,penalties_saved,penalties_missed,yellow_cards,red_cards,saves,bonus,bps,influence,creativity,threat,ict_index,clearances_blocks_interceptions,recoveries,tackles,defensive_contribution,starts,expected_goals,expected_assists,expected_goal_involvements,expected_goals_conceded,value,transfers_balance,selected,transfers_in,transfers_out,team_code
 597,GKP,433969,Zion,Suzuki,2645201,0,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,0,0,0,0.00,0.00,0.00,0.00,50,0,61739,0,0,7
 597,GKP,433969,Zion,Suzuki,2645206,2,False,90,0,0,0,1,0,0,0,0,0,1,0,8,13.6,0.0,0.0,1.4,2,9,0,0,1,0.00,0.00,0.00,1.04,50,-2542,82325,4229,6771,7
+597,GKP,433969,Zion,Suzuki,2645220,10,False,90,0,0,1,0,0,0,0,0,0,4,3,38,27.2,0.0,0.0,2.7,1,13,0,0,1,0.00,0.00,0.00,0.57,50,21820,144003,33094,11274,7

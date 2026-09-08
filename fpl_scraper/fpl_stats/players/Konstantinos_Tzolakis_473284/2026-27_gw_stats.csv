@@ -1,3 +1,4 @@
 element,position,player_code,first_name,second_name,fixture_code,total_points,modified,minutes,goals_scored,assists,clean_sheets,goals_conceded,own_goals,penalties_saved,penalties_missed,yellow_cards,red_cards,saves,bonus,bps,influence,creativity,threat,ict_index,clearances_blocks_interceptions,recoveries,tackles,defensive_contribution,starts,expected_goals,expected_assists,expected_goal_involvements,expected_goals_conceded,value,transfers_balance,selected,transfers_in,transfers_out,team_code
 572,GKP,473284,Konstantinos,Tzolakis,2645198,10,False,90,0,0,1,0,0,0,0,0,0,5,3,41,34.6,0.0,0.0,3.5,0,22,0,0,1,0.00,0.00,0.00,1.83,45,0,48305,0,0,88
 572,GKP,473284,Konstantinos,Tzolakis,2645208,10,False,90,0,0,1,0,0,0,0,0,0,3,3,32,26.2,0.0,0.0,2.6,0,11,0,0,1,0.00,0.00,0.00,1.29,45,89555,301344,101970,12415,88
+572,GKP,473284,Konstantinos,Tzolakis,2645220,6,False,90,0,0,1,0,0,0,0,0,0,1,0,25,11.6,0.0,0.0,1.2,0,10,0,0,1,0.00,0.00,0.00,1.93,46,306909,857252,367782,60873,88

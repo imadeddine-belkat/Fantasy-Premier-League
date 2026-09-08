@@ -1,3 +1,4 @@
 element,position,player_code,first_name,second_name,fixture_code,total_points,modified,minutes,goals_scored,assists,clean_sheets,goals_conceded,own_goals,penalties_saved,penalties_missed,yellow_cards,red_cards,saves,bonus,bps,influence,creativity,threat,ict_index,clearances_blocks_interceptions,recoveries,tackles,defensive_contribution,starts,expected_goals,expected_assists,expected_goal_involvements,expected_goals_conceded,value,transfers_balance,selected,transfers_in,transfers_out,team_code
 346,FWD,177815,Dominic,Calvert-Lewin,2645200,1,False,90,0,0,1,0,0,0,0,1,0,0,0,-2,0.0,0.8,11.0,0.7,0,2,0,2,1,0.13,0.00,0.13,0.66,60,0,2823371,0,0,2
 346,FWD,177815,Dominic,Calvert-Lewin,2645210,8,False,90,1,0,0,1,0,0,0,0,0,0,2,31,38.4,4.0,35.0,7.7,3,1,0,4,1,0.92,0.02,0.94,1.67,60,-104622,2823193,84314,188936,2
+346,FWD,177815,Dominic,Calvert-Lewin,2645217,1,False,72,0,0,0,1,0,0,0,1,0,0,0,0,4.4,11.3,21.0,3.7,1,2,0,3,1,0.56,0.06,0.62,0.87,60,-144642,2612462,198586,343228,2

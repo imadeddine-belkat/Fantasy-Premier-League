@@ -1,3 +1,4 @@
 element,position,player_code,first_name,second_name,fixture_code,total_points,modified,minutes,goals_scored,assists,clean_sheets,goals_conceded,own_goals,penalties_saved,penalties_missed,yellow_cards,red_cards,saves,bonus,bps,influence,creativity,threat,ict_index,clearances_blocks_interceptions,recoveries,tackles,defensive_contribution,starts,expected_goals,expected_assists,expected_goal_involvements,expected_goals_conceded,value,transfers_balance,selected,transfers_in,transfers_out,team_code
 598,DEF,173774,Nico,Elvedi,2645200,0,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,0,0,0,0.00,0.00,0.00,0.00,45,0,1842,0,0,2
 598,DEF,173774,Nico,Elvedi,2645210,1,False,56,0,0,0,1,0,0,0,0,0,0,0,9,16.0,1.1,6.0,2.3,5,4,1,6,0,0.00,0.00,0.00,1.32,45,75,2511,354,279,2
+598,DEF,173774,Nico,Elvedi,2645217,4,False,90,0,0,0,1,0,0,0,0,0,0,0,12,27.6,21.1,6.0,5.5,10,0,0,10,1,0.00,0.57,0.57,2.19,45,201,2951,729,528,2

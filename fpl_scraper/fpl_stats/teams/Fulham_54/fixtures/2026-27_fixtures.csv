@@ -1,13 +1,13 @@
 code,event,finished,finished_provisional,id,kickoff_time,minutes,provisional_start_time,started,team_a,team_a_score,team_h,team_h_score,team_h_difficulty,team_a_difficulty
 2645204,1,True,True,10,2026-08-24T19:00:00Z,90,False,True,6,3.0,10,2.0,4,3
 2645213,2,True,True,19,2026-08-30T13:00:00Z,90,False,True,10,0.0,20,1.0,2,3
-2645219,3,False,False,24,2026-09-05T14:00:00Z,0,False,False,8,,10,,3,3
+2645219,3,True,True,24,2026-09-05T14:00:00Z,90,False,True,8,3.0,10,2.0,3,3
 2645231,4,False,False,35,2026-09-12T14:00:00Z,0,False,False,10,,14,,2,4
 2645239,5,False,False,50,2026-09-20T15:30:00Z,0,False,False,16,,10,,4,3
 2645251,6,False,False,57,2026-10-10T14:00:00Z,0,False,False,10,,12,,2,2
 2645259,7,False,False,65,2026-10-17T14:00:00Z,0,False,False,11,,10,,2,3
 2645268,8,False,False,74,2026-10-24T14:00:00Z,0,False,False,10,,7,,2,2
-2645276,9,False,False,81,2026-11-01T14:00:00Z,0,False,False,10,,2,,2,4
+2645276,9,False,False,81,2026-10-31T20:00:00Z,0,False,False,10,,2,,2,4
 2645289,10,False,False,95,2026-11-07T15:00:00Z,0,False,False,17,,10,,2,3
 2645302,11,False,False,108,2026-11-21T15:00:00Z,0,False,False,10,,15,,2,5
 2645309,12,False,False,115,2026-11-28T15:00:00Z,0,False,False,3,,10,,3,3

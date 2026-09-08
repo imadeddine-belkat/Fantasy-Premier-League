@@ -1,3 +1,4 @@
 element,position,player_code,first_name,second_name,fixture_code,total_points,modified,minutes,goals_scored,assists,clean_sheets,goals_conceded,own_goals,penalties_saved,penalties_missed,yellow_cards,red_cards,saves,bonus,bps,influence,creativity,threat,ict_index,clearances_blocks_interceptions,recoveries,tackles,defensive_contribution,starts,expected_goals,expected_assists,expected_goal_involvements,expected_goals_conceded,value,transfers_balance,selected,transfers_in,transfers_out,team_code
 304,DEF,216616,Dara,O'Shea,2645199,4,False,90,0,0,0,1,0,0,0,0,0,0,0,16,48.0,24.5,2.0,7.5,16,6,2,18,1,0.00,0.16,0.16,0.66,40,0,313565,0,0,40
 304,DEF,216616,Dara,O'Shea,2645212,0,False,90,0,0,0,5,0,0,0,0,0,0,0,-14,0.0,0.8,9.0,0.9,1,2,0,1,1,0.07,0.01,0.08,4.77,40,1655,338381,15639,13984,40
+304,DEF,216616,Dara,O'Shea,2645221,3,False,90,0,0,0,2,0,0,0,0,0,0,0,5,23.8,4.4,4.0,3.2,8,3,3,11,1,0.00,0.01,0.01,0.69,40,-15021,330000,22172,37193,40

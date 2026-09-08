@@ -1,3 +1,4 @@
 element,position,player_code,first_name,second_name,fixture_code,total_points,modified,minutes,goals_scored,assists,clean_sheets,goals_conceded,own_goals,penalties_saved,penalties_missed,yellow_cards,red_cards,saves,bonus,bps,influence,creativity,threat,ict_index,clearances_blocks_interceptions,recoveries,tackles,defensive_contribution,starts,expected_goals,expected_assists,expected_goal_involvements,expected_goals_conceded,value,transfers_balance,selected,transfers_in,transfers_out,team_code
 105,MID,444180,Jaidon,Anthony,2645196,1,False,23,0,0,0,0,0,0,0,0,0,0,0,9,10.6,34.9,1.0,4.7,0,6,2,8,0,0.03,0.35,0.38,0.10,60,0,14244,0,0,94
 105,MID,444180,Jaidon,Anthony,2645210,2,False,60,0,0,1,0,0,0,0,1,0,0,0,4,3.2,25.9,15.0,4.4,0,1,0,1,1,0.11,0.06,0.17,0.09,60,-433,16949,1958,2391,94
+105,MID,444180,Jaidon,Anthony,2645216,1,False,45,0,0,0,1,0,0,0,0,0,0,0,3,0.0,2.2,3.0,0.4,0,4,0,4,0,0.05,0.01,0.06,1.36,60,-1707,16152,1644,3351,94

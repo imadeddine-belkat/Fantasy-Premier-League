@@ -1,3 +1,4 @@
 element,position,player_code,first_name,second_name,fixture_code,total_points,modified,minutes,goals_scored,assists,clean_sheets,goals_conceded,own_goals,penalties_saved,penalties_missed,yellow_cards,red_cards,saves,bonus,bps,influence,creativity,threat,ict_index,clearances_blocks_interceptions,recoveries,tackles,defensive_contribution,starts,expected_goals,expected_assists,expected_goal_involvements,expected_goals_conceded,value,transfers_balance,selected,transfers_in,transfers_out,team_code
 265,MID,207189,Sander,Berge,2645204,2,False,72,0,0,0,3,0,0,0,0,0,0,0,14,13.6,23.1,7.0,4.4,1,2,1,4,1,0.03,0.03,0.06,2.21,50,0,38470,0,0,54
 265,MID,207189,Sander,Berge,2645213,2,False,82,0,0,0,1,0,0,0,0,0,0,0,14,6.0,27.9,2.0,3.6,0,2,0,2,1,0.00,0.20,0.20,1.85,50,-1868,38868,1465,3333,54
+265,MID,207189,Sander,Berge,2645219,1,False,29,0,0,0,1,0,0,0,0,0,0,0,9,3.2,2.9,0.0,0.6,0,2,0,2,0,0.00,0.10,0.10,0.84,50,-3309,36133,1875,5184,54

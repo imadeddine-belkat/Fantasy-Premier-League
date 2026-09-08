@@ -1,3 +1,4 @@
 element,position,player_code,first_name,second_name,fixture_code,total_points,modified,minutes,goals_scored,assists,clean_sheets,goals_conceded,own_goals,penalties_saved,penalties_missed,yellow_cards,red_cards,saves,bonus,bps,influence,creativity,threat,ict_index,clearances_blocks_interceptions,recoveries,tackles,defensive_contribution,starts,expected_goals,expected_assists,expected_goal_involvements,expected_goals_conceded,value,transfers_balance,selected,transfers_in,transfers_out,team_code
 574,MID,552946,Jens,Hjertø-Dahl,2645198,0,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,0,0,0,0.00,0.00,0.00,0.00,50,0,7500,0,0,88
 574,MID,552946,Jens,Hjertø-Dahl,2645208,0,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,0,0,0,0.00,0.00,0.00,0.00,50,-662,7716,307,969,88
+574,MID,552946,Jens,Hjertø-Dahl,2645220,1,False,8,0,0,0,0,0,0,0,0,0,0,0,4,0.0,0.0,0.0,0.0,0,1,0,1,0,0.00,0.00,0.00,0.00,50,-1139,6691,321,1460,88

@@ -1,3 +1,4 @@
 element,position,player_code,first_name,second_name,fixture_code,total_points,modified,minutes,goals_scored,assists,clean_sheets,goals_conceded,own_goals,penalties_saved,penalties_missed,yellow_cards,red_cards,saves,bonus,bps,influence,creativity,threat,ict_index,clearances_blocks_interceptions,recoveries,tackles,defensive_contribution,starts,expected_goals,expected_assists,expected_goal_involvements,expected_goals_conceded,value,transfers_balance,selected,transfers_in,transfers_out,team_code
 423,DEF,106760,Luke,Shaw,2645198,1,False,90,0,0,0,2,0,0,0,0,0,0,0,13,25.2,59.2,6.0,9.0,3,3,1,4,1,0.00,0.26,0.26,1.01,45,0,1947696,0,0,1
 423,DEF,106760,Luke,Shaw,2645212,2,False,72,0,0,0,1,0,0,0,0,0,0,0,12,18.4,1.6,4.0,2.4,4,2,4,8,1,0.00,0.02,0.02,1.06,45,-74162,1935721,42927,117089,1
+423,DEF,106760,Luke,Shaw,2645218,4,False,90,0,1,0,1,0,0,0,1,0,0,0,22,42.4,24.8,3.0,7.0,7,1,1,8,1,0.02,0.23,0.25,0.94,45,-303431,1575355,30459,333890,1

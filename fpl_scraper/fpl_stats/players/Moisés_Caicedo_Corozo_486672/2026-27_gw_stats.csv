@@ -1,3 +1,4 @@
 element,position,player_code,first_name,second_name,fixture_code,total_points,modified,minutes,goals_scored,assists,clean_sheets,goals_conceded,own_goals,penalties_saved,penalties_missed,yellow_cards,red_cards,saves,bonus,bps,influence,creativity,threat,ict_index,clearances_blocks_interceptions,recoveries,tackles,defensive_contribution,starts,expected_goals,expected_assists,expected_goal_involvements,expected_goals_conceded,value,transfers_balance,selected,transfers_in,transfers_out,team_code
 159,MID,486672,Moisés,Caicedo Corozo,2645204,0,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,0,0,0,0.00,0.00,0.00,0.00,55,0,347122,0,0,8
 159,MID,486672,Moisés,Caicedo Corozo,2645207,1,False,13,0,0,0,0,0,0,0,0,0,0,0,3,0.0,0.1,0.0,0.0,0,0,0,0,0,0.00,0.00,0.00,0.07,55,-88842,282404,9481,98323,8
+159,MID,486672,Moisés,Caicedo Corozo,2645215,0,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,0,0,0,0.00,0.00,0.00,0.00,54,-88920,192746,3231,92151,8
