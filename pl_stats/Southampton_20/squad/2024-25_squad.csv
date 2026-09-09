@@ -4,12 +4,12 @@ playerId,displayName,firstName,lastName,shirtNumber,position,preferredFoot,natio
 225321,Aaron Ramsdale,Aaron,Ramsdale,30.0,Goalkeeper,Right,England,GB-ENG,1998-05-14,England,28,190,88.0,2024-08-30,False
 456350,Gavin Bazunu,Gavin,Bazunu,31.0,Goalkeeper,Right,Ireland,IE,2002-02-20,Republic of Ireland,24,189,79.0,2022-06-17,False
 158534,Kyle Walker-Peters,Kyle,Walker-Peters,2.0,Defender,Right,England,GB-ENG,1997-04-13,England,29,173,62.0,2020-08-11,False
-204863,Ryan Manning,Ryan,Manning,3.0,Defender,Right,Ireland,IE,1996-06-14,Republic of Ireland,29,173,66.0,2023-07-12,False
+204863,Ryan Manning,Ryan,Manning,3.0,Defender,Right,Ireland,IE,1996-06-14,Republic of Ireland,30,173,66.0,2023-07-12,False
 88900,Jack Stephens,Jack,Stephens,5.0,Defender,Right,England,GB-ENG,1994-01-27,England,32,185,75.0,2011-07-01,False
 245719,Taylor Harwood-Bellis,Taylor,Harwood-Bellis,6.0,Defender,Right,England,GB-ENG,2002-01-30,England,24,188,82.0,2024-07-01,False
 184386,James Bree,James,Bree,14.0,Defender,Right,England,GB-ENG,1997-12-11,England,28,178,74.0,2023-01-26,False
 244845,Nathan Wood,Nathan,Wood,15.0,Defender,Right,England,GB-ENG,2002-05-31,England,24,188,75.0,2024-07-05,False
-219279,Yukinari Sugawara,Yukinari,Sugawara,16.0,Defender,Right,Japan,JP,2000-06-28,Japan,25,179,69.0,2024-07-14,False
+219279,Yukinari Sugawara,Yukinari,Sugawara,16.0,Defender,Right,Japan,JP,2000-06-28,Japan,26,179,69.0,2024-07-14,False
 103914,Charlie Taylor,Charlie,Taylor,21.0,Defender,Left,England,GB-ENG,1993-09-18,England,32,176,70.0,2024-07-01,False
 515571,Juan Larios,Juan,Larios,28.0,Defender,Left,Spain,ES,2004-01-12,Spain,22,170,68.0,2022-09-01,False
 500016,Welington,Welington Damascena,Santos,34.0,Defender,Left,Brazil,BR,2001-02-19,Brazil,25,177,73.0,2025-01-01,False
@@ -19,20 +19,20 @@ playerId,displayName,firstName,lastName,shirtNumber,position,preferredFoot,natio
 494551,Jayden Moore,Jayden,Moore,57.0,Defender,Right,England,GB-ENG,2006-12-12,England,19,183,68.0,2024-08-27,False
 496932,Cameron Bragg,Cameron,Bragg,,Midfielder,Right,England,GB-ENG,2005-04-10,England,21,177,69.0,2023-12-08,False
 220585,Flynn Downes,Flynn,Downes,4.0,Midfielder,Right,England,GB-ENG,1999-01-20,England,27,173,70.0,2024-07-16,False
-193204,Joe Aribo,Joe,Aribo,7.0,Midfielder,Left,Nigeria,NG,1996-07-21,England,29,183,76.0,2022-07-09,False
+193204,Joe Aribo,Joe,Aribo,7.0,Midfielder,Left,Nigeria,NG,1996-07-21,England,30,183,76.0,2022-07-09,False
 214466,Will Smallbone,Will,Smallbone,8.0,Midfielder,Right,Ireland,IE,2000-02-21,England,26,183,71.0,2019-07-22,False
 39155,Adam Lallana,Adam,Lallana,10.0,Midfielder,Both,England,GB-ENG,1988-05-10,England,38,172,73.0,2024-06-14,False
-551226,Mateus Fernandes,Mateus Gonçalo,Espanha Fernandes,18.0,Midfielder,Right,Portugal,PT,2004-07-10,Portugal,21,178,72.0,2024-08-20,False
+551226,Mateus Fernandes,Mateus Gonçalo,Espanha Fernandes,18.0,Midfielder,Right,Portugal,PT,2004-07-10,Portugal,22,178,72.0,2024-08-20,False
 504783,Kamaldeen Sulemana,Kamaldeen,Sulemana,20.0,Midfielder,Right,Ghana,GH,2002-02-15,Ghana,24,175,70.0,2023-01-31,False
 90105,Ryan Fraser,Ryan,Fraser,24.0,Midfielder,Right,Scotland,GB-SCT,1994-02-24,Scotland,32,163,70.0,2024-08-30,False
 503714,Lesley Ugochukwu,Lesley,Ugochukwu,26.0,Midfielder,Right,France,FR,2004-03-26,France,22,190,72.0,2024-08-16,True
-499724,Sam Amo-Ameyaw,Sam,Amo-Ameyaw,27.0,Midfielder,Left,England,GB-ENG,2006-07-18,England,19,174,64.0,2023-05-27,False
+499724,Sam Amo-Ameyaw,Sam,Amo-Ameyaw,27.0,Midfielder,Left,England,GB-ENG,2006-07-18,England,20,174,64.0,2023-05-27,False
 494779,Albert Grønbæk,Albert,Grønbæk,29.0,Midfielder,Both,Denmark,DK,2001-05-23,Denmark,25,176,65.0,2025-01-21,True
 496661,Tyler Dibling,Tyler,Dibling,33.0,Midfielder,Left,England,GB-ENG,2006-02-17,England,20,178,72.0,2023-08-07,False
-587645,Romeo Akachukwu,Romeo,Akachukwu,54.0,Midfielder,Right,Ireland,IE,2006-07-28,Republic of Ireland,19,178,74.0,2024-08-27,False
+587645,Romeo Akachukwu,Romeo,Akachukwu,54.0,Midfielder,Right,Ireland,IE,2006-07-28,Republic of Ireland,20,178,74.0,2024-08-27,False
 623217,Rento Takaoka,Rento,Takaoka,,Forward,,Japan,JP,2007-03-12,Japan,19,165,,2025-03-12,False
 155511,Adam Armstrong,Adam,Armstrong,9.0,Forward,Right,England,GB-ENG,1997-02-10,England,29,172,69.0,2021-08-10,False
-230348,Ross Stewart,Ross,Stewart,11.0,Forward,Right,Scotland,GB-SCT,1996-07-11,Scotland,29,188,85.0,2023-09-01,False
+230348,Ross Stewart,Ross,Stewart,11.0,Forward,Right,Scotland,GB-SCT,1996-07-11,Scotland,30,188,85.0,2023-09-01,False
 433979,Cameron Archer,Cameron,Archer,19.0,Forward,Right,England,GB-ENG,2001-12-09,England,24,181,72.0,2024-08-16,False
 147611,Paul Onuachu,Paul,Onuachu,32.0,Forward,Right,Nigeria,NG,1994-05-28,Nigeria,32,201,98.0,2023-01-31,False
 495024,Jay Robinson,Jay,Robinson,46.0,Forward,Right,England,GB-ENG,2007-03-15,England,19,176,65.0,2024-08-27,False

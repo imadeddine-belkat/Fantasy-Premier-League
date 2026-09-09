@@ -1,6 +1,6 @@
 playerId,displayName,firstName,lastName,shirtNumber,position,preferredFoot,nationality,isoCode,birthDate,birthCountry,age,height_cm,weight_kg,joinDate,onLoan
 37096,Lukasz Fabianski,Lukasz,Fabianski,1,Goalkeeper,Right,Poland,PL,1985-04-18,Poland,41,190.0,83.0,2014-07-01,False
-61760,Kristoffer Nordfeldt,Kristoffer,Nordfeldt,13,Goalkeeper,Right,Sweden,SE,1989-06-23,Sweden,36,190.0,85.0,2015-06-23,False
+61760,Kristoffer Nordfeldt,Kristoffer,Nordfeldt,13,Goalkeeper,Right,Sweden,SE,1989-06-23,Sweden,37,190.0,85.0,2015-06-23,False
 40346,Erwin Mulder,Erwin,Mulder,25,Goalkeeper,,Netherlands,NL,1989-03-03,Netherlands,37,193.0,88.0,2017-07-01,False
 97615,Mike van der Hoorn,Mike,van der Hoorn,5,Defender,,Netherlands,NL,1992-10-15,Netherlands,33,190.0,81.0,2016-07-06,False
 149266,Alfie Mawson,Alfie,Mawson,6,Defender,,England,GB-ENG,1994-01-19,,32,188.0,81.0,2016-08-30,False
@@ -19,7 +19,7 @@ playerId,displayName,firstName,lastName,shirtNumber,position,preferredFoot,natio
 11829,Wayne Routledge,Wayne,Routledge,15,Midfielder,,England,GB-ENG,1985-01-07,,41,170.0,64.0,2011-08-04,False
 74033,Sam Clucas,Sam,Clucas,17,Midfielder,,England,GB-ENG,1990-09-25,,35,178.0,75.0,2017-08-23,False
 13152,Andy King,Andy,King,24,Midfielder,Right,Wales,GB-WLS,1988-10-29,England,37,184.0,79.0,2018-01-31,True
-171319,Renato Sanches,Renato Júnior,Luz Sanches,35,Midfielder,Right,Portugal,PT,1997-08-18,Portugal,28,176.0,70.0,2017-08-31,True
+171319,Renato Sanches,Renato Júnior,Luz Sanches,35,Midfielder,Right,Portugal,PT,1997-08-18,Portugal,29,176.0,70.0,2017-08-31,True
 194033,Adnan Maric,Adnan,Maric,38,Midfielder,,Sweden,SE,1997-02-17,,29,,,2018-02-05,False
 200617,Daniel James,Daniel,James,42,Midfielder,,Wales,GB-WLS,1997-11-10,England,28,170.0,76.0,2016-01-01,False
 179717,George Byers,George,Byers,48,Midfielder,,Scotland,GB-SCT,1996-05-29,Scotland,30,180.0,73.0,2018-03-16,False

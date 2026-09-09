@@ -2,6 +2,8 @@
 .idea/
 .vscode/
 *.swp
+.venv
+.gitignore
 
 # Python Cache and compiled files
 __pycache__/
@@ -20,5 +22,9 @@ merge_team_events.py
 merge_season_players.py
 
 cache
-pl
+pl_scraper
 fpl_cache
+sofascore_scraper
+sofascore_stats
+
+teams.ipynb

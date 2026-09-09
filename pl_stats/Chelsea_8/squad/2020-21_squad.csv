@@ -10,8 +10,8 @@ playerId,displayName,firstName,lastName,shirtNumber,position,preferredFoot,natio
 103192,Kurt Zouma,Kurt,Zouma,15,Defender,Right,France,FR,1994-10-27,France,31,190.0,96.0,2014-01-31,False
 172850,Ben Chilwell,Ben,Chilwell,21,Defender,Left,England,GB-ENG,1996-12-21,,29,178.0,77.0,2020-08-26,False
 225796,Reece James,Reece,James,24,Defender,Right,England,GB-ENG,1999-12-08,England,26,182.0,82.0,2019-05-15,False
-41328,César Azpilicueta,César,Azpilicueta,28,Defender,Right,Spain,ES,1989-08-28,Spain,36,178.0,76.0,2012-08-24,False
-109533,Emerson,Emerson,Palmieri dos Santos,33,Defender,Left,Italy,IT,1994-08-03,Brazil,31,176.0,63.0,2018-01-30,False
+41328,César Azpilicueta,César,Azpilicueta,28,Defender,Right,Spain,ES,1989-08-28,Spain,37,178.0,76.0,2012-08-24,False
+109533,Emerson,Emerson,Palmieri dos Santos,33,Defender,Left,Italy,IT,1994-08-03,Brazil,32,176.0,63.0,2018-01-30,False
 441191,Valentino Livramento,Valentino,Livramento,57,Defender,,England,GB-ENG,2002-11-12,,23,,,2021-05-07,False
 85955,Jorginho,Jorge Luiz,Frello Filho,5,Midfielder,Both,Italy,IT,1991-12-20,Brazil,34,180.0,65.0,2018-07-14,False
 116594,N'Golo Kanté,N'Golo,Kanté,7,Midfielder,Right,France,FR,1991-03-29,France,35,168.0,68.0,2016-07-16,False
@@ -19,8 +19,8 @@ playerId,displayName,firstName,lastName,shirtNumber,position,preferredFoot,natio
 91651,Mateo Kovacic,Mateo,Kovacic,17,Midfielder,Right,Croatia,HR,1994-05-06,Austria,32,178.0,78.0,2019-07-01,False
 184341,Mason Mount,Mason,Mount,19,Midfielder,Right,England,GB-ENG,1999-01-10,England,27,178.0,70.0,2019-07-01,False
 124183,Hakim Ziyech,Hakim,Ziyech,22,Midfielder,Left,Morocco,MA,1993-03-19,Netherlands,33,180.0,65.0,2020-07-27,False
-243568,Billy Gilmour,Billy,Gilmour,23,Midfielder,Right,Scotland,GB-SCT,2001-06-11,,24,166.0,60.0,2019-07-01,False
-219847,Kai Havertz,Kai,Havertz,29,Midfielder,Both,Germany,DE,1999-06-11,Germany,26,188.0,83.0,2020-09-04,False
+243568,Billy Gilmour,Billy,Gilmour,23,Midfielder,Right,Scotland,GB-SCT,2001-06-11,,25,166.0,60.0,2019-07-01,False
+219847,Kai Havertz,Kai,Havertz,29,Midfielder,Both,Germany,DE,1999-06-11,Germany,27,188.0,83.0,2020-09-04,False
 223332,Faustino Anjorin,Faustino,Anjorin,55,Midfielder,,England,GB-ENG,2001-11-23,England,24,185.0,73.0,2019-09-24,False
 450529,Lewis Bate,Lewis,Bate,64,Midfielder,,England,GB-ENG,2002-10-29,,23,,,2020-07-10,False
 173879,Tammy Abraham,Tammy,Abraham,9,Forward,Right,England,GB-ENG,1997-10-02,England,28,190.0,80.0,2016-05-01,False

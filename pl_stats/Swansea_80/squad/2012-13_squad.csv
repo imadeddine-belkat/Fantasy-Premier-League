@@ -5,8 +5,8 @@ playerId,displayName,firstName,lastName,shirtNumber,position,preferredFoot,natio
 84933,Daniel Alfei,Daniel,Alfei,,Defender,,Wales,GB-WLS,1992-02-23,,34,180,77,2010-07-01,False
 47390,Neil Taylor,Neil,Taylor,3.0,Defender,,Wales,GB-WLS,1989-02-07,Wales,37,175,64,2010-06-30,False
 53138,Chico Flores,Jose Manuel,Flores Moreno,4.0,Defender,Right,Spain,ES,1987-03-06,Spain,39,187,82,2012-07-10,False
-11883,Alan Tate,Alan,Tate,5.0,Defender,,England,GB-ENG,1982-09-02,,43,185,85,2004-02-06,False
-19159,Ashley Williams,Ashley,Williams,6.0,Defender,,Wales,GB-WLS,1984-08-23,,41,183,77,2008-03-27,False
+11883,Alan Tate,Alan,Tate,5.0,Defender,,England,GB-ENG,1982-09-02,,44,185,85,2004-02-06,False
+19159,Ashley Williams,Ashley,Williams,6.0,Defender,,Wales,GB-WLS,1984-08-23,,42,183,77,2008-03-27,False
 1950,Garry Monk,Garry,Monk,16.0,Defender,,England,GB-ENG,1979-03-06,,47,183,81,2004-01-01,False
 39221,Dwight Tiendalli,Dwight,Tiendalli,21.0,Defender,,Netherlands,NL,1985-10-21,,40,180,69,2012-09-10,False
 42996,Angel Rangel,Angel,Rangel,22.0,Defender,,Spain,ES,1982-10-28,,43,188,84,2007-06-29,False
@@ -23,9 +23,9 @@ playerId,displayName,firstName,lastName,shirtNumber,position,preferredFoot,natio
 18681,Roland Lamah,Roland,Lamah,14.0,Midfielder,Left,Belgium,BE,1987-12-31,Côte d'Ivoire,38,180,71,2013-01-15,True
 11829,Wayne Routledge,Wayne,Routledge,15.0,Midfielder,,England,GB-ENG,1985-01-07,,41,170,64,2011-08-04,False
 39204,Jonathan de Guzmán,Jonathan,de Guzmán,20.0,Midfielder,Right,Netherlands,NL,1987-09-13,Canada,38,173,75,2012-07-10,True
-39217,Kemy Agustien,Kemy,Agustien,26.0,Midfielder,,Curacao,CW,1986-08-20,Netherlands Antilles,39,175,75,2010-10-07,False
+39217,Kemy Agustien,Kemy,Agustien,26.0,Midfielder,,Curacao,CW,1986-08-20,Netherlands Antilles,40,175,75,2010-10-07,False
 1936,Mark Gower,Mark,Gower,27.0,Midfielder,,England,GB-ENG,1978-10-05,,47,180,75,2008-07-01,False
-82055,Lee Lucas,Lee,Lucas,31.0,Midfielder,,Wales,GB-WLS,1992-06-10,Wales,33,180,74,2009-06-01,False
+82055,Lee Lucas,Lee,Lucas,31.0,Midfielder,,Wales,GB-WLS,1992-06-10,Wales,34,180,74,2009-06-01,False
 179183,Henry Jones,Henry,Jones,34.0,Midfielder,,Wales,GB-WLS,1993-09-18,,32,183,84,2012-07-01,False
 115557,Gwion Edwards,Gwion,Edwards,38.0,Midfielder,,Wales,GB-WLS,1993-03-01,,33,175,76,2011-07-01,False
 113693,Kurtis March,Kurtis,March,39.0,Midfielder,,Wales,GB-WLS,1993-04-30,,33,175,71,2011-07-01,False

@@ -1,4 +1,0 @@
-season,matchId,gameweek,team_id,team,venue,playerId,pl_code,playerName,slug,position,substitute,goalAssist,goals,minutesPlayed,ownGoals,penaltyMiss,substitute.1,totalShots
-2011-12,1768173,1,30,Bolton_Wanderers,Away,571,1615,Robert Blake,robert-blake,Unknown,True,0.0,0.0,4.0,0.0,,,0.0
-2011-12,1768341,2,30,Bolton_Wanderers,Home,571,1615,Robert Blake,robert-blake,Unknown,True,,,,,,,
-2011-12,1768352,3,30,Bolton_Wanderers,Away,571,1615,Robert Blake,robert-blake,Unknown,True,,,,,,,

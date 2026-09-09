@@ -1,9 +1,0 @@
-season,matchId,gameweek,team_id,team,venue,playerId,pl_code,playerName,slug,position,substitute,goalAssist,goals,minutesPlayed,ownGoals,penaltyMiss,substitute.1,totalShots
-2011-12,1769097,15,54,Fulham,Away,1147,2559,Simon Davies,simon-davies,Unknown,False,0.0,0.0,79.0,0.0,,,0.0
-2011-12,1769153,21,54,Fulham,Away,1147,2559,Simon Davies,simon-davies,Unknown,True,0.0,0.0,3.0,0.0,,,0.0
-2011-12,1769183,23,54,Fulham,Home,1147,2559,Simon Davies,simon-davies,Unknown,False,0.0,0.0,90.0,0.0,,,0.0
-2011-12,1769187,24,54,Fulham,Away,1147,2559,Simon Davies,simon-davies,Unknown,False,0.0,0.0,90.0,0.0,,,0.0
-2011-12,1769198,25,54,Fulham,Home,1147,2559,Simon Davies,simon-davies,Unknown,True,0.0,0.0,28.0,0.0,,,0.0
-2011-12,1769217,27,54,Fulham,Home,1147,2559,Simon Davies,simon-davies,Unknown,True,0.0,0.0,10.0,0.0,,,0.0
-2011-12,1769228,28,54,Fulham,Away,1147,2559,Simon Davies,simon-davies,Unknown,True,,,,,,,
-2011-12,1769269,32,54,Fulham,Away,1147,2559,Simon Davies,simon-davies,Unknown,True,,,,,,,

@@ -10,11 +10,11 @@ playerId,displayName,firstName,lastName,shirtNumber,position,preferredFoot,natio
 551483,Álex Jiménez,Álex,Jiménez,20,Defender,Right,Spain,ES,2005-05-08,Spain,21,177.0,73.0,2025-09-01,True
 463981,James Hill,James,Hill,23,Defender,Right,England,GB-ENG,2002-01-10,England,24,184.0,73.0,2022-01-05,False
 518906,Owen Bevan,Owen,Bevan,35,Defender,Right,Wales,GB-WLS,2003-10-26,England,22,186.0,,2022-08-22,False
-620487,Veljko Milosavljevic,Veljko,Milosavljevic,44,Defender,Right,Serbia,RS,2007-06-28,Serbia,18,192.0,,2025-09-01,False
+620487,Veljko Milosavljevic,Veljko,Milosavljevic,44,Defender,Right,Serbia,RS,2007-06-28,Serbia,19,192.0,,2025-09-01,False
 541462,Matai Akinmboni,Matai,Akinmboni,45,Defender,Left,United States,US,2006-10-17,USA,19,191.0,77.0,2025-01-03,False
 155408,Lewis Cook,Lewis,Cook,4,Midfielder,Right,England,GB-ENG,1997-02-03,England,29,175.0,71.0,2016-07-08,False
-111317,David Brooks,David,Brooks,7,Midfielder,Left,Wales,GB-WLS,1997-07-08,England,28,173.0,62.0,2018-07-01,False
-503139,Alex Scott,Alex,Scott,8,Midfielder,Right,England,GB-ENG,2003-08-21,England,22,178.0,68.0,2023-08-10,False
+111317,David Brooks,David,Brooks,7,Midfielder,Left,Wales,GB-WLS,1997-07-08,England,29,173.0,62.0,2018-07-01,False
+503139,Alex Scott,Alex,Scott,8,Midfielder,Right,England,GB-ENG,2003-08-21,England,23,178.0,68.0,2023-08-10,False
 158499,Ryan Christie,Ryan,Christie,10,Midfielder,Left,Scotland,GB-SCT,1995-02-22,Scotland,31,178.0,70.0,2021-08-31,False
 200785,Tyler Adams,Tyler,Adams,12,Midfielder,Right,United States,US,1999-02-14,USA,27,175.0,72.0,2023-08-20,False
 201658,Marcus Tavernier,Marcus,Tavernier,16,Midfielder,Left,England,GB-ENG,1999-03-22,England,27,178.0,70.0,2022-08-01,False
@@ -26,7 +26,7 @@ playerId,displayName,firstName,lastName,shirtNumber,position,preferredFoot,natio
 496208,Ben Gannon-Doak,Ben,Gannon-Doak,11,Forward,Right,Scotland,GB-SCT,2005-11-11,Scotland,20,175.0,65.0,2025-08-18,False
 222683,Justin Kluivert,Justin,Kluivert,19,Forward,Both,Netherlands,NL,1999-05-05,Netherlands,27,171.0,67.0,2023-07-01,False
 489888,Amine Adli,Amine,Adli,21,Forward,Left,Morocco,MA,2000-05-10,France,26,174.0,72.0,2025-08-21,False
-560262,Junior Kroupi,Junior,Kroupi,22,Forward,Right,France,FR,2006-06-23,France,19,179.0,70.0,2025-02-02,False
+560262,Junior Kroupi,Junior,Kroupi,22,Forward,Right,France,FR,2006-06-23,France,20,179.0,70.0,2025-02-02,False
 168636,Enes Ünal,Enes,Ünal,26,Forward,Right,Turkey,TR,1997-05-10,Türkiye,29,187.0,78.0,2024-07-01,False
-499604,Rayan,Rayan Vitor,Simplício Rocha,37,Forward,Left,Brazil,BR,2006-08-03,Brazil,19,187.0,81.0,2026-01-27,False
+499604,Rayan,Rayan Vitor,Simplício Rocha,37,Forward,Left,Brazil,BR,2006-08-03,Brazil,20,187.0,81.0,2026-01-27,False
 606774,Remy Rees-Dottin,Remy,Rees-Dottin,50,Forward,Right,England,GB-ENG,2006-03-06,England,20,174.0,76.0,2024-12-28,False

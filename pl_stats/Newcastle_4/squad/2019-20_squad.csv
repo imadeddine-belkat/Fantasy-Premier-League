@@ -6,12 +6,12 @@ playerId,displayName,firstName,lastName,shirtNumber,position,preferredFoot,natio
 106618,Paul Dummett,Paul,Dummett,3.0,Defender,Left,Wales,GB-WLS,1991-09-26,,34,183.0,82.0,2011-07-01,False
 119471,Fabian Schär,Fabian,Schär,5.0,Defender,Right,Switzerland,CH,1991-12-20,Switzerland,34,188.0,84.0,2018-07-26,False
 101148,Jamaal Lascelles,Jamaal,Lascelles,6.0,Defender,Right,England,GB-ENG,1993-11-11,,32,188.0,89.0,2014-08-04,False
-111773,Emil Krafth,Emil,Krafth,17.0,Defender,Right,Sweden,SE,1994-08-02,Sweden,31,184.0,83.0,2019-08-08,False
+111773,Emil Krafth,Emil,Krafth,17.0,Defender,Right,Sweden,SE,1994-08-02,Sweden,32,184.0,83.0,2019-08-08,False
 57145,Federico Fernández,Federico,Fernández,18.0,Defender,Right,Argentina,AR,1989-02-21,Argentina,37,190.0,83.0,2018-08-09,False
 109528,Javier Manquillo,Javier,Manquillo,19.0,Defender,Right,Spain,ES,1994-05-05,Spain,32,178.0,76.0,2017-07-21,False
 77359,Florian Lejeune,Florian,Lejeune,20.0,Defender,Right,France,FR,1991-05-20,France,35,189.0,89.0,2017-07-04,False
-151119,DeAndre Yedlin,DeAndre,Yedlin,22.0,Defender,Right,United States,US,1993-07-09,USA,32,172.0,75.0,2016-08-24,False
-38290,Danny Rose,Danny,Rose,28.0,Defender,Left,England,GB-ENG,1990-07-02,England,35,173.0,72.0,2020-01-30,True
+151119,DeAndre Yedlin,DeAndre,Yedlin,22.0,Defender,Right,United States,US,1993-07-09,USA,33,172.0,75.0,2016-08-24,False
+38290,Danny Rose,Danny,Rose,28.0,Defender,Left,England,GB-ENG,1990-07-02,England,36,173.0,72.0,2020-01-30,True
 232960,Lewis Cass,Lewis,Cass,45.0,Defender,Right,England,GB-ENG,2000-02-27,,26,,,2019-05-11,False
 232977,Kelland Watts,Kelland,Watts,49.0,Defender,,England,GB-ENG,1999-11-03,,26,,,2019-05-11,False
 155513,Rolando Aarons,Rolando,Aarons,,Midfielder,Left,England,GB-ENG,1995-11-16,Jamaica,30,178.0,76.0,2014-07-01,False
@@ -29,9 +29,9 @@ playerId,displayName,firstName,lastName,shirtNumber,position,preferredFoot,natio
 126407,Nabil Bentaleb,Nabil,Bentaleb,42.0,Midfielder,Left,Algeria,DZ,1994-11-24,France,31,187.0,78.0,2020-01-21,True
 232979,Jack Young,Jack,Young,60.0,Midfielder,,England,GB-ENG,2000-10-21,,25,,,2020-07-01,False
 40142,Andy Carroll,Andy,Carroll,7.0,Forward,Left,England,GB-ENG,1989-01-06,England,37,193.0,79.0,2019-08-08,False
-180974,Joelinton,Joelinton Cássio,Apolinário de Lira,9.0,Forward,Right,Brazil,BR,1996-08-14,Brazil,29,186.0,81.0,2019-07-24,False
+180974,Joelinton,Joelinton Cássio,Apolinário de Lira,9.0,Forward,Right,Brazil,BR,1996-08-14,Brazil,30,186.0,81.0,2019-07-24,False
 170137,Allan Saint-Maximin,Allan,Saint-Maximin,10.0,Forward,Right,France,FR,1997-03-12,France,29,173.0,67.0,2019-08-02,False
 104547,Dwight Gayle,Dwight,Gayle,12.0,Forward,Right,England,GB-ENG,1990-10-17,England,35,174.0,78.0,2016-07-01,False
-196118,Yoshinori Muto,Yoshinori,Muto,27.0,Forward,Right,Japan,JP,1992-07-15,Japan,33,178.0,72.0,2018-08-02,False
+196118,Yoshinori Muto,Yoshinori,Muto,27.0,Forward,Right,Japan,JP,1992-07-15,Japan,34,178.0,72.0,2018-08-02,False
 240795,Elias Sorensen,Elias,Sorensen,47.0,Forward,Right,Denmark,DK,1999-09-18,,26,,,2019-07-16,False
 232957,Thomas Allan,Thomas,Allan,50.0,Forward,Right,England,GB-ENG,1999-09-23,,26,,,2019-07-16,False

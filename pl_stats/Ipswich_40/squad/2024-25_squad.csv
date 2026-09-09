@@ -2,7 +2,7 @@ playerId,displayName,firstName,lastName,shirtNumber,position,preferredFoot,natio
 232917,Arijanet Muric,Arijanet,Muric,1.0,Goalkeeper,Right,Kosovo,XK,1998-11-07,Switzerland,27.0,198.0,81.0,2024-07-17,False
 434044,Cieran Slicker,Cieran,Slicker,13.0,Goalkeeper,Right,Scotland,GB-SCT,2002-09-15,England,23.0,191.0,82.0,2023-07-08,False
 108813,Christian Walton,Christian,Walton,28.0,Goalkeeper,Left,England,GB-ENG,1995-11-09,England,30.0,195.0,75.0,2022-01-19,False
-112520,Alex Palmer,Alex,Palmer,31.0,Goalkeeper,Right,England,GB-ENG,1996-08-10,England,29.0,191.0,72.0,2025-02-03,False
+112520,Alex Palmer,Alex,Palmer,31.0,Goalkeeper,Right,England,GB-ENG,1996-08-10,England,30.0,191.0,72.0,2025-02-03,False
 455084,Leif Davis,Leif,Davis,3.0,Defender,Left,England,GB-ENG,1999-12-31,England,26.0,182.0,70.0,2022-07-25,False
 220583,Luke Woolfenden,Luke,Woolfenden,6.0,Defender,Right,England,GB-ENG,1998-10-21,England,27.0,193.0,70.0,2017-08-07,False
 122411,Cameron Burgess,Cameron,Burgess,15.0,Defender,Left,Australia,AU,1995-10-21,Scotland,30.0,194.0,93.0,2021-08-15,False
@@ -14,13 +14,13 @@ playerId,displayName,firstName,lastName,shirtNumber,position,preferredFoot,natio
 180804,Axel Tuanzebe,Axel,Tuanzebe,40.0,Defender,Right,DR Congo,CD,1997-11-14,Congo DR,28.0,186.0,75.0,2023-09-08,False
 198826,Ben Godfrey,Ben,Godfrey,44.0,Defender,Right,England,GB-ENG,1998-01-15,England,28.0,184.0,74.0,2025-01-05,True
 547693,Somto Boniface,Somto,Boniface,48.0,Defender,Left,England,GB-ENG,2006-03-11,England,20.0,,,2025-04-19,False
-613041,Leon Ayinde,Leon,Ayinde,,Midfielder,,Ireland,IE,2004-09-05,Republic of Ireland,21.0,,,2023-08-01,False
+613041,Leon Ayinde,Leon,Ayinde,,Midfielder,,Ireland,IE,2004-09-05,Republic of Ireland,22.0,,,2023-08-01,False
 74944,Sam Morsy,Samy Sayed,Mekawy Said Morsy,5.0,Midfielder,Right,Egypt,EG,1991-09-10,England,34.0,175.0,70.0,2021-08-31,False
 155405,Kalvin Phillips,Kalvin,Phillips,8.0,Midfielder,Right,England,GB-ENG,1995-12-02,England,30.0,178.0,72.0,2024-08-16,True
 474120,Julio Enciso,Julio,Enciso,9.0,Midfielder,Right,Paraguay,PY,2004-01-23,Paraguay,22.0,173.0,64.0,2025-01-23,True
 167191,Marcus Harness,Marcus,Harness,11.0,Midfielder,Right,Ireland,IE,1996-02-24,England,30.0,182.0,70.0,2022-07-15,False
-454667,Jens Cajuste,Jens,Cajuste,12.0,Midfielder,Right,Sweden,SE,1999-08-10,Sweden,26.0,188.0,77.0,2024-08-19,True
-231899,Jack Taylor,Jack,Taylor,14.0,Midfielder,Right,Ireland,IE,1998-06-23,England,27.0,185.0,70.0,2023-06-26,False
+454667,Jens Cajuste,Jens,Cajuste,12.0,Midfielder,Right,Sweden,SE,1999-08-10,Sweden,27.0,188.0,77.0,2024-08-19,True
+231899,Jack Taylor,Jack,Taylor,14.0,Midfielder,Right,Ireland,IE,1998-06-23,England,28.0,185.0,70.0,2023-06-26,False
 172453,Sam Szmodics,Sam,Szmodics,23.0,Midfielder,Right,Ireland,IE,1995-09-24,England,30.0,168.0,64.0,2024-08-16,False
 106606,Massimo Luongo,Massimo,Luongo,25.0,Midfielder,Right,Australia,AU,1992-09-25,Australia,33.0,176.0,66.0,2023-01-05,False
 592712,Tom Taylor,Tom,Taylor,49.0,Midfielder,,England,GB-ENG,Unknown,,,,,2025-03-02,False

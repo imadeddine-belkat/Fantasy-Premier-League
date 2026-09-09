@@ -11,7 +11,7 @@ playerId,displayName,firstName,lastName,shirtNumber,position,preferredFoot,natio
 57145,Federico Fernández,Federico,Fernández,18.0,Defender,Right,Argentina,AR,1989-02-21,Argentina,37,190.0,83.0,2018-08-09,False
 109528,Javier Manquillo,Javier,Manquillo,19.0,Defender,Right,Spain,ES,1994-05-05,Spain,32,178.0,76.0,2017-07-21,False
 77359,Florian Lejeune,Florian,Lejeune,20.0,Defender,Right,France,FR,1991-05-20,France,35,189.0,89.0,2017-07-04,False
-151119,DeAndre Yedlin,DeAndre,Yedlin,22.0,Defender,Right,United States,US,1993-07-09,USA,32,172.0,75.0,2016-08-24,False
+151119,DeAndre Yedlin,DeAndre,Yedlin,22.0,Defender,Right,United States,US,1993-07-09,USA,33,172.0,75.0,2016-08-24,False
 159039,Antonio Barreca,Antonio,Barreca,23.0,Defender,Left,Italy,IT,1995-03-18,Italy,31,180.0,70.0,2019-01-31,True
 181397,Jamie Sterry,Jamie,Sterry,25.0,Defender,Right,England,GB-ENG,1995-11-21,,30,180.0,76.0,2013-07-01,False
 79479,Achraf Lazaar,Achraf,Lazaar,33.0,Defender,Left,Morocco,MA,1992-01-22,,34,184.0,80.0,2016-08-28,False
@@ -20,7 +20,7 @@ playerId,displayName,firstName,lastName,shirtNumber,position,preferredFoot,natio
 76542,Ki Sung-Yueng,Sung-Yueng,Ki,4.0,Midfielder,Right,South Korea,KR,1989-01-24,Korea Republic,37,189.0,75.0,2018-07-01,False
 114243,Jacob Murphy,Jacob,Murphy,7.0,Midfielder,Right,England,GB-ENG,1995-02-24,,31,179.0,74.0,2017-07-19,False
 50232,Jonjo Shelvey,Jonjo,Shelvey,8.0,Midfielder,Right,England,GB-ENG,1992-02-27,,34,184.0,80.0,2016-01-12,False
-28147,Mohamed Diamé,Mohamed,Diamé,10.0,Midfielder,,Senegal,SN,1987-06-14,,38,184.0,86.0,2016-08-03,False
+28147,Mohamed Diamé,Mohamed,Diamé,10.0,Midfielder,,Senegal,SN,1987-06-14,,39,184.0,86.0,2016-08-03,False
 56983,Matt Ritchie,Matt,Ritchie,11.0,Midfielder,Left,Scotland,GB-SCT,1989-09-10,England,36,172.0,76.0,2016-07-01,False
 153127,Isaac Hayden,Isaac,Hayden,14.0,Midfielder,Right,England,GB-ENG,1995-03-22,,31,185.0,79.0,2016-07-11,False
 167767,Kenedy,Robert Kenedy,Nunes do Nascimento,15.0,Midfielder,Left,Brazil,BR,1996-02-08,Brazil,30,182.0,77.0,2018-07-12,True
@@ -33,6 +33,6 @@ playerId,displayName,firstName,lastName,shirtNumber,position,preferredFoot,natio
 232977,Kelland Watts,Kelland,Watts,53.0,Midfielder,,England,GB-ENG,1999-11-03,,26,,,2019-05-11,False
 57134,Salomón Rondón,Salomón,Rondón,9.0,Forward,Right,Venezuela,VE,1989-09-16,Venezuela,36,186.0,98.0,2018-08-06,True
 104547,Dwight Gayle,Dwight,Gayle,12.0,Forward,Right,England,GB-ENG,1990-10-17,England,35,174.0,78.0,2016-07-01,False
-196118,Yoshinori Muto,Yoshinori,Muto,13.0,Forward,Right,Japan,JP,1992-07-15,Japan,33,178.0,72.0,2018-08-02,False
-168580,Ayoze Pérez,Ayoze,Pérez Gutiérrez,17.0,Forward,Right,Spain,ES,1993-07-29,Spain,32,178.0,72.0,2014-07-01,False
+196118,Yoshinori Muto,Yoshinori,Muto,13.0,Forward,Right,Japan,JP,1992-07-15,Japan,34,178.0,72.0,2018-08-02,False
+168580,Ayoze Pérez,Ayoze,Pérez Gutiérrez,17.0,Forward,Right,Spain,ES,1993-07-29,Spain,33,178.0,72.0,2014-07-01,False
 61316,Joselu,Jose Luis,Mato Sanmartín,21.0,Forward,Right,Spain,ES,1990-03-27,Germany,36,192.0,80.0,2017-08-16,False
